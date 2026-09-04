@@ -1,0 +1,50 @@
+model,input,symptom,f1,precision,recall
+IndicBERTv2-SS,explanation,Feeling Down,0.4837,0.3212,0.9788
+IndicBERTv2-SS,explanation,Lack of Interest,0.1912,0.1059,0.9839
+IndicBERTv2-SS,explanation,Self-Harm,0.0899,0.0721,0.1194
+IndicBERTv2-SS,explanation,Eating Disorder,0.1912,0.1095,0.7536
+IndicBERTv2-SS,explanation,Low Self-Esteem,0.2857,0.1683,0.9457
+IndicBERTv2-SS,explanation,Concentration Problem,0.1692,0.1269,0.2537
+IndicBERTv2-SS,explanation,Sleeping Disorder,0.195,0.1255,0.4366
+IndicBERTv2-Sam,explanation,Feeling Down,0.0105,0.5,0.0053
+IndicBERTv2-Sam,explanation,Lack of Interest,0.1813,0.1086,0.5484
+IndicBERTv2-Sam,explanation,Self-Harm,0.124,0.129,0.1194
+IndicBERTv2-Sam,explanation,Eating Disorder,0.2056,0.1152,0.9565
+IndicBERTv2-Sam,explanation,Low Self-Esteem,0.2734,0.1583,1.0
+IndicBERTv2-Sam,explanation,Concentration Problem,0.1723,0.1016,0.5672
+IndicBERTv2-Sam,explanation,Sleeping Disorder,0.2076,0.1183,0.8451
+MuRIL,explanation,Feeling Down,0.0,0.0,0.0
+MuRIL,explanation,Lack of Interest,0.1928,0.1067,1.0
+MuRIL,explanation,Self-Harm,0.0,0.0,0.0
+MuRIL,explanation,Eating Disorder,0.2123,0.1188,1.0
+MuRIL,explanation,Low Self-Esteem,0.2734,0.1583,1.0
+MuRIL,explanation,Concentration Problem,0.0,0.0,0.0
+MuRIL,explanation,Sleeping Disorder,0.2178,0.1222,1.0
+MentalBERT,explanation,Feeling Down,0.4909,0.3253,1.0
+MentalBERT,explanation,Lack of Interest,0.1934,0.1071,1.0
+MentalBERT,explanation,Self-Harm,0.023,0.05,0.0149
+MentalBERT,explanation,Eating Disorder,0.2123,0.1188,1.0
+MentalBERT,explanation,Low Self-Esteem,0.2734,0.1583,1.0
+MentalBERT,explanation,Concentration Problem,0.2068,0.1153,1.0
+MentalBERT,explanation,Sleeping Disorder,0.2203,0.1257,0.8873
+BART-Base,explanation,Feeling Down,0.4909,0.3253,1.0
+BART-Base,explanation,Lack of Interest,0.1928,0.1067,1.0
+BART-Base,explanation,Self-Harm,0.2068,0.1153,1.0
+BART-Base,explanation,Eating Disorder,0.2123,0.1188,1.0
+BART-Base,explanation,Low Self-Esteem,0.2734,0.1583,1.0
+BART-Base,explanation,Concentration Problem,0.2068,0.1153,1.0
+BART-Base,explanation,Sleeping Disorder,0.2178,0.1222,1.0
+BART-Large,explanation,Feeling Down,0.0,0.0,0.0
+BART-Large,explanation,Lack of Interest,0.075,0.1667,0.0484
+BART-Large,explanation,Self-Harm,0.0471,0.1111,0.0299
+BART-Large,explanation,Eating Disorder,0.1932,0.1589,0.2464
+BART-Large,explanation,Low Self-Esteem,0.2718,0.1581,0.9674
+BART-Large,explanation,Concentration Problem,0.2032,0.1137,0.9552
+BART-Large,explanation,Sleeping Disorder,0.0,0.0,0.0
+MentalBART,explanation,Feeling Down,0.4909,0.3253,1.0
+MentalBART,explanation,Lack of Interest,0.1928,0.1067,1.0
+MentalBART,explanation,Self-Harm,0.2068,0.1153,1.0
+MentalBART,explanation,Eating Disorder,0.2123,0.1188,1.0
+MentalBART,explanation,Low Self-Esteem,0.2734,0.1583,1.0
+MentalBART,explanation,Concentration Problem,0.2068,0.1153,1.0
+MentalBART,explanation,Sleeping Disorder,0.2178,0.1222,1.0

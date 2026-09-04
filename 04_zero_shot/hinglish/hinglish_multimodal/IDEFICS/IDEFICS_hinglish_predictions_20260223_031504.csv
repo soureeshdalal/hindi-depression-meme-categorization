@@ -1,0 +1,94 @@
+image_id,category,IDEFICS_pred,IDEFICS_raw,human_label
+TE-104.jpg,BRAND_DEPENDENT,"[1,1,0,1,0,0,0]","Depression is a mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that a person once enjoyed. It can significantly impact a person's daily life, including their work, relationships, and overall well-being. Depression can be treated with a combination of therapy, medication, and lifestyle changes.
+
+1. Therapy: There are several types of therapy that can be effective in treating depression, including cognitive-behavioral thera...[truncated]","[1,0,0,0,0,0,0]"
+TE-149.jpg,CELEBRITY_DEPENDENT,"[0,0,0,0,0,0,0]","The meme features a picture of a man with a stern look, wearing a tuxedo and a crown. There is text below the picture that mentions ""Jay Z"" and ""tubelight"" which seems to be a reference to a song or a movie.","[0,0,0,1,0,0,0]"
+TE-158.jpg,CELEBRITY_DEPENDENT,"[1,1,0,0,0,0,0]","Depression is a mental health disorder characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that once brought joy. It affects how one thinks, feels, and behaves, and can lead to a variety of emotional and physical problems. Depression is a common and treatable illness, and early diagnosis and treatment can make a significant difference in recovery. Symptoms of depression may vary in severity and duration, and can be mild, moderate, or severe. Some peo...[truncated]","[0,0,0,0,0,1,0]"
+TE-174.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but I cannot provide more information about the meme as there is no specific meme mentioned in the prompt given to me.","[0,0,0,0,1,0,0]"
+TE-177.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but I cannot describe the meme as I cannot see it. Please provide me with the meme or the website link so I can assist you better.","[1,0,0,0,1,0,0]"
+TE-196.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, I cannot explain the meme as I am an AI language model and the text provided is not a caption for an image. Please provide the image or more context for me to better assist you.","[1,0,1,0,0,0,0]"
+TE-201.jpg,LIFESTYLE_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]","The meme is called ""Spoiled rotten.""","[0,0,0,1,0,0,0]"
+TE-213.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but I cannot provide context as the given text is not a meme. It appears to be a screenshot of a text conversation.",
+TE-229.jpg,UNIVERSAL_HUMAN,"[1,1,1,1,0,0,0]","Depression is a mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that a person once enjoyed. Depression symptoms can vary in severity and duration, and they can be different for each individual. Some common symptoms include:
+
+1. Feeling down or depressed: This is the most common symptom of depression and is characterized by persistent feelings of sadness, emptiness, or hopelessness.
+
+2. Lack of interest: People with depress...[truncated]","[1,0,0,0,0,0,0]"
+TE-236.jpg,POP_CULTURE_DEPENDENT,"[1,1,0,1,0,0,0]","Depression is a mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that were once enjoyable. It can significantly impact a person's daily life, including their work, relationships, and overall well-being. Depression can be treated with a combination of therapy, medication, and lifestyle changes.
+
+1. Therapy: There are several types of therapy that can be effective in treating depression, including cognitive-behavioral therapy...[truncated]","[0,0,0,0,1,0,0]"
+TE-249.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","I apologize, but there is no meme in the image provided. The image only contains text with numbers from 1 to 7, representing different depression symptoms.","[0,0,0,0,1,0,0]"
+TE-256.jpg,INTERNET_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but I cannot provide an answer to this question as the text appears to be a random assortment of characters and symbols that does not convey any coherent message or context.","[0,0,0,0,0,0,0]"
+TE-276.jpg,VISUAL_SYMBOL_DEPENDENT,"[1,0,0,0,0,1,0]","The meme shows a man walking on the beach with a surfboard, and it is described as a ""depression meme."" It is meant to be a visual representation of the different symptoms of depression, with each number corresponding to a specific symptom. The numbers range from feeling down to lack of concentration, and the meme is meant to be a lighthearted way to raise awareness about mental health issues.",
+TE-279.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","The meme features a picture of a packet of Eoreo Kaffe, a product related to depression, with the text ""Eoreo Kaffe Morning Starter Pack"". It is likely meant to be a humorous take on the struggles of people dealing with depression, as it includes a list of depression symptoms and asks the viewer to choose which ones apply to them. The meme is meant to be lighthearted and not meant to be taken seriously.","[0,0,0,1,0,0,0]"
+TE-281.jpg,UNIVERSAL_HUMAN,"[1,1,1,1,0,0,0]","Depression is a mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that a person once enjoyed. Depression symptoms can vary in severity and duration, and they can be different for each individual. Some common symptoms include:
+
+1. Feeling down or depressed: This is the most common symptom of depression and is characterized by persistent feelings of sadness, emptiness, or hopelessness.
+
+2. Lack of interest: People with depress...[truncated]","[1,0,0,0,1,0,0]"
+TE-285.jpg,BRAND_DEPENDENT,"[1,1,0,0,0,0,0]","Depression is a mood disorder characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that once brought pleasure. It affects how one thinks, feels, and behaves, and can lead to a variety of challenges in daily life. Depression is a common mental health condition that can be treated with therapy, medication, or a combination of both. It is important to seek help and support if you or someone you know is experiencing depression, as it can be a debilitating...[truncated]","[1,0,1,0,0,0,0]"
+TE-29.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","The meme features a man sitting on a bench with his head in his hand, which is a common visual representation of someone experiencing depression. The text underneath the image lists several depression symptoms, and the user is asked to reply with only the numbers that apply to them. This meme is meant to raise awareness about depression and its various symptoms.","[1,0,0,0,1,0,0]"
+TE-291.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but I cannot explain the meme as I am an AI language model and the provided text is not a caption for an image. Please provide me with the image or more context so I can assist you better.","[1,0,0,0,0,0,0]"
+TE-294.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,1,1,1,0,0,1]","Depression is a mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that were once enjoyable. Depression symptoms can vary in severity and may include physical, emotional, and cognitive changes. Some common symptoms of depression include:
+
+1. Feeling down or depressed most of the time
+2. Lack of interest in activities that were once enjoyable
+3. Feeling hopeless or pessimistic about the future
+4. Difficulty concentrating or ma...[truncated]","[0,0,0,0,1,0,0]"
+TE-296.jpg,LIFESTYLE_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]","Sure, here are some memes related to depression:
+
+1.
+
+Image Descriptions:
+A person with depression is trying to stay positive
+
+Image Descriptions:
+a person with depression is trying to stay positive
+
+2.
+
+Image Descriptions:
+a person with depression is trying to stay positive
+
+Image Descriptions:
+a person with depression is trying to stay positive
+
+3.
+
+Image Descriptions:
+a person with depression is trying to stay positive
+
+Image Descriptions:
+a person with depression is trying to stay positive
+
+...[truncated]","[1,0,0,0,0,0,1]"
+TE-306.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but I cannot provide a response to this question as the image description does not contain any information about the content of the meme.","[0,0,0,1,0,0,0]"
+TE-309.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]","The meme is called ""Minimalistic Hoodie"" by takin-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-ho-","[0,0,0,1,1,0,0]"
+TE-32.jpg,REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]","I apologize, but I am an AI language model and I cannot see the image you are referring to. Please provide me with the meme or the context so I can assist you better.","[1,0,0,0,0,0,0]"
+TE-323.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]","I apologize, but there is no meme in the image provided. The image only contains text with the instructions to select the depression symptoms that apply.","[0,1,0,0,0,0,0]"
+TE-346.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but I cannot provide an answer to this question as the text ""I don't know what this is"" is not a valid response to the prompt. Please provide a valid response to the prompt so that I can assist you better.","[0,0,1,0,0,0,0]"
+TE-37.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but I cannot provide an explanation of the meme as it is not a visual image. Please provide me with the meme or a description of the meme so I can assist you better.","[0,1,0,0,0,0,0]"
+TE-370.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but I cannot provide a response to this question as the text ""meme"" is not specific enough to identify the content of the image.","[0,0,0,1,0,0,0]"
+TE-411.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,1,0]","I'm sorry, but I cannot provide an answer to this question as the meme contains text that appears to be a legitimate computer message or error message. As an AI visual assistant, my focus is on analyzing and understanding visual content, and I cannot decipher the meaning of text-based messages or errors.",
+TE-442.jpg,REFERENCE_DEPENDENT,"[1,1,0,0,0,0,0]","Depression is a mood disorder characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that were once enjoyable. It can cause a wide range of physical, emotional, and cognitive symptoms, and can significantly impact a person's quality of life. Depression is a common mental health condition that affects millions of people worldwide. It can be treated with a combination of therapy, medication, and lifestyle changes. It's important to seek help if you or som...[truncated]",
+TE-461.jpg,VISUAL_SYMBOL_DEPENDENT,"[1,1,1,1,1,0,1]","Depression is a mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that a person once enjoyed. It affects how a person thinks, feels, and behaves, and can lead to a variety of challenges in daily life. Depression can be mild, moderate, or severe, and may require professional treatment. Some common symptoms of depression include changes in appetite or weight, difficulty sleeping or oversleeping, feelings of worthlessness or gu...[truncated]","[1,0,0,0,0,0,0]"
+TE-47.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]","The meme features a character from the movie ""Thor: Ragnarok"" with the words ""Depression"" and ""Narak"" (Naraka in Hindi) written above it. ""Depression"" is written in English and ""Narak"" is written in Hindi, which translates to ""Hell"" in English. The meme is likely trying to convey the idea that depression can feel like a never-ending hellish experience for those who suffer from it. The character's expression and the overall visual design of the meme aim to evoke empathy and understanding for thos...[truncated]","[1,0,0,0,1,0,0]"
+TE-470.jpg,CELEBRITY_DEPENDENT,"[1,1,0,0,0,0,0]","Depression is a mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that were once enjoyable. It can significantly impact a person's daily life, including their work, relationships, and overall well-being. Depression can be caused by a combination of genetic, environmental, and psychological factors.
+
+There are several treatment options available for depression, including:
+
+1. Therapy: Talking to a mental health professional, ...[truncated]","[1,0,0,0,0,0,1]"
+TE-471.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]","Sharon M. Draper is an American author and educator known for her young adult and children's books. She has written numerous award-winning novels and has received numerous awards for her literary work. The meme is likely referencing one of her books, but without more context, it's impossible to determine which specific book it refers to.","[0,0,0,0,0,1,0]"
+TE-506.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, as an AI language model, I cannot access images or context outside of the texts provided. Please provide me with the meme or more information so I can assist you better.",
+TE-512.jpg,VISUAL_SYMBOL_DEPENDENT,"[1,1,1,1,1,1,1]","The meme features a woman with a birthday cake, and it includes a list of depression symptoms. The user is asked to identify which symptoms apply to them. The available symptoms are: feeling down, lack of interest, self-harm, eating, low self-esteem, concentration, and sleep. The user is required to reply with only the numbers that apply, for example, ""1, 5"" for feeling down and lack of interest.","[1,0,0,0,1,0,1]"
+TE-521.jpg,LIFESTYLE_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but there is no meme in the image provided. The image only contains text with the numbers 1-7, which are associated with different depression symptoms. The text also mentions ""Kya Oopar Main Life Hai,"" which seems to be a question about one's life situation.","[0,0,0,0,0,1,0]"
+TE-550.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but there is no meme in the provided text. The text only contains a question asking for the depression symptoms displayed in a meme.","[0,0,0,1,0,0,0]"
+TE-583.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but I cannot explain the meme as I am an AI language model and the provided text is not a caption for an image. Please provide me with the image or more context so I can assist you better.","[0,0,0,1,0,0,0]"
+TE-589.jpg,MEME_FORMAT_DEPENDENT,"[1,1,0,0,0,0,0]","Depression is a mental health condition characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that were once enjoyable. It can significantly impact a person's daily life, including their work, relationships, and overall well-being. Depression can be caused by a combination of genetic, environmental, and psychological factors.
+
+There are several treatment options available for depression, including therapy, medication, and lifestyle changes. Therapy, su...[truncated]","[0,0,0,1,0,0,0]"
+TE-591.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but I cannot explain the meme as I am an AI language model and the image you provided does not contain any text that can be interpreted as a caption or explanation. Please provide me with the necessary information so that I can assist you better.","[0,0,0,0,0,1,0]"
+TE-602.jpg,REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, but I cannot explain the meme as it does not contain any text that can be understood by the current AI model. The meme appears to be an image without any context or meaning.","[0,0,0,0,0,0,1]"
+TE-611.jpg,INTERNET_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","I'm sorry, I cannot explain the meme as I am an AI language model and the image you provided does not contain a meme. Please provide the correct image or description for me to assist you.","[0,0,0,1,0,0,0]"
+TE-9.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]","The meme features a cartoon-like illustration of two characters, presumably dead, with their mouths open and a lock on their chest. The meme is in a foreign language, and the context of the meme is not clear. It is likely meant to be humorous or to convey a message related to the depicted characters' emotional state.","[1,0,1,0,0,0,0]"
+TE-90.jpg,INTERNET_CULTURE_DEPENDENT,"[1,1,1,1,1,0,1]","Depression is a mood disorder characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities that once brought pleasure. It affects how a person thinks, feels, and behaves, and can lead to a variety of emotional and physical problems. Depression can occur at any age, but it most commonly begins in adulthood. There are different types of depression, including major depressive disorder, persistent depressive disorder, and clinical depression. Symptoms may include...[truncated]","[1,0,0,0,0,0,0]"

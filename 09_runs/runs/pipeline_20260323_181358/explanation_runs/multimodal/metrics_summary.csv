@@ -1,0 +1,6 @@
+model,input,n_samples,macro_f1,weighted_f1,macro_precision,macro_recall
+BLIP-2-Flan-T5-XL,explanation+image,581,0.3279,0.3648,0.2916,0.5757
+LLaVA-1.5-7B,explanation+image,581,0.3085,0.2675,0.4614,0.2582
+LLaVA-NeXT-7B,explanation+image,581,0.3039,0.3251,0.4756,0.3111
+IDEFICS-9B-Instruct,explanation+image,345,0.3165,0.3559,0.4133,0.3491
+InstructBLIP-Vicuna-7B,explanation+image,581,0.2573,0.3042,0.1517,1.0

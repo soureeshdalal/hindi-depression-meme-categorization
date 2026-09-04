@@ -1,0 +1,47 @@
+{
+  "n_samples": 345,
+  "macro_f1": 0.3165,
+  "weighted_f1": 0.3559,
+  "macro_precision": 0.4133,
+  "macro_recall": 0.3491,
+  "per_label": {
+    "Feeling Down": {
+      "f1": 0.4706,
+      "precision": 0.4255,
+      "recall": 0.5263
+    },
+    "Lack of Interest": {
+      "f1": 0.1408,
+      "precision": 0.0926,
+      "recall": 0.2941
+    },
+    "Self-Harm": {
+      "f1": 0.4025,
+      "precision": 0.3048,
+      "recall": 0.5926
+    },
+    "Eating Disorder": {
+      "f1": 0.4091,
+      "precision": 0.5455,
+      "recall": 0.3273
+    },
+    "Low Self-Esteem": {
+      "f1": 0.2667,
+      "precision": 0.4,
+      "recall": 0.2
+    },
+    "Concentration Problem": {
+      "f1": 0.1748,
+      "precision": 0.125,
+      "recall": 0.2903
+    },
+    "Sleeping Disorder": {
+      "f1": 0.3509,
+      "precision": 1.0,
+      "recall": 0.2128
+    }
+  },
+  "model": "IDEFICS-9B-Instruct",
+  "input": "explanation+image",
+  "folder": "IDEFICS"
+}

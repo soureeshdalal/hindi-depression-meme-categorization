@@ -1,0 +1,47 @@
+{
+  "n_samples": 581,
+  "macro_f1": 0.2807,
+  "weighted_f1": 0.3244,
+  "macro_precision": 0.1768,
+  "macro_recall": 0.7623,
+  "per_label": {
+    "Feeling Down": {
+      "f1": 0.5,
+      "precision": 0.3495,
+      "recall": 0.8783
+    },
+    "Lack of Interest": {
+      "f1": 0.1992,
+      "precision": 0.1136,
+      "recall": 0.8065
+    },
+    "Self-Harm": {
+      "f1": 0.2596,
+      "precision": 0.1618,
+      "recall": 0.6567
+    },
+    "Eating Disorder": {
+      "f1": 0.2409,
+      "precision": 0.161,
+      "recall": 0.4783
+    },
+    "Low Self-Esteem": {
+      "f1": 0.2826,
+      "precision": 0.1696,
+      "recall": 0.8478
+    },
+    "Concentration Problem": {
+      "f1": 0.2432,
+      "precision": 0.1415,
+      "recall": 0.8657
+    },
+    "Sleeping Disorder": {
+      "f1": 0.2395,
+      "precision": 0.1407,
+      "recall": 0.8028
+    }
+  },
+  "model": "InstructBLIP",
+  "input": "explanation+image",
+  "folder": "InstructBLIP"
+}

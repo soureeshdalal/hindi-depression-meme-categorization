@@ -1,0 +1,36 @@
+model,input,symptom,f1,precision,recall
+BLIP-2-Flan-T5-XL,explanation+image,Feeling Down,0.5236,0.3846,0.8201
+BLIP-2-Flan-T5-XL,explanation+image,Lack of Interest,0.1882,0.1062,0.8226
+BLIP-2-Flan-T5-XL,explanation+image,Self-Harm,0.4343,0.3519,0.5672
+BLIP-2-Flan-T5-XL,explanation+image,Eating Disorder,0.2553,0.48,0.1739
+BLIP-2-Flan-T5-XL,explanation+image,Low Self-Esteem,0.2676,0.1597,0.8261
+BLIP-2-Flan-T5-XL,explanation+image,Concentration Problem,0.3364,0.2418,0.5522
+BLIP-2-Flan-T5-XL,explanation+image,Sleeping Disorder,0.2901,0.3167,0.2676
+LLaVA-1.5-7B,explanation+image,Feeling Down,0.1226,0.5652,0.0688
+LLaVA-1.5-7B,explanation+image,Lack of Interest,0.4602,0.5098,0.4194
+LLaVA-1.5-7B,explanation+image,Self-Harm,0.2772,0.4118,0.209
+LLaVA-1.5-7B,explanation+image,Eating Disorder,0.2316,0.4231,0.1594
+LLaVA-1.5-7B,explanation+image,Low Self-Esteem,0.2222,0.4118,0.1522
+LLaVA-1.5-7B,explanation+image,Concentration Problem,0.4296,0.4265,0.4328
+LLaVA-1.5-7B,explanation+image,Sleeping Disorder,0.416,0.4815,0.3662
+LLaVA-NeXT-7B,explanation+image,Feeling Down,0.4169,0.4458,0.3915
+LLaVA-NeXT-7B,explanation+image,Lack of Interest,0.2979,0.1909,0.6774
+LLaVA-NeXT-7B,explanation+image,Self-Harm,0.3838,0.5938,0.2836
+LLaVA-NeXT-7B,explanation+image,Eating Disorder,0.1316,0.7143,0.0725
+LLaVA-NeXT-7B,explanation+image,Low Self-Esteem,0.2838,0.375,0.2283
+LLaVA-NeXT-7B,explanation+image,Concentration Problem,0.2838,0.2593,0.3134
+LLaVA-NeXT-7B,explanation+image,Sleeping Disorder,0.3297,0.75,0.2113
+IDEFICS-9B-Instruct,explanation+image,Feeling Down,0.4706,0.4255,0.5263
+IDEFICS-9B-Instruct,explanation+image,Lack of Interest,0.1408,0.0926,0.2941
+IDEFICS-9B-Instruct,explanation+image,Self-Harm,0.4025,0.3048,0.5926
+IDEFICS-9B-Instruct,explanation+image,Eating Disorder,0.4091,0.5455,0.3273
+IDEFICS-9B-Instruct,explanation+image,Low Self-Esteem,0.2667,0.4,0.2
+IDEFICS-9B-Instruct,explanation+image,Concentration Problem,0.1748,0.125,0.2903
+IDEFICS-9B-Instruct,explanation+image,Sleeping Disorder,0.3509,1.0,0.2128
+InstructBLIP-Vicuna-7B,explanation+image,Feeling Down,0.4909,0.3253,1.0
+InstructBLIP-Vicuna-7B,explanation+image,Lack of Interest,0.1928,0.1067,1.0
+InstructBLIP-Vicuna-7B,explanation+image,Self-Harm,0.2068,0.1153,1.0
+InstructBLIP-Vicuna-7B,explanation+image,Eating Disorder,0.2123,0.1188,1.0
+InstructBLIP-Vicuna-7B,explanation+image,Low Self-Esteem,0.2734,0.1583,1.0
+InstructBLIP-Vicuna-7B,explanation+image,Concentration Problem,0.2068,0.1153,1.0
+InstructBLIP-Vicuna-7B,explanation+image,Sleeping Disorder,0.2178,0.1222,1.0

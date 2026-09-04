@@ -1,0 +1,47 @@
+{
+  "n_samples": 581,
+  "macro_f1": 0.1807,
+  "weighted_f1": 0.2446,
+  "macro_precision": 0.1349,
+  "macro_recall": 0.58,
+  "per_label": {
+    "Feeling Down": {
+      "f1": 0.4909,
+      "precision": 0.3253,
+      "recall": 1.0
+    },
+    "Lack of Interest": {
+      "f1": 0.1928,
+      "precision": 0.1067,
+      "recall": 1.0
+    },
+    "Self-Harm": {
+      "f1": 0.0952,
+      "precision": 0.2353,
+      "recall": 0.0597
+    },
+    "Eating Disorder": {
+      "f1": 0.2123,
+      "precision": 0.1188,
+      "recall": 1.0
+    },
+    "Low Self-Esteem": {
+      "f1": 0.2734,
+      "precision": 0.1583,
+      "recall": 1.0
+    },
+    "Concentration Problem": {
+      "f1": 0.0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    "Sleeping Disorder": {
+      "f1": 0.0,
+      "precision": 0.0,
+      "recall": 0.0
+    }
+  },
+  "model": "MentalRoBERTa",
+  "input": "explanation",
+  "folder": "MentalRoBERTa"
+}

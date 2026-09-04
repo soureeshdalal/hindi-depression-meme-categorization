@@ -1,0 +1,47 @@
+{
+  "n_samples": 581,
+  "macro_f1": 0.2131,
+  "weighted_f1": 0.253,
+  "macro_precision": 0.1427,
+  "macro_recall": 0.5061,
+  "per_label": {
+    "Feeling Down": {
+      "f1": 0.4189,
+      "precision": 0.3423,
+      "recall": 0.5397
+    },
+    "Lack of Interest": {
+      "f1": 0.2073,
+      "precision": 0.1254,
+      "recall": 0.5968
+    },
+    "Self-Harm": {
+      "f1": 0.22,
+      "precision": 0.1321,
+      "recall": 0.6567
+    },
+    "Eating Disorder": {
+      "f1": 0.1731,
+      "precision": 0.1027,
+      "recall": 0.5507
+    },
+    "Low Self-Esteem": {
+      "f1": 0.2097,
+      "precision": 0.1371,
+      "recall": 0.4457
+    },
+    "Concentration Problem": {
+      "f1": 0.133,
+      "precision": 0.0809,
+      "recall": 0.3731
+    },
+    "Sleeping Disorder": {
+      "f1": 0.1295,
+      "precision": 0.078,
+      "recall": 0.3803
+    }
+  },
+  "model": "MentalBART",
+  "input": "explanation",
+  "folder": "MentalBART"
+}

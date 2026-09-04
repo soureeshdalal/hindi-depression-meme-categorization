@@ -1,0 +1,651 @@
+image_id,category,PALO_pred,PALO_raw,human_label
+TE-104.jpg,BRAND_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-177.jpg,BRAND_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-184.jpg,BRAND_DEPENDENT,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁concentration , ▁and ▁sleep .","[1,0,1,0,0,0,0]"
+TE-195.jpg,BRAND_DEPENDENT,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁follows : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,"[0,0,0,1,1,0,0]"
+TE-285.jpg,BRAND_DEPENDENT,"[1,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁sad ▁face ▁symbol ▁with ▁the ▁words ▁"" Fil tr er "" ▁written ▁above ▁it .","[1,0,1,0,0,0,0]"
+TE-303.jpg,BRAND_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-343.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]","▁The ▁image ▁shows ▁two ▁men , ▁each ▁we aring ▁s ung lass es , ▁with ▁one ▁of ▁them ▁appearing ▁to ▁be ▁cry ing . ▁The ▁image ▁description ▁suggests ▁that ▁the ▁two ▁men ▁are ▁making ▁fun ▁of ▁each ▁other , ▁possibly ▁in ▁a ▁hum orous ▁or ▁play ful ▁manner . ▁The ▁presence ▁of ▁s ung lass es ▁and ▁the ▁apparent ▁emot ional ▁state ▁of ▁one ▁of ▁the ▁men ▁create ▁a ▁contrast ▁between ▁the ▁light heart ed ness ▁of ▁the ▁situation ▁and ▁the ▁serious ness ▁of ▁the ▁man ' s ▁emot ions .","[0,0,0,1,0,0,0]"
+TE-378.jpg,BRAND_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-425.jpg,BRAND_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-549.jpg,BRAND_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-583.jpg,BRAND_DEPENDENT,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁a ▁character ▁experien cing ▁various ▁de pression ▁sympt oms . ▁These ▁sympt oms ▁include ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues . ▁The ▁m eme ▁also ▁shows ▁sleep ▁dist urban ces ▁as ▁a ▁sympt om .","[0,0,0,1,0,0,0]"
+TE-586.jpg,BRAND_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-629.jpg,BRAND_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-8.jpg,BRAND_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-149.jpg,CELEBRITY_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-158.jpg,CELEBRITY_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-185.jpg,CELEBRITY_DEPENDENT,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁ 1 , ▁ 5 , ▁and ▁ 7 .","[0,0,0,0,1,0,0]"
+TE-21.jpg,CELEBRITY_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-238.jpg,CELEBRITY_DEPENDENT,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁ 1 , ▁ 5 , ▁and ▁ 7 .","[0,0,0,1,1,0,0]"
+TE-26.jpg,CELEBRITY_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-40.jpg,CELEBRITY_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-470.jpg,CELEBRITY_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,1]"
+TE-141.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,0,1]"
+TE-147.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression , ▁specifically ▁the ▁number ▁ 5 , ▁which ▁represents ▁low ▁self - este em .","[1,1,0,0,0,0,0]"
+TE-160.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,1,0,0,0,0,0]"
+TE-197.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁comparison ▁of ▁two ▁different ▁situations , ▁with ▁one ▁situation ▁involving ▁a ▁man ▁cry ing ▁and ▁the ▁other ▁involving ▁a ▁man ▁la ughing . ▁The ▁comparison ▁highlight s ▁the ▁contrast ▁between ▁the ▁emot ions ▁and ▁re actions ▁of ▁the ▁two ▁individuals ▁in ▁these ▁situations .","[1,0,1,0,0,0,0]"
+TE-214.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,1,0,0,0,1,0]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues .","[1,0,0,0,1,0,0]"
+TE-232.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-299.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,1,0,0,0,0]"
+TE-309.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,1,1,0,0]"
+TE-33.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,0]"
+TE-333.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁that ▁the ▁sympt oms ▁of ▁de pression ▁include ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁concentration , ▁and ▁sleep .","[0,0,1,0,0,0,0]"
+TE-342.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,0,0]"
+TE-374.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,1,0]"
+TE-385.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,0]"
+TE-411.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-506.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-619.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-70.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-74.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,0,0]"
+TE-256.jpg,INTERNET_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁combination ▁of ▁different ▁emot ions ▁and ▁situations . ▁It ▁includes ▁elements ▁such ▁as ▁a ▁person ▁getting ▁married , ▁a ▁house ▁key , ▁a ▁horse , ▁and ▁a ▁person ▁we aring ▁a ▁tur ban . ▁The ▁m eme ▁also ▁contains ▁text ▁that ▁might ▁be ▁related ▁to ▁the ▁content ▁displayed . ▁It ▁is ▁difficult ▁to ▁determine ▁the ▁exact ▁emot ions ▁or ▁sympt oms ▁dep icted ▁in ▁the ▁m eme ▁without ▁more ▁context .","[0,0,0,0,0,0,0]"
+TE-611.jpg,INTERNET_CULTURE_DEPENDENT,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁a ▁series ▁of ▁cart o ons ▁dep ict ing ▁people ▁experien cing ▁various ▁sympt oms ▁of ▁de pression . ▁The ▁specific ▁sympt oms ▁shown ▁in ▁the ▁m eme ▁are : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,"[0,0,0,1,0,0,0]"
+TE-90.jpg,INTERNET_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-107.jpg,LANGUAGE_DEPENDENT,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁a ▁variety ▁of ▁de pression ▁sympt oms , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues . ▁It ▁does ▁not ▁show ▁sleep ▁as ▁a ▁sympt om .","[0,0,0,0,1,0,0]"
+TE-14.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-170.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-175.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-251.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁in ▁H indi . ▁The ▁sympt oms ▁listed ▁are : <0x0A> <0x0A> 1 . ▁ म ू ड ▁ न ी च ा ▁ ह ो ▁ ज ा न ा <0x0A> 2 . ▁ स ा म ा ज ि क ▁ अ ं त र ा क ् र ि य ा ▁ म े ं ▁ क म ी <0x0A> 3 . ▁ ख ा न े ▁ क ी ▁ अ ध ि क ▁ म ा त ् र ा ▁ ख ा न ा <0x0A> 4 . ▁ ख ु द ▁ क ी ▁ म ू ल ् य ा ं क न ▁ क म ▁ क र न ा <0x0A> 5 . ▁ ध ् य ा न ▁ क ी ▁ क म ी <0x0A> 6 . ▁ न ी ं द ▁ म े ं ▁ क <0xE0> <0xA4> <0xA0> ि न ा <0xE0> <0xA4> <0x87> य ा ं <0x0A> 7 . ▁ श ा र ी र ि क ▁ अ स ु व ि...[truncated],"[1,1,0,0,0,0,0]"
+TE-259.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-268.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-306.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-362.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,0,0]"
+TE-370.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-384.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-418.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-431.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,0,1]"
+TE-434.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-446.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-457.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-471.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",▁The ▁book ▁is ▁written ▁in ▁Ur du .,"[0,0,0,0,0,1,0]"
+TE-479.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-492.jpg,LANGUAGE_DEPENDENT,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁following ▁sympt oms : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,"[0,0,0,1,0,0,0]"
+TE-509.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-519.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-526.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,0,0,1]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically ▁numbers ▁ 1 , ▁ 5 , ▁and ▁ 7 . ▁These ▁sympt oms ▁are ▁feeling ▁down , ▁low ▁self - este em , ▁and ▁difficulty ▁concentr ating . ▁The ▁m eme ▁does ▁not ▁show ▁sympt oms ▁related ▁to ▁e ating ▁or ▁sleep .",
+TE-615.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-632.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically ▁those ▁that ▁apply ▁to ▁H indi ▁speak ers . ▁The ▁sympt oms ▁include : <0x0A> <0x0A> 1 . ▁ अ प न े ▁ आ प ▁ क ो ▁ न ु क स ा न ▁ प ह ु ं च ा न ा ▁( Self - harm ) <0x0A> 2 . ▁ ख ा न े ▁ म े ं ▁ ब <0xE0> <0xA4> <0xA2> ़ ी ▁ ह ु <0xE0> <0xA4> <0x88> ▁ म ा त ् र ा ▁( E ating ) <0x0A> 3 . ▁ न ी च े ▁ स ् व - स म ् म ा न ▁( L ow ▁self - este em ) <0x0A> 4 . ▁ ध ् य ा न ▁ क ी ▁ क म ी ▁( Con cent r ation ) <0x0A> 5 . ▁ न ी ं द ▁ म े ...[truncated]",
+TE-9.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,0,0]"
+TE-201.jpg,LIFESTYLE_CONTEXT_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-296.jpg,LIFESTYLE_CONTEXT_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,1]"
+TE-521.jpg,LIFESTYLE_CONTEXT_DEPENDENT,"[1,1,0,0,0,0,0]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression , ▁specifically ▁the ▁seven ▁sympt oms ▁listed ▁as ▁follows : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep","[0,0,0,0,0,1,0]"
+TE-226.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-294.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁a ▁list ▁of ▁sympt oms ▁related ▁to ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues . ▁It ▁does ▁not ▁show ▁any ▁sympt oms ▁related ▁to ▁sleep .","[0,0,0,0,1,0,0]"
+TE-323.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-336.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁emot ions ▁associated ▁with ▁the ▁numbers ▁ 1 ▁to ▁ 7 . ▁These ▁emot ions ▁are : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,"[1,0,1,0,0,0,0]"
+TE-354.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-47.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-497.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,0,1]"
+TE-505.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",▁The ▁m eme ▁shows ▁a ▁police ▁officer ▁helping ▁a ▁person ▁by ▁pulling ▁up ▁their ▁h ood .,"[0,0,0,1,0,0,0]"
+TE-525.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression , ▁which ▁include ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁concentration , ▁and ▁sleep .","[1,0,0,0,0,0,0]"
+TE-98.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,1,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep","[1,0,0,0,0,0,0]"
+TE-140.jpg,MEME_FORMAT_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-196.jpg,MEME_FORMAT_DEPENDENT,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁follows : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,"[1,0,1,0,0,0,0]"
+TE-484.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁"" 1 , ▁ 5 "".",
+TE-550.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically ▁e ating ▁dis orders ▁and ▁self - harm . ▁The ▁image ▁dep ict s ▁two ▁men , ▁one ▁of ▁whom ▁is ▁e ating , ▁which ▁could ▁be ▁a ▁sign ▁of ▁self - harm ▁or ▁an ▁e ating ▁dis order . ▁The ▁other ▁man ▁is ▁looking ▁at ▁him , ▁possibly ▁express ing ▁concern ▁or ▁em path y . ▁The ▁m eme ▁a ims ▁to ▁raise ▁aw aren ess ▁about ▁these ▁sympt oms ▁and ▁encou rage ▁people ▁to ▁seek ▁help ▁if ▁they ▁are ▁experien cing ▁any ▁of ▁these ▁is...[truncated]","[0,0,0,1,0,0,0]"
+TE-589.jpg,MEME_FORMAT_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-591.jpg,MEME_FORMAT_DEPENDENT,"[1,1,0,0,0,1,0]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁a ▁graph ▁with ▁a ▁down ward ▁slope . ▁The ▁sympt oms ▁include ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues .","[0,0,0,0,0,1,0]"
+TE-112.jpg,NICHE_SUBCULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,0,0]"
+TE-172.jpg,NICHE_SUBCULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-249.jpg,NICHE_SUBCULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-279.jpg,NICHE_SUBCULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-346.jpg,NICHE_SUBCULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,1,0,0,0,0]"
+TE-37.jpg,NICHE_SUBCULTURE_DEPENDENT,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁a ▁character ▁experien cing ▁various ▁emot ions ▁and ▁sympt oms , ▁such ▁as ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues . ▁It ▁does ▁not ▁show ▁any ▁specific ▁sympt oms ▁related ▁to ▁sleep .","[0,1,0,0,0,0,0]"
+TE-595.jpg,NICHE_SUBCULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,1,0,0]"
+TE-78.jpg,NICHE_SUBCULTURE_DEPENDENT,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁concentration , ▁and ▁sleep .","[0,0,0,0,1,0,0]"
+TE-88.jpg,NICHE_SUBCULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-166.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁cart oon ▁dep iction ▁of ▁a ▁group ▁of ▁men , ▁with ▁some ▁of ▁them ▁holding ▁hands ▁in ▁a ▁circle . ▁The ▁hands ▁are ▁being ▁held ▁by ▁different ▁individuals , ▁and ▁the ▁scene ▁appears ▁to ▁be ▁a ▁com ic ▁strip . ▁The ▁m eme ▁is ▁likely ▁meant ▁to ▁convey ▁a ▁sense ▁of ▁unity , ▁support , ▁and ▁cam ar ader ie ▁among ▁the ▁group ▁of ▁men .","[1,0,1,0,1,0,0]"
+TE-168.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁person ▁we aring ▁a ▁cost ume , ▁specifically ▁a ▁tur ban ▁and ▁a ▁must ache , ▁and ▁another ▁person ▁in ▁a ▁cost ume . ▁The ▁person ▁in ▁the ▁cost ume ▁is ▁sitting ▁at ▁a ▁table , ▁while ▁the ▁other ▁person ▁is ▁lying ▁on ▁the ▁ground , ▁appearing ▁to ▁be ▁in ▁dist ress . ▁The ▁m eme ▁also ▁includes ▁a ▁series ▁of ▁com ic ▁stri ps ▁dep ict ing ▁the ▁two ▁characters ▁in ▁various ▁situations .","[0,0,1,0,0,0,0]"
+TE-174.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-178.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,0,0]"
+TE-188.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-200.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-213.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,0,0,0]","▁ON LY ▁then umber st h ata pply , ▁e . g . ▁"" 1 , 5 "" ▁or ▁"" None "". ▁Do ▁not ▁list ▁all ▁numbers . ▁ 1 = Fe eling down ▁ 2 = L ack of inter est ▁ 3 = Self - harm ▁ 4 = E ating ▁ 5 = L ow ▁self - este em ▁ 6 = Con cent r ation ▁ 7 = S leep",
+TE-222.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-236.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁ 1 , ▁ 5 , ▁and ▁ 6 .","[0,0,0,0,1,0,0]"
+TE-244.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-255.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-275.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","▁ON LY ▁then umber st h ata pply , e . g ."" 1 , 5 "" or "" None "". Don ot list all numbers .","[1,0,0,0,0,0,0]"
+TE-291.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-34.jpg,POP_CULTURE_DEPENDENT,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁concentration , ▁and ▁sleep .","[0,0,0,0,1,0,0]"
+TE-364.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,0,0]"
+TE-379.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,1,0,0]"
+TE-467.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-50.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,1,1,0,0]"
+TE-540.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-546.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-650.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,1,0,0,0,0,0]"
+TE-99.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-32.jpg,REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-44.jpg,REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,0]"
+TE-442.jpg,REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-602.jpg,REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-644.jpg,REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,1,0]"
+TE-1.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-10.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-100.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-101.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁a ▁person ▁standing ▁in ▁a ▁forest ▁and ▁another ▁person ▁squ atting ▁down . ▁The ▁squ atting ▁person ▁is ▁holding ▁a ▁sign , ▁which ▁is ▁a ▁visual ▁representation ▁of ▁the ▁de pression ▁sympt oms . ▁The ▁sign ▁indicates ▁that ▁the ▁person ▁is ▁experien cing ▁feelings ▁of ▁de pression , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating ▁issues , ▁low ▁self - este em , ▁concentration ▁problems , ▁and ▁sleep ▁dist urban ces .","[1,0,1,0,0,0,0]"
+TE-102.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,0,0]"
+TE-103.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-105.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁follows : ▁ 1 , ▁ 5 .","[0,0,0,0,1,0,0]"
+TE-106.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,1,0]"
+TE-108.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-109.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,1]"
+TE-11.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-110.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-111.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-113.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-114.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","▁The ▁image ▁shows ▁a ▁m eme ▁with ▁two ▁different ▁pictures , ▁both ▁of ▁which ▁dep ict ▁a ▁person ▁sleep ing . ▁The ▁first ▁picture ▁is ▁on ▁the ▁left ▁side ▁of ▁the ▁image , ▁and ▁the ▁second ▁picture ▁is ▁on ▁the ▁right ▁side . ▁The ▁text ▁accomp any ing ▁the ▁images ▁is ▁in ▁a ▁foreign ▁language .","[1,1,0,0,1,0,0]"
+TE-115.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-116.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,1,0,0]"
+TE-117.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-118.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-119.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,1]"
+TE-12.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁ 1 , ▁ 5 , ▁and ▁ 7 .",
+TE-120.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁blue ▁cat ▁with ▁a ▁sad ▁face , ▁cry ing ▁in ▁a ▁city ▁street .","[1,0,0,0,1,0,0]"
+TE-121.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁follows : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,
+TE-122.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-123.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁follows : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,"[1,0,1,0,0,0,0]"
+TE-125.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-126.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-127.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-128.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁picture ▁of ▁a ▁man ▁with ▁a ▁be ard ▁and ▁a ▁tur ban , ▁along ▁with ▁a ▁ca ption ▁in ▁a ▁foreign ▁language . ▁The ▁ca ption ▁has ▁been ▁edited ▁to ▁remove ▁the ▁word ▁"" de pression "" ▁and ▁replace ▁it ▁with ▁"" fe eling ▁down .""","[0,0,1,0,0,0,0]"
+TE-129.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁a ▁variety ▁of ▁sympt oms ▁related ▁to ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues . ▁It ▁does ▁not ▁show ▁any ▁specific ▁sympt oms ▁related ▁to ▁sleep .","[1,0,0,0,0,0,0]"
+TE-13.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,1,0,0,0]"
+TE-130.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-131.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-132.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁ON LY ▁then umber st h ata pply , ▁e . g . ▁"" 1 , 5 "" ▁or ▁"" None "". ▁Do ▁not ▁list ▁all ▁numbers . ▁ 1 = Fe eling down ▁ 2 = L ack of inter est ▁ 3 = Self - harm ▁ 4 = E ating ▁ 5 = L ow ▁self - este em ▁ 6 = Con cent r ation ▁ 7 = S leep",
+TE-133.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-134.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁character , ▁likely ▁a ▁cart oon ▁character ▁like ▁W inn ie ▁the ▁Po oh , ▁holding ▁a ▁sign ▁that ▁says ▁"" De pression ."" ▁The ▁image ▁is ▁a ▁split - screen , ▁with ▁one ▁half ▁showing ▁the ▁character ▁holding ▁the ▁sign , ▁and ▁the ▁other ▁half ▁showing ▁the ▁same ▁character ▁looking ▁at ▁the ▁sign . ▁The ▁text ▁in ▁the ▁image ▁is ▁in ▁H indi , ▁which ▁suggests ▁that ▁it ▁is ▁a ▁popular ▁Indian ▁m eme .","[1,0,0,0,0,0,0]"
+TE-135.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,1,0,0]"
+TE-136.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-137.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,0,1]"
+TE-138.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁ON LY ▁then umber st h ata pply , ▁e . g . ▁"" 1 , 5 "" ▁or ▁"" None "". ▁Do ▁not ▁list ▁all ▁numbers . ▁ 1 = Fe eling down ▁ 2 = L ack of inter est ▁ 3 = Self - harm ▁ 4 = E ating ▁ 5 = L ow ▁self - este em ▁ 6 = Con cent r ation ▁ 7 = S leep",
+TE-139.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-142.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-143.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁ 1 , ▁ 5 , ▁and ▁ 7 .","[0,0,1,0,1,0,0]"
+TE-144.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-145.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-146.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,1,0,0,0,0,0]"
+TE-148.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁two ▁different ▁situations ▁of ▁a ▁man ▁cry ing . ▁In ▁the ▁first ▁situation , ▁the ▁man ▁is ▁cry ing ▁because ▁he ▁is ▁sad , ▁and ▁in ▁the ▁second ▁situation , ▁the ▁man ▁is ▁cry ing ▁because ▁he ▁is ▁dr unk .","[0,0,0,0,1,0,0]"
+TE-15.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-150.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,1,0,0]"
+TE-151.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,1,0,0,0,0]"
+TE-152.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-153.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,1,0,0]"
+TE-154.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-155.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-156.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-157.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-159.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁follows : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,"[0,0,0,1,0,0,0]"
+TE-16.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-161.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-162.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-163.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-164.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,1,0,0,0]"
+TE-165.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,0]"
+TE-167.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,0]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically ▁the ▁sympt oms ▁of ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues . ▁These ▁sympt oms ▁are ▁commonly ▁associated ▁with ▁de pression ▁and ▁can ▁be ▁used ▁as ▁a ▁reference ▁for ▁understanding ▁the ▁emot ional ▁state ▁of ▁the ▁p engu in ▁in ▁the ▁image .","[1,0,0,0,1,0,0]"
+TE-169.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-17.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-171.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-173.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-176.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-179.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically ▁self - harm ▁and ▁low ▁self - este em . ▁These ▁sympt oms ▁are ▁dep icted ▁in ▁the ▁m eme ▁as ▁"" 1 , ▁ 5 .""","[0,0,0,0,1,0,0]"
+TE-18.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-180.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-181.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁ 1 , ▁ 5 , ▁and ▁ 7 .","[1,0,0,0,1,0,0]"
+TE-182.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-183.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-186.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-187.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-189.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-19.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁a ▁character ▁from ▁the ▁TV ▁show ▁"" The ▁Sim ps ons "" ▁experien cing ▁de pression ▁sympt oms ▁such ▁as ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues . ▁It ▁does ▁not ▁show ▁any ▁specific ▁sympt oms ▁related ▁to ▁sleep .","[1,0,0,0,0,0,0]"
+TE-190.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-191.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,1,0,0]"
+TE-192.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-193.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,1,1,0]"
+TE-194.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-198.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-199.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-2.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-20.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-202.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁group ▁of ▁old ▁men ▁with ▁sm iling ▁faces , ▁sitting ▁around ▁a ▁laptop . ▁The ▁image ▁is ▁accompanied ▁by ▁text ▁in ▁a ▁foreign ▁language , ▁which ▁appears ▁to ▁be ▁a ▁Google ▁search ▁result . ▁The ▁m eme ▁is ▁likely ▁meant ▁to ▁be ▁hum orous ▁or ▁sat ir ical , ▁as ▁it ▁comb ines ▁the ▁innoc ent ▁and ▁cheer ful ▁dep iction ▁of ▁the ▁old ▁men ▁with ▁the ▁more ▁serious ▁and ▁potentially ▁de press ing ▁content ▁of ▁the ▁Google ▁search ▁result .","[1,0,1,0,1,0,0]"
+TE-203.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-204.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁woman ▁in ▁a ▁pur ple ▁sh irt ▁and ▁a ▁white ▁col lar , ▁with ▁a ▁note ▁in ▁front ▁of ▁her . ▁The ▁note ▁appears ▁to ▁be ▁written ▁in ▁a ▁foreign ▁language .",
+TE-206.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,1,0,0,0,0,0]"
+TE-207.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically ▁numbers ▁ 1 , ▁ 5 , ▁and ▁ 7 . ▁These ▁sympt oms ▁are ▁feeling ▁down , ▁low ▁self - este em , ▁and ▁difficulty ▁concentr ating . ▁The ▁m eme ▁does ▁not ▁show ▁sympt oms ▁related ▁to ▁e ating ▁or ▁sleep .","[1,0,0,0,1,0,0]"
+TE-208.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,1,0]"
+TE-209.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁ON LY ▁then umber st h ata pply , ▁e . g . ▁"" 1 , 5 "" ▁or ▁"" None "". ▁Do ▁not ▁list ▁all ▁numbers . ▁ 1 = Fe eling down ▁ 2 = L ack of inter est ▁ 3 = Self - harm ▁ 4 = E ating ▁ 5 = L ow ▁self - este em ▁ 6 = Con cent r ation ▁ 7 = S leep",
+TE-210.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,1,0,0]"
+TE-211.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-212.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-215.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-216.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,1,0,0,0]"
+TE-217.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁person ▁holding ▁a ▁dog ▁and ▁a ▁cat ▁standing ▁behind ▁them . ▁The ▁cat ▁appears ▁to ▁be ▁sad ▁or ▁de pressed , ▁with ▁its ▁eyes ▁te aring ▁up ▁and ▁a ▁look ▁of ▁dist ress ▁on ▁its ▁face . ▁The ▁m eme ▁capt ures ▁the ▁cat ' s ▁emot ions ▁and ▁the ▁contrast ▁between ▁the ▁person ▁holding ▁the ▁dog ▁and ▁the ▁cat ' s ▁emot ional ▁state .","[0,0,0,0,0,1,0]"
+TE-218.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-22.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁man ▁sitting ▁in ▁the ▁water ▁with ▁his ▁head ▁above ▁the ▁surface , ▁and ▁it ▁is ▁accompanied ▁by ▁H indi ▁text . ▁The ▁text ▁describes ▁the ▁man ' s ▁emot ions ▁as ▁follows : <0x0A> <0x0A> 1 . ▁ <0xE0> <0xA4> <0x89> स क ा ▁ स ि र ▁ प ा न ी ▁ म े ं ▁ ह ै । <0x0A> 2 . ▁ <0xE0> <0xA4> <0x89> स क ा ▁ स ि र ▁ प ा न ी ▁ म े ं ▁ ह ै । <0x0A> 3 . ▁ <0xE0> <0xA4> <0x89> स क ा ▁ स ि र ▁ प ा न ी ▁ म े ं ▁ ह ै । <0x0A> 4 . ▁ <0xE0> <0xA4> <0x89> स क ा ▁ स ि र ▁ प ा न ी ▁ म े ं ▁ ह ै...[truncated]","[1,0,0,0,1,0,0]"
+TE-220.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",1 0 = Con cent r ation 1 1 1 = Con cent r ation 2 = Con cent r ation 3 = Con cent r ation 4 = Con cent r ation 5 = Con cent r ation 6 = Con cent r ation 7 = Con cent r ation 8 = Con cent r ation 9 = Con cent r ation 1 0 = Con cent r ation 1 1 1 = Con cent r ation 2 = Con cent r ation 3 = Con cent r ation 4 = Con cent r ation 5 = Con cent r ation 6 = Con cent r ation 7 = Con cent r ation 8 = Con cent r ation 9 = Con cent r ation 1 0 = Con cent r ation 2 = Con cent r ation 3 = Con cent r ation 4 =...[truncated],"[1,0,0,0,0,0,0]"
+TE-221.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,1,0,0]"
+TE-223.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-224.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating ▁low ▁self - este em , ▁concentration ▁issues , ▁and ▁sleep ▁problems .","[0,0,0,1,0,0,0]"
+TE-225.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-227.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-228.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-229.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-23.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-230.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","▁The ▁image ▁shows ▁a ▁person ▁reaching ▁out ▁to ▁touch ▁a ▁clock ▁with ▁a ▁foreign ▁language ▁on ▁it . ▁The ▁clock ▁is ▁displayed ▁in ▁multiple ▁locations , ▁creating ▁an ▁ill usion ▁of ▁a ▁repeating ▁pattern . ▁The ▁person ' s ▁hand ▁is ▁position ed ▁near ▁the ▁top - right ▁corner ▁of ▁the ▁clock . ▁The ▁scene ▁suggests ▁that ▁the ▁person ▁is ▁interact ing ▁with ▁the ▁clock ▁in ▁a ▁play ful ▁or ▁curious ▁manner .","[1,0,1,0,0,0,0]"
+TE-231.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-233.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-234.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-235.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-237.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,1,0,0]"
+TE-239.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-24.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,1]"
+TE-240.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,1,0,0,0]"
+TE-241.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,1,0,0]"
+TE-242.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-243.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁person ▁pressing ▁a ▁button ▁on ▁a ▁blue ▁button ▁with ▁the ▁phrase ▁"" H indi "" ▁written ▁on ▁it .","[1,0,0,0,0,0,0]"
+TE-245.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,1]"
+TE-246.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-247.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-248.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-25.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-250.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-252.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,1,0,0,0,0]"
+TE-253.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,1,0,0]"
+TE-254.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-257.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-258.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-260.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁a ▁list ▁of ▁sympt oms ▁related ▁to ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁concentration , ▁and ▁sleep .","[0,0,0,0,1,0,0]"
+TE-261.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,1,0,0,1,1,0]"
+TE-262.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-263.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically ▁numbers ▁ 1 , ▁ 5 , ▁and ▁ 6 . ▁These ▁sympt oms ▁are ▁feeling ▁down , ▁lack ▁of ▁interest , ▁and ▁low ▁self - este em . ▁The ▁m eme ▁also ▁includes ▁a ▁picture ▁of ▁a ▁brain ▁scan , ▁which ▁is ▁often ▁associated ▁with ▁ne uro log ical ▁conditions , ▁including ▁de pression .","[1,0,0,0,1,0,0]"
+TE-264.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-265.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁series ▁of ▁com ic ▁stri ps ▁dep ict ing ▁a ▁woman ▁trying ▁to ▁enter ▁a ▁car , ▁with ▁the ▁ca ptions ▁indicating ▁her ▁feelings ▁and ▁thoughts . ▁The ▁m eme ▁likely ▁port ray s ▁a ▁hum orous ▁or ▁rel atable ▁situation , ▁such ▁as ▁a ▁person ▁struggling ▁to ▁get ▁into ▁a ▁car ▁or ▁dealing ▁with ▁a ▁stub born ▁car ▁door . ▁The ▁use ▁of ▁speech ▁b ub bles ▁and ▁cart oon - like ▁illustr ations ▁adds ▁to ▁the ▁light heart ed ▁and ▁entertain ing ▁nature ▁of ▁the ▁m eme .","[0,0,0,0,1,0,0]"
+TE-266.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁com ic ▁strip ▁dep ict ing ▁a ▁man ▁being ▁hit ▁on ▁the ▁head ▁with ▁a ▁bucket , ▁causing ▁him ▁to ▁fall ▁down . ▁This ▁scene ▁represents ▁the ▁sympt oms ▁of ▁feeling ▁down ▁and ▁low ▁self - este em .","[0,0,0,0,1,0,0]"
+TE-267.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-269.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,1,0,0,0,0]"
+TE-27.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-270.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-271.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-272.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-273.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-274.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-277.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-278.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,1,0]"
+TE-28.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-280.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-281.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-282.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,1,0,0,0,0,0]"
+TE-283.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,0,1]"
+TE-284.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-286.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁image ▁shows ▁a ▁person ▁lying ▁down , ▁possibly ▁in ▁bed , ▁with ▁a ▁to wel ▁wrapped ▁around ▁them . ▁The ▁person ▁appears ▁to ▁be ▁we aring ▁a ▁ro be , ▁which ▁suggests ▁a ▁relax ed ▁and ▁comfortable ▁atmosphere . ▁The ▁image ▁does ▁not ▁dep ict ▁any ▁specific ▁sympt oms ▁of ▁de pression , ▁as ▁it ▁does ▁not ▁show ▁any ▁indic ations ▁of ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating ▁issues , ▁low ▁self - este em , ▁concentration ▁problems , ▁or ▁sleep ▁dist urban ces .","[0,0,0,0,1,0,0]"
+TE-288.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-289.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-29.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-290.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,0,0]"
+TE-292.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,1,0,0,0,1,0]"
+TE-293.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-295.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,1]"
+TE-297.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,1,0,0]"
+TE-298.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,0,1]"
+TE-3.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-300.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-301.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-302.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-304.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-305.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-307.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-308.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-31.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-310.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,1,0,1,0,0,0]"
+TE-312.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",▁The ▁m eme ▁shows ▁a ▁man ▁sitting ▁on ▁a ▁c ouch ▁and ▁typing ▁on ▁a ▁laptop .,
+TE-313.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-314.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-315.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁image ▁shows ▁a ▁person ▁with ▁a ▁black ▁sh irt ▁and ▁white ▁p ants , ▁but ▁it ▁does ▁not ▁dep ict ▁any ▁specific ▁sympt oms ▁of ▁de pression . ▁The ▁image ▁description ▁only ▁provides ▁a ▁general ▁description ▁of ▁the ▁scene , ▁without ▁any ▁indic ation ▁of ▁the ▁person ' s ▁emot ional ▁state ▁or ▁any ▁visible ▁signs ▁of ▁dist ress .",
+TE-317.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,1,0,0,0,0,0]"
+TE-318.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-319.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-320.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-321.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,1,0,0]"
+TE-322.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-324.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,1,0,0,0,0]"
+TE-325.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁series ▁of ▁com ic ▁stri ps ▁dep ict ing ▁a ▁person ▁interact ing ▁with ▁another ▁person , ▁with ▁various ▁emot ions ▁and ▁re actions . ▁The ▁m eme ▁does ▁not ▁specifically ▁show ▁any ▁de pression ▁sympt oms .","[0,0,0,1,0,0,0]"
+TE-326.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁com ic ▁strip ▁dep ict ing ▁two ▁characters ▁fighting ▁with ▁s words , ▁one ▁of ▁them ▁being ▁a ▁girl ▁with ▁a ▁band ana . ▁The ▁m eme ▁also ▁includes ▁a ▁speech ▁b ubble ▁with ▁H indi ▁text , ▁which ▁might ▁be ▁a ▁translation ▁of ▁the ▁com ic ▁strip . ▁The ▁characters ' ▁actions ▁and ▁the ▁presence ▁of ▁the ▁sword ▁suggest ▁a ▁sense ▁of ▁conflict ▁or ▁t ension ▁between ▁them .","[1,0,1,0,1,0,0]"
+TE-327.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-328.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-329.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,1,0,0]"
+TE-330.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,1,0,0,0,0]"
+TE-331.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-332.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-334.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-335.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁concentration , ▁and ▁sleep .","[0,0,0,0,0,0,1]"
+TE-337.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,0,0]"
+TE-338.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁series ▁of ▁two ▁images , ▁each ▁dep ict ing ▁a ▁conversation ▁between ▁H omer ▁Sim pson ▁and ▁Mar ge ▁Sim pson . ▁The ▁text ▁in ▁the ▁images ▁is ▁written ▁in ▁H indi , ▁and ▁the ▁content ▁of ▁the ▁conversation ▁is ▁related ▁to ▁de pression ▁sympt oms . ▁The ▁m eme ▁is ▁meant ▁to ▁be ▁hum orous ▁and ▁sat ir ical , ▁as ▁it ▁port ray s ▁H omer ' s ▁strugg les ▁with ▁de pression ▁in ▁a ▁light heart ed ▁manner .","[1,0,1,0,0,0,1]"
+TE-339.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-340.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-341.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-344.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁train ▁going ▁down ▁the ▁tracks ▁next ▁to ▁a ▁school ▁bus , ▁with ▁the ▁ca ption ▁"" The ▁train ▁is ▁passing ▁the ▁school ▁bus ."" ▁There ▁is ▁also ▁a ▁second ▁image ▁with ▁the ▁ca ption ▁"" The ▁train ▁is ▁passing ▁the ▁school ▁bus ."" ▁This ▁could ▁be ▁a ▁hum orous ▁or ▁sar cast ic ▁representation ▁of ▁a ▁school ▁bus ▁being ▁over t aken ▁by ▁a ▁train , ▁possibly ▁imp lying ▁that ▁the ▁school ▁bus ▁is ▁moving ▁too ▁slowly ▁or ▁is ▁in ▁danger ▁of ▁being ▁hit ▁by ▁the ▁train .","[0,0,0,1,0,0,0]"
+TE-345.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,1,0]"
+TE-347.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-348.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,0,0]"
+TE-349.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁follows : ▁ 1 , ▁ 5 .",
+TE-35.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-350.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-351.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-352.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-353.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁image ▁shows ▁a ▁clock , ▁two ▁bott les ▁of ▁p ills , ▁and ▁a ▁glass .","[1,0,1,0,0,0,0]"
+TE-355.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,0]","▁The ▁m eme ▁shows ▁sympt oms ▁of ▁de pression , ▁specifically ▁the ▁sympt oms ▁of ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues .","[0,0,0,1,1,0,0]"
+TE-356.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-357.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-358.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",▁The ▁m eme ▁shows ▁a ▁man ▁on ▁a ▁city ▁street ▁we aring ▁a ▁large ▁circle - sh aped ▁object ▁around ▁his ▁wa ist .,"[0,1,0,0,0,0,0]"
+TE-359.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁com ic ▁strip ▁dep ict s ▁a ▁series ▁of ▁situations ▁involving ▁guns ▁and ▁violence . ▁In ▁one ▁panel , ▁a ▁child ▁is ▁shown ▁holding ▁a ▁gun , ▁and ▁in ▁another ▁panel , ▁a ▁man ▁is ▁shown ▁holding ▁a ▁gun ▁and ▁pointing ▁it ▁at ▁another ▁person . ▁These ▁scenes ▁suggest ▁that ▁the ▁com ic ▁strip ▁may ▁port ray ▁them es ▁related ▁to ▁ag gression , ▁conflict , ▁or ▁even ▁danger . ▁However , ▁it ▁is ▁important ▁to ▁note ▁that ▁the ▁interpretation ▁of ▁the ▁com ic ▁strip ' s ▁content ▁may ▁v...[truncated]","[1,0,0,0,0,0,0]"
+TE-36.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-360.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-361.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,1,0,0,0,0]"
+TE-363.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-365.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,1,1,0,0,0,0]"
+TE-366.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-368.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,1,0,0,0,0]"
+TE-369.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,1,0,0,0,0]"
+TE-371.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-372.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-375.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁man ▁with ▁a ▁bald ▁head ▁and ▁a ▁black ▁out fit , ▁dep ict ing ▁various ▁sympt oms ▁of ▁de pression . ▁The ▁m eme ▁consists ▁of ▁six ▁images , ▁each ▁showing ▁a ▁different ▁sympt om . ▁The ▁sympt oms ▁are : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep <0x0A> <0x0A> The ▁m eme ▁is ▁meant ▁to ▁be ▁hum orous ▁and ▁highlight ▁the ▁ch...[truncated]","[1,0,0,0,1,0,0]"
+TE-376.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-377.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,1,0,0]"
+TE-38.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-380.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-381.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,1]"
+TE-382.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-383.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,1,0,1,0,0]"
+TE-386.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-387.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁ 1 , ▁ 5 , ▁and ▁ 7 .","[1,0,1,0,0,0,0]"
+TE-388.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-389.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-39.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression , ▁specifically ▁the ▁first ▁five ▁sympt oms : ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁and ▁low ▁self - este em .",
+TE-390.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁man ▁and ▁a ▁baby ▁playing ▁a ▁game ▁of ▁catch ▁with ▁a ▁ball . ▁The ▁man ▁is ▁reaching ▁out ▁to ▁catch ▁the ▁ball , ▁while ▁the ▁baby ▁is ▁flying ▁in ▁the ▁air , ▁possibly ▁being ▁thrown ▁by ▁the ▁man . ▁The ▁image ▁capt ures ▁the ▁play ful ▁and ▁fun ▁atmosphere ▁of ▁the ▁game .","[0,0,0,0,0,1,0]"
+TE-391.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-392.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-393.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-394.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,1,0,0,0,0,0]"
+TE-395.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-396.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-397.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-398.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-399.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-4.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,1,1,1]"
+TE-401.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-402.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁concentration , ▁and ▁sleep .","[1,0,1,0,0,0,0]"
+TE-403.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-404.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,1]"
+TE-405.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-406.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-407.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-408.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-409.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁the ▁character ▁from ▁the ▁movie ▁"" Des pic able ▁Me "" ▁experien cing ▁various ▁de pression ▁sympt oms . ▁The ▁character ▁is ▁dep icted ▁with ▁a ▁f rown ▁on ▁its ▁face , ▁holding ▁a ▁white board ▁with ▁writing ▁on ▁it , ▁and ▁interact ing ▁with ▁a ▁marker . ▁The ▁m eme ▁consists ▁of ▁four ▁different ▁images , ▁each ▁showing ▁the ▁character ▁in ▁a ▁different ▁state ▁of ▁de pression . ▁The ▁de pression ▁sympt oms ▁include ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e...[truncated]","[1,0,0,0,0,0,0]"
+TE-41.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically ▁self - harm . ▁The ▁image ▁dep ict s ▁a ▁person ▁with ▁cut s ▁on ▁their ▁legs , ▁which ▁is ▁a ▁common ▁manifest ation ▁of ▁self - harm . ▁The ▁m eme ▁also ▁includes ▁text ▁in ▁H indi , ▁which ▁may ▁provide ▁additional ▁context ▁or ▁information ▁about ▁the ▁topic .","[0,0,1,0,0,0,0]"
+TE-410.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-412.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-414.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-415.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-416.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,1,0,0,0]"
+TE-417.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 <0xA4> क ् क र म े स े क ् म े स ा <0xE0> <0xA4> <0x8F> क े स ा म े स ा क े स ा <0xE0> <0xA4> <0x8F> क ् क <0xA4> स ा <0xE0> <0xA4> <0x8F> क ् र ा क ् क <0xA4> स ा <0xE0> <0xA4> <0x8F> क ् र ा क ् क <0xA4> क ् र ा क ् क <0xA4> स ा <0xE0> <0xA4> <0x8F> क ् र ...[truncated],"[0,0,0,1,0,1,0]"
+TE-419.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁ <0xE0> <0xA6> <0x9A> ি ত ্ র <0xE0> <0xA6> <0x9F> ি ▁ <0xE0> <0xA6> <0x8F> ক <0xE0> <0xA6> <0x9F> ি ▁ প ু র ু <0xE0> <0xA6> <0xB7> ▁ <0xE0> <0xA6> <0x8F> ব <0xE0> <0xA6> <0x82> ▁ <0xE0> <0xA6> <0x8F> ক <0xE0> <0xA6> <0x9F> ি ▁ ম হ ি ল া ▁ <0xE0> <0xA6> <0x9A> ি ত ্ র ি ত ▁ ক র ে , ▁ য ে <0xE0> <0xA6> <0x96> া ন ে ▁ প ু র ু <0xE0> <0xA6> <0xB7> <0xE0> <0xA6> <0x9F> ি ▁ <0xE0> <0xA6> <0x85> স ্ <0xE0> <0xA6> <0xA5> ি র ▁ ম ু <0xE0> <0xA6> <0x96> ▁ দ ে <0xE0> <0xA6> <0x96> া <0xE0> <0xA6> <0x9A> ...[truncated]","[1,0,0,0,0,0,1]"
+TE-42.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁follows : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,"[1,0,1,0,0,0,0]"
+TE-420.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,0]"
+TE-421.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",[ERROR: cannot identify image file 'translated_categorized_memes/UNIVERSAL_HUMAN/test/TE-421.jpg'],"[0,0,0,0,0,0,1]"
+TE-422.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,1,1,0,0]"
+TE-423.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,0]"
+TE-424.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-426.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-427.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-428.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁ON LY ▁then umber st h ata pply , e . g ."" 1 , 5 "" or "" None "". Don ot list all numbers . 1 = Fe eling down 2 = L ack of inter est 3 = Self - harm 4 = E ating 5 = L ows elf - este em 6 = Con cent r ation 7 = S leep","[0,0,0,1,0,0,0]"
+TE-429.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁man ▁in ▁a ▁foreign ▁language , ▁possibly ▁H indi , ▁talking ▁to ▁another ▁man . ▁The ▁text ▁accomp any ing ▁the ▁image ▁is ▁in ▁a ▁foreign ▁language , ▁which ▁suggests ▁that ▁the ▁m eme ▁is ▁meant ▁to ▁be ▁understood ▁by ▁a ▁non - native ▁speaker . ▁The ▁image ▁also ▁includes ▁two ▁different ▁scenes , ▁possibly ▁dep ict ing ▁a ▁conversation ▁or ▁interaction ▁between ▁the ▁two ▁men .","[0,0,0,1,0,0,0]"
+TE-43.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-430.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-432.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-433.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,1,0,0,0,0,0]"
+TE-435.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-436.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-437.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-438.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-439.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-440.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,1,0,0,0,0,0]"
+TE-441.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁the ▁three ▁Sp id erman ▁characters ▁pointing ▁at ▁each ▁other , ▁with ▁the ▁text ▁"" An x iety ,"" ▁"" AD HD ,"" ▁and ▁"" De pression "" ▁written ▁below ▁them .","[0,1,0,0,0,1,0]"
+TE-443.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,0,1]"
+TE-444.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,0,1]"
+TE-445.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,1,0,0,0]"
+TE-447.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep","[1,0,0,0,0,0,0]"
+TE-448.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-449.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","▁The ▁m eme ▁shows ▁sympt oms ▁of ▁de pression , ▁specifically ▁low ▁self - este em ▁and ▁sleep ▁issues .","[1,0,1,0,0,0,0]"
+TE-45.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-450.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-451.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-452.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,1,0]"
+TE-453.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-454.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-455.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-456.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically ▁numbers ▁ 1 , ▁ 5 , ▁and ▁ 7 . ▁These ▁sympt oms ▁include ▁feeling ▁down , ▁lack ▁of ▁interest , ▁and ▁low ▁self - este em . ▁The ▁m eme ▁also ▁shows ▁sympt oms ▁related ▁to ▁anx iety , ▁specifically ▁numbers ▁ 2 , ▁ 4 , ▁and ▁ 6 . ▁These ▁sympt oms ▁include ▁e ating , ▁concentration , ▁and ▁sleep ▁issues .","[0,0,0,1,1,1,0]"
+TE-458.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-459.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-46.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-460.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-462.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,1,0,0,0,0,0]"
+TE-463.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-464.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-465.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-466.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,1]"
+TE-468.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁"" 4 , ▁ 3 , ▁ 5 , ▁ 1 , ▁ 2 , ▁ 6 , ▁ 7 .""","[0,0,0,0,0,0,1]"
+TE-469.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-472.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁follows : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,
+TE-473.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-474.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,1]","▁The ▁m eme ▁shows ▁a ▁person ▁experien cing ▁de pression ▁sympt oms ▁such ▁as ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating ▁low ▁self - este em , ▁and ▁difficulty ▁concentr ating ▁or ▁sleep ing .","[1,0,0,0,0,0,1]"
+TE-475.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-476.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-477.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-478.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-48.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,1,0,1,0,0]"
+TE-480.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-481.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-482.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-483.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁sympt oms ▁of ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues . ▁It ▁does ▁not ▁show ▁any ▁sympt oms ▁related ▁to ▁sleep .","[0,0,0,1,0,0,0]"
+TE-485.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-486.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,1,0,0,0,0,0]"
+TE-487.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁picture ▁of ▁two ▁men ▁kiss ing , ▁with ▁a ▁quote ▁in ▁H indi ▁that ▁reads , ▁"" T ension , ▁An x iety , ▁Str ess , ▁Fe el ings ▁Down .""",
+TE-488.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,0,1]"
+TE-489.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,1,0,0,0,0,0]"
+TE-49.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-490.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-491.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁cart oon ▁character ▁with ▁a ▁sad ▁expression ▁and ▁head ph ones , ▁which ▁could ▁represent ▁feelings ▁of ▁de pression ▁or ▁sad ness . ▁The ▁character ▁is ▁we aring ▁head ph ones , ▁which ▁might ▁suggest ▁that ▁they ▁are ▁trying ▁to ▁escape ▁from ▁their ▁emot ions ▁or ▁immer se ▁themselves ▁in ▁music ▁or ▁other ▁forms ▁of ▁entertain ment ▁to ▁co pe ▁with ▁their ▁feelings .","[1,0,1,0,0,0,0]"
+TE-493.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁a ▁variety ▁of ▁de pression ▁sympt oms , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues . ▁It ▁also ▁includes ▁sleep ▁dist urban ces ▁as ▁a ▁sympt om .","[1,0,0,0,1,0,1]"
+TE-494.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-495.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-496.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,1]"
+TE-498.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,1,0,0,1,0,0]"
+TE-499.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-5.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-500.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁in ▁the ▁form ▁of ▁numbers . ▁The ▁numbers ▁are ▁ 1 , ▁ 5 .","[1,0,0,0,1,0,0]"
+TE-501.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,0,0]"
+TE-502.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁dis order ▁and ▁e ating ▁dis order .,"[0,0,0,1,0,0,0]"
+TE-503.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,1,0,0,0]"
+TE-504.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-507.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,1,1,0,0]"
+TE-508.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,1,0]"
+TE-51.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-510.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,1,0,0,0,0,0]"
+TE-511.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,1]"
+TE-513.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-514.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,1,0,1,1]"
+TE-515.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-516.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁people ▁trying ▁to ▁sit ▁on ▁a ▁ben ch , ▁with ▁some ▁of ▁them ▁falling ▁off ▁the ▁ben ch . ▁It ▁does ▁not ▁show ▁any ▁specific ▁sympt oms ▁related ▁to ▁de pression ▁or ▁self - harm .","[0,1,0,0,0,0,0]"
+TE-517.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-518.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-52.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-520.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,1]"
+TE-522.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-523.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-524.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-527.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁e ating ▁dis orders .,"[0,0,0,1,0,0,0]"
+TE-528.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-529.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,0]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically ▁the ▁sympt oms ▁of ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues .","[1,1,0,0,0,0,0]"
+TE-53.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-530.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁ <0xE0> <0xA4> <0x9B> व ि ▁ म े ं ▁ <0xE0> <0xA4> <0x8F> क ▁ आ द म ी ▁ क ो ▁ द ि ख ा य ा ▁ ग य ा ▁ ह ै ▁ ज ो ▁ अ प न े ▁ च े ह र े ▁ प र ▁ <0xE0> <0xA4> <0x8F> क ▁ ह ा थ ▁ र ख क र ▁ <0xE0> <0xA4> <0x8F> क ▁ <0xE0> <0xA4> <0x89> द ा स ▁ य ा ▁ <0xE0> <0xA4> <0x89> द ा स ▁ भ ा व ▁ द ि ख ा ▁ र ह ा ▁ ह ै । ▁ <0xE0> <0xA4> <0x89> स क े ▁ च े ह र े ▁ प र ▁ <0xE0> <0xA4> <0x8F> क ▁ ह ा थ ▁ ह ो न े ▁ क े ▁ क ा र ण , ▁ <0xE0> <0xA4> <0x89> स क े ▁ च े ह र े ▁ प र ▁ <0xE0> <0xA4> <0x8F> क ▁ ह ा थ ▁ ह ो न ...[truncated]","[0,0,0,0,0,0,1]"
+TE-531.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-532.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-534.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-535.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-536.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-537.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,0]"
+TE-538.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,1]"
+TE-539.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁various ▁sympt oms ▁of ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues . ▁It ▁also ▁shows ▁sleep ▁problems ▁as ▁a ▁sympt om ▁of ▁de pression .","[1,0,0,0,1,0,0]"
+TE-54.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-541.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,0]"
+TE-542.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-543.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁ON LY ▁then umber st h ata pply , ▁e . g . ▁"" 1 , 5 "" ▁or ▁"" None "". ▁Do ▁not ▁list ▁all ▁numbers .",
+TE-544.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-545.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-547.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-548.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,1]"
+TE-55.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,1,0,0]"
+TE-551.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-552.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-553.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁the ▁character ▁S pon ge Bob ▁feeling ▁down , ▁as ▁indicated ▁by ▁the ▁number ▁ 1 .","[0,1,0,0,0,0,0]"
+TE-554.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁character ▁from ▁a ▁cart oon , ▁specifically ▁S pon ge Bob ▁Square P ants , ▁with ▁his ▁mouth ▁open , ▁possibly ▁express ing ▁fr ustration ▁or ▁anger . ▁This ▁is ▁accompanied ▁by ▁text ▁in ▁another ▁language , ▁which ▁appears ▁to ▁be ▁H indi . ▁The ▁m eme ▁is ▁likely ▁meant ▁to ▁be ▁hum orous ▁or ▁rel atable , ▁as ▁it ▁comb ines ▁the ▁recogn izable ▁character ▁from ▁a ▁popular ▁cart oon ▁with ▁a ▁cultural ▁reference ▁to ▁H indi .","[0,0,0,0,0,0,1]"
+TE-555.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,1,0,0]"
+TE-556.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-557.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁image ▁features ▁a ▁cart oon ▁character , ▁P ik ach u , ▁with ▁a ▁shock ed ▁or ▁surprised ▁expression . ▁It ▁is ▁not ▁clear ▁whether ▁this ▁character ▁is ▁from ▁a ▁Pok ém on ▁game ▁or ▁a ▁separate ▁m eme . ▁The ▁image ▁may ▁be ▁associated ▁with ▁various ▁emot ions ▁or ▁re actions , ▁such ▁as ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁concentration ▁issues , ▁or ▁sleep ▁dist urban ces . ▁The ▁interpretation ▁of ▁the ▁image ▁and ▁its ▁emot ional ...[truncated]","[1,0,0,0,0,0,0]"
+TE-558.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁man ▁with ▁a ▁sm irk ▁on ▁his ▁face , ▁which ▁could ▁be ▁interpreted ▁as ▁a ▁de pressed ▁expression . ▁It ▁is ▁important ▁to ▁note ▁that ▁the ▁man ' s ▁fa cial ▁expression ▁might ▁not ▁necessarily ▁indicate ▁de pression , ▁but ▁rather ▁a ▁play ful ▁or ▁sar cast ic ▁expression . ▁The ▁m eme ▁also ▁includes ▁two ▁different ▁images ▁of ▁the ▁man , ▁which ▁could ▁be ▁used ▁to ▁emphas ize ▁the ▁contrast ▁between ▁his ▁seem ingly ▁happy ▁de mean or ▁and ▁the ▁potential ▁underlyi...[truncated]","[1,1,0,0,0,0,0]"
+TE-559.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁a ▁person ▁experien cing ▁sympt oms ▁of ▁de pression , ▁such ▁as ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁and ▁concentration ▁issues . ▁It ▁does ▁not ▁show ▁any ▁sympt oms ▁related ▁to ▁sleep .","[0,1,0,0,0,0,0]"
+TE-56.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁character ▁feeling ▁down , ▁which ▁is ▁the ▁first ▁sympt om .","[1,0,0,0,0,0,0]"
+TE-560.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-561.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-562.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-563.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁a ▁series ▁of ▁mem es , ▁likely ▁referencing ▁the ▁TV ▁show ▁"" The ▁Sim ps ons ."" ▁The ▁sympt oms ▁include ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁concentration , ▁and ▁sleep .","[1,1,0,0,0,0,0]"
+TE-564.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-565.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,0,1]"
+TE-566.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-567.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,1]"
+TE-568.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁ 1 , ▁ 5 , ▁and ▁ 7 .",
+TE-569.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-57.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-570.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁cat ▁lay ing ▁on ▁a ▁c ouch ▁and ▁another ▁cat ▁lay ing ▁on ▁the ▁c ouch ▁in ▁front ▁of ▁it . ▁There ▁are ▁two ▁images ▁of ▁the ▁cat ▁lay ing ▁on ▁the ▁c ouch , ▁and ▁each ▁image ▁has ▁a ▁ca ption ▁under ne ath ▁it . ▁The ▁ca ptions ▁are ▁in ▁a ▁foreign ▁language ▁and ▁describe ▁the ▁cat ' s ▁actions , ▁such ▁as ▁"" lying ▁down ,"" ▁"" looking ▁at ▁the ▁camera ,"" ▁and ▁"" st aring ▁at ▁the ▁ground ."" ▁The ▁m eme ▁capt ures ▁the ▁cat ' s ▁various ▁positions ▁and ▁expressions ▁i...[truncated]","[1,0,0,0,0,0,0]"
+TE-571.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression ▁and ▁self - harm . ▁Specifically , ▁it ▁shows ▁a ▁person ▁with ▁a ▁kn ife ▁to ▁their ▁st om ach , ▁which ▁represents ▁self - harm . ▁Additionally , ▁there ▁is ▁a ▁bow l ▁on ▁the ▁table , ▁which ▁might ▁be ▁related ▁to ▁e ating ▁dis orders ▁or ▁low ▁self - este em . ▁However , ▁the ▁m eme ▁does ▁not ▁show ▁sympt oms ▁related ▁to ▁feeling ▁down , ▁lack ▁of ▁interest , ▁concentration , ▁sleep , ▁or ▁low ▁self - este em .","[1,0,1,1,1,0,0]"
+TE-572.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]","▁The ▁m eme ▁shows ▁a ▁cat ▁sleep ing ▁on ▁a ▁bed , ▁with ▁a ▁ca ption ▁that ▁describes ▁the ▁cat ' s ▁situation . ▁The ▁ca ptions ▁are ▁written ▁in ▁a ▁foreign ▁language , ▁and ▁the ▁m eme ▁consists ▁of ▁two ▁pictures , ▁one ▁with ▁the ▁cat ▁sleep ing ▁and ▁the ▁other ▁with ▁the ▁ca ption . ▁The ▁m eme ▁is ▁meant ▁to ▁convey ▁the ▁idea ▁of ▁the ▁cat ▁feeling ▁down ▁or ▁experien cing ▁sympt oms ▁of ▁de pression .","[1,0,0,0,0,0,1]"
+TE-573.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁ 1 , ▁ 5 , ▁and ▁ 7 .","[0,0,0,1,0,0,0]"
+TE-574.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,1,0]"
+TE-575.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁ON LY ▁then umber st h ata pply , ▁e . g . ▁"" 1 , 5 "" ▁or ▁"" None "". ▁Do ▁not ▁list ▁all ▁numbers . ▁ 1 = Fe eling down ▁ 2 = L ack of inter est ▁ 3 = Self - harm ▁ 4 = E ating ▁ 5 = L ow ▁self - este em ▁ 6 = Con cent r ation ▁ 7 = S leep",
+TE-576.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁ON LY ▁then umber st h ata pply , ▁e . g . ▁"" 1 , 5 "" ▁or ▁"" None "". ▁Do ▁not ▁list ▁all ▁numbers .",
+TE-577.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁man ▁sitting ▁on ▁a ▁c ouch , ▁holding ▁a ▁bott le ▁and ▁a ▁remote ▁control . ▁The ▁image ▁is ▁divided ▁into ▁two ▁parts , ▁with ▁one ▁part ▁showing ▁the ▁man ▁holding ▁the ▁bott le ▁and ▁the ▁other ▁part ▁showing ▁the ▁man ▁holding ▁the ▁remote ▁control . ▁The ▁m eme ▁is ▁written ▁in ▁a ▁foreign ▁language , ▁and ▁it ▁appears ▁to ▁be ▁a ▁hum orous ▁representation ▁of ▁the ▁man ' s ▁behavior ▁while ▁watching ▁TV .","[1,1,1,0,0,0,0]"
+TE-578.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-579.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,1,0,0,0,0,0]"
+TE-58.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-580.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁in ▁Ur du . ▁The ▁Ur du ▁translation ▁of ▁the ▁m eme ▁is : <0x0A> <0x0A> "" 1 . ▁ م ح س و س ▁ ک ر ن ے ▁ ک ی ▁ ک م ی <0x0A> 2 . ▁ د ل چ س پ ی ▁ ک ی ▁ ک م ی <0x0A> 3 . ▁ خ و د ▁ ک و ▁ ن ق ص ا ن ▁ پ ہ ن چ ا ن ے ▁ ک ی ▁ ک و ش ش <0x0A> 4 . ▁ ک ھ ا ن ے ▁ ک ی ▁ ت ب د ی ل ی <0x0A> 5 . ▁ خ و د ▁ ا ع ت م ا د ▁ ک ی ▁ ک م ی <0x0A> 6 . ▁ ت و ج ہ ▁ ک ی ▁ ک م ی <0x0A> 7 . ▁ س و ن ے ▁ ک ی ▁ ک م ی ""","[0,0,0,1,0,0,0]"
+TE-581.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-582.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-584.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression , ▁specifically ▁the ▁feeling ▁down ▁and ▁lack ▁of ▁interest .","[0,0,0,0,0,0,1]"
+TE-585.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,1,0,0]","▁ 1 , ▁ 2 , ▁ 5","[1,0,0,0,0,1,0]"
+TE-587.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,1,0,0,0,0,0]"
+TE-59.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁ON LY ▁THEN ▁NUM BER S ▁TH AT ▁AP PL Y , ▁E . G . ▁"" 1 , 5 "" ▁OR ▁"" None "". ▁D ON ' T ▁L IST ▁ALL ▁NUM BER S .",
+TE-590.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁concentration , ▁and ▁sleep .",
+TE-592.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,1,0,0,0,0,0]"
+TE-593.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-594.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-596.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁ 1 2 ▁H indi ▁m eme ▁ke ▁t as ve er ▁me in ▁ek ▁aur at ▁d ikh ati ▁ha i , ▁j isme in ▁w oh ▁ek ▁aur at ▁ha i ▁jo ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁me in ▁ek ▁t as ve er ▁m...[truncated]","[0,0,0,0,0,0,1]"
+TE-597.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-598.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-599.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-6.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-60.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-600.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,1]"
+TE-601.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,1,0,0]"
+TE-603.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-604.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,1]"
+TE-605.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,1,0,0,0,0,0]"
+TE-606.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,1,0,0,0]"
+TE-607.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁a ▁character , ▁likely ▁Mar ge ▁Sim pson ▁from ▁The ▁Sim ps ons , ▁filling ▁out ▁a ▁check list ▁or ▁a ▁form ▁with ▁options ▁related ▁to ▁de pression ▁sympt oms . ▁The ▁options ▁include ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁concentration , ▁and ▁sleep .","[1,0,0,1,1,0,0]"
+TE-608.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,0,1]"
+TE-609.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,1,0]"
+TE-61.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,1,0,0]"
+TE-610.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-612.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,1,0,0]"
+TE-613.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁ON LY ▁then umber st h ata pply , e . g ."" 1 , 5 "" or "" None "". Don ot list all numbers . 1 = Fe eling down 2 = L ack of inter est 3 = Self - harm 4 = E ating 5 = L ows elf - este em 6 = Con cent r ation 7 = S leep","[1,1,0,0,0,0,0]"
+TE-614.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁follows : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,"[0,1,0,0,0,0,1]"
+TE-616.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,1,0,0,0,1]"
+TE-617.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-618.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",[ERROR: cannot identify image file 'translated_categorized_memes/UNIVERSAL_HUMAN/test/TE-618.jpg'],"[0,0,0,0,0,0,1]"
+TE-62.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁ON LY ▁then umber st h ata pply , ▁e . g . ▁"" 1 , 5 "" ▁or ▁"" None "". ▁Do ▁not ▁list ▁all ▁numbers . ▁ 1 = Fe eling down ▁ 2 = L ack of inter est ▁ 3 = Self - harm ▁ 4 = E ating ▁ 5 = L ow ▁self - este em ▁ 6 = Con cent r ation ▁ 7 = S leep",
+TE-620.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-621.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,1,0,0,0,0,0]"
+TE-622.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,1,0]"
+TE-623.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-624.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-625.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-626.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁ 1 , ▁ 5 , ▁and ▁ 7 .","[0,0,0,1,0,0,0]"
+TE-627.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,1,0,0,0,0,0]"
+TE-628.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,1,0,0,0]"
+TE-63.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-630.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-631.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,1,0,0,0]"
+TE-633.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-634.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-635.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-636.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,1,0,0,0,0,0]"
+TE-637.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-638.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁ 1 , ▁ 5 , ▁and ▁ 7 .",
+TE-639.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,1,0,1]"
+TE-64.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically ▁the ▁fifth ▁sympt om : ▁"" L ows elf - este em ."" ▁The ▁ted dy ▁bear ▁is ▁dep icted ▁with ▁a ▁sh irt ▁that ▁says ▁"" L ow ▁self - este em "" ▁on ▁it , ▁which ▁is ▁a ▁play ful ▁way ▁of ▁representing ▁the ▁negative ▁emot ions ▁associated ▁with ▁de pression .","[1,0,0,0,0,0,0]"
+TE-640.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,1,0,0,0,0,0]"
+TE-641.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-642.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-643.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]","▁The ▁m eme ▁shows ▁sympt oms ▁related ▁to ▁de pression , ▁specifically ▁numbers ▁ 1 , ▁ 5 , ▁and ▁ 7 . ▁These ▁sympt oms ▁are ▁feeling ▁down , ▁low ▁self - este em , ▁and ▁difficulty ▁concentr ating . ▁The ▁m eme ▁does ▁not ▁show ▁sympt oms ▁related ▁to ▁e ating ▁or ▁sleep .",
+TE-645.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,1,0,0,0,0,0]"
+TE-646.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-647.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-648.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-649.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,1,0,0,0,0,0]"
+TE-65.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-651.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,1]"
+TE-652.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-653.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-654.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁follows : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,
+TE-655.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-656.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,1,0,0,0,1,1]"
+TE-657.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-658.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁doctor ▁talking ▁to ▁a ▁patient , ▁with ▁the ▁doctor ▁holding ▁a ▁st eth os cope .","[0,0,0,0,0,1,0]"
+TE-659.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-66.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-660.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-661.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,1,0]"
+TE-662.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-67.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,1,0,0,0,0]"
+TE-68.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁the ▁number ▁ 5 , ▁which ▁represents ▁low ▁self - este em .",
+TE-69.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,0,0,0,0,0]"
+TE-7.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁a ▁character ▁experien cing ▁de pression ▁sympt oms ▁such ▁as ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating , ▁low ▁self - este em , ▁concentration , ▁and ▁sleep ▁dist urban ces .","[0,0,1,0,0,0,0]"
+TE-71.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁The ▁m eme ▁shows ▁a ▁woman ▁sitting ▁in ▁a ▁car , ▁with ▁one ▁image ▁dep ict ing ▁her ▁looking ▁sad ▁and ▁the ▁other ▁image ▁showing ▁her ▁looking ▁happy . ▁The ▁text ▁accomp any ing ▁the ▁images ▁reads ▁"" Y a ▁te ▁gu ▁d h un na "" ▁in ▁H indi , ▁which ▁transl ates ▁to ▁"" You ▁are ▁feeling ▁down ."" ▁The ▁m eme ▁is ▁likely ▁meant ▁to ▁convey ▁the ▁emot ional ▁state ▁of ▁the ▁woman ▁in ▁the ▁car , ▁using ▁the ▁contrast ▁between ▁the ▁two ▁images ▁to ▁represent ▁her ▁feelings .","[1,0,0,0,0,0,0]"
+TE-72.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,1,0,0,1,0,0]"
+TE-73.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,1,0,0,0,0,0]"
+TE-75.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,1,0,1]"
+TE-76.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-77.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-79.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁the ▁sympt oms ▁of ▁de pression ▁as ▁follows : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,"[1,0,0,0,0,0,0]"
+TE-80.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-81.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-82.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-83.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,1,0,0,0,0,0]"
+TE-84.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5","[0,0,0,0,0,0,1]"
+TE-85.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","▁The ▁m eme ▁shows ▁a ▁man ▁experien cing ▁various ▁sympt oms ▁of ▁de pression , ▁including ▁feeling ▁down , ▁lack ▁of ▁interest , ▁self - harm , ▁e ating ▁low ▁self - este em , ▁concentration , ▁and ▁sleep .","[1,0,0,0,0,0,0]"
+TE-86.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",[ERROR: cannot identify image file 'translated_categorized_memes/UNIVERSAL_HUMAN/test/TE-86.jpg'],
+TE-89.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-91.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁a ▁cart oon ▁character ▁experien cing ▁various ▁de pression ▁sympt oms . ▁The ▁sympt oms ▁are ▁dep icted ▁as ▁follows : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,"[0,0,1,0,1,0,0]"
+TE-92.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-93.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,0,0,0]"
+TE-94.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","▁ON LY ▁then umber st h ata pply , e . g ."" 1 , 5 "" or "" None "". Don ot list all numbers . 1 = Fe eling down 2 = L ack of inter est 3 = Self - harm 4 = E ating 5 = L ows elf - este em 6 = Con cent r ation 7 = S leep",
+TE-95.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]",▁The ▁m eme ▁shows ▁a ▁series ▁of ▁images ▁dep ict ing ▁a ▁person ▁experien cing ▁various ▁sympt oms ▁of ▁de pression . ▁The ▁specific ▁sympt oms ▁shown ▁in ▁the ▁m eme ▁are : <0x0A> <0x0A> 1 . ▁Fe eling ▁down <0x0A> 2 . ▁L ack ▁of ▁interest <0x0A> 3 . ▁Self - harm <0x0A> 4 . ▁E ating <0x0A> 5 . ▁Low ▁self - este em <0x0A> 6 . ▁Con cent r ation <0x0A> 7 . ▁S leep,"[0,1,0,0,0,0,0]"
+TE-96.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , 5",
+TE-97.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-205.jpg,VISUAL_SYMBOL_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[0,0,0,0,0,0,1]"
+TE-276.jpg,VISUAL_SYMBOL_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5",
+TE-461.jpg,VISUAL_SYMBOL_DEPENDENT,"[0,0,0,0,0,0,0]",▁ <0xE0> <0xA6> <0x9A> ি ত ্ র ে ▁ <0xE0> <0xA6> <0x8F> ক <0xE0> <0xA6> <0x9F> ি ▁ ত র ু <0xE0> <0xA6> <0xA3> ▁ ম ে য ় ে ▁ <0xE0> <0xA6> <0x8F> ক <0xE0> <0xA6> <0x9F> ি ▁ <0xE0> <0xA6> <0xA5> া ম স ▁ <0xE0> <0xA6> <0x86> প ▁ দ ি য ় ে ▁ <0xE0> <0xA6> <0x9B> ব ি ▁ ত ু ল <0xE0> <0xA6> <0x9B> ে ।,"[1,0,0,0,0,0,0]"
+TE-512.jpg,VISUAL_SYMBOL_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , ▁ 5","[1,0,0,0,1,0,1]"
+TE-87.jpg,VISUAL_SYMBOL_DEPENDENT,"[1,0,0,0,1,0,0]","▁ 1 , 5","[1,0,1,0,0,0,0]"

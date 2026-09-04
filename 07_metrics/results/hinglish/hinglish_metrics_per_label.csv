@@ -1,0 +1,57 @@
+model,symptom,precision,recall,f1,support
+IndicBERTv2-SS,Feeling Down,0.4103,1.0,0.5818,16
+IndicBERTv2-SS,Lack of Interest,0.0,0.0,0.0,2
+IndicBERTv2-SS,Self-Harm,0.1053,1.0,0.1905,4
+IndicBERTv2-SS,Eating Disorder,0.2778,0.5,0.3571,10
+IndicBERTv2-SS,Low Self-Esteem,0.2564,1.0,0.4082,10
+IndicBERTv2-SS,Concentration Problem,0.3333,0.5,0.4,4
+IndicBERTv2-SS,Sleeping Disorder,0.0,0.0,0.0,4
+IndicBERTv2-Sam,Feeling Down,0.4286,0.1875,0.2609,16
+IndicBERTv2-Sam,Lack of Interest,0.0,0.0,0.0,2
+IndicBERTv2-Sam,Self-Harm,0.0,0.0,0.0,4
+IndicBERTv2-Sam,Eating Disorder,0.0,0.0,0.0,10
+IndicBERTv2-Sam,Low Self-Esteem,0.0,0.0,0.0,10
+IndicBERTv2-Sam,Concentration Problem,0.1053,1.0,0.1905,4
+IndicBERTv2-Sam,Sleeping Disorder,0.125,0.25,0.1667,4
+MuRIL,Feeling Down,0.0,0.0,0.0,16
+MuRIL,Lack of Interest,0.0513,1.0,0.0976,2
+MuRIL,Self-Harm,0.0,0.0,0.0,4
+MuRIL,Eating Disorder,0.0,0.0,0.0,10
+MuRIL,Low Self-Esteem,0.0,0.0,0.0,10
+MuRIL,Concentration Problem,0.1026,1.0,0.186,4
+MuRIL,Sleeping Disorder,0.1026,1.0,0.186,4
+MentalBERT,Feeling Down,0.4103,1.0,0.5818,16
+MentalBERT,Lack of Interest,0.0513,1.0,0.0976,2
+MentalBERT,Self-Harm,0.1026,1.0,0.186,4
+MentalBERT,Eating Disorder,0.2564,1.0,0.4082,10
+MentalBERT,Low Self-Esteem,0.2564,1.0,0.4082,10
+MentalBERT,Concentration Problem,0.0385,0.25,0.0667,4
+MentalBERT,Sleeping Disorder,0.1026,1.0,0.186,4
+MentalRoBERTa,Feeling Down,0.4103,1.0,0.5818,16
+MentalRoBERTa,Lack of Interest,0.0,0.0,0.0,2
+MentalRoBERTa,Self-Harm,0.1026,1.0,0.186,4
+MentalRoBERTa,Eating Disorder,0.0,0.0,0.0,10
+MentalRoBERTa,Low Self-Esteem,0.0,0.0,0.0,10
+MentalRoBERTa,Concentration Problem,0.1026,1.0,0.186,4
+MentalRoBERTa,Sleeping Disorder,0.0,0.0,0.0,4
+BART-Base,Feeling Down,0.4103,1.0,0.5818,16
+BART-Base,Lack of Interest,0.0,0.0,0.0,2
+BART-Base,Self-Harm,0.1026,1.0,0.186,4
+BART-Base,Eating Disorder,0.2564,1.0,0.4082,10
+BART-Base,Low Self-Esteem,0.0,0.0,0.0,10
+BART-Base,Concentration Problem,0.0,0.0,0.0,4
+BART-Base,Sleeping Disorder,0.1026,1.0,0.186,4
+BART-Large,Feeling Down,0.0,0.0,0.0,16
+BART-Large,Lack of Interest,0.0385,0.5,0.0714,2
+BART-Large,Self-Harm,0.0625,0.5,0.1111,4
+BART-Large,Eating Disorder,0.2258,0.7,0.3415,10
+BART-Large,Low Self-Esteem,0.4,0.4,0.4,10
+BART-Large,Concentration Problem,0.1026,1.0,0.186,4
+BART-Large,Sleeping Disorder,0.1053,1.0,0.1905,4
+MentalBART,Feeling Down,0.0,0.0,0.0,16
+MentalBART,Lack of Interest,0.0,0.0,0.0,2
+MentalBART,Self-Harm,0.0,0.0,0.0,4
+MentalBART,Eating Disorder,0.0,0.0,0.0,10
+MentalBART,Low Self-Esteem,0.0,0.0,0.0,10
+MentalBART,Concentration Problem,0.0,0.0,0.0,4
+MentalBART,Sleeping Disorder,0.0,0.0,0.0,4

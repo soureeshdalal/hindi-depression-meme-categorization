@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# ── Images (stored on Google Drive — see docs/DATA_ON_GDRIVE.md) ──
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.gif
+**/*.webp
+
+# Keep empty image directories in the repo
+!**/.gitkeep
+
+# ── Archive (superseded; local / optional GDrive mirror) ──
+# Contains ~2.8 GB HTML with embedded images and duplicate exports.
+archive/
+
+# Logs
+*.log
+
+# Model checkpoints (regenerate via fine-tuning scripts)
+**/checkpoints/
+**/*.pt
+**/*.bin
+**/*.safetensors
+**/*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary
+*.tmp
+.cache/

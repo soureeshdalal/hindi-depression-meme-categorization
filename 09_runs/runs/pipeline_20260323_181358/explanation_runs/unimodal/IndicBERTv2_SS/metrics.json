@@ -1,0 +1,47 @@
+{
+  "n_samples": 581,
+  "macro_f1": 0.2294,
+  "weighted_f1": 0.2819,
+  "macro_precision": 0.147,
+  "macro_recall": 0.6388,
+  "per_label": {
+    "Feeling Down": {
+      "f1": 0.4837,
+      "precision": 0.3212,
+      "recall": 0.9788
+    },
+    "Lack of Interest": {
+      "f1": 0.1912,
+      "precision": 0.1059,
+      "recall": 0.9839
+    },
+    "Self-Harm": {
+      "f1": 0.0899,
+      "precision": 0.0721,
+      "recall": 0.1194
+    },
+    "Eating Disorder": {
+      "f1": 0.1912,
+      "precision": 0.1095,
+      "recall": 0.7536
+    },
+    "Low Self-Esteem": {
+      "f1": 0.2857,
+      "precision": 0.1683,
+      "recall": 0.9457
+    },
+    "Concentration Problem": {
+      "f1": 0.1692,
+      "precision": 0.1269,
+      "recall": 0.2537
+    },
+    "Sleeping Disorder": {
+      "f1": 0.195,
+      "precision": 0.1255,
+      "recall": 0.4366
+    }
+  },
+  "model": "IndicBERTv2-SS",
+  "input": "explanation",
+  "folder": "IndicBERTv2_SS"
+}

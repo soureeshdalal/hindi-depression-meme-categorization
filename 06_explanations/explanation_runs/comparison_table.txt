@@ -1,0 +1,10 @@
+model                  input           n  macro_f1    wt_f1    prec     rec   Δmacro_f1
+---------------------------------------------------------------------------------------
+IndicBERTv2-SS         explanation   581    0.1960   0.2504  0.1275  0.5641  +   0.0219
+IndicBERTv2-Sam        explanation   581    0.2380   0.2593  0.1647  0.7071  +   0.0349
+MuRIL                  explanation   581    0.0295   0.0225  0.0165  0.1429    -0.0766
+MentalBERT             explanation   581    0.2558   0.3017  0.1516  0.9817    -0.0608
+MentalRoBERTa          explanation   581    0.1974   0.2580  0.1183  0.7143  +   0.0167
+BART-Base              explanation   581    0.1864   0.1531  0.1056  0.8230    -0.0057
+BART-Large             explanation   581    0.1895   0.2043  0.1442  0.5634  +   0.0318
+MentalBART             explanation   581    0.2573   0.3042  0.1517  1.0000    -0.0622

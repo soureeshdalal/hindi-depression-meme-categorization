@@ -1,0 +1,31 @@
+% ACL-style table: category distribution (N=1,021)
+% Requires: \usepackage{booktabs}
+% Usage: \input{category_distribution_table.tex}
+
+\begin{table}[t]
+  \centering
+  \small
+  \begin{tabular}{lrrr}
+    \toprule
+    \textbf{Category} & \textbf{Count} & \textbf{\%} & \textbf{Cum.\ \%} \\
+    \midrule
+    Universal Human            & 827 & 81.0 & 81.0 \\
+    Language                   &  41 &  4.0 & 85.0 \\
+    Pop Culture                &  31 &  3.0 & 88.0 \\
+    Cultural Reference         &  25 &  2.4 & 90.4 \\
+    Brand                      &  24 &  2.4 & 92.8 \\
+    Media Context              &  18 &  1.8 & 94.6 \\
+    Niche Subculture           &  12 &  1.2 & 95.8 \\
+    Celebrity                  &  11 &  1.1 & 96.9 \\
+    Meme Format                &   8 &  0.8 & 97.7 \\
+    Reference                  &   8 &  0.8 & 98.5 \\
+    Visual Symbol              &   7 &  0.7 & 99.2 \\
+    Lifestyle Context          &   6 &  0.6 & 99.8 \\
+    Internet Culture           &   3 &  0.3 &100.0 \\
+    \midrule
+    \textbf{Total}             & \textbf{1,021} & \textbf{100.0} & --- \\
+    \bottomrule
+  \end{tabular}
+  \caption{Distribution of 1,021 English depression memes across the 13 cultural dependency categories assigned by Gemini-based visual categorization. The top five categories account for 92.8\% of the corpus; the remaining eight categories are long-tail cultural adaptation types.}
+  \label{tab:category-distribution}
+\end{table}

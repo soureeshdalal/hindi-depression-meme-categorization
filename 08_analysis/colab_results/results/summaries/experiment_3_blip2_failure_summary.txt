@@ -1,0 +1,71 @@
+
+# EXPERIMENT 3 - BLIP-2 EXPLANATION-AUGMENTED (FAILED)
+
+## Date: 2026-04-01
+
+## Model Configuration
+- Model: Salesforce/blip2-flan-t5-xl
+- GPU: NVIDIA A100-SXM4-40GB
+- Approach: Explanation + Image (natural language prompts)
+
+## Results
+**CATASTROPHIC FAILURE**
+- Macro-F1: 0.0126 (1.3%)
+- 95% WORSE than InstructBLIP baseline (25%)
+
+## Per-Symptom Performance
+- Feeling Down: 8.8% F1 (only symptom detected at all)
+- All other symptoms: 0.0% F1 (zero detections)
+
+## What Went Wrong
+
+### Issue 1: Model produces incoherent outputs
+Sample outputs:
+- "social addiction-an individual committing activity/service with others..."
+- "neurochemical level imbalance during periods known but without disturbance..."
+- "no loss about passion can solve my majoring of psychology at home"
+
+### Issue 2: Even without explanations, model fails
+Tested image-only prompts (no explanations):
+- Still produces gibberish
+- Generic conversational responses ("I am not interested in you")
+- Repetition loops ("I am not sure what you mean by saying...")
+
+### Issue 3: Greedy decoding doesn't help
+- Tried deterministic generation (no sampling)
+- Still produces generic conversation, not symptom lists
+- Model fundamentally cannot follow structured instructions
+
+## Root Cause
+BLIP-2-Flan-T5 is trained for:
+- Open-ended visual question answering
+- Conversational dialogue
+- Image captioning
+
+NOT for:
+- Structured classification
+- Multi-label symptom detection
+- Following specific output formats
+
+## Comparison to InstructBLIP
+InstructBLIP (25% F1) vs BLIP-2 (1.3% F1):
+- InstructBLIP: Designed for instruction-following
+- BLIP-2: Designed for open conversation
+- Task requires instruction-following capability
+
+## Research Implications
+- Not all vision-language models are suitable for classification tasks
+- Instruction-tuned models (InstructBLIP) > Conversational models (BLIP-2)
+- Explanation-augmentation ONLY helps if base model works
+- Baseline model capability is prerequisite for prompting strategies
+
+## Files Generated
+- blip2_explanation_augmented.csv (650 predictions - mostly [0,0,0,0,0,0,0])
+- blip2_explanation_augmented_metrics.csv (1.3% macro-F1)
+
+## Recommendation
+- DO NOT use BLIP-2 for this task
+- InstructBLIP baseline (25%) remains best result
+- For Track B (explanation-augmented), need different model:
+  - LLaVA-NeXT-7B (proven instruction-following)
+  - Or proceed directly to Track C/D (fine-tuning)

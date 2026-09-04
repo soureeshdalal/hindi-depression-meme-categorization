@@ -1,0 +1,51 @@
+
+# EXPERIMENT 1 COMPLETE - InstructBLIP Zero-Shot Baseline
+
+## Date: 2026-04-01 04:59
+
+## Model Configuration
+- Model: Salesforce/instructblip-vicuna-7b
+- GPU: NVIDIA A100-SXM4-40GB (Google Colab Pro)
+- Approach: Zero-shot with natural language prompting
+
+## Dataset
+- Total images: 650 Hindi mental health memes
+- Test set from: translated_categorized_memes/*/test/
+
+## Prompt Used
+"List all mental health issues shown in this meme. Options: depression, loss of interest, self-harm, eating problems, low self-esteem, concentration issues, sleep problems. List all that apply, separated by commas."
+
+## Results Summary
+- **Macro-F1: 0.2500 (25%)**
+- **Weighted-F1: 0.3021 (30%)**
+- **Macro Precision: 0.1621 (16%)**
+- **Macro Recall: 0.5607 (56%)**
+
+## Per-Symptom Performance
+- Feeling Down: 50.1% F1 (BEST)
+- Lack of Interest: 15.1% F1
+- Self-Harm: 21.5% F1
+- Eating Disorder: 25.7% F1
+- Low Self-Esteem: 26.5% F1
+- Concentration Problems: 17.5% F1
+- Sleeping Disorder: 18.8% F1
+
+## Key Findings
+1. ✅ Natural language prompting works (25% vs 0% for structured output)
+2. ⚠️ Model exhibits over-prediction bias (high recall, low precision)
+3. ✅ "Feeling Down" easiest symptom to detect (50% F1)
+4. ✅ Establishes baseline for Track B/C/D experiments
+
+## Files Saved
+- instructblip_natural_language.csv (predictions for 650 images)
+- instructblip_natural_language_metrics.csv (F1 scores)
+- instructblip_natural_language_metrics.json (full metrics)
+
+## Runtime
+- Total inference time: ~7 minutes
+- Speed: ~1.5 images/second on A100
+
+## Next Steps
+- Experiment 2: PALO-7B with explanation + image input
+- Experiment 3: BLIP-2 with explanation + image input
+- Expected improvement: 35-50% macro-F1 with explanations

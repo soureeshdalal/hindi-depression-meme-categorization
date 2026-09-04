@@ -1,0 +1,19 @@
+This image is from an academic mental health research dataset. Look at it carefully and describe what you observe for each of the 7 areas below. Be specific and factual. If an area is clearly not shown, write "not shown".
+
+1. MOOD/EMOTIONAL STATE: What emotions are expressed? (e.g. sadness, crying, emptiness, hopelessness, flat affect, anguish)
+
+2. MOTIVATION/INTEREST: Does the person show loss of interest, lack of motivation, or inability to enjoy things they normally would? (e.g. "nothing feels worth doing", "can't enjoy food/hobbies/people")
+
+3. EXISTENTIAL/EMOTIONAL INTENSITY: Does the content depict extreme hopelessness, a wish to withdraw from life, or references to harming oneself? Describe only what is visually or textually shown.
+
+4. APPETITE/EATING: Are eating habits mentioned? (e.g. eating too much/too little, emotional eating, skipping meals, food as coping)
+
+5. SELF-WORTH/GUILT: Does the person express worthlessness, excessive guilt, self-blame, or feeling like a burden to others?
+
+6. CONCENTRATION/THINKING: Any difficulty focusing, making decisions, brain fog, confusion, or inability to think clearly?
+
+7. SLEEP: Any reference to sleep — insomnia, sleeping too much, being awake at unusual hours, fatigue, disrupted sleep?
+
+Also add a brief CONTEXT line (1 sentence): the cultural/meme format context.
+
+Keep each area to 1-2 sentences. Be direct and observational.

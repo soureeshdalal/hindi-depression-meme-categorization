@@ -1,0 +1,651 @@
+image_id,category,BLIP_pred,BLIP_raw,human_label
+TE-104.jpg,BRAND_DEPENDENT,"[0,0,0,1,0,0,0]",a cartoon drawing of a woman eating a pizza,"[1,0,0,0,0,0,0]"
+TE-177.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]",hindi video chat,"[1,0,0,0,1,0,0]"
+TE-184.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]",a cricket ball with the words ' cricket ' in hindi,"[1,0,1,0,0,0,0]"
+TE-195.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]",hindi quiz game - screenshote,"[0,0,0,1,1,0,0]"
+TE-285.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]",hindi jokes on facebook,"[1,0,1,0,0,0,0]"
+TE-303.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]",a man in white shirt sitting on a table with a white shirt on,"[1,0,0,0,0,0,0]"
+TE-343.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]",a man with glasses and a woman with glasses,"[0,0,0,1,0,0,0]"
+TE-378.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]",a wooden sign with a teddy bear wearing a mask,"[0,0,0,1,0,0,0]"
+TE-425.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]",the message in hindi is displayed on the screen,"[1,0,0,0,1,0,0]"
+TE-549.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]","the logo for the new tv series, ' the big bang bang bang bang bang bang bang bang bang bang","[0,0,0,0,0,1,0]"
+TE-583.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon character with a sign saying that he is not in the middle,"[0,0,0,1,0,0,0]"
+TE-586.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon picture of a man with a bottle of beer,"[0,0,0,1,0,0,0]"
+TE-629.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]",a woman is looking at the camera,
+TE-8.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]",alexa - grey - depression - anxiety - anxiety anxiety anxiety anxiety anxiety anxiety anxiety anxiety anxiety anxiety anxiety anxiety anxiety anxiety anxiety anxiety anxiety anxiety anxiety anxiety,"[1,0,0,0,0,0,0]"
+TE-149.jpg,CELEBRITY_DEPENDENT,"[0,0,0,0,0,0,0]",a man in a turbal with a quote on it,"[0,0,0,1,0,0,0]"
+TE-158.jpg,CELEBRITY_DEPENDENT,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,0,0,0,0,1,0]"
+TE-185.jpg,CELEBRITY_DEPENDENT,"[0,0,0,0,0,0,0]",a man in a suit and tie is laughing at the camera,"[0,0,0,0,1,0,0]"
+TE-21.jpg,CELEBRITY_DEPENDENT,"[1,0,0,0,0,0,0]",sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad,"[1,0,0,0,0,0,0]"
+TE-238.jpg,CELEBRITY_DEPENDENT,"[0,0,0,0,0,0,0]","a man with a beard and a beard in the middle of his face, with the words ' what is","[0,0,0,1,1,0,0]"
+TE-26.jpg,CELEBRITY_DEPENDENT,"[0,0,0,0,0,0,0]",a man playing guitar on a train,"[1,0,0,0,0,0,0]"
+TE-40.jpg,CELEBRITY_DEPENDENT,"[0,0,0,0,0,0,0]",a woman with the words ' hindi ' in the background,"[0,0,0,0,0,0,1]"
+TE-470.jpg,CELEBRITY_DEPENDENT,"[0,0,0,0,0,0,0]",a man standing on a bench with the words ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '...[truncated],"[1,0,0,0,0,0,1]"
+TE-141.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",an old woman sitting on a couch with her hands out and the words in hindi,"[0,0,0,0,0,0,1]"
+TE-147.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a man in a suit and tie is talking to another man,"[1,1,0,0,0,0,0]"
+TE-160.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a group of people standing in front of a tree,"[1,1,0,0,0,0,0]"
+TE-197.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a man with glasses and a man with glasses,"[1,0,1,0,0,0,0]"
+TE-214.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[1,0,0,0,1,0,0]"
+TE-232.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip,"[1,0,0,0,1,0,0]"
+TE-299.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a couple in bed with a speech bubble,"[0,0,1,0,0,0,0]"
+TE-309.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a black hoodie with the words in hindi,"[0,0,0,1,1,0,0]"
+TE-33.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a truck with a bag of apples on the back,"[0,0,0,0,0,0,0]"
+TE-333.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a bottle of alcohol sitting in front of a sign,"[0,0,1,0,0,0,0]"
+TE-342.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",how to use google search in hindi,"[1,0,1,0,0,0,0]"
+TE-374.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a drawing of a bird on a table,"[0,1,0,0,0,1,0]"
+TE-385.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a poster with a burger and a drink,"[0,0,0,0,0,0,0]"
+TE-411.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]","a screen with a message on it that says, ' i ' llt '",
+TE-506.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",twitter post on twitter with the message ' i ' m ',
+TE-619.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a man with headphones on his head,"[0,0,0,1,0,0,0]"
+TE-70.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",funny hindi jokes for whatsaw,"[1,0,0,0,0,0,0]"
+TE-74.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon depicting a protest in india,"[1,0,1,0,0,0,0]"
+TE-256.jpg,INTERNET_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a poster with a picture of a man and woman riding horses,"[0,0,0,0,0,0,0]"
+TE-611.jpg,INTERNET_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",cartoon of two people talking to each other person,"[0,0,0,1,0,0,0]"
+TE-90.jpg,INTERNET_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi love shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay,"[1,0,0,0,0,0,0]"
+TE-107.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",cartoon comics about the dangers of the corona,"[0,0,0,0,1,0,0]"
+TE-14.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",the logo for the indian language,
+TE-170.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a man is seen in this image of himself,"[1,0,0,0,1,0,0]"
+TE-175.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi quotes on love,
+TE-251.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a screen showing the words of the movie,"[1,1,0,0,0,0,0]"
+TE-259.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi jokes for kids,"[0,0,1,0,0,0,0]"
+TE-268.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon of a man with a red button on his face,"[0,0,0,1,0,0,0]"
+TE-306.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a tv screen with a picture of a dog on it,"[0,0,0,1,0,0,0]"
+TE-362.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon drawing of a man in a police uniform,"[1,0,1,0,0,0,0]"
+TE-370.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a painting of a woman and a cake,"[0,0,0,1,0,0,0]"
+TE-384.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-418.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a woman with flowers in her hair,"[0,0,0,0,0,1,0]"
+TE-431.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a girl sitting on a bed with a book,"[0,0,0,0,0,0,1]"
+TE-434.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",the logo for the new york theatre,
+TE-446.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",two men are sitting next to each other men,"[1,0,0,0,0,0,0]"
+TE-457.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-471.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a goldfish in a bowl with the words ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ',"[0,0,0,0,0,1,0]"
+TE-479.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a man in a red jacket and white shirt with the words ' i am ',"[1,0,0,0,0,0,0]"
+TE-492.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]","a picture of a man with a microphone and a capt that says, ' i ' m '","[0,0,0,1,0,0,0]"
+TE-509.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a black background with the word ' b ' in bengali,
+TE-519.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon drawing of a man in a room with a computer,"[0,0,0,1,0,0,0]"
+TE-526.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-615.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon dinosaur with the words ' i love you ' in hindi,"[0,0,0,1,0,0,0]"
+TE-632.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-9.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon of a dog with a speech bubble,"[1,0,1,0,0,0,0]"
+TE-201.jpg,LIFESTYLE_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",two people in uniform holding a tray with a green sign,"[0,0,0,1,0,0,0]"
+TE-296.jpg,LIFESTYLE_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",a cat is looking at a man with a cat on his shoulder,"[1,0,0,0,0,0,1]"
+TE-521.jpg,LIFESTYLE_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",hindi quotes on color wheel,"[0,0,0,0,0,1,0]"
+TE-226.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",a man is holding a white sheet in his hands,"[1,0,0,0,0,0,0]"
+TE-294.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",a poster with the names of different characters,"[0,0,0,0,1,0,0]"
+TE-323.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",bigg tv show with bigg logo,"[0,1,0,0,0,0,0]"
+TE-336.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",hindi movie poster with images,"[1,0,1,0,0,0,0]"
+TE-354.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",a man sitting on a window sing a book,"[1,0,0,0,0,0,0]"
+TE-47.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",hindi quotes on lord rama,"[1,0,0,0,1,0,0]"
+TE-497.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",funny jokes on life in hindi,"[0,0,0,0,0,0,1]"
+TE-505.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon depicting a man in a hoodie,"[0,0,0,1,0,0,0]"
+TE-525.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",hindi movie dialogues dialoguess,"[1,0,0,0,0,0,0]"
+TE-98.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,0]",a man holding a knife with a smiley face,"[1,0,0,0,0,0,0]"
+TE-140.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,0,0,0]","a girl with black hair and a green background, with the words in hindi","[0,0,0,0,1,0,0]"
+TE-196.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,0,0,0]",two astronauts in space with the capt in hindi,"[1,0,1,0,0,0,0]"
+TE-484.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,0,0,0]",a green background with the words ' ' ' ' and ' ' ' ',
+TE-550.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,0,0,0]",a man in a black shirt and a man in a black shirt are talking to each other man,"[0,0,0,1,0,0,0]"
+TE-589.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,0,0,0]",a cat with a baseball bat in its mouth,"[0,0,0,1,0,0,0]"
+TE-591.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon of a person with a hood on and a graph,"[0,0,0,0,0,1,0]"
+TE-112.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi movie dialogues dialoguess,"[1,0,1,0,0,0,0]"
+TE-172.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",the anime version of the anime movie is a very good idea,"[0,0,0,0,1,0,0]"
+TE-249.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,0,0,0,1,0,0]"
+TE-279.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,1,0,0,0]",a calendar with food items and a sign,"[0,0,0,1,0,0,0]"
+TE-346.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a girl in a bed with the words ' romantic ' and ' romantic ',"[0,0,1,0,0,0,0]"
+TE-37.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a couple of anime characters with the capt in hindi,"[0,1,0,0,0,0,0]"
+TE-595.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a woman is drinking a cup of soup,"[0,0,0,1,1,0,0]"
+TE-78.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","a girl with long hair and a guy with long hair, text reads, ' i ' m '","[0,0,0,0,1,0,0]"
+TE-88.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","a man with a phone in his hand and the capt reads, ' what is the best way to do","[0,0,0,0,1,0,0]"
+TE-166.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon of a man being a woman,"[1,0,1,0,1,0,0]"
+TE-168.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a comic strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip,"[0,0,1,0,0,0,0]"
+TE-174.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a man with sunglasses and a speech bubble saying about the movie,"[0,0,0,0,1,0,0]"
+TE-178.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi movie dialogues dialoguess,"[1,0,1,0,0,0,0]"
+TE-188.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi movie poster,"[0,0,0,0,1,0,0]"
+TE-200.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,0,0,0]",sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad,
+TE-213.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi quotes in hindi,
+TE-222.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a building that has been torn off and is being torn off,"[1,0,0,0,0,0,0]"
+TE-236.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a photo of corona corona corona corona corona corona corona corona corona corona corona corona corona corona corona corona corona corona,"[0,0,0,0,1,0,0]"
+TE-244.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a man sitting on a couch with a phone in his hand,"[1,0,0,0,0,0,0]"
+TE-255.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a man in an orange shirt is holding his head with his hands,"[1,0,0,0,0,0,0]"
+TE-275.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","a poster for the movie ' s upcoming film, ' ' '","[1,0,0,0,0,0,0]"
+TE-291.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a woman holding a picture of a man with a face,"[1,0,0,0,0,0,0]"
+TE-34.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","a man with a serious look on his face and the capt reads, parents successful as parents","[0,0,0,0,1,0,0]"
+TE-364.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a poster for the movie ' s title,"[1,0,1,0,0,0,0]"
+TE-379.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon depicting a man with a book in his hand,"[1,0,1,0,1,0,0]"
+TE-467.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a man with a microphone and a video screen showing him,"[1,0,0,0,0,0,0]"
+TE-50.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a ladybu with a tag on it,"[0,0,0,1,1,0,0]"
+TE-540.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a man in a suit with the words ' bharat bharat bharat bharat bharat bharat bharat bharat bharat b,"[0,1,0,0,0,0,0]"
+TE-546.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi movie quotes,"[0,0,0,0,1,0,0]"
+TE-650.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",a man handing a woman a plant,"[0,1,0,0,0,0,0]"
+TE-99.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]",sachari ' s message to india,"[1,0,0,0,0,0,0]"
+TE-32.jpg,REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi quotes on life,"[1,0,0,0,0,0,0]"
+TE-44.jpg,REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a man in a suit and tie is holding a sword,"[0,0,0,0,0,0,0]"
+TE-442.jpg,REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",hindi dictionary for android,
+TE-602.jpg,REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon of a man in bed with the words ' it ' s a man ',"[0,0,0,0,0,0,1]"
+TE-644.jpg,REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]",a poster with the words student employment,"[0,0,1,0,0,1,0]"
+TE-1.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman sitting in front of a door,"[1,0,0,0,0,0,0]"
+TE-10.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",a woman lying on the ground with her head down and the words in hindi,"[0,0,0,1,0,0,0]"
+TE-100.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad hindi quotes,"[1,0,0,0,0,0,0]"
+TE-101.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",cartoon cartoon of a man and woman in the woods,"[1,0,1,0,0,0,0]"
+TE-102.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a man standing on a train track,"[1,0,1,0,0,0,0]"
+TE-103.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a piece of paper with a drawing of a man in the middle,
+TE-105.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a sheep and a baby sheep are shown in the picture,"[0,0,0,0,1,0,0]"
+TE-106.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,0,0,0,1,1,0]"
+TE-108.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a large white sheet with the words written in hindi,"[0,0,0,1,0,0,0]"
+TE-109.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a girl sitting on a bed next to a boy,"[1,0,0,0,1,0,1]"
+TE-11.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person in a pool with a smiley face,"[1,0,0,0,0,0,0]"
+TE-110.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[1,0,0,0,0,0,0]"
+TE-111.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man laying on the steps of a building with the words in hindi,"[1,0,0,0,0,0,0]"
+TE-113.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a sign that says, ' i love you '","[1,0,0,0,0,0,0]"
+TE-114.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon picture with the capt of a girl and a man in the background,"[1,1,0,0,1,0,0]"
+TE-115.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a young boy is looking at another,"[1,0,0,0,0,0,0]"
+TE-116.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a clock on a building,"[0,0,1,0,1,0,0]"
+TE-117.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon drawing of a man walking in the rain,
+TE-118.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon picture of a spider being pulled by a bus,"[1,0,0,0,0,0,0]"
+TE-119.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",japanese girls having sex in a japanese house,"[1,0,0,0,0,0,1]"
+TE-12.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on love,
+TE-120.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cat sitting on top of a table with the capt in hindi,"[1,0,0,0,1,0,0]"
+TE-121.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man is working in a cave with a flashlight,
+TE-122.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-123.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a drawing of a man sitting in a chair,"[1,0,1,0,0,0,0]"
+TE-125.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on life,"[1,0,0,0,0,0,0]"
+TE-126.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[0,0,0,0,1,0,0]"
+TE-127.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a drawing of a face with the words ' be grateful ',"[0,0,0,0,0,1,0]"
+TE-128.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",guru nana quotes in hindi,"[0,0,1,0,0,0,0]"
+TE-129.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[1,0,0,0,0,0,0]"
+TE-13.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on life,"[0,0,0,1,0,0,0]"
+TE-130.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in white shirt playing soccer on field,"[1,0,0,0,0,0,0]"
+TE-131.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-132.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-133.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]",a man in a blue blanket is sleeping in bed,
+TE-134.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi cartoon jokes for kids,"[1,0,0,0,0,0,0]"
+TE-135.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man and a woman talking in an office,"[1,0,0,0,1,0,0]"
+TE-136.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cat with the capt in hindi,"[0,1,0,0,0,0,0]"
+TE-137.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman sitting on a chair with a quote in the middle,"[0,0,0,0,0,0,1]"
+TE-138.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",twitter account for twitter account,
+TE-139.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a girl in a black dress with blue hair and a black dress with a white shirt and a black jacket,"[1,0,0,0,0,0,0]"
+TE-142.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a skeleton sitting on top of a desk,"[1,0,0,0,0,0,0]"
+TE-143.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes for kids,"[0,0,1,0,1,0,0]"
+TE-144.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",hindi sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad,"[0,0,0,1,0,0,0]"
+TE-145.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a sign that says, ' no one is going to the store '","[0,0,0,0,1,0,0]"
+TE-146.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a cartoon character sitting on a bed with the capt that reads, ' social distant '","[0,1,0,0,0,0,0]"
+TE-148.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man with glasses and a woman with glasses,"[0,0,0,0,1,0,0]"
+TE-15.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a poster with a man ' s face and a lightning,
+TE-150.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man is looking into the trunk of his car,"[0,0,0,1,1,0,0]"
+TE-151.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on pika,"[0,0,1,0,0,0,0]"
+TE-152.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man sitting in a room with a tv screen,
+TE-153.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi sms messages screens,"[1,0,0,0,1,0,0]"
+TE-154.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[1,0,0,0,0,0,0]"
+TE-155.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a knight holding a sword and a sword,"[0,0,1,0,0,0,0]"
+TE-156.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-157.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a woman in a blue tank top is shown with the words, ' anxiety ' and ' anxiety '",
+TE-159.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[0,0,0,1,0,0,0]"
+TE-16.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman with a white shirt and black pants,
+TE-161.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a white tuk with a white tuk hat and a white tuk hat,"[0,0,1,0,0,0,0]"
+TE-162.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-163.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",baby yoo yo yo yoo yoo yoo yoo yoo yoo yoo yoo,"[1,0,0,0,1,0,0]"
+TE-164.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny quotes in hindi,"[0,0,0,1,0,0,0]"
+TE-165.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi hindi dictionary,"[0,0,0,0,0,0,0]"
+TE-167.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a penguin with a gun in its mouth and the capt reads, ' i amr '","[1,0,0,0,1,0,0]"
+TE-169.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a girl sitting on the floor with a speech bubble,"[0,0,0,0,1,0,0]"
+TE-17.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes for whatsawhate,"[1,0,0,0,0,0,0]"
+TE-171.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,0,0,0,0,1,0]"
+TE-173.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",love quotes in hindi,
+TE-176.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on fire,"[0,0,0,1,0,0,0]"
+TE-179.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a dog with a caption in hindi,"[0,0,0,0,1,0,0]"
+TE-18.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad love quotes in hindi,"[0,0,0,1,0,0,0]"
+TE-180.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a piece of paper with the words ' everything is not enough ',
+TE-181.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip,"[1,0,0,0,1,0,0]"
+TE-182.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cat is laying on the floor with a sign,"[0,0,0,0,0,0,1]"
+TE-183.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[1,0,0,0,0,0,0]"
+TE-186.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon picture of a man walking through a tunnel,"[0,0,0,0,0,1,0]"
+TE-187.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cat ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya ya,"[0,1,0,0,0,0,0]"
+TE-189.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi quotes for whatsawhate,
+TE-19.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on life,"[1,0,0,0,0,0,0]"
+TE-190.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man with a beard and a beard in his hair,"[1,0,0,0,1,0,0]"
+TE-191.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on life,"[1,0,0,0,1,0,0]"
+TE-192.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-193.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi texting app,"[1,0,0,0,1,1,0]"
+TE-194.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-198.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad love quotes in hindi,"[0,0,1,0,0,0,0]"
+TE-199.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-2.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay,"[1,0,0,0,1,0,0]"
+TE-20.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a sign that says danger in hindi,"[0,0,1,0,0,0,0]"
+TE-202.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on school,"[1,0,1,0,1,0,0]"
+TE-203.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad hindi quotes,"[0,0,0,0,0,0,1]"
+TE-204.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman holding a piece of paper with the words ' i am am am am am am am am am,
+TE-206.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a girl with red hair and a black shirt is looking at the camera,"[1,1,0,0,0,0,0]"
+TE-207.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad girl in hindi,"[1,0,0,0,1,0,0]"
+TE-208.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman in a dress with a watercolor splash on her face,"[0,0,0,0,0,1,0]"
+TE-209.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi sms messages - screenshote,
+TE-210.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a group of people standing in front of a crowd,"[1,0,0,0,1,0,0]"
+TE-211.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person with a tattoo on their wrist,
+TE-212.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a green bench with a sign on it,
+TE-215.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon drawing of a man and woman in the rain,"[0,0,0,0,1,0,0]"
+TE-216.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a man with a face and a face with a face in the middle,"[1,0,0,1,0,0,0]"
+TE-217.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man holding a cat in his arms,"[0,0,0,0,0,1,0]"
+TE-218.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman with red hair standing in a field,
+TE-22.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",hindi sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad,"[1,0,0,0,1,0,0]"
+TE-220.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a col of cats in different poses,"[1,0,0,0,0,0,0]"
+TE-221.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes for whatsawhate,"[0,0,0,0,1,0,0]"
+TE-223.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a video of a man running through a room,
+TE-224.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in green sweatshirts is sitting on a table with a laptop and a man in white shirt is,"[0,0,0,1,0,0,0]"
+TE-225.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a small alien sitting in a chair with a book,"[1,0,0,0,0,0,0]"
+TE-227.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on kids,"[0,0,0,0,1,0,0]"
+TE-228.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man writing on a whiteboard with the words ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '...[truncated],"[1,0,0,0,1,0,0]"
+TE-229.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon drawing of a man with a mask on,"[1,0,0,0,0,0,0]"
+TE-23.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a small kitten sitting on the floor with a capt,"[1,0,0,0,1,0,0]"
+TE-230.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[1,0,1,0,0,0,0]"
+TE-231.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi hindi dictionary,"[0,1,0,0,0,0,0]"
+TE-233.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-234.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",the words in hindi are written in different languages,
+TE-235.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman with long hair and a black background,
+TE-237.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a teddy bear sitting in the grass with a sky background,"[0,0,0,0,1,0,0]"
+TE-239.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay,"[0,0,0,0,1,0,0]"
+TE-24.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a suit and tie is talking to the camera,"[1,0,0,0,0,0,1]"
+TE-240.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a black shirt is talking on a cell,"[0,1,0,1,0,0,0]"
+TE-241.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi sms messages for whatsawhate,"[1,0,0,0,1,0,0]"
+TE-242.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on dating,"[1,0,0,0,0,0,0]"
+TE-243.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person holding a button with the words in hindi,"[1,0,0,0,0,0,0]"
+TE-245.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[0,0,1,0,0,0,1]"
+TE-246.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-247.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",a woman in a white coat and black pants walking down a street,"[0,0,0,1,0,0,0]"
+TE-248.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a poster with the words ' ' ' ' and ' ' ' in bengali ',"[0,0,0,0,0,1,0]"
+TE-25.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad girl in hindi,"[1,0,0,0,0,0,0]"
+TE-250.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman with a lot of hair on her head,"[0,0,0,0,0,1,0]"
+TE-252.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad love quotes in hindi,"[1,0,1,0,0,0,0]"
+TE-253.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a red jacket and a white shirt with the words ' i ' m ',"[0,0,0,1,1,0,0]"
+TE-254.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a toilet paper roll with the words public,
+TE-257.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on love,
+TE-258.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman in a yellow dress with a white background,"[0,0,0,0,0,0,1]"
+TE-260.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a picture of a building with a green sign,"[0,0,0,0,1,0,0]"
+TE-261.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on rain,"[1,1,0,0,1,1,0]"
+TE-262.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a black and white photo of a man with a hat,"[0,0,0,0,0,1,0]"
+TE-263.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person pointing at a screen with the capt of a person pointing at a screen,"[1,0,0,0,1,0,0]"
+TE-264.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi texting in hindi,
+TE-265.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip,"[0,0,0,0,1,0,0]"
+TE-266.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a man and a dog playing with a ball,"[0,0,0,0,1,0,0]"
+TE-267.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on love,"[0,1,0,0,0,0,0]"
+TE-269.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon character is standing in front of a door,"[1,0,1,0,0,0,0]"
+TE-27.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes on love in hindi,"[1,0,0,0,0,0,0]"
+TE-270.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman singing into a microphone with the words ' i ' m ' in the background,"[0,0,0,0,0,1,0]"
+TE-271.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a tombstone with the words ' ' ' ' and ' ' ' in hindi,"[0,0,1,0,0,0,0]"
+TE-272.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon character sitting on a window ledge with a dog looking out at the stars,"[0,0,0,0,0,0,1]"
+TE-273.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-274.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a black and white photo with the words ' i love you ',
+TE-277.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,0,0,1,0,0,0]"
+TE-278.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a girl with a quote on it,"[1,0,0,0,0,1,0]"
+TE-28.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cat sitting on top of a scale,
+TE-280.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on mosquito,
+TE-281.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a bunch of cartoon characters with different expressions,"[1,0,0,0,1,0,0]"
+TE-282.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man holding a stick in front of a wheel,"[1,1,0,0,0,0,0]"
+TE-283.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a minion with a quote on it,"[0,0,0,0,0,0,1]"
+TE-284.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]",a man is sleeping in a bed with his head down,"[0,0,0,0,0,0,1]"
+TE-286.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad love shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay,"[0,0,0,0,1,0,0]"
+TE-288.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",love quotes in hindi,
+TE-289.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",manga manga manga girl girl boy boy boy girl boy boy girl girl girl girl girl girl girl girl girl girl,"[0,0,0,0,1,0,0]"
+TE-29.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man sitting on a bench with a sign in the background,"[1,0,0,0,1,0,0]"
+TE-290.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a painting with a skeleton on it,"[1,0,1,0,0,0,0]"
+TE-292.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman holding a stuffed animal in her hands,"[0,1,0,0,0,1,0]"
+TE-293.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a picture of a person laying on a table,"[0,0,0,0,0,1,0]"
+TE-295.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon drawing of a person sitting at a desk with a computer,"[1,0,0,0,1,0,1]"
+TE-297.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a dog is riding on the back of a car,"[0,0,0,0,1,0,0]"
+TE-298.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on life,"[0,0,0,0,0,0,1]"
+TE-3.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",anxiet in hindi,
+TE-300.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[1,0,0,0,0,0,0]"
+TE-301.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person with a tattoo on their arm,"[0,0,1,0,0,0,0]"
+TE-302.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-304.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-305.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",mining jobs in india,"[1,0,0,0,1,0,0]"
+TE-307.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",the earth is covered with water and is covered with land,"[1,0,0,0,1,0,0]"
+TE-308.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi poetry on moon,
+TE-31.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person walking in front of a painting,"[1,0,0,0,0,0,0]"
+TE-310.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on minions,"[0,1,0,1,0,0,0]"
+TE-312.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man sitting on a couch with a laptop,
+TE-313.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person ' s feet chained to a pot,"[0,0,0,0,0,1,0]"
+TE-314.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny animal hindi jokes,"[0,0,0,0,0,0,1]"
+TE-315.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad love quotes in hindi,
+TE-317.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cat is looking out the window at someone,"[0,1,0,0,0,0,0]"
+TE-318.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,0,0,1,0,0,0]"
+TE-319.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man sitting at a desk with his head in his hands,"[0,0,0,0,0,1,0]"
+TE-320.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in bed with a clock in his hand,
+TE-321.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes for kids,"[1,0,1,0,1,0,0]"
+TE-322.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person typing on a keyboard with a pen,"[0,0,1,0,0,0,0]"
+TE-324.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man is bowling and throwing a ball,"[1,0,1,0,0,0,0]"
+TE-325.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes for kids,"[0,0,0,1,0,0,0]"
+TE-326.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[1,0,1,0,1,0,0]"
+TE-327.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a radiograph of the chest and a radiograph of the chest,"[0,0,0,0,0,0,1]"
+TE-328.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on love,
+TE-329.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes for kids,"[0,0,0,1,1,0,0]"
+TE-330.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on love,"[0,0,1,0,0,0,0]"
+TE-331.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-332.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon drawing of a man sitting in a chair,"[0,0,0,0,0,0,1]"
+TE-334.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man with a beard and glasses is looking at the camera with the capt in hindi,"[0,0,0,0,0,1,0]"
+TE-335.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[0,0,0,0,0,0,1]"
+TE-337.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a bear with the capt that says, ' i am up to my best depression '","[1,0,1,0,0,0,0]"
+TE-338.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",simpsons in the simpsons show,"[1,0,1,0,0,0,1]"
+TE-339.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi comics for kids,"[1,0,0,0,0,0,0]"
+TE-340.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes in hindi,
+TE-341.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad,"[0,0,1,0,0,0,0]"
+TE-344.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny bus memes funny bus memes funny bus memes funny bus memes funny bus memes funny bus memes funny bus memes,"[0,0,0,1,0,0,0]"
+TE-345.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on friendship,"[1,0,1,0,0,1,0]"
+TE-347.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon picture of a girl with a robot in the background,"[1,0,0,0,0,0,0]"
+TE-348.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a girl with blonde hair and a blue shirt with the words in hindi,"[1,0,1,0,0,0,0]"
+TE-349.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on the moon,
+TE-35.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon drawing of a man standing next to a sign,"[0,0,0,0,1,0,0]"
+TE-350.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon character with the words ' happy birthday ' in hindi,"[0,0,0,0,0,0,1]"
+TE-351.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",hindi sad shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay,"[0,0,1,0,0,0,0]"
+TE-352.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi love quotes for her,"[0,0,0,0,0,0,1]"
+TE-353.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a clock and a bottle of water on a table,"[1,0,1,0,0,0,0]"
+TE-355.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[0,0,0,1,1,0,0]"
+TE-356.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi dictionary for android,
+TE-357.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-358.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",a man walking down a street with a sign,"[0,1,0,0,0,0,0]"
+TE-359.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a man talking to another man,"[1,0,0,0,0,0,0]"
+TE-36.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a man with a beard and a beard mustache is shown in the text, which reads, ' ' '",
+TE-360.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a quote on the topic of the book, ' magic '",
+TE-361.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,0,1,0,0,0,0]"
+TE-363.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man is looking at his phone,"[0,1,0,0,0,0,0]"
+TE-365.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man holding a gun in his hand,"[1,1,1,0,0,0,0]"
+TE-366.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a drawing of a girl with a bleeding face,"[0,0,0,0,0,1,0]"
+TE-368.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl sad girl,"[0,0,1,0,0,0,0]"
+TE-369.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",yag hindi movie,"[1,0,1,0,0,0,0]"
+TE-371.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-372.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a computer screen with the text ' s in bengali ',
+TE-375.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon character with a sign that says depression,"[1,0,0,0,1,0,0]"
+TE-376.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on women,"[0,0,1,0,0,0,0]"
+TE-377.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",two images of a man and woman in different poses,"[1,0,1,0,1,0,0]"
+TE-38.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a blue jacket holding a drum,"[1,0,0,0,0,0,0]"
+TE-380.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad love quotes in hindi,"[0,0,1,0,0,0,0]"
+TE-381.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a baby being fed by a man,"[0,0,0,0,0,1,1]"
+TE-382.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-383.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes for whatsawhate,"[0,0,1,0,1,0,0]"
+TE-386.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a boy with a black shirt and a white shirt,"[0,0,0,0,0,0,1]"
+TE-387.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a picture of a person laying on the ground with blood,"[1,0,1,0,0,0,0]"
+TE-388.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-389.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[0,1,0,0,0,0,0]"
+TE-39.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",therapii in hindi,
+TE-390.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a man throwing a ball,"[0,0,0,0,0,1,0]"
+TE-391.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-392.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a girl with pink hair and a white shirt is standing in front of a pink background with the words, ' i ame '","[0,0,0,0,0,1,0]"
+TE-393.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon dog laying on a pillow with a thought bubble above it,"[1,0,0,0,0,0,0]"
+TE-394.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,1,0,0,0,0,0]"
+TE-395.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a woman with a red hat and a white shirt is shown in the text, ' i amt '",
+TE-396.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on goldfish,
+TE-397.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a quote on the topic of the book ' ' ' ' ',
+TE-398.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a child is climbing up the stairs,"[0,0,1,0,0,0,0]"
+TE-399.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a white bird with the words ' ' ' ' in hindi,
+TE-4.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a dog holding a dvd in its hand,"[1,0,0,0,1,1,1]"
+TE-401.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a group of women sitting around a table,"[0,0,1,0,0,0,0]"
+TE-402.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on doctors,"[1,0,1,0,0,0,0]"
+TE-403.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]",a cartoon of a man sleeping on a couch with a heart in his mouth,"[0,0,0,0,0,0,1]"
+TE-404.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",hindi sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad,"[0,0,0,0,0,1,1]"
+TE-405.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi love quotes for her,"[0,0,1,0,0,0,0]"
+TE-406.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on life,"[0,0,0,0,0,0,1]"
+TE-407.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a pink and black pin with the words brain on it,"[0,0,0,0,0,1,0]"
+TE-408.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",a skeleton walking down the street with a capt in hindi,"[1,0,0,0,0,0,0]"
+TE-409.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes for whatsawhate,"[1,0,0,0,0,0,0]"
+TE-41.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",hindi sad love quotes,"[0,0,1,0,0,0,0]"
+TE-410.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[0,0,0,0,0,0,1]"
+TE-412.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi text in hindi,
+TE-414.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on life,
+TE-415.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on life,"[0,0,0,1,0,0,0]"
+TE-416.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on life,"[1,0,0,1,0,0,0]"
+TE-417.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",animos - hindi hindi dictionary - screenshote - screenshote,"[0,0,0,1,0,1,0]"
+TE-419.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]",a man sleeping in bed with a woman sleeping behind him,"[1,0,0,0,0,0,1]"
+TE-42.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a picture of a person ' s head with the words in hindi,"[1,0,1,0,0,0,0]"
+TE-420.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",an old man in white tank top with a white shirt and jeans,"[0,0,0,0,0,0,0]"
+TE-421.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",[ERROR: cannot identify image file 'translated_categorized_memes/UNIVERSAL_HUMAN/test/TE-421.jpg'],"[0,0,0,0,0,0,1]"
+TE-422.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,0,1,1,1,0,0]"
+TE-423.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman with a pink shirt and a black jacket,"[0,0,0,0,0,0,0]"
+TE-424.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a black hoodie,"[0,0,0,1,0,0,0]"
+TE-426.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a comic strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip,"[0,0,0,0,0,0,1]"
+TE-427.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",hindi sad love quotes,"[0,0,0,0,0,0,1]"
+TE-428.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",two women are talking to each other women,"[0,0,0,1,0,0,0]"
+TE-429.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man and woman are talking in front of a building,"[0,0,0,1,0,0,0]"
+TE-43.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person with a tattoo on their arm,"[1,0,0,0,0,0,0]"
+TE-430.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a comic strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip,"[0,0,0,0,0,0,1]"
+TE-432.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",yo yo yo yo yo yo yo yo yo yo yo yo yo yo yo yo yo yo yo yo yo,"[1,0,0,0,0,0,0]"
+TE-433.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a suit standing next to a car with a fire in the background,"[1,1,0,0,0,0,0]"
+TE-435.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon character is sitting on top of a large mushroom,
+TE-436.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a girl with a dog on her back,"[0,0,0,0,0,1,0]"
+TE-437.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay,"[1,0,0,0,0,0,0]"
+TE-438.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a tiger is walking through the snow covered ground,
+TE-439.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cat walking on the ground with the capt in hindi,"[0,1,0,0,0,0,0]"
+TE-440.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on relationships,"[0,1,0,0,0,0,0]"
+TE-441.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",spider and spider in hindi,"[0,1,0,0,0,1,0]"
+TE-443.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,0,0,0,0,0,1]"
+TE-444.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny cat jokes in hindi,"[0,0,0,0,0,0,1]"
+TE-445.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a santa suit holding a glass,"[0,0,0,1,0,0,0]"
+TE-447.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[1,0,0,0,0,0,0]"
+TE-448.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a kitten playing a video game with a controller,"[1,0,0,0,0,0,0]"
+TE-449.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a cartoon monkey with a capt that reads, ' i ' m ' m ' m ' m ' m","[1,0,1,0,0,0,0]"
+TE-45.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on rabbit,"[1,0,0,0,0,0,0]"
+TE-450.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-451.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,0,0,0,0,1,0]"
+TE-452.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a pink note paper,"[0,0,0,0,0,1,0]"
+TE-453.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi poem for kids,
+TE-454.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon drawing of a face with the words ' hello ' in bengali,"[0,0,0,0,0,1,0]"
+TE-455.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a twitter message with the capt of a woman who is not allowed,
+TE-456.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",two men talking in an office with the capt of the capt,"[0,0,0,1,1,1,0]"
+TE-458.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-459.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",hindi sad love quotes,"[1,0,0,0,1,0,0]"
+TE-46.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",cartoon of a man in a suit and a woman in a dress,"[1,0,0,0,0,0,0]"
+TE-460.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a car that is on the road with a broken hood,"[1,0,0,0,0,0,0]"
+TE-462.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a baby with a ring on it ' s nose and a picture of a baby with a ring on its,"[1,1,0,0,0,0,0]"
+TE-463.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[1,0,0,0,0,0,0]"
+TE-464.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man with a beard and a woman with a shirt on,"[0,1,0,0,0,0,0]"
+TE-465.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-466.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on snow,"[1,0,0,0,0,0,1]"
+TE-468.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi t - shirt,"[0,0,0,0,0,0,1]"
+TE-469.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a mug with the words ' ' ' in hindi,"[0,0,0,0,0,1,0]"
+TE-472.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-473.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon drawing of a man holding a sign,"[1,0,0,0,0,0,0]"
+TE-474.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[1,0,0,0,0,0,1]"
+TE-475.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a frog with a computer,"[0,0,0,0,0,0,1]"
+TE-476.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-477.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a wrestler with a quote on it saying that he is the best wrestler in the world,"[0,0,0,1,0,0,0]"
+TE-478.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a quote on a white background with the words ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '...[truncated],
+TE-48.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",hindi sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad,"[1,0,1,0,1,0,0]"
+TE-480.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-481.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a cartoon character with a capt that reads, long mind mef","[0,0,0,0,0,1,0]"
+TE-482.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man sitting at his desk with the words ' what is the best job? ',"[0,1,0,0,0,0,0]"
+TE-483.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a bus is on the tracks with a bus in the background,"[0,0,0,1,0,0,0]"
+TE-485.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person holding a painting with the words over the top,"[0,0,0,0,0,1,0]"
+TE-486.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a cartoon character with a capt that reads, ' memess are not happy '","[0,1,0,0,0,0,0]"
+TE-487.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",two men kissing with the words ' love is the only one ',
+TE-488.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man with a beard and a beard with the words ' i am ',"[0,0,0,0,0,0,1]"
+TE-489.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on facebook,"[0,1,0,0,0,0,0]"
+TE-49.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person holding a piece of paper with the words ' i love you ',"[1,0,0,0,0,0,0]"
+TE-490.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person is holding a therme in their hand,"[0,0,0,0,1,0,0]"
+TE-491.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon picture of a boy with a microphone,"[1,0,1,0,0,0,0]"
+TE-493.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi hindi daily news - screenshote,"[1,0,0,0,1,0,1]"
+TE-494.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cat is sitting on the floor with a dumb barbell,"[0,0,0,0,1,0,0]"
+TE-495.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a pair of colorful socks with a note and pen,"[0,0,0,0,0,1,0]"
+TE-496.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes for kids,"[0,0,0,0,1,0,1]"
+TE-498.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a girl with a gun and a guy with a gun in the background,"[1,1,0,0,1,0,0]"
+TE-499.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",hindi sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad,"[1,0,0,0,0,0,0]"
+TE-5.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-500.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[1,0,0,0,1,0,0]"
+TE-501.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a comic strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip,"[1,0,1,0,0,0,0]"
+TE-502.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]",eating disorder disorder funny,"[0,0,0,1,0,0,0]"
+TE-503.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon drawing of a man in the ocean,"[1,0,0,1,0,0,0]"
+TE-504.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man with glasses and a quote on it,
+TE-507.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]",a woman eating food with a capt in hindi,"[0,0,0,1,1,0,0]"
+TE-508.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[1,0,0,0,0,1,0]"
+TE-51.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",two hands in the rain with the words ' the rain is coming ',"[1,0,0,0,0,0,0]"
+TE-510.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon character is standing in front of a robot,"[1,1,0,0,0,0,0]"
+TE-511.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a couple in bed with the capt that says, ' i ' m '","[1,0,0,0,0,0,1]"
+TE-513.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",life hack 6 hindi,
+TE-514.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on mental,"[1,0,0,1,0,1,1]"
+TE-515.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-516.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on fire,"[0,1,0,0,0,0,0]"
+TE-517.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman laying on a bed covered in purple leaves,"[1,0,0,0,0,0,0]"
+TE-518.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes for kids,"[0,0,0,0,0,0,1]"
+TE-52.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a young boy with a tooth in his mouth,"[1,0,0,0,0,0,0]"
+TE-520.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[0,0,0,0,0,1,1]"
+TE-522.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on life,"[0,1,0,0,0,0,0]"
+TE-523.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-524.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person holding a small animal in their hands,"[0,0,0,0,0,0,1]"
+TE-527.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on girls,"[0,0,0,1,0,0,0]"
+TE-528.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man with long hair and a beard sitting in a chair,"[0,0,0,1,0,0,0]"
+TE-529.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a doctor with a stey face and a stey head,"[1,1,0,0,0,0,0]"
+TE-53.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon drawing of a man and a woman in different ways,"[1,0,0,0,0,0,0]"
+TE-530.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on life,"[0,0,0,0,0,0,1]"
+TE-531.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a black shirt and a red brick wall with a quote on it,"[0,0,0,1,0,0,0]"
+TE-532.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a tweet with the message ' i ' m ',
+TE-534.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon image of a girl and a boy in front of a computer screen,"[0,1,0,0,0,0,0]"
+TE-535.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on life,"[0,0,0,0,0,0,1]"
+TE-536.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes in hindi,
+TE-537.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",two men sitting down in a room with one talking to the other,"[1,0,0,0,1,0,0]"
+TE-538.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a man holding a hammer and a sign that says, ' i am, am, am, am, am, am, am, am","[1,0,0,0,0,0,1]"
+TE-539.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes for kids,"[1,0,0,0,1,0,0]"
+TE-54.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on black background,
+TE-541.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[0,0,0,0,1,0,0]"
+TE-542.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man is playing with a baseball bat,"[0,1,0,0,0,0,0]"
+TE-543.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a book with the words ' do mer ' in bengali,
+TE-544.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",hindi sad shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay shay,
+TE-545.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[0,0,0,1,0,0,0]"
+TE-547.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a flooded street in mumbai, india","[1,0,0,0,0,0,0]"
+TE-548.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",hindi sad love quotes,"[1,0,0,0,1,0,1]"
+TE-55.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon drawing of a person sitting on a bench,"[0,0,0,1,1,0,0]"
+TE-551.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-552.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a col of images of a man reading a book,"[0,0,0,0,0,1,0]"
+TE-553.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge sponge,"[0,1,0,0,0,0,0]"
+TE-554.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[0,0,0,0,0,0,1]"
+TE-555.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes for whatsawhate,"[0,0,0,1,1,0,0]"
+TE-556.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes for kids,"[0,0,0,0,0,1,0]"
+TE-557.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a cartoon pokemon with a capt that reads, ' i ' m ' m ' m ' m ' m","[1,0,0,0,0,0,0]"
+TE-558.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a white shirt is sitting at a table,"[1,1,0,0,0,0,0]"
+TE-559.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a man sitting at a desk with a pen in his hand,"[0,1,0,0,0,0,0]"
+TE-56.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",hindi sad love quotes,"[1,0,0,0,0,0,0]"
+TE-560.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon character with a head in the middle of the image,"[0,1,0,0,0,0,0]"
+TE-561.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a dog in a bathtub with a person in the background,"[1,0,0,0,0,0,0]"
+TE-562.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-563.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",10 reasons about the world ' s most famous cartoon characters,"[1,1,0,0,0,0,0]"
+TE-564.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi book cover,
+TE-565.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a suit and tie is looking at the camera,"[0,0,0,0,0,0,1]"
+TE-566.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-567.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[1,0,0,0,0,0,1]"
+TE-568.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a drawing of a brain with the words in hindi,
+TE-569.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a drawing of a person with a brain in the middle,"[0,0,0,1,0,0,0]"
+TE-57.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on life,"[1,0,0,0,0,0,0]"
+TE-570.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny cat memes funny cat memes funny cat memes funny cat memes funny catmes funny catmes funny catmes funny catmes,"[1,0,0,0,0,0,0]"
+TE-571.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]",a woman eating food with a fork and knife,"[1,0,1,1,1,0,0]"
+TE-572.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]",a cat sleeping on a bed with the capt in hindi,"[1,0,0,0,0,0,1]"
+TE-573.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]",a cartoon of a person reaching a balloon with the words eating recovery,"[0,0,0,1,0,0,0]"
+TE-574.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,0,0,0,0,1,0]"
+TE-575.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a quote on the topic of the indian language,
+TE-576.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-577.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man sitting in a chair with a bottle of beer,"[1,1,1,0,0,0,0]"
+TE-578.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",a car is driving down the road with a sign in the background,"[0,0,0,1,0,0,0]"
+TE-579.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad love quotes in hindi,"[1,1,0,0,0,0,0]"
+TE-58.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a cartoon drawing of a man holding a sign that says, ' i amerge '","[1,0,0,0,0,0,0]"
+TE-580.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a suit is looking at a screen,"[0,0,0,1,0,0,0]"
+TE-581.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon drawing of a man holding a string,"[0,0,0,0,0,1,0]"
+TE-582.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a twitter message with the capt of a woman who is not allowed,
+TE-584.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon cat with two different expressions,"[0,0,0,0,0,0,1]"
+TE-585.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi cartoon jokes,"[1,0,0,0,0,1,0]"
+TE-587.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on the theme of the animated movie,"[1,1,0,0,0,0,0]"
+TE-59.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a book with a picture of a man in the middle,
+TE-590.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a screenshot of a man with a quote on his face,
+TE-592.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a poster with a picture of a man in a cap,"[0,1,0,0,0,0,0]"
+TE-593.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,0,0,1,0,0,0]"
+TE-594.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-596.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes for kids,"[0,0,0,0,0,0,1]"
+TE-597.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a black background with a white text that reads ' ' ',
+TE-598.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a blue background with the words i want to speak,
+TE-599.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]",a man sleeping in bed with an alarm clock,
+TE-6.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,"[0,0,0,0,0,0,1]"
+TE-60.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person with a tattoo on their arm,"[0,0,1,0,0,0,0]"
+TE-600.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on ice,"[1,0,0,0,0,0,1]"
+TE-601.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon character is standing on a pedestal,"[0,0,0,1,1,0,0]"
+TE-603.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",the tweep tweep tweep twitter account,
+TE-604.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",hindi sad love quotes,"[1,0,0,0,0,0,1]"
+TE-605.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a train that is sitting on the tracks,"[1,1,0,0,0,0,0]"
+TE-606.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman smoking a cigarette in front of a building,"[0,0,0,1,0,0,0]"
+TE-607.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on the internet,"[1,0,0,1,1,0,0]"
+TE-608.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a woman and a child,"[0,0,0,0,0,0,1]"
+TE-609.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman in a hat sitting on the ground,"[0,0,0,0,1,1,0]"
+TE-61.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cat is being held up by a person,"[0,0,0,0,1,0,0]"
+TE-610.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman is sitting on a couch with her head in her hands,
+TE-612.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a comic strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip strip,"[0,0,0,1,1,0,0]"
+TE-613.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",school jokes in hindi,"[1,1,0,0,0,0,0]"
+TE-614.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of two cats in bed with the words ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' and ' ',"[0,1,0,0,0,0,1]"
+TE-616.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on cats,"[1,0,1,0,0,0,1]"
+TE-617.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man sitting in a chair with a flower,"[0,0,0,0,0,1,0]"
+TE-618.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",[ERROR: cannot identify image file 'translated_categorized_memes/UNIVERSAL_HUMAN/test/TE-618.jpg'],"[0,0,0,0,0,0,1]"
+TE-62.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-620.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a rage rage rage rage rage rage rage rage rage rage rage rage rage rage rage rage rage rage rage rage,"[0,0,0,1,0,0,0]"
+TE-621.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man standing on top of a jeep,"[1,1,0,0,0,0,0]"
+TE-622.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman with her hair in the air,"[0,0,0,0,0,1,0]"
+TE-623.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a piece of cake with the words happy birthday,"[0,0,0,1,0,0,0]"
+TE-624.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a yellow head with the words ' it is not what you are, ' written on it","[0,0,0,0,0,1,0]"
+TE-625.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad girl in hindi,"[0,0,0,1,0,0,0]"
+TE-626.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",me in hindi,"[0,0,0,1,0,0,0]"
+TE-627.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a painting of a man on a horse with a woman on the back,"[1,1,0,0,0,0,0]"
+TE-628.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman sitting on a couch with a phone,"[0,0,0,1,0,0,0]"
+TE-63.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person wearing a hoodie with a skull on it,"[0,0,0,0,0,1,0]"
+TE-630.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a poster with the words in hindi,"[0,0,0,1,0,0,0]"
+TE-631.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man sitting on a scale with a laptop and a laptop,"[0,0,0,1,0,0,0]"
+TE-633.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-634.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a black and white illustration with the words ' everything is everything ',"[0,0,0,0,0,1,0]"
+TE-635.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",rabbit in hindi,"[0,0,0,0,0,1,0]"
+TE-636.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad sad,"[1,1,0,0,0,0,0]"
+TE-637.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a suit is holding his head,"[0,0,0,0,0,1,0]"
+TE-638.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",the words in hindi are written in different languages,
+TE-639.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",a child is lying on the floor with his head down,"[0,0,0,0,1,0,1]"
+TE-64.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",two pictures of a teddy bear sitting on a laptop,"[1,0,0,0,0,0,0]"
+TE-640.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",a man in a suit and tie sitting down,"[0,1,0,0,0,0,0]"
+TE-641.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",motivation quotes in hindi,
+TE-642.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-643.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-645.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a girl with a gun in the sky,"[1,1,0,0,0,0,0]"
+TE-646.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on love,"[0,0,0,0,0,1,0]"
+TE-647.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a man with his hands on his head, surrounded by question marks","[0,0,0,0,0,1,0]"
+TE-648.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman is seen in the rain with her phone,
+TE-649.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man is painting on a large screen,"[1,1,0,0,0,0,0]"
+TE-65.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]",sad girl quotes in hindi,"[0,0,0,0,0,1,0]"
+TE-651.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]",a woman is sitting in bed with her head on her hand and the words ' how to sleep? ',"[0,0,0,0,0,1,1]"
+TE-652.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",the sweatshirt in blue with the words overwinging,
+TE-653.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a girl in a green dress standing in a field,"[0,0,0,0,0,1,0]"
+TE-654.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-655.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a girl with pink hair and a white shirt with the words, ' i ' m '","[0,0,0,0,0,1,0]"
+TE-656.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a man laying on a couch,"[1,1,0,0,0,1,1]"
+TE-657.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-658.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes for whatsawha,"[0,0,0,0,0,1,0]"
+TE-659.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi book,"[0,0,0,0,0,1,0]"
+TE-66.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on cats,
+TE-660.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",the logo for the indian art and design association,"[0,0,0,0,0,1,0]"
+TE-661.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a black and white poster with a head full of icons,"[0,0,0,0,0,1,0]"
+TE-662.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a black and white poster with the words ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ...[truncated],
+TE-67.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person with a blood wound on their arm,"[0,0,1,0,0,0,0]"
+TE-68.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",the logo for the company,
+TE-69.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a photo of a nuclear nuclear plant with the capt that reads, ' nuclear nuclear plant '","[1,0,0,0,0,0,0]"
+TE-7.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a girl hugging her boyfriend in the middle of the picture,"[0,0,1,0,0,0,0]"
+TE-71.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman sitting in a car with her head in her hands,"[1,0,0,0,0,0,0]"
+TE-72.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a suit is running on the street,"[0,1,0,0,1,0,0]"
+TE-73.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a floor plan for a house in india,"[0,1,0,0,0,0,0]"
+TE-75.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi jokes on brain,"[0,0,0,0,1,0,1]"
+TE-76.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-77.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a woman sitting on the ground with the words ' ' ' in bengali,
+TE-79.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a child is shown in this funny video,"[1,0,0,0,0,0,0]"
+TE-80.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a person with a tattoo on their wrist,
+TE-81.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny hindi jokes on life,"[1,0,0,0,0,0,0]"
+TE-82.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on life,
+TE-83.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a cartoon character with a capt that reads, ' i ' m ' m ' m ' m ' m","[1,1,0,0,0,0,0]"
+TE-84.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",motivation quotes in hindi,"[0,0,0,0,0,0,1]"
+TE-85.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","a man with a beard and a shirt on, with the capt in hindi","[1,0,0,0,0,0,0]"
+TE-86.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",[ERROR: cannot identify image file 'translated_categorized_memes/UNIVERSAL_HUMAN/test/TE-86.jpg'],
+TE-89.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a tweet with the text ' i ' m ',
+TE-91.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon of a pink pig with the words self self self self self self self self self self self self self self self self self self self self self self self self self self self,"[0,0,1,0,1,0,0]"
+TE-92.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a man in a blue shirt and a red shirt with the words ' what is your name? ',"[1,0,0,0,0,0,0]"
+TE-93.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a cartoon character is drinking coffee in the kitchen,"[1,0,0,0,0,0,0]"
+TE-94.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",a black background with the words ' corseon ' in bengali,
+TE-95.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",funny jokes in hindi,"[0,1,0,0,0,0,0]"
+TE-96.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",twitter account of a woman who was not allowed to the twitter account,
+TE-97.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]",hindi quotes on lion,"[0,0,0,0,0,0,1]"
+TE-205.jpg,VISUAL_SYMBOL_DEPENDENT,"[0,0,0,0,0,0,0]",a cartoon of a man and a little girl,"[0,0,0,0,0,0,1]"
+TE-276.jpg,VISUAL_SYMBOL_DEPENDENT,"[0,0,0,0,0,0,0]",a man in a red and gold outfit is walking on the beach,
+TE-461.jpg,VISUAL_SYMBOL_DEPENDENT,"[0,0,0,0,0,0,0]","a girl with her finger on her lips, saying anxiety, depression, and depression","[1,0,0,0,0,0,0]"
+TE-512.jpg,VISUAL_SYMBOL_DEPENDENT,"[0,0,0,0,0,0,0]",an old woman blowing candles on a birthday cake,"[1,0,0,0,1,0,1]"
+TE-87.jpg,VISUAL_SYMBOL_DEPENDENT,"[0,0,0,0,0,0,0]",people are gathered around a fire in the street,"[1,0,1,0,0,0,0]"

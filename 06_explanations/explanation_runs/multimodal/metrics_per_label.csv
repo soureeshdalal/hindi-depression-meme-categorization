@@ -1,0 +1,36 @@
+model,input,symptom,f1,precision,recall
+BLIP-2,explanation+image,Feeling Down,0.5236,0.3846,0.8201
+BLIP-2,explanation+image,Lack of Interest,0.1882,0.1062,0.8226
+BLIP-2,explanation+image,Self-Harm,0.4343,0.3519,0.5672
+BLIP-2,explanation+image,Eating Disorder,0.2553,0.48,0.1739
+BLIP-2,explanation+image,Low Self-Esteem,0.2676,0.1597,0.8261
+BLIP-2,explanation+image,Concentration Problem,0.3364,0.2418,0.5522
+BLIP-2,explanation+image,Sleeping Disorder,0.2901,0.3167,0.2676
+LLaVA-1.5,explanation+image,Feeling Down,0.1226,0.5652,0.0688
+LLaVA-1.5,explanation+image,Lack of Interest,0.4602,0.5098,0.4194
+LLaVA-1.5,explanation+image,Self-Harm,0.2772,0.4118,0.209
+LLaVA-1.5,explanation+image,Eating Disorder,0.2316,0.4231,0.1594
+LLaVA-1.5,explanation+image,Low Self-Esteem,0.2222,0.4118,0.1522
+LLaVA-1.5,explanation+image,Concentration Problem,0.4296,0.4265,0.4328
+LLaVA-1.5,explanation+image,Sleeping Disorder,0.416,0.4815,0.3662
+LLaVA-NeXT,explanation+image,Feeling Down,0.5187,0.3676,0.8803
+LLaVA-NeXT,explanation+image,Lack of Interest,0.1592,0.0882,0.8108
+LLaVA-NeXT,explanation+image,Self-Harm,0.2187,0.1258,0.8367
+LLaVA-NeXT,explanation+image,Eating Disorder,0.1564,0.0883,0.6829
+LLaVA-NeXT,explanation+image,Low Self-Esteem,0.2617,0.1573,0.7794
+LLaVA-NeXT,explanation+image,Concentration Problem,0.2047,0.1171,0.8125
+LLaVA-NeXT,explanation+image,Sleeping Disorder,0.2396,0.1407,0.807
+IDEFICS,explanation+image,Feeling Down,0.5122,0.35,0.9545
+IDEFICS,explanation+image,Lack of Interest,0.1515,0.0833,0.8333
+IDEFICS,explanation+image,Self-Harm,0.129,0.0702,0.8
+IDEFICS,explanation+image,Eating Disorder,0.1905,0.1053,1.0
+IDEFICS,explanation+image,Low Self-Esteem,0.2727,0.1579,1.0
+IDEFICS,explanation+image,Concentration Problem,0.1587,0.0877,0.8333
+IDEFICS,explanation+image,Sleeping Disorder,0.3188,0.193,0.9167
+InstructBLIP,explanation+image,Feeling Down,0.5,0.3495,0.8783
+InstructBLIP,explanation+image,Lack of Interest,0.1992,0.1136,0.8065
+InstructBLIP,explanation+image,Self-Harm,0.2596,0.1618,0.6567
+InstructBLIP,explanation+image,Eating Disorder,0.2409,0.161,0.4783
+InstructBLIP,explanation+image,Low Self-Esteem,0.2826,0.1696,0.8478
+InstructBLIP,explanation+image,Concentration Problem,0.2432,0.1415,0.8657
+InstructBLIP,explanation+image,Sleeping Disorder,0.2395,0.1407,0.8028

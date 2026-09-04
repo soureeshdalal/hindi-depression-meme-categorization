@@ -1,0 +1,8 @@
+symptom,precision,recall,f1,support,predicted_positive
+Feeling Down,0.3142857142857143,0.05116279069767442,0.088,215,35
+Lack of Interest,0.0,0.0,0.0,65,0
+Self-Harm,0.0,0.0,0.0,79,0
+Eating Disorder,0.0,0.0,0.0,82,0
+Low Self-Esteem,0.0,0.0,0.0,111,0
+Concentration Problems,0.0,0.0,0.0,72,0
+Sleeping Disorder,0.0,0.0,0.0,78,0

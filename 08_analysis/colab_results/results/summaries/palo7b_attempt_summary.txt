@@ -1,0 +1,92 @@
+
+# EXPERIMENT 2 ATTEMPT - PALO-7B (FAILED)
+
+## Date: 2026-04-01
+
+## Objective
+Run explanation-augmented inference using MBZUAI/PALO-7B with 650 Hindi mental health memes.
+
+## Model Configuration
+- Model: MBZUAI/PALO-7B
+- GPU: NVIDIA A100-SXM4-40GB (Google Colab Pro)
+- Approach: Explanation + Image input (Track B)
+
+## Explanations Prepared
+- Source: phase1_explanations_v2.csv
+- Total images: 650
+- With explanations: 581/650 (89.4%)
+- Without explanations: 69/650 (10.6%)
+
+## Loading Attempts
+
+### Attempt 1: Standard AutoModelForCausalLM
+```python
+processor = AutoProcessor.from_pretrained(model_id, trust_remote_code=True)
+model = AutoModelForCausalLM.from_pretrained(model_id, trust_remote_code=True)
+```
+**Result:** FAILED
+**Error:** `ValueError: model type 'palo' not recognized by transformers`
+
+### Attempt 2: Upgrade Transformers + Reload
+- Upgraded transformers to latest version
+- Restarted runtime
+- Re-attempted loading
+**Result:** FAILED (same error)
+
+### Attempt 3: Direct Repo Download
+- Downloaded full PALO-7B repo using snapshot_download
+- Attempted to import custom modeling classes
+- Expected files: modeling_palo.py, configuration_palo.py
+**Result:** FAILED
+**Finding:** Custom .py files NOT included in HuggingFace repo
+
+## Root Cause Analysis
+1. PALO-7B requires custom modeling code (PaloForCausalLM class)
+2. Custom code NOT distributed with model weights on HuggingFace
+3. Model built with transformers v4.31.0 (2023) - outdated
+4. Likely requires cloning from research GitHub repo with complex setup
+5. Not designed for easy Colab deployment
+
+## Model Architecture (from config.json)
+- Base: lmsys/vicuna-7b-v1.5
+- Custom class: PaloForCausalLM
+- Vision tower: openai/clip-vit-large-patch14-336
+- Hidden size: 4096
+- Projection: mlp2x_gelu
+- Model weights: 14GB (successfully downloaded)
+
+## Time Invested
+- Setup and troubleshooting: ~30 minutes
+- Multiple loading attempts: 3
+- Model download: 14GB (successful but unusable)
+
+## Decision
+**SKIP PALO-7B** - pursuing alternative model for Experiment 2
+
+## Alternative Approach
+Will use LLaVA-NeXT-7B or BLIP-2 for explanation-augmented inference instead.
+Both models:
+- Are well-supported by transformers library
+- Can process explanation + image input
+- Test same scientific hypothesis (Track B: explanation-augmented inference)
+- Will produce comparable results
+
+## Research Impact
+- No impact on research validity
+- Track B (explanation-augmented) can be tested with alternative model
+- PALO-7B specifically is not critical to research questions
+- Can mention attempt in paper as model selection consideration
+
+## Lessons Learned
+1. Research models on HuggingFace may require custom code not in repo
+2. Check model compatibility with transformers before committing time
+3. Have backup models identified for critical experiments
+4. LLaVA and BLIP families are more production-ready
+
+## Files Generated
+- None (model loading failed before inference)
+
+## Next Steps
+- Proceed with Experiment 2 using alternative model
+- Expected completion: Today
+- Expected improvement over baseline: 35-45% macro-F1

@@ -1,0 +1,15 @@
+# Full pipeline (unimodal + vision + multimodal FT + VLMs)
+# Install PyTorch with CUDA on AWS first, then:
+#   pip install -r requirements_multimodal.txt
+#
+# PyTorch + CUDA (pick one — see https://pytorch.org/get-started/locally/ ):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+
+-r requirements.txt
+
+# Common for HF multimodal / tokenizers
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# Optional: faster attention on supported GPUs (may need build from source)
+# flash-attn>=2.5.0

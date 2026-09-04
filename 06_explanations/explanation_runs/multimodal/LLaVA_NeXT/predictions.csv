@@ -1,0 +1,3091 @@
+image_id,category,gold_labels,predicted_labels,raw_response
+TE-104.jpg,BRAND_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,0,0,1,0,0]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: NO
+Eating Disorder: NO
+Low Self-Esteem: YES
+Concentration Problem: NO
+Sleeping Disorder: NO"
+TE-177.jpg,BRAND_DEPENDENT,"[1,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-184.jpg,BRAND_DEPENDENT,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-195.jpg,BRAND_DEPENDENT,"[0,0,0,1,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-285.jpg,BRAND_DEPENDENT,"[1,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-303.jpg,BRAND_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-343.jpg,BRAND_DEPENDENT,"[0,0,0,1,0,0,0]","[0,0,0,1,1,0,0]","The meme expresses low self-esteem, as indicated by the guilt or distress related to logging food on a health app."
+TE-378.jpg,BRAND_DEPENDENT,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-425.jpg,BRAND_DEPENDENT,"[1,0,0,0,1,0,0]","[1,1,0,0,1,0,0]","The meme expresses symptoms of low self-esteem, lack of interest, and feeling down."
+TE-549.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","The image does not provide any information about the mental health symptoms. It is a promotional image for a musical track, and the text is in Hindi. Therefore, the answer to all the symptoms is NO."
+TE-583.jpg,BRAND_DEPENDENT,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]",The meme does not explicitly show any of the symptoms listed. It is a humorous take on the concept of tracking calories and the progression of emotions that can occur when one's expectations are not met. The meme does not depict any of the mental health symptoms listed.
+TE-586.jpg,BRAND_DEPENDENT,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","The meme does not explicitly express any of the mental health symptoms listed. It uses humor to present unhealthy habits as a lifestyle, which could be interpreted as a lack of interest or a coping mechanism for dealing with stress or negative emotions. However, it does not directly address any of the specific mental health symptoms listed."
+TE-629.jpg,BRAND_DEPENDENT,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-8.jpg,BRAND_DEPENDENT,"[1,0,0,0,0,0,0]","[1,0,0,0,0,0,0]",The meme expresses the symptom of Feeling Down.
+TE-149.jpg,CELEBRITY_DEPENDENT,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-158.jpg,CELEBRITY_DEPENDENT,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-185.jpg,CELEBRITY_DEPENDENT,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","The meme expresses intense anger, aggression, and severe distress directed inwardly. The man's facial expression is furious, and the text conveys extreme self-hatred.
+
+Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-21.jpg,CELEBRITY_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-238.jpg,CELEBRITY_DEPENDENT,"[0,0,0,1,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-26.jpg,CELEBRITY_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,0,0,0,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-40.jpg,CELEBRITY_DEPENDENT,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-141.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,1]","The meme expresses a symptom of a sleeping disorder, specifically insomnia, as the woman is shown with her hands outstretched and her mouth open, which could indicate that she is struggling to fall asleep or has been awake for a long time."
+TE-147.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,1,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-197.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,1,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous comparison of two different emotional responses to a video game event.
+TE-232.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,1,0,0]","[1,1,1,0,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-299.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","The meme does not explicitly show any of the mental health symptoms listed. However, the bottom panel, which depicts a person being bricked up alive, could be interpreted as a representation of extreme distress and helplessness, which might be associated with feelings of hopelessness or despair. This could be related to the ""Feeling Down"" symptom."
+TE-309.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,1,1,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-33.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous meme satirizing the 2020 pandemic.
+TE-333.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-342.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-374.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,1,0,0,0,1,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-385.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-506.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-619.jpg,CULTURAL_REFERENCE_DEPENDENT,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-70.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,1,0,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-74.jpg,CULTURAL_REFERENCE_DEPENDENT,"[1,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","The meme does not explicitly depict any of the symptoms you listed. However, it does convey a sense of disconnection and disengagement from the world, which could be indicative of depression or other mental health issues. The person in the chair appears to be in a state of emotional numbness, which might be a symptom of depression or other mental health conditions. The other characters' reactions suggest a sense of concern and confusion, which could be indicative of the person in the chair's emo"
+TE-256.jpg,INTERNET_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-611.jpg,INTERNET_CULTURE_DEPENDENT,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","The meme does not explicitly express any of the mental health symptoms listed. It is a humorous take on the challenges of watching a film, with the character being held back from the balloons representing different parts of the plot. The emotions and actions depicted in the meme are not indicative of any specific mental health condition."
+TE-90.jpg,INTERNET_CULTURE_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-14.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-170.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-175.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-251.jpg,LANGUAGE_DEPENDENT,"[1,1,0,0,0,0,0]","[1,0,0,0,0,0,0]",The meme expresses the symptom of Feeling Down.
+TE-259.jpg,LANGUAGE_DEPENDENT,"[0,0,1,0,0,0,0]","[1,1,1,0,1,0,0]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: NO
+Low Self-Esteem: YES
+Concentration Problem: NO
+Sleeping Disorder: NO"
+TE-268.jpg,LANGUAGE_DEPENDENT,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-306.jpg,LANGUAGE_DEPENDENT,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]",The meme expresses a humorous sense of pride or accomplishment related to weight loss. It does not directly reference any of the mental health symptoms listed.
+TE-362.jpg,LANGUAGE_DEPENDENT,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-370.jpg,LANGUAGE_DEPENDENT,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-418.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-431.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-434.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]","[0,0,0,0,0,1,0]",The meme expresses the symptom of Concentration Problem.
+TE-446.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,0,0,0]","[1,0,0,0,0,0,0]","The meme expresses the symptom of Feeling Down, as it shows a contrast between the public and private perception of one's life, suggesting a sense of sadness or hopelessness."
+TE-457.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-471.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-479.jpg,LANGUAGE_DEPENDENT,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses anxiety and reluctance to commit to stopping a behavior, which could be related to an eating disorder. It does not explicitly show any other mental health symptoms."
+TE-492.jpg,LANGUAGE_DEPENDENT,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]",The meme does not show any of the symptoms listed. It is a humorous representation of a person's reaction to scrolling through Instagram and not noticing a meme.
+TE-509.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-519.jpg,LANGUAGE_DEPENDENT,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-526.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-615.jpg,LANGUAGE_DEPENDENT,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-632.jpg,LANGUAGE_DEPENDENT,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous take on the awkwardness of receiving compliments.
+TE-9.jpg,LANGUAGE_DEPENDENT,"[1,0,1,0,0,0,0]","[1,0,0,0,0,0,0]",The meme expresses the symptom of Feeling Down.
+TE-201.jpg,LIFESTYLE_CONTEXT_DEPENDENT,"[0,0,0,1,0,0,0]","[1,0,0,0,0,0,0]",The meme expresses the symptom of Feeling Down.
+TE-296.jpg,LIFESTYLE_CONTEXT_DEPENDENT,"[1,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-226.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses the symptom of anxiety, which is a feeling of worry, nervousness, or unease about an impending event or something with an uncertain outcome. It is not explicitly shown, but the man's expression in the bottom panel could be interpreted as a lack of interest or concentration problem."
+TE-323.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,1,0,0,0,0,0]","[1,1,1,0,1,0,0]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: NO
+Low Self-Esteem: YES
+Concentration Problem: NO
+Sleeping Disorder: NO"
+TE-336.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-354.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-47.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-497.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,0]","The meme expresses a feeling of long-term exhaustion and weariness, presented in a humorous, exaggerated way. It does not explicitly show any of the other symptoms listed."
+TE-505.jpg,MEDIA_CONTEXT_DEPENDENT,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","The meme does not explicitly show any of the mental health symptoms. However, the image does depict a person who appears to be in distress, which could be indicative of feeling down or experiencing a lack of interest. The text in the meme mentions ""मेरी कम खाने की बीमारी (ED)"" which translates to ""my eating disorder,"" suggesting that the person may be struggling with an eating disorder."
+TE-525.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-98.jpg,MEDIA_CONTEXT_DEPENDENT,"[1,0,0,0,0,0,0]","[1,0,0,0,0,0,0]","The meme expresses the symptom of Feeling Down, as it explicitly discusses ""DEPRESSION"" and uses a smiling emoji to represent a hidden or masked emotional state, suggesting that outward happiness can conceal inner depression."
+TE-140.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-196.jpg,MEME_FORMAT_DEPENDENT,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-484.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous statement about a person's excessive interest in food.
+TE-550.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,1,0,0,0]","[1,1,0,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-589.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-591.jpg,MEME_FORMAT_DEPENDENT,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-112.jpg,NICHE_SUBCULTURE_DEPENDENT,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-172.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","The meme does not express any of the mental health symptoms listed. It is a humorous meme that uses the characters from the anime ""Mechanical Engineers"" to make a joke about their single status."
+TE-249.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-346.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a sense of disillusionment and resignation, using romantic movies as an escape from a perceived harsh reality. This could be indicative of feeling down or lack of interest. However, there are no direct references to self-harm, eating disorders, low self-esteem, concentration problems, or sleeping disorders in the meme."
+TE-37.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,1,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a light-hearted meme that humorously depicts a person's change in mood from studying to watching a web series.
+TE-595.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,1,1,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a light-hearted meme that humorously depicts a person's dislike for a particular food item and their interest in another.
+TE-78.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,1,0,0]","[1,1,0,0,1,1,0]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Low Self-Esteem: YES
+Concentration Problem: YES"
+TE-88.jpg,NICHE_SUBCULTURE_DEPENDENT,"[0,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-174.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous take on self-confidence and does not depict any signs of mental health issues.
+TE-178.jpg,POP_CULTURE_DEPENDENT,"[1,0,1,0,0,0,0]","[1,1,1,0,1,0,0]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: NO
+Low Self-Esteem: YES
+Concentration Problem: NO
+Sleeping Disorder: NO"
+TE-188.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-200.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-213.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-222.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses the symptoms of anxiety and depression, which are the dominant emotional states being depicted. The leaning building represents the emotional state, and the beams holding it up represent the things that help alleviate these emotions, such as the uplifting Bollywood movies. The meme does not explicitly depict any of the other symptoms listed."
+TE-236.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-244.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-255.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses intense frustration, annoyance, and stress, which could be indicative of a concentration problem or a sleeping disorder. However, it does not explicitly show any of the other symptoms listed."
+TE-275.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,1,0,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-291.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-34.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-379.jpg,POP_CULTURE_DEPENDENT,"[1,0,1,0,1,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-467.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-50.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,1,1,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-540.jpg,POP_CULTURE_DEPENDENT,"[0,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-546.jpg,POP_CULTURE_DEPENDENT,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","The meme expresses low self-esteem and feelings of downness. It does not depict self-harm, eating disorders, concentration problems, or sleeping disorders."
+TE-650.jpg,POP_CULTURE_DEPENDENT,"[0,1,0,0,0,0,0]","[1,0,0,0,0,0,0]","The meme expresses the symptom of ""Feeling Down"" as it describes the person as being ""bored"" and ""hormonally charged,"" which can be indicative of irritability or mood swings."
+TE-99.jpg,POP_CULTURE_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-32.jpg,REFERENCE_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-44.jpg,REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]","[1,0,0,0,0,0,0]","The meme expresses the symptom of Feeling Down, as it depicts a scene of aggression and retaliation, which can be associated with feelings of sadness, hopelessness, and emptiness."
+TE-442.jpg,REFERENCE_DEPENDENT,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-602.jpg,REFERENCE_DEPENDENT,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-644.jpg,REFERENCE_DEPENDENT,"[0,0,1,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-1.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-10.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,1,0,0,0]",The meme expresses an eating disorder symptom.
+TE-100.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-101.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-102.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-103.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-105.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-106.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,1,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-108.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,1,0,0,0]",The meme expresses the symptom of an Eating Disorder (YES).
+TE-109.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,1]","[0,0,0,0,0,0,0]","The meme expresses low self-esteem, as indicated by the text ""embarrassing moment."" It does not show any other mental health symptoms."
+TE-11.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,0,0,0,0,0,0]",The meme expresses the symptom of Feeling Down.
+TE-110.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not explicitly express any of the mental health symptoms listed. It is a humorous meme that uses a car window as a metaphor for a person's thoughts or feelings. The meme does not depict any of the symptoms listed.
+TE-111.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-113.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-114.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-115.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-116.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-117.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-118.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-120.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-121.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-122.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-123.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-125.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-126.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-127.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-128.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a shift in motivation and mood, but it does not explicitly show any of the mental health symptoms listed. The text suggests a change in perspective and a focus on personal growth, which could be interpreted as a positive shift in mood and motivation. However, without more context or information, it is not possible to definitively determine if the meme is expressing any of the mental health symptoms listed."
+TE-129.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-13.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses anxiety or reluctance about attending a family gathering, which could be related to social anxiety. It does not directly address any of the other mental health symptoms listed."
+TE-130.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a lack of interest, specifically in the context of sexual function and pleasure. It does not depict any other mental health symptoms."
+TE-131.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a feeling of longing and a desire for connection, which could be interpreted as a form of sadness or emptiness. However, it does not explicitly express hopelessness or a lack of interest. Therefore, the answer for Feeling Down is YES, and the answer for Lack of Interest is NO."
+TE-132.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-133.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-134.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-135.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-136.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-137.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-138.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,1,0,0]",The meme expresses the symptom of low self-esteem (YES/NO).
+TE-139.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-142.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-143.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-144.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-145.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-146.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a lack of interest in attending relatives' weddings, which is a symptom of avoidance behavior. This behavior can be associated with anxiety disorders, such as social anxiety disorder. The character's calm and relaxed expression suggests that they are not experiencing persistent sadness, hopelessness, emptiness, or worthlessness. The meme does not show any direct references to self-harm or suicidal thoughts, nor does it depict disordered eating habits or brain fog. The characte"
+TE-148.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous meme that uses exaggerated expressions to convey a shift in mood or perspective.
+TE-15.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-150.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,1,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-151.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses several mental health symptoms. It describes severe distress leading to planning and attempting suicide, which is a symptom of depression and suicidal ideation. The lack of interest in the text also suggests a lack of motivation or enjoyment, which is a symptom of depression. The text does not explicitly address self-harm or eating disorders, but the overall tone of the meme suggests a potential for these symptoms. The meme does not address concentration problems or sleeping d"
+TE-152.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-154.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a sense of guilt or self-blame for talking too much, which aligns with low self-esteem. It does not show any other mental health symptoms."
+TE-155.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-157.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses the symptom of anxiety, which is a feeling of worry, nervousness, or unease about something with an uncertain outcome. It is not expressing any of the other symptoms listed."
+TE-16.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-161.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,0,0,0,0,0]","The meme expresses a feeling of deep hopelessness, despair, and a weary resignation, which is a symptom of feeling down. It also suggests a lack of interest, which is another symptom of feeling down. The watermarks ""ABORTED DREAMS"" and ""VOIDPOSTER"" indicate a complete loss of hope for the future and a feeling that pursuing goals is futile, which is a symptom of feeling down. The man's expression and the text ""उठा ले रे बाबा"" (Take me away, oh God) also express a feeling of deep hopelessness, des"
+TE-162.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-163.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-164.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-167.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-169.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-17.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-171.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-173.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-176.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,1,0,0,0]","The meme expresses an eating disorder, as indicated by the Hindi text ""Eating Disorder"" in the image."
+TE-18.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-180.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-181.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-182.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-183.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-187.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-189.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-19.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-190.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-191.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-192.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-194.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-198.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-199.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-2.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-20.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","The meme does not express any of the mental health symptoms listed. The text on the sign is a warning about danger, not a reflection of a person's emotional state."
+TE-203.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-204.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-206.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-207.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-208.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","The meme expresses a state of being mentally overwhelmed, confused, or exhausted, which could be indicative of a concentration problem. However, it does not explicitly show any of the other symptoms listed."
+TE-209.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-210.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-211.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-212.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-215.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","The meme expresses feelings of inadequacy, inferiority, and disappointment in one's own abilities compared to others. The visual of painting poop versus a portrait reinforces this feeling of being less than. It does not directly address any of the other symptoms listed."
+TE-216.jpg,UNIVERSAL_HUMAN,"[1,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a lack of interest (losing motivation, inability to enjoy things) and a mood/emotional state that shifts from flat affect to anger or annoyance. It does not explicitly show any of the other symptoms."
+TE-217.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,0,0,0,0,0,0]",The meme expresses the symptom of Feeling Down.
+TE-218.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-220.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme does not explicitly show any of the mental health symptoms listed. It is a visual representation of different cat emotions and postures, which are meant to be relatable to the viewer's own moods."
+TE-221.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-223.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not show any of the mental health symptoms listed.
+TE-225.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-227.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-228.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-229.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,1,0,0,0,0,0]",The meme expresses the symptom of Lack of Interest.
+TE-23.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-230.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-231.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a lack of interest, which is a symptom of depression. It does not explicitly show any other mental health symptoms."
+TE-233.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-234.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-235.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-237.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-239.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-24.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]","[0,0,0,0,0,0,1]","The meme expresses the symptom of Sleeping Disorder (insomnia, hypersomnia, disrupted sleep)."
+TE-240.jpg,UNIVERSAL_HUMAN,"[0,1,0,1,0,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed.
+TE-241.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-242.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,0,0,0,1,0]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Concentration Problem: YES"
+TE-243.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-245.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,1]","[0,1,0,0,0,0,0]","The meme expresses a lack of interest, as it describes a person's motivation to get a ""free high"" by scratching or pinching a child. This behavior is not a symptom of any of the other mental health conditions listed."
+TE-246.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-247.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-248.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-25.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-253.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,1,0,0]","[0,1,0,0,1,0,0]",The meme expresses low self-esteem and lack of interest.
+TE-254.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses feelings of social awkwardness, discomfort, and the struggle to fit in. It does not explicitly show any of the other symptoms."
+TE-257.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-258.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-260.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","The meme expresses anxiety and fear of social rejection or negative evaluation, which can be a symptom of low self-esteem. It does not explicitly show any other mental health symptoms."
+TE-261.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,1,1,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-262.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-264.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-265.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a light-hearted comic strip that uses humor to convey a message.
+TE-266.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,1,0,0]","The meme expresses low self-esteem, as the character labeled ""मैं"" (Me) is attempting to attack ""anxiety"" but ends up harming ""self"". This suggests a lack of self-worth and a self-defeating attitude."
+TE-267.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-269.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-27.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-270.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-271.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a lack of interest and a dark, cynical, or hopeless outlook, which could be indicative of depression or a desire for non-existence. It does not explicitly reference self-harm, eating disorders, low self-esteem, concentration problems, or sleeping disorders."
+TE-272.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-274.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,0,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-277.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-278.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-28.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-280.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-281.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[0,0,0,0,0,0,0]",The meme does not explicitly show any of the symptoms you listed. It appears to be a humorous take on a situation rather than a representation of mental health symptoms.
+TE-282.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-283.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-284.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-286.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-288.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,0,0,0,0,0,0]","The meme expresses the symptom of ""Feeling Down"" as it is described as a ""tension"" and the text says ""I am feeling down""."
+TE-289.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","The meme expresses intense hostility and anger (""Go to hell, you bastard""). Visually, this is contrasted with a calm, smiling expression. Based on the image and this description, does the meme express any of the following mental health symptoms?
+Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: Y"
+TE-29.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-290.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-292.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,1,0]","[0,0,0,0,0,0,0]","The meme expresses a lack of interest in gaming, which is a common symptom of depression and burnout. It does not show any other mental health symptoms."
+TE-293.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-295.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-297.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous meme that does not depict any serious or distressing emotions or behaviors.
+TE-298.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,0,0,1,0,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: NO
+Eating Disorder: NO
+Low Self-Esteem: YES
+Concentration Problem: NO
+Sleeping Disorder: YES"
+TE-3.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-300.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,1,0,0]",The meme expresses the symptom of low self-esteem (YES/NO).
+TE-301.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-302.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-304.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-305.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","The meme does not explicitly reference self-harm, eating disorders, low self-esteem, concentration problems, or sleeping disorders. Therefore, the answer for each of these symptoms is NO."
+TE-307.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-31.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-310.jpg,UNIVERSAL_HUMAN,"[0,1,0,1,0,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous take on the common experience of eating out of boredom.
+TE-312.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous take on receiving an unexpected phone call.
+TE-314.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-315.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-317.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-318.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-319.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-320.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-321.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,1,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-322.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-324.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-325.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]",The meme does not explicitly express any of the mental health symptoms listed. It is a humorous comic strip that uses exaggerated expressions and actions to convey a message. The comic strip does not depict any of the symptoms listed.
+TE-327.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-330.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-332.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-334.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-335.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,1]","The meme expresses a sleeping disorder, specifically insomnia, as the person is described as spending hours in anxiety."
+TE-337.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-338.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,1]","[0,0,0,0,0,0,0]","The meme expresses the following mental health symptoms:
+Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-339.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,0,0,0,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-340.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-341.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-344.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,0,0,0,0,0,0]",The meme expresses the symptom of Feeling Down.
+TE-345.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,1,0]","[0,0,0,0,0,0,0]","The meme does not explicitly express any of the mental health symptoms listed. However, the image of a person jumping off a bridge could be interpreted as a metaphor for feeling down or lacking interest, as it represents a high-risk action that may be seen as a desperate attempt to escape from a difficult situation. The text ""Me: Jumping into a well"" could also be interpreted as a metaphor for self-harm or an eating disorder, as jumping into a well is a dangerous and potentially life-threatening"
+TE-347.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-348.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[0,0,1,0,0,0,0]",The meme expresses the symptom of Self-Harm (YES/NO).
+TE-35.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-350.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,0]","The meme does not express any of the mental health symptoms listed. It is a light-hearted and humorous meme celebrating ""World Sleep Day"" with a character who appears to be in a peaceful and content state while sleeping."
+TE-351.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-352.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-355.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,1,0,0]","[0,0,0,0,0,0,0]","The meme expresses low self-esteem (symptom 5) and feeling down (symptom 1). It does not show lack of interest, self-harm, eating disorder, concentration problem, or sleeping disorder."
+TE-356.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-357.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-358.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous image that does not depict any negative emotions or behaviors.
+TE-359.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses the following mental health symptoms:
+Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-36.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-360.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-361.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","The meme does not express any of the mental health symptoms listed. The woman in the image is smiling and the text is humorous, suggesting amusement or mischief, rather than any of the symptoms listed."
+TE-363.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-365.jpg,UNIVERSAL_HUMAN,"[1,1,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-366.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-368.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-371.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a desire for inner peace and quietness of mind, which could be indicative of a concentration problem. However, it does not explicitly mention any of the other symptoms listed."
+TE-376.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-377.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-38.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-380.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-381.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,1]","[1,1,0,0,0,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-382.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-383.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-386.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-387.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-388.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-389.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme does not express any of the mental health symptoms listed. It is a humorous exaggeration of a parent's frustration with their children's boredom, and does not depict any of the symptoms listed."
+TE-39.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a need for external validation, which could be indicative of low self-esteem. However, it does not explicitly mention any of the other symptoms listed."
+TE-390.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-391.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-392.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-393.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-394.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,0,0,0,0,0,0]",The meme expresses the symptom of Feeling Down.
+TE-395.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-396.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-397.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-398.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,0,0,0,0]","The meme expresses a sense of hopelessness or weariness with life's progression, showing a desire to skip directly to the end. This can be associated with feeling down or lack of interest. The image explicitly shows self-harm or death thoughts, which is a symptom of mental health issues."
+TE-399.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,1,0,0]","The meme expresses a humorous, exaggerated sense of triumph (""महा विजय"" - Great Victory) over a very small accomplishment, suggesting an underlying feeling of low achievement. This could be indicative of low self-esteem, as the person is celebrating a small accomplishment as if it were a great victory. However, it is important to note that this is a meme and meant to be humorous, so it may not necessarily reflect the person's actual mental health state."
+TE-4.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,1,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-401.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-402.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-403.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-404.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-405.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-406.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,1]","The meme expresses a sleeping disorder, specifically hypersomnia, as the character is shown to be sleeping excessively and is described as ""sleeping all day."""
+TE-407.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","The meme expresses a state of mental confusion or chaos, which could be related to concentration problems. However, it does not directly address any of the other symptoms listed."
+TE-408.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-409.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme expresses a lack of interest (Lack of Interest: YES/NO) and feelings of disappointment and frustration (Feeling Down: YES/NO). It does not show any other mental health symptoms.
+TE-41.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-410.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-412.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-414.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-415.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-416.jpg,UNIVERSAL_HUMAN,"[1,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-417.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,1,0]","[0,0,0,0,0,0,0]","The meme expresses a lack of motivation and interest, which could be indicative of depression or a similar mental health condition. The text also suggests a sense of hopelessness and emptiness, which aligns with the feeling down symptom. However, there are no direct references to self-harm, eating disorders, low self-esteem, concentration problems, or sleeping disorders in the meme."
+TE-419.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-42.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-420.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous meme that does not depict any serious mental health issues.
+TE-421.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-423.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a lack of interest and fatigue, which are common symptoms of sleep deprivation and possibly burnout. It does not directly reference any of the other mental health symptoms."
+TE-424.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-426.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,0,1,0,0]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: NO
+Low Self-Esteem: YES
+Concentration Problem: NO
+Sleeping Disorder: NO"
+TE-427.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-428.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-429.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses feelings of insecurity and disappointment, as the person's desire is blocked by their own negative self-perception. This can be associated with low self-esteem. However, it does not explicitly show any other mental health symptoms such as feeling down, lack of interest, self-harm, eating disorder, concentration problem, or sleeping disorder."
+TE-43.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-430.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-432.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,1]","The meme expresses a sleeping disorder, specifically insomnia, as the character is awake at 4 AM and trying to stay asleep."
+TE-433.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme does not explicitly express any of the mental health symptoms listed. The man's smile and the context of the situation suggest a sense of irony or detachment, but it does not necessarily indicate any of the specific mental health symptoms."
+TE-435.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-436.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-437.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-438.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not explicitly show any of the mental health symptoms. It is a traditional ink painting style meme that uses a tiger to represent a person's mood or emotions.
+TE-439.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-440.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-441.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-443.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-444.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,1]","The meme expresses a sleeping disorder, specifically insomnia, as the cat is unable to sleep and is wide-eyed."
+TE-445.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]",[PARSE_FAIL],No
+TE-447.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-448.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme does not express any of the mental health symptoms listed. It is a humorous exaggeration of the anxiety of waiting for a text message reply, not a representation of mental health issues."
+TE-449.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-45.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme does not explicitly express any of the mental health symptoms listed. It is a humorous image that uses anthropomorphic animals to represent different emotions or states of mind. The text in the meme is in a language other than English, and without understanding the language, it is not possible to determine if it relates to any of the mental health symptoms."
+TE-451.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-452.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]",[PARSE_FAIL],YES/NO
+TE-454.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-455.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,0,0,1,1,0]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Low Self-Esteem: YES
+Concentration Problem: YES"
+TE-456.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,1,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-458.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,0,0,0,0,0,0]",The meme expresses the symptom of Feeling Down.
+TE-459.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","The meme does not explicitly describe any of the symptoms listed. It is a humorous take on coping with a mental breakdown, and the symptoms listed are not directly related to the meme's content."
+TE-462.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses anxiety and stress related to social situations, which can be a symptom of anxiety disorders. It does not explicitly show any of the other symptoms listed."
+TE-463.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-464.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous take on boredom and does not depict any of the symptoms associated with mental health issues.
+TE-465.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-466.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-469.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-472.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-473.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-474.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]","[1,1,1,0,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-476.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-477.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,1,0,0,0]",The meme expresses an eating disorder symptom.
+TE-478.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,1,0]","The meme expresses a concentration problem, as the person's mind is described as ""like a nonstop train."""
+TE-48.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-481.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-482.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-485.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","The meme does not explicitly show any of the symptoms listed. It only shows a person engaged in an art project, which could be a coping mechanism for overthinking."
+TE-486.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-487.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-488.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-489.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous meme that uses a picture of a woman with a sad expression to convey a message in Hindi.
+TE-49.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-490.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a light-hearted comic strip that humorously depicts a person checking their temperature.
+TE-494.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-495.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-498.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-499.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-5.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-500.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous comparison meme using Charlie Day's reaction images.
+TE-501.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a feeling of hopelessness and a lack of interest, which are symptoms of depression. It does not explicitly show any other mental health symptoms."
+TE-503.jpg,UNIVERSAL_HUMAN,"[1,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-504.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,0,0,1,1,0]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: NO
+Eating Disorder: NO
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: NO"
+TE-507.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-508.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","The meme expresses a lack of interest (Lack of Interest: YES/NO) and a sudden shift from enjoyment to a ""spoiled mood"" and becoming ""completely silent (nonverbal)."" It does not explicitly express any of the other symptoms listed."
+TE-51.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-510.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[1,1,0,0,1,1,0]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Low Self-Esteem: YES
+Concentration Problem: YES"
+TE-511.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-513.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a lack of interest and a desire to avoid responsibilities, which could be indicative of a mood disorder or depression. It does not explicitly show any other mental health symptoms."
+TE-514.jpg,UNIVERSAL_HUMAN,"[1,0,0,1,0,1,1]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-515.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,0,0,0,0,0,0]","The meme expresses the symptom of Feeling Down, as the text describes feeling ""awkward"" and ""embarrassed"" due to a social misunderstanding."
+TE-516.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[0,1,0,0,0,0,0]","The meme expresses a lack of interest, as it humorously suggests that the person is not interested in the fact that they are about to die. This is a form of dark humor that is not meant to be taken literally. It is important to note that humor is subjective, and some people may find this type of humor offensive or in poor taste."
+TE-518.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-52.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-520.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-522.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-523.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a desire for mental peace and relaxation, which could be associated with a lack of motivation for active thinking or mental work on Sundays. This could be interpreted as a lack of interest or a concentration problem. However, it does not explicitly express any of the other symptoms listed."
+TE-524.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-527.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,1,0,0,0]",The meme expresses an eating disorder symptom.
+TE-528.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-529.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-530.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-531.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-534.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[0,0,0,0,0,0,0]",The meme does not show any of the symptoms listed. It is a positive and uplifting image that shows a character transitioning from a focused state to a joyful one.
+TE-535.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-536.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-537.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-538.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]","[0,0,0,0,1,0,0]","The meme expresses the symptom of low self-esteem, as the character is being hit by a hammer labeled ""memories of old insults,"" which suggests feelings of worthlessness, guilt, and self-blame."
+TE-539.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","The meme does not explicitly show any of the symptoms listed. However, the green figure's avoidance of the solution and the helper's frustration could be interpreted as a lack of interest or motivation. The green figure's fear and distress in the final panel might suggest feelings of hopelessness or emptiness, which could be associated with depression. The helper's anger could be seen as a response to the green figure's lack of interest or motivation, which might be indicative of frustration or "
+TE-54.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-541.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-542.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,0,0,0,0,0,0]","The meme expresses the symptom of ""Feeling Down"" (persistent sadness, hopelessness, emptiness)."
+TE-543.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-547.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-548.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,1,0,1]","[0,0,0,0,0,0,1]","The meme expresses a Sleeping Disorder, as the character is unable to sleep due to the emotional distress."
+TE-55.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-552.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,1,0]","The meme expresses a concentration problem, as it humorously depicts extreme difficulty with memory and concentration, specifically the struggle to recall a name."
+TE-553.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-554.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-555.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,1,0,0]","[0,0,0,0,0,0,0]","The meme expresses a feeling of sadness or dismay, which could be associated with feeling down. However, it does not explicitly show any of the other symptoms listed."
+TE-556.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-557.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-559.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-56.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-560.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-561.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-562.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-563.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-564.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,1,0,0,0,0,0]","The meme expresses a lack of interest, which is a symptom of anxiety and depression."
+TE-565.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,1]","The meme expresses a sleeping disorder, specifically insomnia, as the person has experienced anxiety for several hours during the night."
+TE-566.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-567.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-568.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-57.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-570.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-572.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-573.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,1,0,0,0]",The meme expresses the symptom of Eating Disorder (YES).
+TE-574.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-575.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-577.jpg,UNIVERSAL_HUMAN,"[1,1,1,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a lack of interest and motivation, which can be associated with feelings of downness or depression. It does not explicitly show any other mental health symptoms such as self-harm, eating disorders, low self-esteem, concentration problems, or sleeping disorders."
+TE-578.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-579.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-580.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-581.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","The meme expresses a state of mental chaos or overload, which could be indicative of concentration problems or emotional distress. It does not explicitly show any of the other symptoms listed."
+TE-582.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-584.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-585.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-587.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a lack of interest in engaging with the acquaintance from school, which is a symptom of social anxiety. It does not show any other mental health symptoms."
+TE-59.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-590.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,1,0,0,0,0,1]",The meme expresses a lack of interest (Lack of Interest: YES/NO) and a sleeping disorder (Sleeping Disorder: YES/NO).
+TE-592.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-594.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-596.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-597.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-598.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a wish for deep, long, and carefree sleep, which could be indicative of a sleeping disorder, such as insomnia or hypersomnia. However, it does not explicitly show any other mental health symptoms."
+TE-599.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-6.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-60.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,0,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-600.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-601.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,1,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-603.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-604.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-605.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-606.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-608.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,1]","The meme expresses a Sleeping Disorder (insomnia, hypersomnia, disrupted sleep) as the adult character is seen pleading with her younger self to sleep as long as possible."
+TE-609.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-61.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,0]","[0,0,0,0,0,0,0]","The meme does not explicitly express any of the mental health symptoms listed. The text uses the Hindi word 'paidal' to describe the subject, which could be interpreted as a self-perception of being eccentric or different. The cat in the image has a wide-eyed, somewhat bewildered expression, which might suggest a feeling of being overwhelmed or out of control. However, without more context, it is difficult to definitively determine if the meme is expressing any of the mental health symptoms list"
+TE-610.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,1]","The meme expresses a sleeping disorder, specifically insomnia, as it describes the person's inability to sleep at night due to worry or trouble."
+TE-612.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,1,0,0]","[0,0,0,0,0,0,0]","The meme does not explicitly express any of the mental health symptoms listed. It is a humorous take on the act of deleting ""bodychecks"" and does not depict any of the symptoms listed."
+TE-613.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-616.jpg,UNIVERSAL_HUMAN,"[1,0,1,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-617.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,0,0,0,0,0,0]",The meme expresses the symptom of Feeling Down.
+TE-618.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-62.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-620.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-621.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-622.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-623.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-624.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-625.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-626.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-627.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]",[PARSE_FAIL],The meme expresses a
+TE-628.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-63.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-631.jpg,UNIVERSAL_HUMAN,"[0,0,0,1,0,0,0]","[0,0,0,0,1,0,0]",The meme expresses the symptom of Low Self-Esteem (YES/NO).
+TE-633.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-634.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,1,0]","The meme expresses the symptom of Concentration Problem (difficulty focusing, brain fog)."
+TE-635.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-636.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[1,1,0,0,1,1,0]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Low Self-Esteem: YES
+Concentration Problem: YES"
+TE-637.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-638.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,1,0]","The meme expresses the symptom of Concentration Problem, as it is specifically about the cognitive process of ""overthinking."""
+TE-639.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,1]","[1,1,0,0,1,1,0]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Low Self-Esteem: YES
+Concentration Problem: YES"
+TE-64.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme does not express any of the mental health symptoms listed. It is a joke that uses a ""bait and switch"" technique to convey a message."
+TE-640.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-641.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-643.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-645.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-646.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]",The meme does not explicitly address any of the symptoms listed. It is focused on the concept of overthinking and the importance of living in the present moment.
+TE-647.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-648.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a sense of loneliness and a desire for companionship, which could be indicative of low self-esteem or a lack of interest. However, it does not explicitly show any of the other symptoms listed."
+TE-649.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-65.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-651.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,1]","[1,1,0,0,0,1,0]","The meme expresses symptoms of feeling down, lack of interest, and concentration problem."
+TE-652.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-653.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-654.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-655.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-656.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,1,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-657.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-658.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","The meme does not express any of the mental health symptoms listed. It is a humorous take on a medical situation, not a representation of mental health issues."
+TE-659.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,1,0]","The meme expresses the symptom of Concentration Problem (difficulty focusing, brain fog)."
+TE-66.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-660.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","The meme expresses a high degree of mental turmoil or being mentally overwhelmed, but does not explicitly depict hopelessness or any other mental health symptoms."
+TE-661.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,1,0]","[0,0,0,0,0,0,0]","The meme expresses a high degree of mental stress and being overwhelmed, but does not depict existential hopelessness or self-harm."
+TE-662.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-67.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-68.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-69.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-7.jpg,UNIVERSAL_HUMAN,"[0,0,1,0,0,0,0]","[0,0,1,0,0,0,0]","The meme expresses the symptom of ""Self-Harm"" as it references ""suicidal thoughts."""
+TE-71.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-72.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,1,0,0]","[0,0,0,0,0,0,0]",The meme does not express any of the mental health symptoms listed. It is a humorous meme that uses relatable imagery and text to convey a common experience of digital social awkwardness.
+TE-73.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[1,0,0,0,0,0,0]","The meme expresses the symptom of ""Feeling Down"" (persistent sadness, hopelessness, emptiness) as it is labeled as ""अकेलापन"" (loneliness) and visually represents it as a vast, empty space that dwarfs the functional rooms."
+TE-75.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,1,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-76.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-77.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-79.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses the symptom of anxiety attack, which is a part of anxiety disorder. It does not explicitly show any of the other symptoms listed."
+TE-80.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-81.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-82.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-83.jpg,UNIVERSAL_HUMAN,"[1,1,0,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a lack of interest in socializing, which is a symptom of depression. It does not explicitly show any other mental health symptoms."
+TE-84.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[0,0,0,0,0,0,0]","Feeling Down: YES/NO
+Lack of Interest: YES/NO
+Self-Harm: YES/NO
+Eating Disorder: YES/NO
+Low Self-Esteem: YES/NO
+Concentration Problem: YES/NO
+Sleeping Disorder: YES/NO"
+TE-85.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-86.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-89.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES
+
+2.  **MEME ELEMENTS:**
+- **Humor:** The meme uses humor to convey the message.
+- **Relatability:** The meme is relatable to many people who have experienced disappointment and sadness.
+- **Emotional Expression:** The meme expresses a specific emotional state.
+- **Cultural Context:** The meme is in Hindi, which is a language spoken in India.
+- **Visua"
+TE-92.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-93.jpg,UNIVERSAL_HUMAN,"[1,0,0,0,0,0,0]","[0,0,0,0,0,1,0]",The meme expresses the symptom of Concentration Problem.
+TE-94.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-95.jpg,UNIVERSAL_HUMAN,"[0,1,0,0,0,0,0]","[0,1,0,0,0,0,0]",The meme expresses the symptom of Lack of Interest.
+TE-96.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,0]","[1,1,0,0,1,1,0]","The meme expresses the following mental health symptoms:
+Feeling Down: YES
+Lack of Interest: YES
+Low Self-Esteem: YES
+Concentration Problem: YES"
+TE-97.jpg,UNIVERSAL_HUMAN,"[0,0,0,0,0,0,1]","[1,1,0,0,1,0,0]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: NO
+Eating Disorder: NO
+Low Self-Esteem: YES
+Concentration Problem: NO
+Sleeping Disorder: NO"
+TE-205.jpg,VISUAL_SYMBOL_DEPENDENT,"[0,0,0,0,0,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-276.jpg,VISUAL_SYMBOL_DEPENDENT,"[0,0,0,0,0,0,0]","[0,0,0,0,0,0,0]","The image does not provide enough information to determine if the figure is experiencing any of the mental health symptoms listed. The figure's facial expression remains generally neutral or stoic across the different settings, and no specific emotions such as sadness or anguish are visibly expressed."
+TE-461.jpg,VISUAL_SYMBOL_DEPENDENT,"[1,0,0,0,0,0,0]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-512.jpg,VISUAL_SYMBOL_DEPENDENT,"[1,0,0,0,1,0,1]","[1,1,1,1,1,1,1]","Feeling Down: YES
+Lack of Interest: YES
+Self-Harm: YES
+Eating Disorder: YES
+Low Self-Esteem: YES
+Concentration Problem: YES
+Sleeping Disorder: YES"
+TE-87.jpg,VISUAL_SYMBOL_DEPENDENT,"[1,0,1,0,0,0,0]","[0,0,0,0,0,0,0]","The meme expresses a feeling of deep distress and anguish, which could be associated with low self-esteem, lack of interest, and feelings of hopelessness or emptiness. It does not explicitly reference self-harm, eating disorders, or concentration problems. The visual scene of a funeral conveys a somber, grieving atmosphere, which could be associated with feelings of hopelessness or emptiness. The text does not provide enough information to determine if the person is experiencing insomnia, hypers"

@@ -1,0 +1,65 @@
+{
+  "n_samples": 650,
+  "macro_f1": 0.01257142857142857,
+  "weighted_f1": 0.02695156695156695,
+  "macro_precision": 0.044897959183673466,
+  "macro_recall": 0.007308970099667774,
+  "per_symptom": [
+    {
+      "symptom": "Feeling Down",
+      "precision": 0.3142857142857143,
+      "recall": 0.05116279069767442,
+      "f1": 0.088,
+      "support": 215,
+      "predicted_positive": 35
+    },
+    {
+      "symptom": "Lack of Interest",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 65,
+      "predicted_positive": 0
+    },
+    {
+      "symptom": "Self-Harm",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 79,
+      "predicted_positive": 0
+    },
+    {
+      "symptom": "Eating Disorder",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 82,
+      "predicted_positive": 0
+    },
+    {
+      "symptom": "Low Self-Esteem",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 111,
+      "predicted_positive": 0
+    },
+    {
+      "symptom": "Concentration Problems",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 72,
+      "predicted_positive": 0
+    },
+    {
+      "symptom": "Sleeping Disorder",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 78,
+      "predicted_positive": 0
+    }
+  ]
+}

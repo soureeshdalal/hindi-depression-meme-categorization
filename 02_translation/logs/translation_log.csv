@@ -1,0 +1,1189 @@
+original_file,translated_file,status,timestamp,error_message,cost_estimate
+train/TR-1063.jpg,,no_image,2026-03-20 13:59:50,API returned no image data,0.1400
+train/TR-1145.jpg,,no_image,2026-03-20 14:00:09,API returned no image data,0.1400
+train/TR-1191.jpg,,no_image,2026-03-20 14:00:26,API returned no image data,0.1400
+train/TR-1212.jpg,translated_train/TR-1212.jpg,success,2026-03-20 14:00:51,,0.1400
+train/TR-1220.jpg,translated_train/TR-1220.jpg,success,2026-03-20 14:01:11,,0.1400
+train/TR-1299.jpg,,no_image,2026-03-20 14:01:33,API returned no image data,0.1400
+train/TR-1359.jpg,translated_train/TR-1359.jpg,success,2026-03-20 14:01:58,,0.1400
+train/TR-1385.jpg,,no_image,2026-03-20 14:02:24,API returned no image data,0.1400
+train/TR-1403.jpg,,no_image,2026-03-20 14:02:45,API returned no image data,0.1400
+train/TR-1410.jpg,,no_image,2026-03-20 14:03:02,API returned no image data,0.1400
+train/TR-1414.jpg,,no_image,2026-03-20 14:03:22,API returned no image data,0.1400
+train/TR-1495.jpg,,no_image,2026-03-20 14:03:40,API returned no image data,0.1400
+train/TR-1499.jpg,,no_image,2026-03-20 14:03:57,API returned no image data,0.1400
+train/TR-1502.jpg,,no_image,2026-03-20 14:04:18,API returned no image data,0.1400
+train/TR-1512.jpg,,no_image,2026-03-20 14:04:37,API returned no image data,0.1400
+train/TR-1544.jpg,,no_image,2026-03-20 14:05:04,API returned no image data,0.1400
+train/TR-1561.jpg,translated_train/TR-1561.jpg,success,2026-03-20 14:05:25,,0.1400
+train/TR-1602.jpg,,no_image,2026-03-20 14:05:52,API returned no image data,0.1400
+train/TR-1605.jpg,,no_image,2026-03-20 14:06:10,API returned no image data,0.1400
+train/TR-1610.jpg,,no_image,2026-03-20 14:06:30,API returned no image data,0.1400
+train/TR-1637.jpg,,no_image,2026-03-20 14:06:49,API returned no image data,0.1400
+train/TR-1638.jpg,,no_image,2026-03-20 14:07:09,API returned no image data,0.1400
+train/TR-1652.jpg,,no_image,2026-03-20 14:07:30,API returned no image data,0.1400
+train/TR-1655.jpg,,no_image,2026-03-20 14:07:50,API returned no image data,0.1400
+train/TR-1686.jpg,,no_image,2026-03-20 14:08:11,API returned no image data,0.1400
+train/TR-17.jpg,,no_image,2026-03-20 14:08:29,API returned no image data,0.1400
+train/TR-1718.jpg,,no_image,2026-03-20 14:08:50,API returned no image data,0.1400
+train/TR-173.jpg,,no_image,2026-03-20 14:09:09,API returned no image data,0.1400
+train/TR-1741.jpg,,no_image,2026-03-20 14:09:33,API returned no image data,0.1400
+train/TR-1758.jpg,,no_image,2026-03-20 14:09:53,API returned no image data,0.1400
+train/TR-1765.jpg,,no_image,2026-03-20 14:10:16,API returned no image data,0.1400
+train/TR-1797.jpg,,no_image,2026-03-20 14:10:38,API returned no image data,0.1400
+train/TR-1825.jpg,,no_image,2026-03-20 14:10:58,API returned no image data,0.1400
+train/TR-1826.jpg,translated_train/TR-1826.jpg,success,2026-03-20 14:11:19,,0.1400
+train/TR-1828.jpg,,no_image,2026-03-20 14:11:40,API returned no image data,0.1400
+train/TR-1829.jpg,,no_image,2026-03-20 14:12:00,API returned no image data,0.1400
+train/TR-1850.jpg,translated_train/TR-1850.jpg,success,2026-03-20 14:12:24,,0.1400
+train/TR-1858.jpg,translated_train/TR-1858.jpg,success,2026-03-20 14:12:52,,0.1400
+train/TR-1861.jpg,,no_image,2026-03-20 14:13:10,API returned no image data,0.1400
+train/TR-1875.jpg,,no_image,2026-03-20 14:13:30,API returned no image data,0.1400
+train/TR-1877.jpg,,no_image,2026-03-20 14:13:50,API returned no image data,0.1400
+train/TR-1883.jpg,,no_image,2026-03-20 14:14:12,API returned no image data,0.1400
+train/TR-1889.jpg,,no_image,2026-03-20 14:14:30,API returned no image data,0.1400
+train/TR-1905.jpg,,no_image,2026-03-20 14:14:51,API returned no image data,0.1400
+train/TR-1906.jpg,,no_image,2026-03-20 14:15:10,API returned no image data,0.1400
+train/TR-1907.jpg,,no_image,2026-03-20 14:15:28,API returned no image data,0.1400
+train/TR-1908.jpg,,no_image,2026-03-20 14:15:50,API returned no image data,0.1400
+train/TR-1928.jpg,translated_train/TR-1928.jpg,success,2026-03-20 14:16:29,,0.1400
+train/TR-1933.jpg,,no_image,2026-03-20 14:16:45,API returned no image data,0.1400
+train/TR-1937.jpg,,no_image,2026-03-20 14:17:05,API returned no image data,0.1400
+train/TR-1939.jpg,,no_image,2026-03-20 14:17:28,API returned no image data,0.1400
+train/TR-1952.jpg,translated_train/TR-1952.jpg,success,2026-03-20 14:17:54,,0.1400
+train/TR-1955.jpg,,no_image,2026-03-20 14:18:13,API returned no image data,0.1400
+train/TR-1964.jpg,translated_train/TR-1964.jpg,success,2026-03-20 14:18:49,,0.1400
+train/TR-1976.jpg,,no_image,2026-03-20 14:19:11,API returned no image data,0.1400
+train/TR-1978.jpg,,no_image,2026-03-20 14:19:31,API returned no image data,0.1400
+train/TR-1992.jpg,translated_train/TR-1992.jpg,success,2026-03-20 14:20:01,,0.1400
+train/TR-1996.jpg,,no_image,2026-03-20 14:20:20,API returned no image data,0.1400
+train/TR-2002.jpg,translated_train/TR-2002.jpg,success,2026-03-20 14:20:48,,0.1400
+train/TR-2003.jpg,translated_train/TR-2003.jpg,success,2026-03-20 14:21:16,,0.1400
+train/TR-2004.jpg,translated_train/TR-2004.jpg,success,2026-03-20 14:21:43,,0.1400
+train/TR-2005.jpg,translated_train/TR-2005.jpg,success,2026-03-20 14:22:14,,0.1400
+train/TR-2006.jpg,,no_image,2026-03-20 14:22:32,API returned no image data,0.1400
+train/TR-2007.jpg,translated_train/TR-2007.jpg,success,2026-03-20 14:23:05,,0.1400
+train/TR-2008.jpg,translated_train/TR-2008.jpg,success,2026-03-20 14:23:35,,0.1400
+train/TR-2009.jpg,translated_train/TR-2009.jpg,success,2026-03-20 14:23:58,,0.1400
+train/TR-201.jpg,translated_train/TR-201.jpg,success,2026-03-20 14:24:22,,0.1400
+train/TR-2010.jpg,translated_train/TR-2010.jpg,success,2026-03-20 14:24:47,,0.1400
+train/TR-2011.jpg,translated_train/TR-2011.jpg,success,2026-03-20 14:25:10,,0.1400
+train/TR-2012.jpg,translated_train/TR-2012.jpg,success,2026-03-20 14:25:35,,0.1400
+train/TR-2013.jpg,translated_train/TR-2013.jpg,success,2026-03-20 14:26:00,,0.1400
+train/TR-2014.jpg,translated_train/TR-2014.jpg,success,2026-03-20 14:26:24,,0.1400
+train/TR-2015.jpg,translated_train/TR-2015.jpg,success,2026-03-20 14:26:47,,0.1400
+train/TR-2016.jpg,translated_train/TR-2016.jpg,success,2026-03-20 14:27:07,,0.1400
+train/TR-2017.jpg,translated_train/TR-2017.jpg,success,2026-03-20 14:27:32,,0.1400
+train/TR-2018.jpg,translated_train/TR-2018.jpg,success,2026-03-20 14:27:57,,0.1400
+train/TR-2019.jpg,translated_train/TR-2019.jpg,success,2026-03-20 14:28:20,,0.1400
+train/TR-202.jpg,translated_train/TR-202.jpg,success,2026-03-20 14:28:51,,0.1400
+train/TR-2020.jpg,translated_train/TR-2020.jpg,success,2026-03-20 14:29:18,,0.1400
+train/TR-2021.jpg,,no_image,2026-03-20 14:29:33,API returned no image data,0.1400
+train/TR-2022.jpg,translated_train/TR-2022.jpg,success,2026-03-20 14:29:59,,0.1400
+train/TR-2023.jpg,translated_train/TR-2023.jpg,success,2026-03-20 14:30:23,,0.1400
+train/TR-2024.jpg,translated_train/TR-2024.jpg,success,2026-03-20 14:30:48,,0.1400
+train/TR-2025.jpg,,no_image,2026-03-20 14:31:08,API returned no image data,0.1400
+train/TR-2026.jpg,,no_image,2026-03-20 14:31:28,API returned no image data,0.1400
+train/TR-2027.jpg,translated_train/TR-2027.jpg,success,2026-03-20 14:31:55,,0.1400
+train/TR-2028.jpg,translated_train/TR-2028.jpg,success,2026-03-20 14:32:15,,0.1400
+train/TR-2029.jpg,,no_image,2026-03-20 14:32:36,API returned no image data,0.1400
+train/TR-203.jpg,translated_train/TR-203.jpg,success,2026-03-20 14:33:06,,0.1400
+train/TR-2030.jpg,translated_train/TR-2030.jpg,success,2026-03-20 14:33:28,,0.1400
+train/TR-2031.jpg,translated_train/TR-2031.jpg,success,2026-03-20 14:33:55,,0.1400
+train/TR-2032.jpg,translated_train/TR-2032.jpg,success,2026-03-20 14:34:22,,0.1400
+train/TR-2033.jpg,translated_train/TR-2033.jpg,success,2026-03-20 14:34:51,,0.1400
+train/TR-2034.jpg,translated_train/TR-2034.jpg,success,2026-03-20 14:35:11,,0.1400
+train/TR-2035.jpg,translated_train/TR-2035.jpg,success,2026-03-20 14:35:35,,0.1400
+train/TR-2036.jpg,translated_train/TR-2036.jpg,success,2026-03-20 14:36:04,,0.1400
+train/TR-2037.jpg,translated_train/TR-2037.jpg,success,2026-03-20 14:36:27,,0.1400
+train/TR-2038.jpg,translated_train/TR-2038.jpg,success,2026-03-20 14:36:59,,0.1400
+train/TR-2039.jpg,translated_train/TR-2039.jpg,success,2026-03-20 14:37:34,,0.1400
+train/TR-204.jpg,translated_train/TR-204.jpg,success,2026-03-20 14:37:59,,0.1400
+train/TR-2040.jpg,translated_train/TR-2040.jpg,success,2026-03-20 14:38:18,,0.1400
+train/TR-2041.jpg,translated_train/TR-2041.jpg,success,2026-03-20 14:39:02,,0.1400
+train/TR-2042.jpg,translated_train/TR-2042.jpg,success,2026-03-20 14:39:31,,0.1400
+train/TR-2043.jpg,translated_train/TR-2043.jpg,success,2026-03-20 14:40:03,,0.1400
+train/TR-2044.jpg,translated_train/TR-2044.jpg,success,2026-03-20 14:40:23,,0.1400
+train/TR-2045.jpg,translated_train/TR-2045.jpg,success,2026-03-20 14:40:44,,0.1400
+train/TR-2046.jpg,translated_train/TR-2046.jpg,success,2026-03-20 14:41:12,,0.1400
+train/TR-2047.jpg,translated_train/TR-2047.jpg,success,2026-03-20 14:41:39,,0.1400
+train/TR-2048.jpg,translated_train/TR-2048.jpg,success,2026-03-20 14:42:17,,0.1400
+train/TR-2049.jpg,translated_train/TR-2049.jpg,success,2026-03-20 14:42:49,,0.1400
+train/TR-205.jpg,translated_train/TR-205.jpg,success,2026-03-20 14:43:12,,0.1400
+train/TR-2050.jpg,translated_train/TR-2050.jpg,success,2026-03-20 14:43:39,,0.1400
+train/TR-2051.jpg,translated_train/TR-2051.jpg,success,2026-03-20 14:44:12,,0.1400
+train/TR-2052.jpg,translated_train/TR-2052.jpg,success,2026-03-20 14:44:34,,0.1400
+train/TR-2053.jpg,translated_train/TR-2053.jpg,success,2026-03-20 14:44:55,,0.1400
+train/TR-2054.jpg,translated_train/TR-2054.jpg,success,2026-03-20 14:45:14,,0.1400
+train/TR-2055.jpg,translated_train/TR-2055.jpg,success,2026-03-20 14:45:42,,0.1400
+train/TR-2056.jpg,translated_train/TR-2056.jpg,success,2026-03-20 14:46:15,,0.1400
+train/TR-2057.jpg,translated_train/TR-2057.jpg,success,2026-03-20 14:46:47,,0.1400
+train/TR-2058.jpg,translated_train/TR-2058.jpg,success,2026-03-20 14:47:13,,0.1400
+train/TR-2059.jpg,translated_train/TR-2059.jpg,success,2026-03-20 14:47:35,,0.1400
+train/TR-206.jpg,translated_train/TR-206.jpg,success,2026-03-20 14:47:57,,0.1400
+train/TR-2060.jpg,translated_train/TR-2060.jpg,success,2026-03-20 14:48:18,,0.1400
+train/TR-2061.jpg,translated_train/TR-2061.jpg,success,2026-03-20 14:48:44,,0.1400
+train/TR-2062.jpg,translated_train/TR-2062.jpg,success,2026-03-20 14:49:10,,0.1400
+train/TR-2063.jpg,translated_train/TR-2063.jpg,success,2026-03-20 14:49:31,,0.1400
+train/TR-2064.jpg,translated_train/TR-2064.jpg,success,2026-03-20 14:49:55,,0.1400
+train/TR-2065.jpg,translated_train/TR-2065.jpg,success,2026-03-20 14:50:15,,0.1400
+train/TR-2066.jpg,translated_train/TR-2066.jpg,success,2026-03-20 14:50:41,,0.1400
+train/TR-2067.jpg,,no_image,2026-03-20 14:51:00,API returned no image data,0.1400
+train/TR-2068.jpg,translated_train/TR-2068.jpg,success,2026-03-20 14:51:27,,0.1400
+train/TR-2069.jpg,translated_train/TR-2069.jpg,success,2026-03-20 14:52:05,,0.1400
+train/TR-207.jpg,translated_train/TR-207.jpg,success,2026-03-20 14:52:27,,0.1400
+train/TR-2070.jpg,,no_image,2026-03-20 14:52:51,API returned no image data,0.1400
+train/TR-2071.jpg,translated_train/TR-2071.jpg,success,2026-03-20 14:53:16,,0.1400
+train/TR-2072.jpg,translated_train/TR-2072.jpg,success,2026-03-20 14:53:42,,0.1400
+train/TR-2073.jpg,translated_train/TR-2073.jpg,success,2026-03-20 14:54:04,,0.1400
+train/TR-2074.jpg,translated_train/TR-2074.jpg,success,2026-03-20 14:54:35,,0.1400
+train/TR-2075.jpg,translated_train/TR-2075.jpg,success,2026-03-20 14:55:00,,0.1400
+train/TR-2076.jpg,translated_train/TR-2076.jpg,success,2026-03-20 14:55:23,,0.1400
+train/TR-2077.jpg,translated_train/TR-2077.jpg,success,2026-03-20 14:55:52,,0.1400
+train/TR-2078.jpg,translated_train/TR-2078.jpg,success,2026-03-20 14:56:14,,0.1400
+train/TR-2079.jpg,translated_train/TR-2079.jpg,success,2026-03-20 14:56:37,,0.1400
+train/TR-208.jpg,translated_train/TR-208.jpg,success,2026-03-20 14:57:00,,0.1400
+train/TR-2080.jpg,translated_train/TR-2080.jpg,success,2026-03-20 14:57:37,,0.1400
+train/TR-2081.jpg,translated_train/TR-2081.jpg,success,2026-03-20 14:58:02,,0.1400
+train/TR-2082.jpg,translated_train/TR-2082.jpg,success,2026-03-20 14:58:27,,0.1400
+train/TR-2083.jpg,translated_train/TR-2083.jpg,success,2026-03-20 14:58:56,,0.1400
+train/TR-2084.jpg,translated_train/TR-2084.jpg,success,2026-03-20 14:59:18,,0.1400
+train/TR-2085.jpg,translated_train/TR-2085.jpg,success,2026-03-20 14:59:41,,0.1400
+train/TR-2086.jpg,translated_train/TR-2086.jpg,success,2026-03-20 15:00:03,,0.1400
+train/TR-2087.jpg,translated_train/TR-2087.jpg,success,2026-03-20 15:00:24,,0.1400
+train/TR-2088.jpg,,no_image,2026-03-20 15:00:45,API returned no image data,0.1400
+train/TR-2089.jpg,translated_train/TR-2089.jpg,success,2026-03-20 15:01:09,,0.1400
+train/TR-209.jpg,translated_train/TR-209.jpg,success,2026-03-20 15:01:41,,0.1400
+train/TR-2090.jpg,translated_train/TR-2090.jpg,success,2026-03-20 15:02:09,,0.1400
+train/TR-2091.jpg,,no_image,2026-03-20 15:02:32,API returned no image data,0.1400
+train/TR-2092.jpg,translated_train/TR-2092.jpg,success,2026-03-20 15:02:52,,0.1400
+train/TR-2093.jpg,translated_train/TR-2093.jpg,success,2026-03-20 15:03:24,,0.1400
+train/TR-2094.jpg,translated_train/TR-2094.jpg,success,2026-03-20 15:03:49,,0.1400
+train/TR-2095.jpg,,no_image,2026-03-20 15:04:11,API returned no image data,0.1400
+train/TR-2096.jpg,translated_train/TR-2096.jpg,success,2026-03-20 15:04:31,,0.1400
+train/TR-2097.jpg,translated_train/TR-2097.jpg,success,2026-03-20 15:04:57,,0.1400
+train/TR-2098.jpg,translated_train/TR-2098.jpg,success,2026-03-20 15:05:20,,0.1400
+train/TR-2099.jpg,translated_train/TR-2099.jpg,success,2026-03-20 15:05:45,,0.1400
+train/TR-21.jpg,translated_train/TR-21.jpg,success,2026-03-20 15:06:10,,0.1400
+train/TR-210.jpg,translated_train/TR-210.jpg,success,2026-03-20 15:06:33,,0.1400
+train/TR-2100.jpg,translated_train/TR-2100.jpg,success,2026-03-20 15:07:06,,0.1400
+train/TR-2101.jpg,translated_train/TR-2101.jpg,success,2026-03-20 15:07:28,,0.1400
+train/TR-2102.jpg,translated_train/TR-2102.jpg,success,2026-03-20 15:07:48,,0.1400
+train/TR-2103.jpg,translated_train/TR-2103.jpg,success,2026-03-20 15:08:24,,0.1400
+train/TR-2104.jpg,translated_train/TR-2104.jpg,success,2026-03-20 15:08:54,,0.1400
+train/TR-2105.jpg,translated_train/TR-2105.jpg,success,2026-03-20 15:09:27,,0.1400
+train/TR-2106.jpg,translated_train/TR-2106.jpg,success,2026-03-20 15:10:02,,0.1400
+train/TR-2107.jpg,translated_train/TR-2107.jpg,success,2026-03-20 15:10:27,,0.1400
+train/TR-2108.jpg,,no_image,2026-03-20 15:10:48,API returned no image data,0.1400
+train/TR-2109.jpg,translated_train/TR-2109.jpg,success,2026-03-20 15:11:30,,0.1400
+train/TR-211.jpg,translated_train/TR-211.jpg,success,2026-03-20 15:11:52,,0.1400
+train/TR-2110.jpg,translated_train/TR-2110.jpg,success,2026-03-20 15:12:10,,0.1400
+train/TR-2111.jpg,translated_train/TR-2111.jpg,success,2026-03-20 15:12:33,,0.1400
+train/TR-2112.jpg,translated_train/TR-2112.jpg,success,2026-03-20 15:12:55,,0.1400
+train/TR-2113.jpg,translated_train/TR-2113.jpg,success,2026-03-20 15:13:21,,0.1400
+train/TR-2114.jpg,translated_train/TR-2114.jpg,success,2026-03-20 15:13:53,,0.1400
+train/TR-2115.jpg,translated_train/TR-2115.jpg,success,2026-03-20 15:14:18,,0.1400
+train/TR-2116.jpg,translated_train/TR-2116.jpg,success,2026-03-20 15:14:42,,0.1400
+train/TR-2117.jpg,translated_train/TR-2117.jpg,success,2026-03-20 15:15:24,,0.1400
+train/TR-2118.jpg,translated_train/TR-2118.jpg,success,2026-03-20 15:15:56,,0.1400
+train/TR-2119.jpg,translated_train/TR-2119.jpg,success,2026-03-20 15:16:25,,0.1400
+train/TR-212.jpg,translated_train/TR-212.jpg,success,2026-03-20 15:16:56,,0.1400
+train/TR-2120.jpg,translated_train/TR-2120.jpg,success,2026-03-20 15:17:31,,0.1400
+train/TR-2121.jpg,translated_train/TR-2121.jpg,success,2026-03-20 15:17:53,,0.1400
+train/TR-2122.jpg,,no_image,2026-03-20 15:18:17,API returned no image data,0.1400
+train/TR-2123.jpg,,no_image,2026-03-20 15:18:36,API returned no image data,0.1400
+train/TR-2124.jpg,translated_train/TR-2124.jpg,success,2026-03-20 15:19:05,,0.1400
+train/TR-2125.jpg,translated_train/TR-2125.jpg,success,2026-03-20 15:20:02,,0.1400
+train/TR-2126.jpg,translated_train/TR-2126.jpg,success,2026-03-20 15:20:22,,0.1400
+train/TR-2127.jpg,translated_train/TR-2127.jpg,success,2026-03-20 15:20:50,,0.1400
+train/TR-2128.jpg,translated_train/TR-2128.jpg,success,2026-03-20 15:21:13,,0.1400
+train/TR-2129.jpg,translated_train/TR-2129.jpg,success,2026-03-20 15:21:44,,0.1400
+train/TR-2130.jpg,translated_train/TR-2130.jpg,success,2026-03-20 15:22:07,,0.1400
+train/TR-2131.jpg,translated_train/TR-2131.jpg,success,2026-03-20 15:22:31,,0.1400
+train/TR-2132.jpg,translated_train/TR-2132.jpg,success,2026-03-20 15:23:00,,0.1400
+train/TR-2133.jpg,translated_train/TR-2133.jpg,success,2026-03-20 15:23:32,,0.1400
+train/TR-2134.jpg,,no_image,2026-03-20 15:23:53,API returned no image data,0.1400
+train/TR-2135.jpg,translated_train/TR-2135.jpg,success,2026-03-20 15:24:17,,0.1400
+train/TR-2137.jpg,translated_train/TR-2137.jpg,success,2026-03-20 15:24:45,,0.1400
+train/TR-2138.jpg,translated_train/TR-2138.jpg,success,2026-03-20 15:25:07,,0.1400
+train/TR-214.jpg,translated_train/TR-214.jpg,success,2026-03-20 15:25:26,,0.1400
+train/TR-2140.jpg,translated_train/TR-2140.jpg,success,2026-03-20 15:25:46,,0.1400
+train/TR-2141.jpg,translated_train/TR-2141.jpg,success,2026-03-20 15:26:15,,0.1400
+train/TR-2142.jpg,translated_train/TR-2142.jpg,success,2026-03-20 15:26:44,,0.1400
+train/TR-2143.jpg,translated_train/TR-2143.jpg,success,2026-03-20 15:27:14,,0.1400
+train/TR-2144.jpg,translated_train/TR-2144.jpg,success,2026-03-20 15:27:46,,0.1400
+train/TR-2145.jpg,translated_train/TR-2145.jpg,success,2026-03-20 15:28:13,,0.1400
+train/TR-2146.jpg,translated_train/TR-2146.jpg,success,2026-03-20 15:28:40,,0.1400
+train/TR-2147.jpg,translated_train/TR-2147.jpg,success,2026-03-20 15:29:06,,0.1400
+train/TR-2148.jpg,translated_train/TR-2148.jpg,success,2026-03-20 15:29:30,,0.1400
+train/TR-2149.jpg,translated_train/TR-2149.jpg,success,2026-03-20 15:29:52,,0.1400
+train/TR-215.jpg,translated_train/TR-215.jpg,success,2026-03-20 15:30:19,,0.1400
+train/TR-2150.jpg,translated_train/TR-2150.jpg,success,2026-03-20 15:30:53,,0.1400
+train/TR-2151.jpg,translated_train/TR-2151.jpg,success,2026-03-20 15:31:14,,0.1400
+train/TR-2152.jpg,translated_train/TR-2152.jpg,success,2026-03-20 15:31:34,,0.1400
+train/TR-2153.jpg,translated_train/TR-2153.jpg,success,2026-03-20 15:32:11,,0.1400
+train/TR-2154.jpg,translated_train/TR-2154.jpg,success,2026-03-20 15:32:38,,0.1400
+train/TR-2155.jpg,translated_train/TR-2155.jpg,success,2026-03-20 15:33:07,,0.1400
+train/TR-2156.jpg,translated_train/TR-2156.jpg,success,2026-03-20 15:33:30,,0.1400
+train/TR-2157.jpg,translated_train/TR-2157.jpg,success,2026-03-20 15:34:00,,0.1400
+train/TR-2158.jpg,translated_train/TR-2158.jpg,success,2026-03-20 15:34:24,,0.1400
+train/TR-2159.jpg,translated_train/TR-2159.jpg,success,2026-03-20 15:34:50,,0.1400
+train/TR-216.jpg,translated_train/TR-216.jpg,success,2026-03-20 15:35:21,,0.1400
+train/TR-2160.jpg,translated_train/TR-2160.jpg,success,2026-03-20 15:35:59,,0.1400
+train/TR-2161.jpg,,no_image,2026-03-20 15:36:16,API returned no image data,0.1400
+train/TR-2162.jpg,translated_train/TR-2162.jpg,success,2026-03-20 15:36:46,,0.1400
+train/TR-2163.jpg,translated_train/TR-2163.jpg,success,2026-03-20 15:37:14,,0.1400
+train/TR-2164.jpg,translated_train/TR-2164.jpg,success,2026-03-20 15:37:46,,0.1400
+train/TR-2165.jpg,translated_train/TR-2165.jpg,success,2026-03-20 15:38:08,,0.1400
+train/TR-2166.jpg,translated_train/TR-2166.jpg,success,2026-03-20 15:38:42,,0.1400
+train/TR-2167.jpg,translated_train/TR-2167.jpg,success,2026-03-20 15:39:05,,0.1400
+train/TR-2168.jpg,translated_train/TR-2168.jpg,success,2026-03-20 15:39:42,,0.1400
+train/TR-2169.jpg,translated_train/TR-2169.jpg,success,2026-03-20 15:40:08,,0.1400
+train/TR-217.jpg,translated_train/TR-217.jpg,success,2026-03-20 15:40:29,,0.1400
+train/TR-2170.jpg,translated_train/TR-2170.jpg,success,2026-03-20 15:40:52,,0.1400
+train/TR-2171.jpg,translated_train/TR-2171.jpg,success,2026-03-20 15:41:11,,0.1400
+train/TR-2172.jpg,translated_train/TR-2172.jpg,success,2026-03-20 15:41:33,,0.1400
+train/TR-2173.jpg,translated_train/TR-2173.jpg,success,2026-03-20 15:41:59,,0.1400
+train/TR-2174.jpg,,failed,2026-03-20 15:42:38,"429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current",0.0000
+train/TR-1063.jpg,,no_image,2026-03-21 20:25:59,API returned no image data,0.1400
+train/TR-1145.jpg,,no_image,2026-03-21 20:26:19,API returned no image data,0.1400
+train/TR-1191.jpg,,no_image,2026-03-21 20:26:36,API returned no image data,0.1400
+train/TR-1299.jpg,,no_image,2026-03-21 20:26:58,API returned no image data,0.1400
+train/TR-1385.jpg,,no_image,2026-03-21 20:27:20,API returned no image data,0.1400
+train/TR-1403.jpg,,no_image,2026-03-21 20:27:39,API returned no image data,0.1400
+train/TR-1410.jpg,,no_image,2026-03-21 20:27:56,API returned no image data,0.1400
+train/TR-1414.jpg,,no_image,2026-03-21 20:28:16,API returned no image data,0.1400
+train/TR-1495.jpg,,no_image,2026-03-21 20:28:34,API returned no image data,0.1400
+train/TR-1499.jpg,,no_image,2026-03-21 20:28:51,API returned no image data,0.1400
+train/TR-1502.jpg,,no_image,2026-03-21 20:29:09,API returned no image data,0.1400
+train/TR-1512.jpg,,no_image,2026-03-21 20:29:34,API returned no image data,0.1400
+train/TR-1544.jpg,,no_image,2026-03-21 20:29:56,API returned no image data,0.1400
+train/TR-1602.jpg,,no_image,2026-03-21 20:30:18,API returned no image data,0.1400
+train/TR-1605.jpg,,no_image,2026-03-21 20:30:38,API returned no image data,0.1400
+train/TR-1610.jpg,,no_image,2026-03-21 20:30:58,API returned no image data,0.1400
+train/TR-1637.jpg,,no_image,2026-03-21 20:31:17,API returned no image data,0.1400
+train/TR-1638.jpg,,no_image,2026-03-21 20:31:35,API returned no image data,0.1400
+train/TR-1652.jpg,,no_image,2026-03-21 20:31:57,API returned no image data,0.1400
+train/TR-1655.jpg,translated_train/TR-1655.jpg,success,2026-03-21 20:32:18,,0.1400
+train/TR-1686.jpg,,no_image,2026-03-21 20:32:40,API returned no image data,0.1400
+train/TR-17.jpg,,no_image,2026-03-21 20:33:06,API returned no image data,0.1400
+train/TR-1718.jpg,,no_image,2026-03-21 20:33:29,API returned no image data,0.1400
+train/TR-173.jpg,,no_image,2026-03-21 20:33:49,API returned no image data,0.1400
+train/TR-1741.jpg,,no_image,2026-03-21 20:34:09,API returned no image data,0.1400
+train/TR-1758.jpg,,no_image,2026-03-21 20:34:28,API returned no image data,0.1400
+train/TR-1765.jpg,,no_image,2026-03-21 20:34:49,API returned no image data,0.1400
+train/TR-1797.jpg,,no_image,2026-03-21 20:35:09,API returned no image data,0.1400
+train/TR-1825.jpg,,no_image,2026-03-21 20:35:31,API returned no image data,0.1400
+train/TR-1828.jpg,,no_image,2026-03-21 20:35:53,API returned no image data,0.1400
+train/TR-1829.jpg,,no_image,2026-03-21 20:36:13,API returned no image data,0.1400
+train/TR-1861.jpg,,no_image,2026-03-21 20:36:31,API returned no image data,0.1400
+train/TR-1875.jpg,,no_image,2026-03-21 20:36:51,API returned no image data,0.1400
+train/TR-1877.jpg,,no_image,2026-03-21 20:37:10,API returned no image data,0.1400
+train/TR-1883.jpg,,no_image,2026-03-21 20:37:29,API returned no image data,0.1400
+train/TR-1889.jpg,,no_image,2026-03-21 20:37:51,API returned no image data,0.1400
+train/TR-1905.jpg,,no_image,2026-03-21 20:38:07,API returned no image data,0.1400
+train/TR-1906.jpg,,no_image,2026-03-21 20:38:26,API returned no image data,0.1400
+train/TR-1907.jpg,translated_train/TR-1907.jpg,success,2026-03-21 20:38:45,,0.1400
+train/TR-1908.jpg,translated_train/TR-1908.jpg,success,2026-03-21 20:39:08,,0.1400
+train/TR-1933.jpg,,no_image,2026-03-21 20:39:25,API returned no image data,0.1400
+train/TR-1937.jpg,,no_image,2026-03-21 20:39:46,API returned no image data,0.1400
+train/TR-1939.jpg,translated_train/TR-1939.jpg,success,2026-03-21 20:40:10,,0.1400
+train/TR-1955.jpg,,no_image,2026-03-21 20:40:29,API returned no image data,0.1400
+train/TR-1976.jpg,,no_image,2026-03-21 20:40:52,API returned no image data,0.1400
+train/TR-1978.jpg,,no_image,2026-03-21 20:41:14,API returned no image data,0.1400
+train/TR-1996.jpg,,no_image,2026-03-21 20:41:33,API returned no image data,0.1400
+train/TR-2006.jpg,,no_image,2026-03-21 20:41:50,API returned no image data,0.1400
+train/TR-2021.jpg,translated_train/TR-2021.jpg,success,2026-03-21 20:42:06,,0.1400
+train/TR-2025.jpg,,no_image,2026-03-21 20:42:26,API returned no image data,0.1400
+train/TR-2026.jpg,,no_image,2026-03-21 20:42:48,API returned no image data,0.1400
+train/TR-2029.jpg,,no_image,2026-03-21 20:43:06,API returned no image data,0.1400
+train/TR-2067.jpg,translated_train/TR-2067.jpg,success,2026-03-21 20:43:25,,0.1400
+train/TR-2070.jpg,,no_image,2026-03-21 20:43:47,API returned no image data,0.1400
+train/TR-2088.jpg,,no_image,2026-03-21 20:44:18,API returned no image data,0.1400
+train/TR-2091.jpg,,no_image,2026-03-21 20:44:36,API returned no image data,0.1400
+train/TR-2095.jpg,,no_image,2026-03-21 20:45:00,API returned no image data,0.1400
+train/TR-2108.jpg,translated_train/TR-2108.jpg,success,2026-03-21 20:45:20,,0.1400
+train/TR-2122.jpg,,no_image,2026-03-21 20:45:42,API returned no image data,0.1400
+train/TR-2123.jpg,translated_train/TR-2123.jpg,success,2026-03-21 20:45:59,,0.1400
+train/TR-2134.jpg,,no_image,2026-03-21 20:46:21,API returned no image data,0.1400
+train/TR-2161.jpg,,no_image,2026-03-21 20:46:38,API returned no image data,0.1400
+train/TR-2174.jpg,translated_train/TR-2174.jpg,success,2026-03-21 20:47:00,,0.1400
+train/TR-2175.jpg,translated_train/TR-2175.jpg,success,2026-03-21 20:47:19,,0.1400
+train/TR-2176.jpg,translated_train/TR-2176.jpg,success,2026-03-21 20:47:43,,0.1400
+train/TR-2177.jpg,translated_train/TR-2177.jpg,success,2026-03-21 20:48:03,,0.1400
+train/TR-2178.jpg,translated_train/TR-2178.jpg,success,2026-03-21 20:48:23,,0.1400
+train/TR-2179.jpg,translated_train/TR-2179.jpg,success,2026-03-21 20:48:46,,0.1400
+train/TR-218.jpg,translated_train/TR-218.jpg,success,2026-03-21 20:49:09,,0.1400
+train/TR-2180.jpg,translated_train/TR-2180.jpg,success,2026-03-21 20:49:29,,0.1400
+train/TR-2181.jpg,translated_train/TR-2181.jpg,success,2026-03-21 20:49:50,,0.1400
+train/TR-2182.jpg,translated_train/TR-2182.jpg,success,2026-03-21 20:50:12,,0.1400
+train/TR-2183.jpg,translated_train/TR-2183.jpg,success,2026-03-21 20:50:32,,0.1400
+train/TR-2184.jpg,translated_train/TR-2184.jpg,success,2026-03-21 20:50:51,,0.1400
+train/TR-2185.jpg,translated_train/TR-2185.jpg,success,2026-03-21 20:51:12,,0.1400
+train/TR-2186.jpg,translated_train/TR-2186.jpg,success,2026-03-21 20:51:30,,0.1400
+train/TR-2187.jpg,translated_train/TR-2187.jpg,success,2026-03-21 20:51:47,,0.1400
+train/TR-2188.jpg,translated_train/TR-2188.jpg,success,2026-03-21 20:52:06,,0.1400
+train/TR-2189.jpg,translated_train/TR-2189.jpg,success,2026-03-21 20:52:29,,0.1400
+train/TR-219.jpg,translated_train/TR-219.jpg,success,2026-03-21 20:52:47,,0.1400
+train/TR-2190.jpg,translated_train/TR-2190.jpg,success,2026-03-21 20:53:07,,0.1400
+train/TR-2191.jpg,translated_train/TR-2191.jpg,success,2026-03-21 20:53:25,,0.1400
+train/TR-2192.jpg,translated_train/TR-2192.jpg,success,2026-03-21 20:53:46,,0.1400
+train/TR-2193.jpg,translated_train/TR-2193.jpg,success,2026-03-21 20:54:08,,0.1400
+train/TR-2194.jpg,translated_train/TR-2194.jpg,success,2026-03-21 20:54:33,,0.1400
+train/TR-2195.jpg,translated_train/TR-2195.jpg,success,2026-03-21 20:54:53,,0.1400
+train/TR-2196.jpg,translated_train/TR-2196.jpg,success,2026-03-21 20:55:19,,0.1400
+train/TR-2197.jpg,translated_train/TR-2197.jpg,success,2026-03-21 20:55:48,,0.1400
+train/TR-2198.jpg,translated_train/TR-2198.jpg,success,2026-03-21 20:56:07,,0.1400
+train/TR-2199.jpg,translated_train/TR-2199.jpg,success,2026-03-21 20:56:25,,0.1400
+train/TR-22.jpg,translated_train/TR-22.jpg,success,2026-03-21 20:56:45,,0.1400
+train/TR-220.jpg,translated_train/TR-220.jpg,success,2026-03-21 20:57:06,,0.1400
+train/TR-2200.jpg,,no_image,2026-03-21 20:57:28,API returned no image data,0.1400
+train/TR-2201.jpg,translated_train/TR-2201.jpg,success,2026-03-21 20:57:48,,0.1400
+train/TR-2202.jpg,translated_train/TR-2202.jpg,success,2026-03-21 20:58:08,,0.1400
+train/TR-2203.jpg,translated_train/TR-2203.jpg,success,2026-03-21 20:58:29,,0.1400
+train/TR-2204.jpg,translated_train/TR-2204.jpg,success,2026-03-21 20:58:47,,0.1400
+train/TR-2205.jpg,translated_train/TR-2205.jpg,success,2026-03-21 20:59:08,,0.1400
+train/TR-2206.jpg,translated_train/TR-2206.jpg,success,2026-03-21 20:59:28,,0.1400
+train/TR-2207.jpg,translated_train/TR-2207.jpg,success,2026-03-21 20:59:51,,0.1400
+train/TR-2208.jpg,translated_train/TR-2208.jpg,success,2026-03-21 21:00:15,,0.1400
+train/TR-2209.jpg,translated_train/TR-2209.jpg,success,2026-03-21 21:01:05,,0.1400
+train/TR-221.jpg,translated_train/TR-221.jpg,success,2026-03-21 21:01:27,,0.1400
+train/TR-2210.jpg,translated_train/TR-2210.jpg,success,2026-03-21 21:01:51,,0.1400
+train/TR-2211.jpg,translated_train/TR-2211.jpg,success,2026-03-21 21:02:13,,0.1400
+train/TR-2212.jpg,translated_train/TR-2212.jpg,success,2026-03-21 21:02:32,,0.1400
+train/TR-2213.jpg,translated_train/TR-2213.jpg,success,2026-03-21 21:02:56,,0.1400
+train/TR-2214.jpg,translated_train/TR-2214.jpg,success,2026-03-21 21:03:20,,0.1400
+train/TR-2215.jpg,translated_train/TR-2215.jpg,success,2026-03-21 21:03:41,,0.1400
+train/TR-2216.jpg,,no_image,2026-03-21 21:03:58,API returned no image data,0.1400
+train/TR-2217.jpg,translated_train/TR-2217.jpg,success,2026-03-21 21:04:38,,0.1400
+train/TR-2218.jpg,,no_image,2026-03-21 21:04:56,API returned no image data,0.1400
+train/TR-2219.jpg,translated_train/TR-2219.jpg,success,2026-03-21 21:05:20,,0.1400
+train/TR-222.jpg,translated_train/TR-222.jpg,success,2026-03-21 21:05:41,,0.1400
+train/TR-2220.jpg,translated_train/TR-2220.jpg,success,2026-03-21 21:06:07,,0.1400
+train/TR-2221.jpg,translated_train/TR-2221.jpg,success,2026-03-21 21:06:26,,0.1400
+train/TR-2222.jpg,translated_train/TR-2222.jpg,success,2026-03-21 21:06:48,,0.1400
+train/TR-2223.jpg,translated_train/TR-2223.jpg,success,2026-03-21 21:07:12,,0.1400
+train/TR-2224.jpg,translated_train/TR-2224.jpg,success,2026-03-21 21:07:32,,0.1400
+train/TR-2225.jpg,translated_train/TR-2225.jpg,success,2026-03-21 21:08:00,,0.1400
+train/TR-2226.jpg,translated_train/TR-2226.jpg,success,2026-03-21 21:08:20,,0.1400
+train/TR-2227.jpg,translated_train/TR-2227.jpg,success,2026-03-21 21:08:41,,0.1400
+train/TR-2228.jpg,translated_train/TR-2228.jpg,success,2026-03-21 21:08:58,,0.1400
+train/TR-2229.jpg,translated_train/TR-2229.jpg,success,2026-03-21 21:09:21,,0.1400
+train/TR-223.jpg,translated_train/TR-223.jpg,success,2026-03-21 21:09:41,,0.1400
+train/TR-2230.jpg,translated_train/TR-2230.jpg,success,2026-03-21 21:10:00,,0.1400
+train/TR-2231.jpg,translated_train/TR-2231.jpg,success,2026-03-21 21:10:21,,0.1400
+train/TR-2232.jpg,translated_train/TR-2232.jpg,success,2026-03-21 21:10:42,,0.1400
+train/TR-2233.jpg,translated_train/TR-2233.jpg,success,2026-03-21 21:11:03,,0.1400
+train/TR-2234.jpg,translated_train/TR-2234.jpg,success,2026-03-21 21:11:24,,0.1400
+train/TR-2235.jpg,translated_train/TR-2235.jpg,success,2026-03-21 21:11:47,,0.1400
+train/TR-2236.jpg,,no_image,2026-03-21 21:12:10,API returned no image data,0.1400
+train/TR-2237.jpg,translated_train/TR-2237.jpg,success,2026-03-21 21:12:37,,0.1400
+train/TR-2238.jpg,translated_train/TR-2238.jpg,success,2026-03-21 21:13:00,,0.1400
+train/TR-2239.jpg,translated_train/TR-2239.jpg,success,2026-03-21 21:13:19,,0.1400
+train/TR-224.jpg,translated_train/TR-224.jpg,success,2026-03-21 21:13:46,,0.1400
+train/TR-2240.jpg,translated_train/TR-2240.jpg,success,2026-03-21 21:14:09,,0.1400
+train/TR-2241.jpg,translated_train/TR-2241.jpg,success,2026-03-21 21:14:29,,0.1400
+train/TR-2242.jpg,translated_train/TR-2242.jpg,success,2026-03-21 21:14:49,,0.1400
+train/TR-2243.jpg,translated_train/TR-2243.jpg,success,2026-03-21 21:15:10,,0.1400
+train/TR-2244.jpg,translated_train/TR-2244.jpg,success,2026-03-21 21:15:32,,0.1400
+train/TR-2245.jpg,,no_image,2026-03-21 21:15:56,API returned no image data,0.1400
+train/TR-2246.jpg,translated_train/TR-2246.jpg,success,2026-03-21 21:16:14,,0.1400
+train/TR-2247.jpg,translated_train/TR-2247.jpg,success,2026-03-21 21:16:32,,0.1400
+train/TR-2248.jpg,translated_train/TR-2248.jpg,success,2026-03-21 21:16:50,,0.1400
+train/TR-2249.jpg,translated_train/TR-2249.jpg,success,2026-03-21 21:17:12,,0.1400
+train/TR-225.jpg,translated_train/TR-225.jpg,success,2026-03-21 21:17:34,,0.1400
+train/TR-2250.jpg,translated_train/TR-2250.jpg,success,2026-03-21 21:17:52,,0.1400
+train/TR-2251.jpg,translated_train/TR-2251.jpg,success,2026-03-21 21:18:10,,0.1400
+train/TR-2252.jpg,translated_train/TR-2252.jpg,success,2026-03-21 21:18:31,,0.1400
+train/TR-2253.jpg,translated_train/TR-2253.jpg,success,2026-03-21 21:18:49,,0.1400
+train/TR-2254.jpg,translated_train/TR-2254.jpg,success,2026-03-21 21:19:11,,0.1400
+train/TR-2255.jpg,translated_train/TR-2255.jpg,success,2026-03-21 21:19:29,,0.1400
+train/TR-2256.jpg,translated_train/TR-2256.jpg,success,2026-03-21 21:19:48,,0.1400
+train/TR-2257.jpg,translated_train/TR-2257.jpg,success,2026-03-21 21:20:08,,0.1400
+train/TR-2258.jpg,translated_train/TR-2258.jpg,success,2026-03-21 21:20:30,,0.1400
+train/TR-2259.jpg,translated_train/TR-2259.jpg,success,2026-03-21 21:20:53,,0.1400
+train/TR-226.jpg,translated_train/TR-226.jpg,success,2026-03-21 21:21:24,,0.1400
+train/TR-2260.jpg,,no_image,2026-03-21 21:21:45,API returned no image data,0.1400
+train/TR-2261.jpg,translated_train/TR-2261.jpg,success,2026-03-21 21:22:05,,0.1400
+train/TR-2262.jpg,translated_train/TR-2262.jpg,success,2026-03-21 21:22:29,,0.1400
+train/TR-2263.jpg,translated_train/TR-2263.jpg,success,2026-03-21 21:22:50,,0.1400
+train/TR-2264.jpg,translated_train/TR-2264.jpg,success,2026-03-21 21:23:08,,0.1400
+train/TR-2265.jpg,,no_image,2026-03-21 21:23:35,API returned no image data,0.1400
+train/TR-2266.jpg,,no_image,2026-03-21 21:23:53,API returned no image data,0.1400
+train/TR-2267.jpg,translated_train/TR-2267.jpg,success,2026-03-21 21:24:11,,0.1400
+train/TR-2268.jpg,translated_train/TR-2268.jpg,success,2026-03-21 21:24:30,,0.1400
+train/TR-2269.jpg,translated_train/TR-2269.jpg,success,2026-03-21 21:24:52,,0.1400
+train/TR-227.jpg,translated_train/TR-227.jpg,success,2026-03-21 21:25:16,,0.1400
+train/TR-2270.jpg,translated_train/TR-2270.jpg,success,2026-03-21 21:25:41,,0.1400
+train/TR-2271.jpg,translated_train/TR-2271.jpg,success,2026-03-21 21:26:03,,0.1400
+train/TR-2272.jpg,,no_image,2026-03-21 21:26:22,API returned no image data,0.1400
+train/TR-2273.jpg,translated_train/TR-2273.jpg,success,2026-03-21 21:26:43,,0.1400
+train/TR-2274.jpg,translated_train/TR-2274.jpg,success,2026-03-21 21:27:02,,0.1400
+train/TR-2275.jpg,translated_train/TR-2275.jpg,success,2026-03-21 21:27:20,,0.1400
+train/TR-2276.jpg,,no_image,2026-03-21 21:27:42,API returned no image data,0.1400
+train/TR-2277.jpg,,no_image,2026-03-21 21:28:02,API returned no image data,0.1400
+train/TR-2278.jpg,translated_train/TR-2278.jpg,success,2026-03-21 21:28:26,,0.1400
+train/TR-2279.jpg,translated_train/TR-2279.jpg,success,2026-03-21 21:28:52,,0.1400
+train/TR-228.jpg,translated_train/TR-228.jpg,success,2026-03-21 21:29:12,,0.1400
+train/TR-2280.jpg,translated_train/TR-2280.jpg,success,2026-03-21 21:29:34,,0.1400
+train/TR-2281.jpg,translated_train/TR-2281.jpg,success,2026-03-21 21:29:56,,0.1400
+train/TR-2282.jpg,,no_image,2026-03-21 21:30:20,API returned no image data,0.1400
+train/TR-2283.jpg,translated_train/TR-2283.jpg,success,2026-03-21 21:30:41,,0.1400
+train/TR-2284.jpg,translated_train/TR-2284.jpg,success,2026-03-21 21:31:03,,0.1400
+train/TR-2285.jpg,translated_train/TR-2285.jpg,success,2026-03-21 21:31:28,,0.1400
+train/TR-2286.jpg,translated_train/TR-2286.jpg,success,2026-03-21 21:31:55,,0.1400
+train/TR-2287.jpg,translated_train/TR-2287.jpg,success,2026-03-21 21:32:17,,0.1400
+train/TR-2288.jpg,translated_train/TR-2288.jpg,success,2026-03-21 21:32:37,,0.1400
+train/TR-2289.jpg,translated_train/TR-2289.jpg,success,2026-03-21 21:33:02,,0.1400
+train/TR-229.jpg,translated_train/TR-229.jpg,success,2026-03-21 21:33:36,,0.1400
+train/TR-2290.jpg,,no_image,2026-03-21 21:33:56,API returned no image data,0.1400
+train/TR-2291.jpg,translated_train/TR-2291.jpg,success,2026-03-21 21:34:21,,0.1400
+train/TR-2292.jpg,translated_train/TR-2292.jpg,success,2026-03-21 21:34:49,,0.1400
+train/TR-2293.jpg,,no_image,2026-03-21 21:35:08,API returned no image data,0.1400
+train/TR-2294.jpg,translated_train/TR-2294.jpg,success,2026-03-21 21:35:31,,0.1400
+train/TR-2295.jpg,translated_train/TR-2295.jpg,success,2026-03-21 21:35:50,,0.1400
+train/TR-2296.jpg,translated_train/TR-2296.jpg,success,2026-03-21 21:36:11,,0.1400
+train/TR-2297.jpg,translated_train/TR-2297.jpg,success,2026-03-21 21:36:28,,0.1400
+train/TR-2298.jpg,translated_train/TR-2298.jpg,success,2026-03-21 21:36:45,,0.1400
+train/TR-2299.jpg,translated_train/TR-2299.jpg,success,2026-03-21 21:37:09,,0.1400
+train/TR-23.jpg,translated_train/TR-23.jpg,success,2026-03-21 21:37:28,,0.1400
+train/TR-230.jpg,translated_train/TR-230.jpg,success,2026-03-21 21:37:47,,0.1400
+train/TR-2300.jpg,translated_train/TR-2300.jpg,success,2026-03-21 21:38:07,,0.1400
+train/TR-2301.jpg,,no_image,2026-03-21 21:38:25,API returned no image data,0.1400
+train/TR-2302.jpg,,no_image,2026-03-21 21:38:42,API returned no image data,0.1400
+train/TR-2303.jpg,translated_train/TR-2303.jpg,success,2026-03-21 21:39:02,,0.1400
+train/TR-2304.jpg,translated_train/TR-2304.jpg,success,2026-03-21 21:39:23,,0.1400
+train/TR-2305.jpg,translated_train/TR-2305.jpg,success,2026-03-21 21:39:49,,0.1400
+train/TR-2306.jpg,translated_train/TR-2306.jpg,success,2026-03-21 21:40:10,,0.1400
+train/TR-2307.jpg,translated_train/TR-2307.jpg,success,2026-03-21 21:40:32,,0.1400
+train/TR-2308.jpg,translated_train/TR-2308.jpg,success,2026-03-21 21:40:55,,0.1400
+train/TR-2309.jpg,,no_image,2026-03-21 21:41:19,API returned no image data,0.1400
+train/TR-231.jpg,translated_train/TR-231.jpg,success,2026-03-21 21:41:41,,0.1400
+train/TR-2310.jpg,translated_train/TR-2310.jpg,success,2026-03-21 21:42:02,,0.1400
+train/TR-2311.jpg,,no_image,2026-03-21 21:42:21,API returned no image data,0.1400
+train/TR-2312.jpg,translated_train/TR-2312.jpg,success,2026-03-21 21:42:42,,0.1400
+train/TR-2313.jpg,translated_train/TR-2313.jpg,success,2026-03-21 21:43:39,,0.1400
+train/TR-2314.jpg,translated_train/TR-2314.jpg,success,2026-03-21 21:43:58,,0.1400
+train/TR-2315.jpg,translated_train/TR-2315.jpg,success,2026-03-21 21:44:20,,0.1400
+train/TR-2316.jpg,translated_train/TR-2316.jpg,success,2026-03-21 21:44:39,,0.1400
+train/TR-2317.jpg,translated_train/TR-2317.jpg,success,2026-03-21 21:45:02,,0.1400
+train/TR-2318.jpg,translated_train/TR-2318.jpg,success,2026-03-21 21:45:25,,0.1400
+train/TR-2319.jpg,translated_train/TR-2319.jpg,success,2026-03-21 21:45:46,,0.1400
+train/TR-232.jpg,translated_train/TR-232.jpg,success,2026-03-21 21:46:04,,0.1400
+train/TR-2320.jpg,translated_train/TR-2320.jpg,success,2026-03-21 21:46:25,,0.1400
+train/TR-2321.jpg,translated_train/TR-2321.jpg,success,2026-03-21 21:46:46,,0.1400
+train/TR-2322.jpg,translated_train/TR-2322.jpg,success,2026-03-21 21:47:09,,0.1400
+train/TR-2323.jpg,translated_train/TR-2323.jpg,success,2026-03-21 21:47:30,,0.1400
+train/TR-2324.jpg,translated_train/TR-2324.jpg,success,2026-03-21 21:47:51,,0.1400
+train/TR-2325.jpg,translated_train/TR-2325.jpg,success,2026-03-21 21:48:17,,0.1400
+train/TR-2326.jpg,,no_image,2026-03-21 21:48:37,API returned no image data,0.1400
+train/TR-2327.jpg,translated_train/TR-2327.jpg,success,2026-03-21 21:48:58,,0.1400
+train/TR-2328.jpg,translated_train/TR-2328.jpg,success,2026-03-21 21:49:21,,0.1400
+train/TR-2329.jpg,translated_train/TR-2329.jpg,success,2026-03-21 21:49:44,,0.1400
+train/TR-233.jpg,translated_train/TR-233.jpg,success,2026-03-21 21:50:08,,0.1400
+train/TR-2330.jpg,translated_train/TR-2330.jpg,success,2026-03-21 21:50:31,,0.1400
+train/TR-2331.jpg,translated_train/TR-2331.jpg,success,2026-03-21 21:50:54,,0.1400
+train/TR-2332.jpg,translated_train/TR-2332.jpg,success,2026-03-21 21:51:13,,0.1400
+train/TR-2333.jpg,translated_train/TR-2333.jpg,success,2026-03-21 21:51:33,,0.1400
+train/TR-2334.jpg,translated_train/TR-2334.jpg,success,2026-03-21 21:51:52,,0.1400
+train/TR-2335.jpg,translated_train/TR-2335.jpg,success,2026-03-21 21:52:14,,0.1400
+train/TR-2336.jpg,translated_train/TR-2336.jpg,success,2026-03-21 21:52:41,,0.1400
+train/TR-2337.jpg,,no_image,2026-03-21 21:53:01,API returned no image data,0.1400
+train/TR-2338.jpg,translated_train/TR-2338.jpg,success,2026-03-21 21:53:24,,0.1400
+train/TR-2339.jpg,translated_train/TR-2339.jpg,success,2026-03-21 21:53:44,,0.1400
+train/TR-234.jpg,translated_train/TR-234.jpg,success,2026-03-21 21:54:07,,0.1400
+train/TR-2340.jpg,,no_image,2026-03-21 21:54:27,API returned no image data,0.1400
+train/TR-2341.jpg,translated_train/TR-2341.jpg,success,2026-03-21 21:54:47,,0.1400
+train/TR-2342.jpg,translated_train/TR-2342.jpg,success,2026-03-21 21:55:09,,0.1400
+train/TR-2343.jpg,translated_train/TR-2343.jpg,success,2026-03-21 21:55:30,,0.1400
+train/TR-2344.jpg,,no_image,2026-03-21 21:55:47,API returned no image data,0.1400
+train/TR-2345.jpg,translated_train/TR-2345.jpg,success,2026-03-21 21:56:11,,0.1400
+train/TR-2346.jpg,translated_train/TR-2346.jpg,success,2026-03-21 21:56:38,,0.1400
+train/TR-2347.jpg,translated_train/TR-2347.jpg,success,2026-03-21 21:56:59,,0.1400
+train/TR-2348.jpg,translated_train/TR-2348.jpg,success,2026-03-21 21:57:20,,0.1400
+train/TR-2349.jpg,translated_train/TR-2349.jpg,success,2026-03-21 21:57:41,,0.1400
+train/TR-235.jpg,translated_train/TR-235.jpg,success,2026-03-21 21:58:00,,0.1400
+train/TR-2350.jpg,translated_train/TR-2350.jpg,success,2026-03-21 21:58:19,,0.1400
+train/TR-2351.jpg,translated_train/TR-2351.jpg,success,2026-03-21 21:58:40,,0.1400
+train/TR-2352.jpg,translated_train/TR-2352.jpg,success,2026-03-21 21:59:01,,0.1400
+train/TR-2353.jpg,translated_train/TR-2353.jpg,success,2026-03-21 21:59:18,,0.1400
+train/TR-2354.jpg,,no_image,2026-03-21 21:59:39,API returned no image data,0.1400
+train/TR-2355.jpg,translated_train/TR-2355.jpg,success,2026-03-21 22:00:00,,0.1400
+train/TR-2356.jpg,translated_train/TR-2356.jpg,success,2026-03-21 22:00:20,,0.1400
+train/TR-2357.jpg,translated_train/TR-2357.jpg,success,2026-03-21 22:00:44,,0.1400
+train/TR-2358.jpg,translated_train/TR-2358.jpg,success,2026-03-21 22:01:06,,0.1400
+train/TR-2359.jpg,translated_train/TR-2359.jpg,success,2026-03-21 22:01:29,,0.1400
+train/TR-236.jpg,translated_train/TR-236.jpg,success,2026-03-21 22:01:51,,0.1400
+train/TR-2360.jpg,translated_train/TR-2360.jpg,success,2026-03-21 22:02:14,,0.1400
+train/TR-2361.jpg,translated_train/TR-2361.jpg,success,2026-03-21 22:02:33,,0.1400
+train/TR-2362.jpg,translated_train/TR-2362.jpg,success,2026-03-21 22:02:55,,0.1400
+train/TR-2363.jpg,translated_train/TR-2363.jpg,success,2026-03-21 22:03:21,,0.1400
+train/TR-2364.jpg,translated_train/TR-2364.jpg,success,2026-03-21 22:03:46,,0.1400
+train/TR-2365.jpg,translated_train/TR-2365.jpg,success,2026-03-21 22:04:05,,0.1400
+train/TR-2366.jpg,translated_train/TR-2366.jpg,success,2026-03-21 22:04:29,,0.1400
+train/TR-2367.jpg,translated_train/TR-2367.jpg,success,2026-03-21 22:04:50,,0.1400
+train/TR-2368.jpg,translated_train/TR-2368.jpg,success,2026-03-21 22:05:15,,0.1400
+train/TR-2369.jpg,translated_train/TR-2369.jpg,success,2026-03-21 22:05:47,,0.1400
+train/TR-237.jpg,translated_train/TR-237.jpg,success,2026-03-21 22:06:04,,0.1400
+train/TR-2370.jpg,translated_train/TR-2370.jpg,success,2026-03-21 22:06:24,,0.1400
+train/TR-2371.jpg,translated_train/TR-2371.jpg,success,2026-03-21 22:06:46,,0.1400
+train/TR-2372.jpg,translated_train/TR-2372.jpg,success,2026-03-21 22:07:06,,0.1400
+train/TR-2373.jpg,,no_image,2026-03-21 22:07:25,API returned no image data,0.1400
+train/TR-2374.jpg,translated_train/TR-2374.jpg,success,2026-03-21 22:07:43,,0.1400
+train/TR-2375.jpg,,no_image,2026-03-21 22:08:02,API returned no image data,0.1400
+train/TR-2376.jpg,translated_train/TR-2376.jpg,success,2026-03-21 22:08:23,,0.1400
+train/TR-2377.jpg,translated_train/TR-2377.jpg,success,2026-03-21 22:08:43,,0.1400
+train/TR-2378.jpg,,no_image,2026-03-21 22:09:01,API returned no image data,0.1400
+train/TR-2379.jpg,translated_train/TR-2379.jpg,success,2026-03-21 22:09:20,,0.1400
+train/TR-238.jpg,translated_train/TR-238.jpg,success,2026-03-21 22:09:41,,0.1400
+train/TR-2380.jpg,translated_train/TR-2380.jpg,success,2026-03-21 22:10:02,,0.1400
+train/TR-2381.jpg,translated_train/TR-2381.jpg,success,2026-03-21 22:10:24,,0.1400
+train/TR-2382.jpg,translated_train/TR-2382.jpg,success,2026-03-21 22:10:46,,0.1400
+train/TR-2383.jpg,translated_train/TR-2383.jpg,success,2026-03-21 22:11:10,,0.1400
+train/TR-2384.jpg,translated_train/TR-2384.jpg,success,2026-03-21 22:11:33,,0.1400
+train/TR-2385.jpg,translated_train/TR-2385.jpg,success,2026-03-21 22:11:53,,0.1400
+train/TR-2386.jpg,translated_train/TR-2386.jpg,success,2026-03-21 22:12:14,,0.1400
+train/TR-2387.jpg,translated_train/TR-2387.jpg,success,2026-03-21 22:12:34,,0.1400
+train/TR-2388.jpg,translated_train/TR-2388.jpg,success,2026-03-21 22:12:56,,0.1400
+train/TR-2389.jpg,translated_train/TR-2389.jpg,success,2026-03-21 22:13:17,,0.1400
+train/TR-239.jpg,translated_train/TR-239.jpg,success,2026-03-21 22:13:39,,0.1400
+train/TR-2390.jpg,translated_train/TR-2390.jpg,success,2026-03-21 22:13:58,,0.1400
+train/TR-2391.jpg,translated_train/TR-2391.jpg,success,2026-03-21 22:14:21,,0.1400
+train/TR-2392.jpg,translated_train/TR-2392.jpg,success,2026-03-21 22:14:42,,0.1400
+train/TR-2393.jpg,,no_image,2026-03-21 22:15:02,API returned no image data,0.1400
+train/TR-2394.jpg,translated_train/TR-2394.jpg,success,2026-03-21 22:15:26,,0.1400
+train/TR-2395.jpg,translated_train/TR-2395.jpg,success,2026-03-21 22:15:45,,0.1400
+train/TR-2396.jpg,translated_train/TR-2396.jpg,success,2026-03-21 22:16:07,,0.1400
+train/TR-2397.jpg,translated_train/TR-2397.jpg,success,2026-03-21 22:16:34,,0.1400
+train/TR-2398.jpg,translated_train/TR-2398.jpg,success,2026-03-21 22:16:58,,0.1400
+train/TR-2399.jpg,translated_train/TR-2399.jpg,success,2026-03-21 22:17:20,,0.1400
+train/TR-24.jpg,translated_train/TR-24.jpg,success,2026-03-21 22:17:44,,0.1400
+train/TR-240.jpg,,no_image,2026-03-21 22:18:00,API returned no image data,0.1400
+train/TR-2400.jpg,translated_train/TR-2400.jpg,success,2026-03-21 22:18:24,,0.1400
+train/TR-2401.jpg,translated_train/TR-2401.jpg,success,2026-03-21 22:18:50,,0.1400
+train/TR-2402.jpg,translated_train/TR-2402.jpg,success,2026-03-21 22:19:13,,0.1400
+train/TR-2403.jpg,translated_train/TR-2403.jpg,success,2026-03-21 22:19:34,,0.1400
+train/TR-2404.jpg,translated_train/TR-2404.jpg,success,2026-03-21 22:19:56,,0.1400
+train/TR-2405.jpg,translated_train/TR-2405.jpg,success,2026-03-21 22:20:18,,0.1400
+train/TR-2406.jpg,translated_train/TR-2406.jpg,success,2026-03-21 22:20:38,,0.1400
+train/TR-2407.jpg,translated_train/TR-2407.jpg,success,2026-03-21 22:20:57,,0.1400
+train/TR-2408.jpg,translated_train/TR-2408.jpg,success,2026-03-21 22:21:18,,0.1400
+train/TR-2409.jpg,translated_train/TR-2409.jpg,success,2026-03-21 22:21:37,,0.1400
+train/TR-241.jpg,translated_train/TR-241.jpg,success,2026-03-21 22:22:01,,0.1400
+train/TR-2410.jpg,translated_train/TR-2410.jpg,success,2026-03-21 22:22:25,,0.1400
+train/TR-2411.jpg,translated_train/TR-2411.jpg,success,2026-03-21 22:22:50,,0.1400
+train/TR-2412.jpg,translated_train/TR-2412.jpg,success,2026-03-21 22:23:10,,0.1400
+train/TR-2413.jpg,translated_train/TR-2413.jpg,success,2026-03-21 22:23:31,,0.1400
+train/TR-2414.jpg,translated_train/TR-2414.jpg,success,2026-03-21 22:23:51,,0.1400
+train/TR-2415.jpg,translated_train/TR-2415.jpg,success,2026-03-21 22:24:11,,0.1400
+train/TR-2416.jpg,translated_train/TR-2416.jpg,success,2026-03-21 22:24:30,,0.1400
+train/TR-2417.jpg,translated_train/TR-2417.jpg,success,2026-03-21 22:24:53,,0.1400
+train/TR-2418.jpg,translated_train/TR-2418.jpg,success,2026-03-21 22:25:16,,0.1400
+train/TR-2419.jpg,translated_train/TR-2419.jpg,success,2026-03-21 22:25:40,,0.1400
+train/TR-242.jpg,translated_train/TR-242.jpg,success,2026-03-21 22:26:01,,0.1400
+train/TR-2420.jpg,translated_train/TR-2420.jpg,success,2026-03-21 22:26:23,,0.1400
+train/TR-2421.jpg,translated_train/TR-2421.jpg,success,2026-03-21 22:26:47,,0.1400
+train/TR-2422.jpg,translated_train/TR-2422.jpg,success,2026-03-21 22:27:07,,0.1400
+train/TR-2423.jpg,translated_train/TR-2423.jpg,success,2026-03-21 22:27:28,,0.1400
+train/TR-2424.jpg,translated_train/TR-2424.jpg,success,2026-03-21 22:27:48,,0.1400
+train/TR-2425.jpg,translated_train/TR-2425.jpg,success,2026-03-21 22:28:09,,0.1400
+train/TR-2426.jpg,translated_train/TR-2426.jpg,success,2026-03-21 22:28:28,,0.1400
+train/TR-2427.jpg,translated_train/TR-2427.jpg,success,2026-03-21 22:28:48,,0.1400
+train/TR-2428.jpg,translated_train/TR-2428.jpg,success,2026-03-21 22:29:04,,0.1400
+train/TR-2429.jpg,translated_train/TR-2429.jpg,success,2026-03-21 22:29:23,,0.1400
+train/TR-243.jpg,translated_train/TR-243.jpg,success,2026-03-21 22:29:43,,0.1400
+train/TR-2430.jpg,translated_train/TR-2430.jpg,success,2026-03-21 22:30:01,,0.1400
+train/TR-2431.jpg,translated_train/TR-2431.jpg,success,2026-03-21 22:30:20,,0.1400
+train/TR-2432.jpg,translated_train/TR-2432.jpg,success,2026-03-21 22:30:43,,0.1400
+train/TR-2433.jpg,translated_train/TR-2433.jpg,success,2026-03-21 22:31:01,,0.1400
+train/TR-2434.jpg,translated_train/TR-2434.jpg,success,2026-03-21 22:31:36,,0.1400
+train/TR-2435.jpg,translated_train/TR-2435.jpg,success,2026-03-21 22:32:02,,0.1400
+train/TR-2436.jpg,translated_train/TR-2436.jpg,success,2026-03-21 22:32:34,,0.1400
+train/TR-2437.jpg,translated_train/TR-2437.jpg,success,2026-03-21 22:32:56,,0.1400
+train/TR-2438.jpg,translated_train/TR-2438.jpg,success,2026-03-21 22:33:22,,0.1400
+train/TR-2439.jpg,translated_train/TR-2439.jpg,success,2026-03-21 22:33:44,,0.1400
+train/TR-244.jpg,translated_train/TR-244.jpg,success,2026-03-21 22:34:03,,0.1400
+train/TR-2440.jpg,translated_train/TR-2440.jpg,success,2026-03-21 22:34:23,,0.1400
+train/TR-2441.jpg,translated_train/TR-2441.jpg,success,2026-03-21 22:34:43,,0.1400
+train/TR-2442.jpg,translated_train/TR-2442.jpg,success,2026-03-21 22:35:09,,0.1400
+train/TR-2443.jpg,translated_train/TR-2443.jpg,success,2026-03-21 22:35:44,,0.1400
+train/TR-2444.jpg,,no_image,2026-03-21 22:36:03,API returned no image data,0.1400
+train/TR-2445.jpg,translated_train/TR-2445.jpg,success,2026-03-21 22:36:28,,0.1400
+train/TR-2446.jpg,translated_train/TR-2446.jpg,success,2026-03-21 22:36:54,,0.1400
+train/TR-2447.jpg,translated_train/TR-2447.jpg,success,2026-03-21 22:37:17,,0.1400
+train/TR-2448.jpg,translated_train/TR-2448.jpg,success,2026-03-21 22:37:39,,0.1400
+train/TR-2449.jpg,translated_train/TR-2449.jpg,success,2026-03-21 22:37:59,,0.1400
+train/TR-245.jpg,translated_train/TR-245.jpg,success,2026-03-21 22:38:18,,0.1400
+train/TR-2450.jpg,translated_train/TR-2450.jpg,success,2026-03-21 22:38:43,,0.1400
+train/TR-2451.jpg,translated_train/TR-2451.jpg,success,2026-03-21 22:39:02,,0.1400
+train/TR-2452.jpg,translated_train/TR-2452.jpg,success,2026-03-21 22:39:26,,0.1400
+train/TR-2453.jpg,translated_train/TR-2453.jpg,success,2026-03-21 22:39:51,,0.1400
+train/TR-2454.jpg,translated_train/TR-2454.jpg,success,2026-03-21 22:40:15,,0.1400
+train/TR-2455.jpg,translated_train/TR-2455.jpg,success,2026-03-21 22:40:39,,0.1400
+train/TR-2456.jpg,translated_train/TR-2456.jpg,success,2026-03-21 22:40:58,,0.1400
+train/TR-2457.jpg,translated_train/TR-2457.jpg,success,2026-03-21 22:41:19,,0.1400
+train/TR-2458.jpg,translated_train/TR-2458.jpg,success,2026-03-21 22:41:38,,0.1400
+train/TR-2459.jpg,,no_image,2026-03-21 22:41:56,API returned no image data,0.1400
+train/TR-246.jpg,translated_train/TR-246.jpg,success,2026-03-21 22:42:16,,0.1400
+train/TR-2460.jpg,translated_train/TR-2460.jpg,success,2026-03-21 22:42:38,,0.1400
+train/TR-2461.jpg,translated_train/TR-2461.jpg,success,2026-03-21 22:42:57,,0.1400
+train/TR-2462.jpg,translated_train/TR-2462.jpg,success,2026-03-21 22:43:20,,0.1400
+train/TR-2463.jpg,translated_train/TR-2463.jpg,success,2026-03-21 22:43:46,,0.1400
+train/TR-2464.jpg,translated_train/TR-2464.jpg,success,2026-03-21 22:44:11,,0.1400
+train/TR-2465.jpg,translated_train/TR-2465.jpg,success,2026-03-21 22:44:32,,0.1400
+train/TR-2466.jpg,translated_train/TR-2466.jpg,success,2026-03-21 22:44:56,,0.1400
+train/TR-2467.jpg,translated_train/TR-2467.jpg,success,2026-03-21 22:45:16,,0.1400
+train/TR-2468.jpg,translated_train/TR-2468.jpg,success,2026-03-21 22:45:40,,0.1400
+train/TR-2469.jpg,translated_train/TR-2469.jpg,success,2026-03-21 22:46:02,,0.1400
+train/TR-247.jpg,translated_train/TR-247.jpg,success,2026-03-21 22:46:24,,0.1400
+train/TR-2470.jpg,translated_train/TR-2470.jpg,success,2026-03-21 22:46:46,,0.1400
+train/TR-2471.jpg,translated_train/TR-2471.jpg,success,2026-03-21 22:47:09,,0.1400
+train/TR-2472.jpg,translated_train/TR-2472.jpg,success,2026-03-21 22:47:31,,0.1400
+train/TR-2473.jpg,translated_train/TR-2473.jpg,success,2026-03-21 22:47:56,,0.1400
+train/TR-2474.jpg,translated_train/TR-2474.jpg,success,2026-03-21 22:48:17,,0.1400
+train/TR-2475.jpg,translated_train/TR-2475.jpg,success,2026-03-21 22:48:35,,0.1400
+train/TR-2476.jpg,translated_train/TR-2476.jpg,success,2026-03-21 22:48:52,,0.1400
+train/TR-2477.jpg,translated_train/TR-2477.jpg,success,2026-03-21 22:49:13,,0.1400
+train/TR-2478.jpg,translated_train/TR-2478.jpg,success,2026-03-21 22:49:35,,0.1400
+train/TR-2479.jpg,translated_train/TR-2479.jpg,success,2026-03-21 22:49:54,,0.1400
+train/TR-248.jpg,translated_train/TR-248.jpg,success,2026-03-21 22:50:14,,0.1400
+train/TR-2480.jpg,translated_train/TR-2480.jpg,success,2026-03-21 22:50:35,,0.1400
+train/TR-2481.jpg,translated_train/TR-2481.jpg,success,2026-03-21 22:50:53,,0.1400
+train/TR-2482.jpg,translated_train/TR-2482.jpg,success,2026-03-21 22:51:14,,0.1400
+train/TR-2483.jpg,translated_train/TR-2483.jpg,success,2026-03-21 22:51:38,,0.1400
+train/TR-2484.jpg,translated_train/TR-2484.jpg,success,2026-03-21 22:51:55,,0.1400
+train/TR-2485.jpg,translated_train/TR-2485.jpg,success,2026-03-21 22:52:16,,0.1400
+train/TR-2486.jpg,translated_train/TR-2486.jpg,success,2026-03-21 22:52:38,,0.1400
+train/TR-2487.jpg,translated_train/TR-2487.jpg,success,2026-03-21 22:52:58,,0.1400
+train/TR-2488.jpg,translated_train/TR-2488.jpg,success,2026-03-21 22:53:20,,0.1400
+train/TR-2489.jpg,translated_train/TR-2489.jpg,success,2026-03-21 22:53:40,,0.1400
+train/TR-249.jpg,translated_train/TR-249.jpg,success,2026-03-21 22:53:58,,0.1400
+train/TR-2490.jpg,translated_train/TR-2490.jpg,success,2026-03-21 22:54:19,,0.1400
+train/TR-2491.jpg,translated_train/TR-2491.jpg,success,2026-03-21 22:54:38,,0.1400
+train/TR-2492.jpg,translated_train/TR-2492.jpg,success,2026-03-21 22:54:59,,0.1400
+train/TR-2493.jpg,translated_train/TR-2493.jpg,success,2026-03-21 22:55:20,,0.1400
+train/TR-2494.jpg,translated_train/TR-2494.jpg,success,2026-03-21 22:55:46,,0.1400
+train/TR-2495.jpg,translated_train/TR-2495.jpg,success,2026-03-21 22:56:07,,0.1400
+train/TR-2496.jpg,translated_train/TR-2496.jpg,success,2026-03-21 22:56:34,,0.1400
+train/TR-2497.jpg,translated_train/TR-2497.jpg,success,2026-03-21 22:56:56,,0.1400
+train/TR-2498.jpg,translated_train/TR-2498.jpg,success,2026-03-21 22:57:16,,0.1400
+train/TR-2499.jpg,translated_train/TR-2499.jpg,success,2026-03-21 22:57:40,,0.1400
+train/TR-25.jpg,translated_train/TR-25.jpg,success,2026-03-21 22:58:06,,0.1400
+train/TR-250.jpg,,no_image,2026-03-21 22:58:23,API returned no image data,0.1400
+train/TR-2500.jpg,translated_train/TR-2500.jpg,success,2026-03-21 22:58:45,,0.1400
+train/TR-2501.jpg,translated_train/TR-2501.jpg,success,2026-03-21 22:59:08,,0.1400
+train/TR-2502.jpg,translated_train/TR-2502.jpg,success,2026-03-21 22:59:27,,0.1400
+train/TR-2503.jpg,translated_train/TR-2503.jpg,success,2026-03-21 22:59:51,,0.1400
+train/TR-2504.jpg,,no_image,2026-03-21 23:00:10,API returned no image data,0.1400
+train/TR-2505.jpg,translated_train/TR-2505.jpg,success,2026-03-21 23:00:30,,0.1400
+train/TR-2506.jpg,translated_train/TR-2506.jpg,success,2026-03-21 23:00:51,,0.1400
+train/TR-2507.jpg,translated_train/TR-2507.jpg,success,2026-03-21 23:01:15,,0.1400
+train/TR-2508.jpg,translated_train/TR-2508.jpg,success,2026-03-21 23:01:34,,0.1400
+train/TR-2509.jpg,translated_train/TR-2509.jpg,success,2026-03-21 23:01:57,,0.1400
+train/TR-251.jpg,translated_train/TR-251.jpg,success,2026-03-21 23:02:22,,0.1400
+train/TR-2510.jpg,translated_train/TR-2510.jpg,success,2026-03-21 23:02:44,,0.1400
+train/TR-2511.jpg,,no_image,2026-03-21 23:03:05,API returned no image data,0.1400
+train/TR-2512.jpg,translated_train/TR-2512.jpg,success,2026-03-21 23:03:24,,0.1400
+train/TR-2513.jpg,translated_train/TR-2513.jpg,success,2026-03-21 23:03:46,,0.1400
+train/TR-2514.jpg,translated_train/TR-2514.jpg,success,2026-03-21 23:04:07,,0.1400
+train/TR-2515.jpg,translated_train/TR-2515.jpg,success,2026-03-21 23:04:25,,0.1400
+train/TR-2516.jpg,translated_train/TR-2516.jpg,success,2026-03-21 23:04:46,,0.1400
+train/TR-2517.jpg,translated_train/TR-2517.jpg,success,2026-03-21 23:05:07,,0.1400
+train/TR-2518.jpg,translated_train/TR-2518.jpg,success,2026-03-21 23:05:31,,0.1400
+train/TR-2519.jpg,translated_train/TR-2519.jpg,success,2026-03-21 23:05:54,,0.1400
+train/TR-252.jpg,translated_train/TR-252.jpg,success,2026-03-21 23:06:16,,0.1400
+train/TR-2520.jpg,translated_train/TR-2520.jpg,success,2026-03-21 23:06:38,,0.1400
+train/TR-2521.jpg,,no_image,2026-03-21 23:07:02,API returned no image data,0.1400
+train/TR-2522.jpg,translated_train/TR-2522.jpg,success,2026-03-21 23:07:24,,0.1400
+train/TR-2523.jpg,translated_train/TR-2523.jpg,success,2026-03-21 23:07:46,,0.1400
+train/TR-2524.jpg,translated_train/TR-2524.jpg,success,2026-03-21 23:08:04,,0.1400
+train/TR-2525.jpg,translated_train/TR-2525.jpg,success,2026-03-21 23:08:26,,0.1400
+train/TR-2526.jpg,translated_train/TR-2526.jpg,success,2026-03-21 23:08:48,,0.1400
+train/TR-2527.jpg,translated_train/TR-2527.jpg,success,2026-03-21 23:09:10,,0.1400
+train/TR-2528.jpg,translated_train/TR-2528.jpg,success,2026-03-21 23:09:31,,0.1400
+train/TR-2529.jpg,translated_train/TR-2529.jpg,success,2026-03-21 23:09:52,,0.1400
+train/TR-253.jpg,translated_train/TR-253.jpg,success,2026-03-21 23:10:13,,0.1400
+train/TR-2530.jpg,translated_train/TR-2530.jpg,success,2026-03-21 23:10:35,,0.1400
+train/TR-2531.jpg,translated_train/TR-2531.jpg,success,2026-03-21 23:10:54,,0.1400
+train/TR-2532.jpg,translated_train/TR-2532.jpg,success,2026-03-21 23:11:15,,0.1400
+train/TR-2533.jpg,translated_train/TR-2533.jpg,success,2026-03-21 23:11:36,,0.1400
+train/TR-2534.jpg,translated_train/TR-2534.jpg,success,2026-03-21 23:11:55,,0.1400
+train/TR-2535.jpg,translated_train/TR-2535.jpg,success,2026-03-21 23:12:17,,0.1400
+train/TR-2536.jpg,,no_image,2026-03-21 23:12:36,API returned no image data,0.1400
+train/TR-2537.jpg,translated_train/TR-2537.jpg,success,2026-03-21 23:12:56,,0.1400
+train/TR-2538.jpg,translated_train/TR-2538.jpg,success,2026-03-21 23:13:16,,0.1400
+train/TR-2539.jpg,translated_train/TR-2539.jpg,success,2026-03-21 23:13:34,,0.1400
+train/TR-254.jpg,translated_train/TR-254.jpg,success,2026-03-21 23:13:54,,0.1400
+train/TR-2540.jpg,translated_train/TR-2540.jpg,success,2026-03-21 23:14:13,,0.1400
+train/TR-2541.jpg,translated_train/TR-2541.jpg,success,2026-03-21 23:14:32,,0.1400
+train/TR-2542.jpg,translated_train/TR-2542.jpg,success,2026-03-21 23:14:53,,0.1400
+train/TR-2543.jpg,translated_train/TR-2543.jpg,success,2026-03-21 23:15:10,,0.1400
+train/TR-2544.jpg,translated_train/TR-2544.jpg,success,2026-03-21 23:15:29,,0.1400
+train/TR-2545.jpg,translated_train/TR-2545.jpg,success,2026-03-21 23:15:49,,0.1400
+train/TR-2546.jpg,translated_train/TR-2546.jpg,success,2026-03-21 23:16:11,,0.1400
+train/TR-2547.jpg,translated_train/TR-2547.jpg,success,2026-03-21 23:16:31,,0.1400
+train/TR-2548.jpg,translated_train/TR-2548.jpg,success,2026-03-21 23:16:51,,0.1400
+train/TR-2549.jpg,translated_train/TR-2549.jpg,success,2026-03-21 23:17:12,,0.1400
+train/TR-255.jpg,translated_train/TR-255.jpg,success,2026-03-21 23:17:33,,0.1400
+train/TR-2550.jpg,translated_train/TR-2550.jpg,success,2026-03-21 23:17:53,,0.1400
+train/TR-2551.jpg,translated_train/TR-2551.jpg,success,2026-03-21 23:18:10,,0.1400
+train/TR-2552.jpg,translated_train/TR-2552.jpg,success,2026-03-21 23:18:30,,0.1400
+train/TR-2553.jpg,translated_train/TR-2553.jpg,success,2026-03-21 23:18:54,,0.1400
+train/TR-2554.jpg,translated_train/TR-2554.jpg,success,2026-03-21 23:19:14,,0.1400
+train/TR-2555.jpg,translated_train/TR-2555.jpg,success,2026-03-21 23:19:34,,0.1400
+train/TR-2556.jpg,translated_train/TR-2556.jpg,success,2026-03-21 23:19:57,,0.1400
+train/TR-2557.jpg,translated_train/TR-2557.jpg,success,2026-03-21 23:20:21,,0.1400
+train/TR-2558.jpg,translated_train/TR-2558.jpg,success,2026-03-21 23:20:39,,0.1400
+train/TR-2559.jpg,,no_image,2026-03-21 23:20:56,API returned no image data,0.1400
+train/TR-256.jpg,translated_train/TR-256.jpg,success,2026-03-21 23:21:21,,0.1400
+train/TR-2560.jpg,translated_train/TR-2560.jpg,success,2026-03-21 23:21:43,,0.1400
+train/TR-2561.jpg,translated_train/TR-2561.jpg,success,2026-03-21 23:22:01,,0.1400
+train/TR-2562.jpg,translated_train/TR-2562.jpg,success,2026-03-21 23:22:19,,0.1400
+train/TR-2563.jpg,translated_train/TR-2563.jpg,success,2026-03-21 23:22:40,,0.1400
+train/TR-2564.jpg,translated_train/TR-2564.jpg,success,2026-03-21 23:23:00,,0.1400
+train/TR-2565.jpg,translated_train/TR-2565.jpg,success,2026-03-21 23:23:22,,0.1400
+train/TR-2566.jpg,translated_train/TR-2566.jpg,success,2026-03-21 23:23:43,,0.1400
+train/TR-2567.jpg,translated_train/TR-2567.jpg,success,2026-03-21 23:24:03,,0.1400
+train/TR-2568.jpg,translated_train/TR-2568.jpg,success,2026-03-21 23:24:27,,0.1400
+train/TR-2569.jpg,translated_train/TR-2569.jpg,success,2026-03-21 23:24:47,,0.1400
+train/TR-257.jpg,translated_train/TR-257.jpg,success,2026-03-21 23:25:09,,0.1400
+train/TR-2570.jpg,translated_train/TR-2570.jpg,success,2026-03-21 23:25:29,,0.1400
+train/TR-2571.jpg,translated_train/TR-2571.jpg,success,2026-03-21 23:25:51,,0.1400
+train/TR-2572.jpg,translated_train/TR-2572.jpg,success,2026-03-21 23:26:15,,0.1400
+train/TR-2573.jpg,translated_train/TR-2573.jpg,success,2026-03-21 23:26:32,,0.1400
+train/TR-2574.jpg,translated_train/TR-2574.jpg,success,2026-03-21 23:26:49,,0.1400
+train/TR-2575.jpg,translated_train/TR-2575.jpg,success,2026-03-21 23:27:13,,0.1400
+train/TR-2576.jpg,translated_train/TR-2576.jpg,success,2026-03-21 23:27:32,,0.1400
+train/TR-2577.jpg,translated_train/TR-2577.jpg,success,2026-03-21 23:27:55,,0.1400
+train/TR-2578.jpg,translated_train/TR-2578.jpg,success,2026-03-21 23:28:16,,0.1400
+train/TR-2579.jpg,translated_train/TR-2579.jpg,success,2026-03-21 23:28:34,,0.1400
+train/TR-258.jpg,translated_train/TR-258.jpg,success,2026-03-21 23:28:57,,0.1400
+train/TR-2580.jpg,translated_train/TR-2580.jpg,success,2026-03-21 23:29:17,,0.1400
+train/TR-2581.jpg,translated_train/TR-2581.jpg,success,2026-03-21 23:29:40,,0.1400
+train/TR-2582.jpg,translated_train/TR-2582.jpg,success,2026-03-21 23:29:58,,0.1400
+train/TR-2583.jpg,translated_train/TR-2583.jpg,success,2026-03-21 23:30:20,,0.1400
+train/TR-2584.jpg,translated_train/TR-2584.jpg,success,2026-03-21 23:30:39,,0.1400
+train/TR-2585.jpg,translated_train/TR-2585.jpg,success,2026-03-21 23:30:57,,0.1400
+train/TR-2586.jpg,translated_train/TR-2586.jpg,success,2026-03-21 23:31:19,,0.1400
+train/TR-2587.jpg,translated_train/TR-2587.jpg,success,2026-03-21 23:31:38,,0.1400
+train/TR-2588.jpg,translated_train/TR-2588.jpg,success,2026-03-21 23:31:57,,0.1400
+train/TR-2589.jpg,translated_train/TR-2589.jpg,success,2026-03-21 23:32:18,,0.1400
+train/TR-259.jpg,translated_train/TR-259.jpg,success,2026-03-21 23:32:38,,0.1400
+train/TR-2590.jpg,translated_train/TR-2590.jpg,success,2026-03-21 23:32:56,,0.1400
+train/TR-2591.jpg,translated_train/TR-2591.jpg,success,2026-03-21 23:33:15,,0.1400
+train/TR-2592.jpg,translated_train/TR-2592.jpg,success,2026-03-21 23:33:38,,0.1400
+train/TR-2593.jpg,,no_image,2026-03-21 23:33:58,API returned no image data,0.1400
+train/TR-2594.jpg,translated_train/TR-2594.jpg,success,2026-03-21 23:34:18,,0.1400
+train/TR-2595.jpg,translated_train/TR-2595.jpg,success,2026-03-21 23:34:37,,0.1400
+train/TR-2596.jpg,translated_train/TR-2596.jpg,success,2026-03-21 23:34:57,,0.1400
+train/TR-2597.jpg,translated_train/TR-2597.jpg,success,2026-03-21 23:35:16,,0.1400
+train/TR-2598.jpg,translated_train/TR-2598.jpg,success,2026-03-21 23:35:36,,0.1400
+train/TR-2599.jpg,translated_train/TR-2599.jpg,success,2026-03-21 23:35:56,,0.1400
+train/TR-26.jpg,translated_train/TR-26.jpg,success,2026-03-21 23:36:20,,0.1400
+train/TR-260.jpg,translated_train/TR-260.jpg,success,2026-03-21 23:36:40,,0.1400
+train/TR-2600.jpg,translated_train/TR-2600.jpg,success,2026-03-21 23:36:59,,0.1400
+train/TR-2601.jpg,translated_train/TR-2601.jpg,success,2026-03-21 23:37:19,,0.1400
+train/TR-2602.jpg,,no_image,2026-03-21 23:37:36,API returned no image data,0.1400
+train/TR-2603.jpg,translated_train/TR-2603.jpg,success,2026-03-21 23:37:55,,0.1400
+train/TR-2604.jpg,translated_train/TR-2604.jpg,success,2026-03-21 23:38:14,,0.1400
+train/TR-2605.jpg,translated_train/TR-2605.jpg,success,2026-03-21 23:38:34,,0.1400
+train/TR-2606.jpg,translated_train/TR-2606.jpg,success,2026-03-21 23:38:53,,0.1400
+train/TR-2607.jpg,translated_train/TR-2607.jpg,success,2026-03-21 23:39:11,,0.1400
+train/TR-2608.jpg,translated_train/TR-2608.jpg,success,2026-03-21 23:40:02,,0.1400
+train/TR-2609.jpg,translated_train/TR-2609.jpg,success,2026-03-21 23:40:22,,0.1400
+train/TR-261.jpg,translated_train/TR-261.jpg,success,2026-03-21 23:40:44,,0.1400
+train/TR-2610.jpg,translated_train/TR-2610.jpg,success,2026-03-21 23:41:06,,0.1400
+train/TR-2611.jpg,translated_train/TR-2611.jpg,success,2026-03-21 23:41:28,,0.1400
+train/TR-2612.jpg,translated_train/TR-2612.jpg,success,2026-03-21 23:41:50,,0.1400
+train/TR-2613.jpg,translated_train/TR-2613.jpg,success,2026-03-21 23:42:07,,0.1400
+train/TR-2614.jpg,translated_train/TR-2614.jpg,success,2026-03-21 23:42:27,,0.1400
+train/TR-2615.jpg,translated_train/TR-2615.jpg,success,2026-03-21 23:42:53,,0.1400
+train/TR-2616.jpg,translated_train/TR-2616.jpg,success,2026-03-21 23:43:17,,0.1400
+train/TR-2617.jpg,translated_train/TR-2617.jpg,success,2026-03-21 23:43:40,,0.1400
+train/TR-2618.jpg,translated_train/TR-2618.jpg,success,2026-03-21 23:43:59,,0.1400
+train/TR-2619.jpg,translated_train/TR-2619.jpg,success,2026-03-21 23:44:17,,0.1400
+train/TR-262.jpg,translated_train/TR-262.jpg,success,2026-03-21 23:44:35,,0.1400
+train/TR-2620.jpg,translated_train/TR-2620.jpg,success,2026-03-21 23:44:55,,0.1400
+train/TR-2621.jpg,translated_train/TR-2621.jpg,success,2026-03-21 23:45:15,,0.1400
+train/TR-2622.jpg,translated_train/TR-2622.jpg,success,2026-03-21 23:45:34,,0.1400
+train/TR-2623.jpg,translated_train/TR-2623.jpg,success,2026-03-21 23:45:57,,0.1400
+train/TR-2624.jpg,translated_train/TR-2624.jpg,success,2026-03-21 23:46:18,,0.1400
+train/TR-2625.jpg,translated_train/TR-2625.jpg,success,2026-03-21 23:46:39,,0.1400
+train/TR-2626.jpg,translated_train/TR-2626.jpg,success,2026-03-21 23:47:00,,0.1400
+train/TR-2627.jpg,translated_train/TR-2627.jpg,success,2026-03-21 23:47:27,,0.1400
+train/TR-2628.jpg,translated_train/TR-2628.jpg,success,2026-03-21 23:47:49,,0.1400
+train/TR-2629.jpg,translated_train/TR-2629.jpg,success,2026-03-21 23:48:09,,0.1400
+train/TR-263.jpg,translated_train/TR-263.jpg,success,2026-03-21 23:48:30,,0.1400
+train/TR-2630.jpg,translated_train/TR-2630.jpg,success,2026-03-21 23:48:50,,0.1400
+train/TR-2631.jpg,translated_train/TR-2631.jpg,success,2026-03-21 23:49:15,,0.1400
+train/TR-2632.jpg,translated_train/TR-2632.jpg,success,2026-03-21 23:49:33,,0.1400
+train/TR-2633.jpg,translated_train/TR-2633.jpg,success,2026-03-21 23:49:53,,0.1400
+train/TR-2634.jpg,translated_train/TR-2634.jpg,success,2026-03-21 23:50:12,,0.1400
+train/TR-2635.jpg,translated_train/TR-2635.jpg,success,2026-03-21 23:50:29,,0.1400
+train/TR-2636.jpg,translated_train/TR-2636.jpg,success,2026-03-21 23:50:46,,0.1400
+train/TR-2637.jpg,translated_train/TR-2637.jpg,success,2026-03-21 23:51:05,,0.1400
+train/TR-2638.jpg,translated_train/TR-2638.jpg,success,2026-03-21 23:51:24,,0.1400
+train/TR-2639.jpg,translated_train/TR-2639.jpg,success,2026-03-21 23:51:43,,0.1400
+train/TR-264.jpg,translated_train/TR-264.jpg,success,2026-03-21 23:52:06,,0.1400
+train/TR-2640.jpg,translated_train/TR-2640.jpg,success,2026-03-21 23:52:27,,0.1400
+train/TR-2641.jpg,translated_train/TR-2641.jpg,success,2026-03-21 23:52:45,,0.1400
+train/TR-2642.jpg,translated_train/TR-2642.jpg,success,2026-03-21 23:53:08,,0.1400
+train/TR-2643.jpg,translated_train/TR-2643.jpg,success,2026-03-21 23:53:27,,0.1400
+train/TR-2644.jpg,translated_train/TR-2644.jpg,success,2026-03-21 23:53:46,,0.1400
+train/TR-2645.jpg,translated_train/TR-2645.jpg,success,2026-03-21 23:54:07,,0.1400
+train/TR-2646.jpg,translated_train/TR-2646.jpg,success,2026-03-21 23:54:31,,0.1400
+train/TR-2647.jpg,translated_train/TR-2647.jpg,success,2026-03-21 23:54:52,,0.1400
+train/TR-2648.jpg,translated_train/TR-2648.jpg,success,2026-03-21 23:55:10,,0.1400
+train/TR-2649.jpg,translated_train/TR-2649.jpg,success,2026-03-21 23:55:33,,0.1400
+train/TR-265.jpg,translated_train/TR-265.jpg,success,2026-03-21 23:55:53,,0.1400
+train/TR-2650.jpg,translated_train/TR-2650.jpg,success,2026-03-21 23:56:15,,0.1400
+train/TR-2651.jpg,translated_train/TR-2651.jpg,success,2026-03-21 23:56:38,,0.1400
+train/TR-2652.jpg,translated_train/TR-2652.jpg,success,2026-03-21 23:56:57,,0.1400
+train/TR-2653.jpg,translated_train/TR-2653.jpg,success,2026-03-21 23:57:16,,0.1400
+train/TR-2654.jpg,translated_train/TR-2654.jpg,success,2026-03-21 23:57:36,,0.1400
+train/TR-2655.jpg,translated_train/TR-2655.jpg,success,2026-03-21 23:57:59,,0.1400
+train/TR-2656.jpg,translated_train/TR-2656.jpg,success,2026-03-21 23:58:19,,0.1400
+train/TR-2657.jpg,translated_train/TR-2657.jpg,success,2026-03-21 23:58:37,,0.1400
+train/TR-2658.jpg,translated_train/TR-2658.jpg,success,2026-03-21 23:58:58,,0.1400
+train/TR-2659.jpg,translated_train/TR-2659.jpg,success,2026-03-21 23:59:19,,0.1400
+train/TR-266.jpg,translated_train/TR-266.jpg,success,2026-03-21 23:59:39,,0.1400
+train/TR-2660.jpg,translated_train/TR-2660.jpg,success,2026-03-22 00:00:02,,0.1400
+train/TR-2661.jpg,translated_train/TR-2661.jpg,success,2026-03-22 00:00:22,,0.1400
+train/TR-2662.jpg,translated_train/TR-2662.jpg,success,2026-03-22 00:00:43,,0.1400
+train/TR-2663.jpg,translated_train/TR-2663.jpg,success,2026-03-22 00:01:02,,0.1400
+train/TR-2664.jpg,translated_train/TR-2664.jpg,success,2026-03-22 00:01:22,,0.1400
+train/TR-2665.jpg,translated_train/TR-2665.jpg,success,2026-03-22 00:01:40,,0.1400
+train/TR-2666.jpg,translated_train/TR-2666.jpg,success,2026-03-22 00:01:59,,0.1400
+train/TR-2667.jpg,translated_train/TR-2667.jpg,success,2026-03-22 00:02:18,,0.1400
+train/TR-2668.jpg,translated_train/TR-2668.jpg,success,2026-03-22 00:02:43,,0.1400
+train/TR-2669.jpg,translated_train/TR-2669.jpg,success,2026-03-22 00:03:03,,0.1400
+train/TR-267.jpg,translated_train/TR-267.jpg,success,2026-03-22 00:03:25,,0.1400
+train/TR-2670.jpg,translated_train/TR-2670.jpg,success,2026-03-22 00:03:48,,0.1400
+train/TR-2671.jpg,translated_train/TR-2671.jpg,success,2026-03-22 00:04:05,,0.1400
+train/TR-2672.jpg,translated_train/TR-2672.jpg,success,2026-03-22 00:04:26,,0.1400
+train/TR-2673.jpg,translated_train/TR-2673.jpg,success,2026-03-22 00:04:45,,0.1400
+train/TR-2674.jpg,translated_train/TR-2674.jpg,success,2026-03-22 00:05:05,,0.1400
+train/TR-2675.jpg,,no_image,2026-03-22 00:05:21,API returned no image data,0.1400
+train/TR-2676.jpg,translated_train/TR-2676.jpg,success,2026-03-22 00:05:42,,0.1400
+train/TR-2677.jpg,translated_train/TR-2677.jpg,success,2026-03-22 00:06:02,,0.1400
+train/TR-2678.jpg,translated_train/TR-2678.jpg,success,2026-03-22 00:06:22,,0.1400
+train/TR-2679.jpg,translated_train/TR-2679.jpg,success,2026-03-22 00:06:42,,0.1400
+train/TR-268.jpg,translated_train/TR-268.jpg,success,2026-03-22 00:07:04,,0.1400
+train/TR-2680.jpg,translated_train/TR-2680.jpg,success,2026-03-22 00:07:27,,0.1400
+train/TR-2681.jpg,translated_train/TR-2681.jpg,success,2026-03-22 00:07:48,,0.1400
+train/TR-2682.jpg,translated_train/TR-2682.jpg,success,2026-03-22 00:08:10,,0.1400
+train/TR-2683.jpg,translated_train/TR-2683.jpg,success,2026-03-22 00:08:34,,0.1400
+train/TR-2684.jpg,translated_train/TR-2684.jpg,success,2026-03-22 00:08:54,,0.1400
+train/TR-2685.jpg,translated_train/TR-2685.jpg,success,2026-03-22 00:09:13,,0.1400
+train/TR-2686.jpg,translated_train/TR-2686.jpg,success,2026-03-22 00:09:32,,0.1400
+train/TR-2687.jpg,translated_train/TR-2687.jpg,success,2026-03-22 00:09:51,,0.1400
+train/TR-2688.jpg,translated_train/TR-2688.jpg,success,2026-03-22 00:10:16,,0.1400
+train/TR-2689.jpg,translated_train/TR-2689.jpg,success,2026-03-22 00:10:35,,0.1400
+train/TR-269.jpg,translated_train/TR-269.jpg,success,2026-03-22 00:11:02,,0.1400
+train/TR-2690.jpg,translated_train/TR-2690.jpg,success,2026-03-22 00:11:24,,0.1400
+train/TR-2691.jpg,translated_train/TR-2691.jpg,success,2026-03-22 00:11:43,,0.1400
+train/TR-2692.jpg,translated_train/TR-2692.jpg,success,2026-03-22 00:12:05,,0.1400
+train/TR-2693.jpg,translated_train/TR-2693.jpg,success,2026-03-22 00:12:27,,0.1400
+train/TR-2694.jpg,translated_train/TR-2694.jpg,success,2026-03-22 00:12:47,,0.1400
+train/TR-2695.jpg,translated_train/TR-2695.jpg,success,2026-03-22 00:13:05,,0.1400
+train/TR-2696.jpg,translated_train/TR-2696.jpg,success,2026-03-22 00:13:26,,0.1400
+train/TR-2697.jpg,translated_train/TR-2697.jpg,success,2026-03-22 00:13:46,,0.1400
+train/TR-2698.jpg,translated_train/TR-2698.jpg,success,2026-03-22 00:14:06,,0.1400
+train/TR-2699.jpg,translated_train/TR-2699.jpg,success,2026-03-22 00:14:42,,0.1400
+train/TR-27.jpg,translated_train/TR-27.jpg,success,2026-03-22 00:15:03,,0.1400
+train/TR-270.jpg,translated_train/TR-270.jpg,success,2026-03-22 00:15:23,,0.1400
+train/TR-2700.jpg,translated_train/TR-2700.jpg,success,2026-03-22 00:15:42,,0.1400
+train/TR-2701.jpg,translated_train/TR-2701.jpg,success,2026-03-22 00:16:00,,0.1400
+train/TR-2702.jpg,translated_train/TR-2702.jpg,success,2026-03-22 00:16:20,,0.1400
+train/TR-2703.jpg,translated_train/TR-2703.jpg,success,2026-03-22 00:16:41,,0.1400
+train/TR-2704.jpg,translated_train/TR-2704.jpg,success,2026-03-22 00:16:59,,0.1400
+train/TR-2705.jpg,translated_train/TR-2705.jpg,success,2026-03-22 00:17:18,,0.1400
+train/TR-2706.jpg,translated_train/TR-2706.jpg,success,2026-03-22 00:17:44,,0.1400
+train/TR-2707.jpg,translated_train/TR-2707.jpg,success,2026-03-22 00:18:03,,0.1400
+train/TR-2708.jpg,translated_train/TR-2708.jpg,success,2026-03-22 00:18:24,,0.1400
+train/TR-2709.jpg,translated_train/TR-2709.jpg,success,2026-03-22 00:18:44,,0.1400
+train/TR-271.jpg,translated_train/TR-271.jpg,success,2026-03-22 00:19:06,,0.1400
+train/TR-2710.jpg,translated_train/TR-2710.jpg,success,2026-03-22 00:19:25,,0.1400
+train/TR-2711.jpg,translated_train/TR-2711.jpg,success,2026-03-22 00:19:44,,0.1400
+train/TR-2712.jpg,translated_train/TR-2712.jpg,success,2026-03-22 00:20:03,,0.1400
+train/TR-2713.jpg,translated_train/TR-2713.jpg,success,2026-03-22 00:20:22,,0.1400
+train/TR-2714.jpg,translated_train/TR-2714.jpg,success,2026-03-22 00:20:42,,0.1400
+train/TR-2715.jpg,translated_train/TR-2715.jpg,success,2026-03-22 00:21:01,,0.1400
+train/TR-2716.jpg,translated_train/TR-2716.jpg,success,2026-03-22 00:21:29,,0.1400
+train/TR-2717.jpg,translated_train/TR-2717.jpg,success,2026-03-22 00:21:51,,0.1400
+train/TR-2718.jpg,translated_train/TR-2718.jpg,success,2026-03-22 00:22:10,,0.1400
+train/TR-2719.jpg,translated_train/TR-2719.jpg,success,2026-03-22 00:22:28,,0.1400
+train/TR-272.jpg,translated_train/TR-272.jpg,success,2026-03-22 00:22:48,,0.1400
+train/TR-2720.jpg,translated_train/TR-2720.jpg,success,2026-03-22 00:23:08,,0.1400
+train/TR-2721.jpg,translated_train/TR-2721.jpg,success,2026-03-22 00:23:29,,0.1400
+train/TR-2722.jpg,translated_train/TR-2722.jpg,success,2026-03-22 00:23:48,,0.1400
+train/TR-2723.jpg,translated_train/TR-2723.jpg,success,2026-03-22 00:24:10,,0.1400
+train/TR-2724.jpg,translated_train/TR-2724.jpg,success,2026-03-22 00:24:34,,0.1400
+train/TR-2725.jpg,translated_train/TR-2725.jpg,success,2026-03-22 00:24:56,,0.1400
+train/TR-2726.jpg,translated_train/TR-2726.jpg,success,2026-03-22 00:25:14,,0.1400
+train/TR-2727.jpg,translated_train/TR-2727.jpg,success,2026-03-22 00:25:36,,0.1400
+train/TR-2728.jpg,translated_train/TR-2728.jpg,success,2026-03-22 00:25:56,,0.1400
+train/TR-2729.jpg,translated_train/TR-2729.jpg,success,2026-03-22 00:26:14,,0.1400
+train/TR-273.jpg,translated_train/TR-273.jpg,success,2026-03-22 00:26:33,,0.1400
+train/TR-2730.jpg,translated_train/TR-2730.jpg,success,2026-03-22 00:26:52,,0.1400
+train/TR-2731.jpg,translated_train/TR-2731.jpg,success,2026-03-22 00:27:10,,0.1400
+train/TR-2732.jpg,translated_train/TR-2732.jpg,success,2026-03-22 00:27:30,,0.1400
+train/TR-2733.jpg,translated_train/TR-2733.jpg,success,2026-03-22 00:27:49,,0.1400
+train/TR-2734.jpg,translated_train/TR-2734.jpg,success,2026-03-22 00:28:10,,0.1400
+train/TR-2735.jpg,translated_train/TR-2735.jpg,success,2026-03-22 00:28:29,,0.1400
+train/TR-2736.jpg,translated_train/TR-2736.jpg,success,2026-03-22 00:28:48,,0.1400
+train/TR-2737.jpg,translated_train/TR-2737.jpg,success,2026-03-22 00:29:07,,0.1400
+train/TR-2738.jpg,translated_train/TR-2738.jpg,success,2026-03-22 00:29:29,,0.1400
+train/TR-2739.jpg,translated_train/TR-2739.jpg,success,2026-03-22 00:29:47,,0.1400
+train/TR-274.jpg,translated_train/TR-274.jpg,success,2026-03-22 00:30:09,,0.1400
+train/TR-2740.jpg,,no_image,2026-03-22 00:30:31,API returned no image data,0.1400
+train/TR-2741.jpg,translated_train/TR-2741.jpg,success,2026-03-22 00:30:52,,0.1400
+train/TR-2742.jpg,translated_train/TR-2742.jpg,success,2026-03-22 00:31:12,,0.1400
+train/TR-2743.jpg,translated_train/TR-2743.jpg,success,2026-03-22 00:31:33,,0.1400
+train/TR-2744.jpg,translated_train/TR-2744.jpg,success,2026-03-22 00:31:58,,0.1400
+train/TR-2745.jpg,translated_train/TR-2745.jpg,success,2026-03-22 00:32:17,,0.1400
+train/TR-2746.jpg,translated_train/TR-2746.jpg,success,2026-03-22 00:32:37,,0.1400
+train/TR-2747.jpg,translated_train/TR-2747.jpg,success,2026-03-22 00:32:55,,0.1400
+train/TR-2748.jpg,translated_train/TR-2748.jpg,success,2026-03-22 00:33:14,,0.1400
+train/TR-2749.jpg,translated_train/TR-2749.jpg,success,2026-03-22 00:33:39,,0.1400
+train/TR-275.jpg,translated_train/TR-275.jpg,success,2026-03-22 00:34:01,,0.1400
+train/TR-2750.jpg,translated_train/TR-2750.jpg,success,2026-03-22 00:34:28,,0.1400
+train/TR-2751.jpg,translated_train/TR-2751.jpg,success,2026-03-22 00:34:52,,0.1400
+train/TR-2752.jpg,translated_train/TR-2752.jpg,success,2026-03-22 00:35:14,,0.1400
+train/TR-2753.jpg,,no_image,2026-03-22 00:35:33,API returned no image data,0.1400
+train/TR-2754.jpg,translated_train/TR-2754.jpg,success,2026-03-22 00:35:58,,0.1400
+train/TR-2755.jpg,translated_train/TR-2755.jpg,success,2026-03-22 00:36:19,,0.1400
+train/TR-2756.jpg,translated_train/TR-2756.jpg,success,2026-03-22 00:36:41,,0.1400
+train/TR-2757.jpg,translated_train/TR-2757.jpg,success,2026-03-22 00:37:02,,0.1400
+train/TR-2758.jpg,translated_train/TR-2758.jpg,success,2026-03-22 00:37:26,,0.1400
+train/TR-2759.jpg,translated_train/TR-2759.jpg,success,2026-03-22 00:37:48,,0.1400
+train/TR-276.jpg,translated_train/TR-276.jpg,success,2026-03-22 00:38:07,,0.1400
+train/TR-2760.jpg,translated_train/TR-2760.jpg,success,2026-03-22 00:38:28,,0.1400
+train/TR-2761.jpg,translated_train/TR-2761.jpg,success,2026-03-22 00:38:52,,0.1400
+train/TR-2762.jpg,translated_train/TR-2762.jpg,success,2026-03-22 00:39:17,,0.1400
+train/TR-2763.jpg,translated_train/TR-2763.jpg,success,2026-03-22 00:39:34,,0.1400
+train/TR-2764.jpg,translated_train/TR-2764.jpg,success,2026-03-22 00:39:54,,0.1400
+train/TR-2765.jpg,translated_train/TR-2765.jpg,success,2026-03-22 00:40:22,,0.1400
+train/TR-2766.jpg,translated_train/TR-2766.jpg,success,2026-03-22 00:40:40,,0.1400
+train/TR-2767.jpg,translated_train/TR-2767.jpg,success,2026-03-22 00:40:57,,0.1400
+train/TR-2768.jpg,translated_train/TR-2768.jpg,success,2026-03-22 00:41:19,,0.1400
+train/TR-2769.jpg,translated_train/TR-2769.jpg,success,2026-03-22 00:41:37,,0.1400
+train/TR-277.jpg,translated_train/TR-277.jpg,success,2026-03-22 00:41:57,,0.1400
+train/TR-2770.jpg,translated_train/TR-2770.jpg,success,2026-03-22 00:42:17,,0.1400
+train/TR-2771.jpg,translated_train/TR-2771.jpg,success,2026-03-22 00:42:38,,0.1400
+train/TR-2772.jpg,translated_train/TR-2772.jpg,success,2026-03-22 00:42:57,,0.1400
+train/TR-2773.jpg,,no_image,2026-03-22 00:43:14,API returned no image data,0.1400
+train/TR-2774.jpg,translated_train/TR-2774.jpg,success,2026-03-22 00:43:31,,0.1400
+train/TR-2775.jpg,translated_train/TR-2775.jpg,success,2026-03-22 00:43:53,,0.1400
+train/TR-2776.jpg,translated_train/TR-2776.jpg,success,2026-03-22 00:44:16,,0.1400
+train/TR-2777.jpg,translated_train/TR-2777.jpg,success,2026-03-22 00:44:36,,0.1400
+train/TR-2778.jpg,translated_train/TR-2778.jpg,success,2026-03-22 00:44:53,,0.1400
+train/TR-2779.jpg,translated_train/TR-2779.jpg,success,2026-03-22 00:45:13,,0.1400
+train/TR-278.jpg,translated_train/TR-278.jpg,success,2026-03-22 00:45:35,,0.1400
+train/TR-2780.jpg,translated_train/TR-2780.jpg,success,2026-03-22 00:46:05,,0.1400
+train/TR-2781.jpg,translated_train/TR-2781.jpg,success,2026-03-22 00:46:28,,0.1400
+train/TR-2782.jpg,translated_train/TR-2782.jpg,success,2026-03-22 00:46:53,,0.1400
+train/TR-2783.jpg,translated_train/TR-2783.jpg,success,2026-03-22 00:47:10,,0.1400
+train/TR-2784.jpg,translated_train/TR-2784.jpg,success,2026-03-22 00:47:30,,0.1400
+train/TR-2785.jpg,translated_train/TR-2785.jpg,success,2026-03-22 00:47:49,,0.1400
+train/TR-2786.jpg,translated_train/TR-2786.jpg,success,2026-03-22 00:48:08,,0.1400
+train/TR-2787.jpg,translated_train/TR-2787.jpg,success,2026-03-22 00:48:31,,0.1400
+train/TR-2788.jpg,translated_train/TR-2788.jpg,success,2026-03-22 00:48:50,,0.1400
+train/TR-2789.jpg,,no_image,2026-03-22 00:49:09,API returned no image data,0.1400
+train/TR-279.jpg,translated_train/TR-279.jpg,success,2026-03-22 00:49:31,,0.1400
+train/TR-2790.jpg,translated_train/TR-2790.jpg,success,2026-03-22 00:49:53,,0.1400
+train/TR-2791.jpg,translated_train/TR-2791.jpg,success,2026-03-22 00:50:17,,0.1400
+train/TR-2792.jpg,translated_train/TR-2792.jpg,success,2026-03-22 00:50:36,,0.1400
+train/TR-2793.jpg,translated_train/TR-2793.jpg,success,2026-03-22 00:50:57,,0.1400
+train/TR-2794.jpg,translated_train/TR-2794.jpg,success,2026-03-22 00:51:15,,0.1400
+train/TR-2795.jpg,translated_train/TR-2795.jpg,success,2026-03-22 00:51:39,,0.1400
+train/TR-2796.jpg,translated_train/TR-2796.jpg,success,2026-03-22 00:52:05,,0.1400
+train/TR-2797.jpg,translated_train/TR-2797.jpg,success,2026-03-22 00:52:25,,0.1400
+train/TR-2798.jpg,translated_train/TR-2798.jpg,success,2026-03-22 00:52:51,,0.1400
+train/TR-2799.jpg,translated_train/TR-2799.jpg,success,2026-03-22 00:53:20,,0.1400
+train/TR-28.jpg,translated_train/TR-28.jpg,success,2026-03-22 00:53:42,,0.1400
+train/TR-280.jpg,translated_train/TR-280.jpg,success,2026-03-22 00:54:04,,0.1400
+train/TR-2800.jpg,translated_train/TR-2800.jpg,success,2026-03-22 00:54:32,,0.1400
+train/TR-2801.jpg,translated_train/TR-2801.jpg,success,2026-03-22 00:55:00,,0.1400
+train/TR-2802.jpg,translated_train/TR-2802.jpg,success,2026-03-22 00:55:25,,0.1400
+train/TR-2803.jpg,translated_train/TR-2803.jpg,success,2026-03-22 00:55:47,,0.1400
+train/TR-2804.jpg,translated_train/TR-2804.jpg,success,2026-03-22 00:56:09,,0.1400
+train/TR-2805.jpg,translated_train/TR-2805.jpg,success,2026-03-22 00:56:27,,0.1400
+train/TR-2806.jpg,translated_train/TR-2806.jpg,success,2026-03-22 00:56:49,,0.1400
+train/TR-2807.jpg,translated_train/TR-2807.jpg,success,2026-03-22 00:57:09,,0.1400
+train/TR-2808.jpg,translated_train/TR-2808.jpg,success,2026-03-22 00:57:31,,0.1400
+train/TR-2809.jpg,translated_train/TR-2809.jpg,success,2026-03-22 00:57:49,,0.1400
+train/TR-281.jpg,translated_train/TR-281.jpg,success,2026-03-22 00:58:14,,0.1400
+train/TR-2810.jpg,translated_train/TR-2810.jpg,success,2026-03-22 00:58:37,,0.1400
+train/TR-2811.jpg,translated_train/TR-2811.jpg,success,2026-03-22 00:58:58,,0.1400
+train/TR-2812.jpg,translated_train/TR-2812.jpg,success,2026-03-22 00:59:21,,0.1400
+train/TR-2813.jpg,translated_train/TR-2813.jpg,success,2026-03-22 00:59:43,,0.1400
+train/TR-2814.jpg,translated_train/TR-2814.jpg,success,2026-03-22 01:00:08,,0.1400
+train/TR-2815.jpg,translated_train/TR-2815.jpg,success,2026-03-22 01:00:29,,0.1400
+train/TR-2816.jpg,translated_train/TR-2816.jpg,success,2026-03-22 01:00:52,,0.1400
+train/TR-2817.jpg,translated_train/TR-2817.jpg,success,2026-03-22 01:01:10,,0.1400
+train/TR-2818.jpg,translated_train/TR-2818.jpg,success,2026-03-22 01:01:31,,0.1400
+train/TR-2819.jpg,translated_train/TR-2819.jpg,success,2026-03-22 01:01:55,,0.1400
+train/TR-282.jpg,translated_train/TR-282.jpg,success,2026-03-22 01:02:16,,0.1400
+train/TR-2820.jpg,translated_train/TR-2820.jpg,success,2026-03-22 01:02:39,,0.1400
+train/TR-2821.jpg,translated_train/TR-2821.jpg,success,2026-03-22 01:02:59,,0.1400
+train/TR-2822.jpg,translated_train/TR-2822.jpg,success,2026-03-22 01:03:24,,0.1400
+train/TR-2823.jpg,translated_train/TR-2823.jpg,success,2026-03-22 01:03:50,,0.1400
+train/TR-2824.jpg,translated_train/TR-2824.jpg,success,2026-03-22 01:04:11,,0.1400
+train/TR-2825.jpg,translated_train/TR-2825.jpg,success,2026-03-22 01:04:34,,0.1400
+train/TR-2826.jpg,translated_train/TR-2826.jpg,success,2026-03-22 01:04:57,,0.1400
+train/TR-2827.jpg,translated_train/TR-2827.jpg,success,2026-03-22 01:05:21,,0.1400
+train/TR-2828.jpg,translated_train/TR-2828.jpg,success,2026-03-22 01:05:39,,0.1400
+train/TR-2829.jpg,translated_train/TR-2829.jpg,success,2026-03-22 01:06:02,,0.1400
+train/TR-283.jpg,translated_train/TR-283.jpg,success,2026-03-22 01:06:28,,0.1400
+train/TR-2830.jpg,translated_train/TR-2830.jpg,success,2026-03-22 01:06:56,,0.1400
+train/TR-2831.jpg,translated_train/TR-2831.jpg,success,2026-03-22 01:07:16,,0.1400
+train/TR-2832.jpg,translated_train/TR-2832.jpg,success,2026-03-22 01:07:38,,0.1400
+train/TR-2833.jpg,,no_image,2026-03-22 01:07:56,API returned no image data,0.1400
+train/TR-2834.jpg,translated_train/TR-2834.jpg,success,2026-03-22 01:08:15,,0.1400
+train/TR-2835.jpg,translated_train/TR-2835.jpg,success,2026-03-22 01:08:35,,0.1400
+train/TR-2836.jpg,translated_train/TR-2836.jpg,success,2026-03-22 01:08:58,,0.1400
+train/TR-2837.jpg,translated_train/TR-2837.jpg,success,2026-03-22 01:09:18,,0.1400
+train/TR-2838.jpg,translated_train/TR-2838.jpg,success,2026-03-22 01:09:39,,0.1400
+train/TR-2839.jpg,translated_train/TR-2839.jpg,success,2026-03-22 01:10:04,,0.1400
+train/TR-284.jpg,translated_train/TR-284.jpg,success,2026-03-22 01:10:25,,0.1400
+train/TR-2840.jpg,translated_train/TR-2840.jpg,success,2026-03-22 01:10:44,,0.1400
+train/TR-2841.jpg,translated_train/TR-2841.jpg,success,2026-03-22 01:11:05,,0.1400
+train/TR-2842.jpg,translated_train/TR-2842.jpg,success,2026-03-22 01:11:29,,0.1400
+train/TR-2843.jpg,translated_train/TR-2843.jpg,success,2026-03-22 01:11:53,,0.1400
+train/TR-2844.jpg,translated_train/TR-2844.jpg,success,2026-03-22 01:12:11,,0.1400
+train/TR-2845.jpg,translated_train/TR-2845.jpg,success,2026-03-22 01:12:29,,0.1400
+train/TR-2846.jpg,translated_train/TR-2846.jpg,success,2026-03-22 01:12:49,,0.1400
+train/TR-2847.jpg,translated_train/TR-2847.jpg,success,2026-03-22 01:13:09,,0.1400
+train/TR-2848.jpg,translated_train/TR-2848.jpg,success,2026-03-22 01:13:34,,0.1400
+train/TR-2849.jpg,translated_train/TR-2849.jpg,success,2026-03-22 01:13:54,,0.1400
+train/TR-285.jpg,translated_train/TR-285.jpg,success,2026-03-22 01:14:14,,0.1400
+train/TR-2850.jpg,translated_train/TR-2850.jpg,success,2026-03-22 01:14:34,,0.1400
+train/TR-2851.jpg,translated_train/TR-2851.jpg,success,2026-03-22 01:14:58,,0.1400
+train/TR-2852.jpg,translated_train/TR-2852.jpg,success,2026-03-22 01:15:22,,0.1400
+train/TR-2853.jpg,translated_train/TR-2853.jpg,success,2026-03-22 01:15:43,,0.1400
+train/TR-2854.jpg,,no_image,2026-03-22 01:16:01,API returned no image data,0.1400
+train/TR-2855.jpg,translated_train/TR-2855.jpg,success,2026-03-22 01:16:21,,0.1400
+train/TR-2856.jpg,translated_train/TR-2856.jpg,success,2026-03-22 01:16:43,,0.1400
+train/TR-2857.jpg,translated_train/TR-2857.jpg,success,2026-03-22 01:17:04,,0.1400
+train/TR-2858.jpg,translated_train/TR-2858.jpg,success,2026-03-22 01:17:26,,0.1400
+train/TR-2859.jpg,translated_train/TR-2859.jpg,success,2026-03-22 01:17:43,,0.1400
+train/TR-286.jpg,translated_train/TR-286.jpg,success,2026-03-22 01:18:05,,0.1400
+train/TR-2860.jpg,translated_train/TR-2860.jpg,success,2026-03-22 01:18:29,,0.1400
+train/TR-2861.jpg,translated_train/TR-2861.jpg,success,2026-03-22 01:18:52,,0.1400
+train/TR-2862.jpg,,no_image,2026-03-22 01:19:12,API returned no image data,0.1400
+train/TR-2863.jpg,translated_train/TR-2863.jpg,success,2026-03-22 01:19:38,,0.1400
+train/TR-2864.jpg,translated_train/TR-2864.jpg,success,2026-03-22 01:20:06,,0.1400
+train/TR-2865.jpg,translated_train/TR-2865.jpg,success,2026-03-22 01:20:31,,0.1400
+train/TR-2866.jpg,translated_train/TR-2866.jpg,success,2026-03-22 01:20:54,,0.1400
+train/TR-2867.jpg,translated_train/TR-2867.jpg,success,2026-03-22 01:21:15,,0.1400
+train/TR-2868.jpg,translated_train/TR-2868.jpg,success,2026-03-22 01:21:36,,0.1400
+train/TR-2869.jpg,translated_train/TR-2869.jpg,success,2026-03-22 01:22:00,,0.1400
+train/TR-287.jpg,translated_train/TR-287.jpg,success,2026-03-22 01:22:27,,0.1400
+train/TR-2870.jpg,translated_train/TR-2870.jpg,success,2026-03-22 01:22:48,,0.1400
+train/TR-2871.jpg,,no_image,2026-03-22 01:23:05,API returned no image data,0.1400
+train/TR-2872.jpg,translated_train/TR-2872.jpg,success,2026-03-22 01:23:28,,0.1400
+train/TR-2873.jpg,translated_train/TR-2873.jpg,success,2026-03-22 01:23:49,,0.1400
+train/TR-2874.jpg,translated_train/TR-2874.jpg,success,2026-03-22 01:24:11,,0.1400
+train/TR-2875.jpg,,no_image,2026-03-22 01:24:42,API returned no image data,0.1400
+train/TR-2876.jpg,,no_image,2026-03-22 01:25:05,API returned no image data,0.1400
+train/TR-2877.jpg,translated_train/TR-2877.jpg,success,2026-03-22 01:25:25,,0.1400
+train/TR-2878.jpg,translated_train/TR-2878.jpg,success,2026-03-22 01:25:48,,0.1400
+train/TR-2879.jpg,translated_train/TR-2879.jpg,success,2026-03-22 01:26:13,,0.1400
+train/TR-288.jpg,translated_train/TR-288.jpg,success,2026-03-22 01:26:32,,0.1400
+train/TR-2880.jpg,translated_train/TR-2880.jpg,success,2026-03-22 01:26:55,,0.1400
+train/TR-2881.jpg,translated_train/TR-2881.jpg,success,2026-03-22 01:27:14,,0.1400
+train/TR-2882.jpg,,no_image,2026-03-22 01:27:22,API returned no image data,0.1400
+train/TR-2883.jpg,translated_train/TR-2883.jpg,success,2026-03-22 01:27:40,,0.1400
+train/TR-2884.jpg,translated_train/TR-2884.jpg,success,2026-03-22 01:28:02,,0.1400
+train/TR-2885.jpg,translated_train/TR-2885.jpg,success,2026-03-22 01:28:20,,0.1400
+train/TR-2886.jpg,translated_train/TR-2886.jpg,success,2026-03-22 01:28:39,,0.1400
+train/TR-2887.jpg,translated_train/TR-2887.jpg,success,2026-03-22 01:28:57,,0.1400
+train/TR-2888.jpg,translated_train/TR-2888.jpg,success,2026-03-22 01:29:20,,0.1400
+train/TR-2889.jpg,translated_train/TR-2889.jpg,success,2026-03-22 01:29:39,,0.1400
+train/TR-289.jpg,translated_train/TR-289.jpg,success,2026-03-22 01:29:46,,0.1400
+train/TR-2890.jpg,translated_train/TR-2890.jpg,success,2026-03-22 01:30:03,,0.1400
+train/TR-2891.jpg,translated_train/TR-2891.jpg,success,2026-03-22 01:30:21,,0.1400
+train/TR-2892.jpg,translated_train/TR-2892.jpg,success,2026-03-22 01:30:46,,0.1400
+train/TR-2893.jpg,translated_train/TR-2893.jpg,success,2026-03-22 01:31:06,,0.1400
+train/TR-2894.jpg,translated_train/TR-2894.jpg,success,2026-03-22 01:31:29,,0.1400
+train/TR-2895.jpg,translated_train/TR-2895.jpg,success,2026-03-22 01:31:54,,0.1400
+train/TR-2896.jpg,translated_train/TR-2896.jpg,success,2026-03-22 01:32:14,,0.1400
+train/TR-2897.jpg,,no_image,2026-03-22 01:32:33,API returned no image data,0.1400
+train/TR-2898.jpg,translated_train/TR-2898.jpg,success,2026-03-22 01:32:54,,0.1400
+train/TR-2899.jpg,translated_train/TR-2899.jpg,success,2026-03-22 01:33:15,,0.1400
+train/TR-29.jpg,translated_train/TR-29.jpg,success,2026-03-22 01:33:34,,0.1400
+train/TR-290.jpg,translated_train/TR-290.jpg,success,2026-03-22 01:33:57,,0.1400
+train/TR-2900.jpg,,no_image,2026-03-22 01:34:15,API returned no image data,0.1400
+train/TR-2901.jpg,translated_train/TR-2901.jpg,success,2026-03-22 01:34:36,,0.1400
+train/TR-2902.jpg,translated_train/TR-2902.jpg,success,2026-03-22 01:34:58,,0.1400
+train/TR-2903.jpg,translated_train/TR-2903.jpg,success,2026-03-22 01:35:21,,0.1400
+train/TR-2904.jpg,translated_train/TR-2904.jpg,success,2026-03-22 01:35:46,,0.1400
+train/TR-2905.jpg,translated_train/TR-2905.jpg,success,2026-03-22 01:36:03,,0.1400
+train/TR-2906.jpg,translated_train/TR-2906.jpg,success,2026-03-22 01:36:24,,0.1400
+train/TR-2907.jpg,translated_train/TR-2907.jpg,success,2026-03-22 01:36:43,,0.1400
+train/TR-2908.jpg,translated_train/TR-2908.jpg,success,2026-03-22 01:37:04,,0.1400
+train/TR-2909.jpg,translated_train/TR-2909.jpg,success,2026-03-22 01:37:25,,0.1400
+train/TR-291.jpg,translated_train/TR-291.jpg,success,2026-03-22 01:37:42,,0.1400
+train/TR-2910.jpg,translated_train/TR-2910.jpg,success,2026-03-22 01:38:04,,0.1400
+train/TR-2911.jpg,translated_train/TR-2911.jpg,success,2026-03-22 01:38:25,,0.1400
+train/TR-2912.jpg,translated_train/TR-2912.jpg,success,2026-03-22 01:38:45,,0.1400
+train/TR-2913.jpg,translated_train/TR-2913.jpg,success,2026-03-22 01:39:05,,0.1400
+train/TR-2914.jpg,translated_train/TR-2914.jpg,success,2026-03-22 01:39:25,,0.1400
+train/TR-2915.jpg,translated_train/TR-2915.jpg,success,2026-03-22 01:39:42,,0.1400
+train/TR-2916.jpg,translated_train/TR-2916.jpg,success,2026-03-22 01:40:02,,0.1400
+train/TR-2917.jpg,translated_train/TR-2917.jpg,success,2026-03-22 01:40:23,,0.1400
+train/TR-2918.jpg,translated_train/TR-2918.jpg,success,2026-03-22 01:40:47,,0.1400
+train/TR-2919.jpg,translated_train/TR-2919.jpg,success,2026-03-22 01:41:10,,0.1400
+train/TR-292.jpg,translated_train/TR-292.jpg,success,2026-03-22 01:41:31,,0.1400
+train/TR-2920.jpg,,no_image,2026-03-22 01:41:50,API returned no image data,0.1400
+train/TR-2921.jpg,translated_train/TR-2921.jpg,success,2026-03-22 01:42:16,,0.1400
+train/TR-2922.jpg,translated_train/TR-2922.jpg,success,2026-03-22 01:42:35,,0.1400
+train/TR-2923.jpg,translated_train/TR-2923.jpg,success,2026-03-22 01:42:55,,0.1400
+train/TR-2924.jpg,translated_train/TR-2924.jpg,success,2026-03-22 01:43:16,,0.1400
+train/TR-2925.jpg,translated_train/TR-2925.jpg,success,2026-03-22 01:43:36,,0.1400
+train/TR-2926.jpg,translated_train/TR-2926.jpg,success,2026-03-22 01:43:56,,0.1400
+train/TR-2927.jpg,translated_train/TR-2927.jpg,success,2026-03-22 01:44:16,,0.1400
+train/TR-2928.jpg,translated_train/TR-2928.jpg,success,2026-03-22 01:44:36,,0.1400
+train/TR-2929.jpg,translated_train/TR-2929.jpg,success,2026-03-22 01:44:57,,0.1400
+train/TR-293.jpg,translated_train/TR-293.jpg,success,2026-03-22 01:45:17,,0.1400
+train/TR-2930.jpg,translated_train/TR-2930.jpg,success,2026-03-22 01:45:36,,0.1400
+train/TR-2931.jpg,translated_train/TR-2931.jpg,success,2026-03-22 01:45:55,,0.1400
+train/TR-2932.jpg,translated_train/TR-2932.jpg,success,2026-03-22 01:46:13,,0.1400
+train/TR-2933.jpg,translated_train/TR-2933.jpg,success,2026-03-22 01:46:33,,0.1400
+train/TR-2934.jpg,,no_image,2026-03-22 01:46:52,API returned no image data,0.1400
+train/TR-2935.jpg,translated_train/TR-2935.jpg,success,2026-03-22 01:47:15,,0.1400
+train/TR-2936.jpg,translated_train/TR-2936.jpg,success,2026-03-22 01:47:40,,0.1400
+train/TR-2937.jpg,translated_train/TR-2937.jpg,success,2026-03-22 01:48:00,,0.1400
+train/TR-2938.jpg,translated_train/TR-2938.jpg,success,2026-03-22 01:48:27,,0.1400
+train/TR-2939.jpg,translated_train/TR-2939.jpg,success,2026-03-22 01:48:45,,0.1400
+train/TR-294.jpg,translated_train/TR-294.jpg,success,2026-03-22 01:49:12,,0.1400
+train/TR-2940.jpg,translated_train/TR-2940.jpg,success,2026-03-22 01:49:32,,0.1400
+train/TR-2941.jpg,translated_train/TR-2941.jpg,success,2026-03-22 01:49:53,,0.1400
+train/TR-2942.jpg,translated_train/TR-2942.jpg,success,2026-03-22 01:50:13,,0.1400
+train/TR-2943.jpg,translated_train/TR-2943.jpg,success,2026-03-22 01:50:37,,0.1400
+train/TR-2944.jpg,translated_train/TR-2944.jpg,success,2026-03-22 01:50:59,,0.1400
+train/TR-2945.jpg,translated_train/TR-2945.jpg,success,2026-03-22 01:51:17,,0.1400
+train/TR-2946.jpg,translated_train/TR-2946.jpg,success,2026-03-22 01:51:39,,0.1400
+train/TR-2947.jpg,translated_train/TR-2947.jpg,success,2026-03-22 01:52:01,,0.1400
+train/TR-2948.jpg,translated_train/TR-2948.jpg,success,2026-03-22 01:52:23,,0.1400
+train/TR-2949.jpg,translated_train/TR-2949.jpg,success,2026-03-22 01:52:44,,0.1400
+train/TR-295.jpg,translated_train/TR-295.jpg,success,2026-03-22 01:53:03,,0.1400
+train/TR-2950.jpg,translated_train/TR-2950.jpg,success,2026-03-22 01:53:26,,0.1400
+train/TR-2951.jpg,translated_train/TR-2951.jpg,success,2026-03-22 01:53:46,,0.1400
+train/TR-2952.jpg,translated_train/TR-2952.jpg,success,2026-03-22 01:54:07,,0.1400
+train/TR-2953.jpg,translated_train/TR-2953.jpg,success,2026-03-22 01:54:32,,0.1400
+train/TR-2954.jpg,translated_train/TR-2954.jpg,success,2026-03-22 01:54:54,,0.1400
+train/TR-2955.jpg,translated_train/TR-2955.jpg,success,2026-03-22 01:55:20,,0.1400
+train/TR-2956.jpg,translated_train/TR-2956.jpg,success,2026-03-22 01:55:38,,0.1400
+train/TR-2957.jpg,translated_train/TR-2957.jpg,success,2026-03-22 01:56:04,,0.1400
+train/TR-2958.jpg,translated_train/TR-2958.jpg,success,2026-03-22 01:56:29,,0.1400
+train/TR-2959.jpg,translated_train/TR-2959.jpg,success,2026-03-22 01:56:53,,0.1400
+train/TR-296.jpg,translated_train/TR-296.jpg,success,2026-03-22 01:57:13,,0.1400
+train/TR-2960.jpg,translated_train/TR-2960.jpg,success,2026-03-22 01:57:32,,0.1400
+train/TR-2961.jpg,translated_train/TR-2961.jpg,success,2026-03-22 01:57:57,,0.1400
+train/TR-2962.jpg,translated_train/TR-2962.jpg,success,2026-03-22 01:58:20,,0.1400
+train/TR-2963.jpg,translated_train/TR-2963.jpg,success,2026-03-22 01:58:42,,0.1400
+train/TR-2964.jpg,translated_train/TR-2964.jpg,success,2026-03-22 01:59:06,,0.1400
+train/TR-2965.jpg,translated_train/TR-2965.jpg,success,2026-03-22 02:12:14,,0.1400
+train/TR-2966.jpg,,failed,2026-03-22 02:28:24,"429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current",0.0000

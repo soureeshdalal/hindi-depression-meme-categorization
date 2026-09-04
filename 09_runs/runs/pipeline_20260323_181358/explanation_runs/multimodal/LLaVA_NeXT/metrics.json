@@ -1,0 +1,47 @@
+{
+  "n_samples": 581,
+  "macro_f1": 0.3039,
+  "weighted_f1": 0.3251,
+  "macro_precision": 0.4756,
+  "macro_recall": 0.3111,
+  "per_label": {
+    "Feeling Down": {
+      "f1": 0.4169,
+      "precision": 0.4458,
+      "recall": 0.3915
+    },
+    "Lack of Interest": {
+      "f1": 0.2979,
+      "precision": 0.1909,
+      "recall": 0.6774
+    },
+    "Self-Harm": {
+      "f1": 0.3838,
+      "precision": 0.5938,
+      "recall": 0.2836
+    },
+    "Eating Disorder": {
+      "f1": 0.1316,
+      "precision": 0.7143,
+      "recall": 0.0725
+    },
+    "Low Self-Esteem": {
+      "f1": 0.2838,
+      "precision": 0.375,
+      "recall": 0.2283
+    },
+    "Concentration Problem": {
+      "f1": 0.2838,
+      "precision": 0.2593,
+      "recall": 0.3134
+    },
+    "Sleeping Disorder": {
+      "f1": 0.3297,
+      "precision": 0.75,
+      "recall": 0.2113
+    }
+  },
+  "model": "LLaVA-NeXT-7B",
+  "input": "explanation+image",
+  "folder": "LLaVA_NeXT"
+}

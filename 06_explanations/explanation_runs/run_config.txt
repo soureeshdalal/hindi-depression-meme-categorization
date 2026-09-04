@@ -1,0 +1,25 @@
+=== Explanation-Based Benchmarking Run Config ===
+Date        : 2026-03-18 04:30:10
+Device      : cuda:0 (NVIDIA A10G)
+Torch       : 2.10.0+cu128
+Transformers: 5.3.0
+Input CSV   : /home/ubuntu/projects/categorization/gemini_runs/run_v2/phase1_explanations_v2.csv
+Images Dir  : /home/ubuntu/projects/categorization/translated_categorized_memes/
+Baseline    : /home/ubuntu/projects/categorization/metrics/no_finetuning/metrics_summary.csv
+
+Unimodal models (8):
+  IndicBERTv2-SS    ai4bharat/IndicBERTv2-SS
+  IndicBERTv2-Sam   ai4bharat/IndicBERTv2-MLM-Sam-TLM
+  MuRIL             google/muril-base-cased
+  MentalBERT        AIMH/mental-bert-large-cased
+  MentalRoBERTa     mental/mental-roberta-base
+  BART-Base         facebook/bart-base
+  BART-Large        facebook/bart-large
+  MentalBART        mental/mental-bart-base
+
+Multimodal models (5):
+  BLIP-2            Salesforce/blip2-flan-t5-xl
+  LLaVA-1.5         llava-hf/llava-1.5-7b-hf
+  LLaVA-NeXT        llava-hf/llava-v1.6-mistral-7b-hf
+  IDEFICS           HuggingFaceM4/idefics-9b
+  InstructBLIP      Salesforce/instructblip-flan-t5-xl

@@ -1,0 +1,6 @@
+model,input,n,macro_f1,wt_f1,prec,rec
+BLIP-2,explanation+image,581,0.3279,0.3648,0.2916,0.5757
+LLaVA-1.5,explanation+image,581,0.3085,0.2675,0.4614,0.2582
+LLaVA-NeXT,explanation+image,578,0.2527,0.2992,0.1638,0.632
+IDEFICS,explanation+image,64,0.2476,0.3212,0.1496,0.9054
+InstructBLIP,explanation+image,581,0.2807,0.3244,0.1768,0.7623

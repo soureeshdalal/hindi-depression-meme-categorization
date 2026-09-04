@@ -1,0 +1,8 @@
+model,input,n_samples,macro_f1,weighted_f1,macro_precision,macro_recall
+IndicBERTv2-SS,explanation,581,0.2294,0.2819,0.147,0.6388
+IndicBERTv2-Sam,explanation,581,0.1678,0.1413,0.1759,0.5774
+MuRIL,explanation,581,0.128,0.1089,0.0723,0.5714
+MentalBERT,explanation,581,0.2314,0.2846,0.1429,0.8432
+BART-Base,explanation,581,0.2573,0.3042,0.1517,1.0
+BART-Large,explanation,581,0.1129,0.0968,0.1012,0.321
+MentalBART,explanation,581,0.2573,0.3042,0.1517,1.0

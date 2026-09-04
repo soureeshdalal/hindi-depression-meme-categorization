@@ -1,0 +1,120 @@
+model,symptom,precision,recall,f1,support
+"BERT-uncased (FT, MAMA)",Feeling Down,0.5161,0.1672,0.2526,287
+"BERT-uncased (FT, MAMA)",Lack of Interest,0.0,0.0,0.0,96
+"BERT-uncased (FT, MAMA)",Self-Harm,0.2296,0.4412,0.302,102
+"BERT-uncased (FT, MAMA)",Eating Disorder,0.6066,0.3854,0.4713,96
+"BERT-uncased (FT, MAMA)",Low Self-Esteem,0.0,0.0,0.0,125
+"BERT-uncased (FT, MAMA)",Concentration Problem,0.0,0.0,0.0,98
+"BERT-uncased (FT, MAMA)",Sleeping Disorder,0.0,0.0,0.0,99
+MentalBERT (FT),Feeling Down,0.7333,0.0383,0.0728,287
+MentalBERT (FT),Lack of Interest,0.0,0.0,0.0,96
+MentalBERT (FT),Self-Harm,0.1944,0.1373,0.1609,102
+MentalBERT (FT),Eating Disorder,0.2232,0.2604,0.2404,96
+MentalBERT (FT),Low Self-Esteem,0.0,0.0,0.0,125
+MentalBERT (FT),Concentration Problem,0.0,0.0,0.0,98
+MentalBERT (FT),Sleeping Disorder,0.0,0.0,0.0,99
+BART-Base (FT),Feeling Down,0.0,0.0,0.0,287
+BART-Base (FT),Lack of Interest,0.0,0.0,0.0,96
+BART-Base (FT),Self-Harm,0.172,0.6863,0.275,102
+BART-Base (FT),Eating Disorder,0.3,0.0312,0.0566,96
+BART-Base (FT),Low Self-Esteem,0.0,0.0,0.0,125
+BART-Base (FT),Concentration Problem,0.0,0.0,0.0,98
+BART-Base (FT),Sleeping Disorder,0.0,0.0,0.0,99
+MentalBART (FT),Feeling Down,1.0,0.0209,0.041,287
+MentalBART (FT),Lack of Interest,0.0,0.0,0.0,96
+MentalBART (FT),Self-Harm,0.1628,0.6863,0.2632,102
+MentalBART (FT),Eating Disorder,0.4043,0.1979,0.2657,96
+MentalBART (FT),Low Self-Esteem,0.0,0.0,0.0,125
+MentalBART (FT),Concentration Problem,0.0,0.0,0.0,98
+MentalBART (FT),Sleeping Disorder,0.0,0.0,0.0,99
+BERT-multilingual (FT),Feeling Down,0.6228,0.2474,0.3541,287
+BERT-multilingual (FT),Lack of Interest,0.0,0.0,0.0,96
+BERT-multilingual (FT),Self-Harm,0.5,0.2843,0.3625,102
+BERT-multilingual (FT),Eating Disorder,0.3679,0.8125,0.5065,96
+BERT-multilingual (FT),Low Self-Esteem,0.0,0.0,0.0,125
+BERT-multilingual (FT),Concentration Problem,0.0,0.0,0.0,98
+BERT-multilingual (FT),Sleeping Disorder,0.0,0.0,0.0,99
+IndicBERTv2-SS (FT),Feeling Down,0.586,0.6411,0.6123,287
+IndicBERTv2-SS (FT),Lack of Interest,0.0,0.0,0.0,96
+IndicBERTv2-SS (FT),Self-Harm,0.505,0.5,0.5025,102
+IndicBERTv2-SS (FT),Eating Disorder,0.5821,0.8125,0.6783,96
+IndicBERTv2-SS (FT),Low Self-Esteem,0.0,0.0,0.0,125
+IndicBERTv2-SS (FT),Concentration Problem,0.0,0.0,0.0,98
+IndicBERTv2-SS (FT),Sleeping Disorder,0.0,0.0,0.0,99
+IndicBERTv2-Sam (FT),Feeling Down,0.5543,0.676,0.6091,287
+IndicBERTv2-Sam (FT),Lack of Interest,0.0,0.0,0.0,96
+IndicBERTv2-Sam (FT),Self-Harm,0.3352,0.598,0.4296,102
+IndicBERTv2-Sam (FT),Eating Disorder,0.6759,0.7604,0.7157,96
+IndicBERTv2-Sam (FT),Low Self-Esteem,0.0,0.0,0.0,125
+IndicBERTv2-Sam (FT),Concentration Problem,0.0,0.0,0.0,98
+IndicBERTv2-Sam (FT),Sleeping Disorder,0.0,0.0,0.0,99
+MuRIL (FT),Feeling Down,0.0,0.0,0.0,287
+MuRIL (FT),Lack of Interest,0.0,0.0,0.0,96
+MuRIL (FT),Self-Harm,0.0,0.0,0.0,102
+MuRIL (FT),Eating Disorder,0.0,0.0,0.0,96
+MuRIL (FT),Low Self-Esteem,0.0,0.0,0.0,125
+MuRIL (FT),Concentration Problem,0.0,0.0,0.0,98
+MuRIL (FT),Sleeping Disorder,0.0,0.0,0.0,99
+MentalRoBERTa (FT),Feeling Down,0.0,0.0,0.0,287
+MentalRoBERTa (FT),Lack of Interest,0.0,0.0,0.0,96
+MentalRoBERTa (FT),Self-Harm,0.0,0.0,0.0,102
+MentalRoBERTa (FT),Eating Disorder,0.0,0.0,0.0,96
+MentalRoBERTa (FT),Low Self-Esteem,0.0,0.0,0.0,125
+MentalRoBERTa (FT),Concentration Problem,0.0,0.0,0.0,98
+MentalRoBERTa (FT),Sleeping Disorder,0.0,0.0,0.0,99
+BART-Large (FT),Feeling Down,0.0,0.0,0.0,287
+BART-Large (FT),Lack of Interest,0.0,0.0,0.0,96
+BART-Large (FT),Self-Harm,0.0,0.0,0.0,102
+BART-Large (FT),Eating Disorder,0.0,0.0,0.0,96
+BART-Large (FT),Low Self-Esteem,0.0,0.0,0.0,125
+BART-Large (FT),Concentration Problem,0.0,0.0,0.0,98
+BART-Large (FT),Sleeping Disorder,0.0,0.0,0.0,99
+ViT-B/16 (FT),Feeling Down,0.4161,0.216,0.2844,287
+ViT-B/16 (FT),Lack of Interest,0.0,0.0,0.0,96
+ViT-B/16 (FT),Self-Harm,0.1577,0.402,0.2265,102
+ViT-B/16 (FT),Eating Disorder,0.3421,0.2708,0.3023,96
+ViT-B/16 (FT),Low Self-Esteem,0.0,0.0,0.0,125
+ViT-B/16 (FT),Concentration Problem,0.0,0.0,0.0,98
+ViT-B/16 (FT),Sleeping Disorder,0.0,0.0,0.0,99
+ResNet-50 (FT),Feeling Down,0.4819,0.324,0.3875,287
+ResNet-50 (FT),Lack of Interest,0.0,0.0,0.0,96
+ResNet-50 (FT),Self-Harm,0.17,0.5,0.2537,102
+ResNet-50 (FT),Eating Disorder,0.3143,0.3438,0.3284,96
+ResNet-50 (FT),Low Self-Esteem,0.2727,0.048,0.0816,125
+ResNet-50 (FT),Concentration Problem,0.0,0.0,0.0,98
+ResNet-50 (FT),Sleeping Disorder,0.0,0.0,0.0,99
+EfficientNet-B0 (FT),Feeling Down,0.4978,0.3937,0.4397,287
+EfficientNet-B0 (FT),Lack of Interest,0.0,0.0,0.0,96
+EfficientNet-B0 (FT),Self-Harm,0.155,0.3039,0.2053,102
+EfficientNet-B0 (FT),Eating Disorder,0.2783,0.3333,0.3033,96
+EfficientNet-B0 (FT),Low Self-Esteem,0.3182,0.056,0.0952,125
+EfficientNet-B0 (FT),Concentration Problem,0.0,0.0,0.0,98
+EfficientNet-B0 (FT),Sleeping Disorder,0.0,0.0,0.0,99
+CLIP ViT-B/32 (FT),Feeling Down,0.0,0.0,0.0,287
+CLIP ViT-B/32 (FT),Lack of Interest,0.0,0.0,0.0,96
+CLIP ViT-B/32 (FT),Self-Harm,1.0,0.0196,0.0385,102
+CLIP ViT-B/32 (FT),Eating Disorder,0.0,0.0,0.0,96
+CLIP ViT-B/32 (FT),Low Self-Esteem,0.0,0.0,0.0,125
+CLIP ViT-B/32 (FT),Concentration Problem,0.0,0.0,0.0,98
+CLIP ViT-B/32 (FT),Sleeping Disorder,0.0,0.0,0.0,99
+ViT+BERT fusion (FT),Feeling Down,0.4293,0.8885,0.5789,287
+ViT+BERT fusion (FT),Lack of Interest,0.1486,0.4583,0.2245,96
+ViT+BERT fusion (FT),Self-Harm,0.1856,0.4804,0.2678,102
+ViT+BERT fusion (FT),Eating Disorder,0.1453,0.8854,0.2496,96
+ViT+BERT fusion (FT),Low Self-Esteem,0.172,0.52,0.2584,125
+ViT+BERT fusion (FT),Concentration Problem,0.1404,0.2449,0.1784,98
+ViT+BERT fusion (FT),Sleeping Disorder,0.124,0.1515,0.1364,99
+VisualBERT + ResNet regions (FT),Feeling Down,0.5556,0.2613,0.3555,287
+VisualBERT + ResNet regions (FT),Lack of Interest,0.0,0.0,0.0,96
+VisualBERT + ResNet regions (FT),Self-Harm,0.1934,0.5784,0.2899,102
+VisualBERT + ResNet regions (FT),Eating Disorder,0.3356,0.5208,0.4082,96
+VisualBERT + ResNet regions (FT),Low Self-Esteem,0.0,0.0,0.0,125
+VisualBERT + ResNet regions (FT),Concentration Problem,0.0,0.0,0.0,98
+VisualBERT + ResNet regions (FT),Sleeping Disorder,0.0,0.0,0.0,99
+LLaVA-1.5-7B (multilabel head FT),Feeling Down,0.4323,0.4007,0.4159,287
+LLaVA-1.5-7B (multilabel head FT),Lack of Interest,0.0,0.0,0.0,96
+LLaVA-1.5-7B (multilabel head FT),Self-Harm,0.1889,0.6667,0.2944,102
+LLaVA-1.5-7B (multilabel head FT),Eating Disorder,0.6,0.0625,0.1132,96
+LLaVA-1.5-7B (multilabel head FT),Low Self-Esteem,0.0,0.0,0.0,125
+LLaVA-1.5-7B (multilabel head FT),Concentration Problem,0.0,0.0,0.0,98
+LLaVA-1.5-7B (multilabel head FT),Sleeping Disorder,0.0,0.0,0.0,99

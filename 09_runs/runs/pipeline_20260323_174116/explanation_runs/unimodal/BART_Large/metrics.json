@@ -1,0 +1,47 @@
+{
+  "n_samples": 581,
+  "macro_f1": 0.086,
+  "weighted_f1": 0.075,
+  "macro_precision": 0.1259,
+  "macro_recall": 0.2981,
+  "per_label": {
+    "Feeling Down": {
+      "f1": 0.049,
+      "precision": 0.3333,
+      "recall": 0.0265
+    },
+    "Lack of Interest": {
+      "f1": 0.0482,
+      "precision": 0.0952,
+      "recall": 0.0323
+    },
+    "Self-Harm": {
+      "f1": 0.2063,
+      "precision": 0.1155,
+      "recall": 0.9701
+    },
+    "Eating Disorder": {
+      "f1": 0.092,
+      "precision": 0.2222,
+      "recall": 0.058
+    },
+    "Low Self-Esteem": {
+      "f1": 0.0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    "Concentration Problem": {
+      "f1": 0.2068,
+      "precision": 0.1153,
+      "recall": 1.0
+    },
+    "Sleeping Disorder": {
+      "f1": 0.0,
+      "precision": 0.0,
+      "recall": 0.0
+    }
+  },
+  "model": "BART-Large",
+  "input": "explanation",
+  "folder": "BART_Large"
+}

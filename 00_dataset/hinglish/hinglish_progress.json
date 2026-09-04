@@ -1,0 +1,658 @@
+{
+  "completed": {
+    "TE-583": {
+      "category": "BRAND_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-583.jpg",
+      "timestamp": "2026-02-22T13:23:12.964297"
+    },
+    "TE-149": {
+      "category": "CELEBRITY_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-149.jpg",
+      "timestamp": "2026-02-22T13:23:30.282025"
+    },
+    "TE-70": {
+      "category": "CULTURAL_REFERENCE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": false,
+      "output_path": "",
+      "timestamp": "2026-02-22T13:23:50.737054"
+    },
+    "TE-256": {
+      "category": "INTERNET_CULTURE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-256.jpg",
+      "timestamp": "2026-02-22T13:24:09.202113"
+    },
+    "TE-9": {
+      "category": "LANGUAGE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-9.jpg",
+      "timestamp": "2026-02-22T13:24:27.617231"
+    },
+    "TE-521": {
+      "category": "LIFESTYLE_CONTEXT_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-521.jpg",
+      "timestamp": "2026-02-22T13:24:53.381805"
+    },
+    "TE-323": {
+      "category": "MEDIA_CONTEXT_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-323.jpg",
+      "timestamp": "2026-02-22T13:25:13.982786"
+    },
+    "TE-589": {
+      "category": "MEME_FORMAT_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-589.jpg",
+      "timestamp": "2026-02-22T13:25:37.037861"
+    },
+    "TE-346": {
+      "category": "NICHE_SUBCULTURE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-346.jpg",
+      "timestamp": "2026-02-22T13:25:56.257982"
+    },
+    "TE-291": {
+      "category": "POP_CULTURE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-291.jpg",
+      "timestamp": "2026-02-22T13:26:14.801180"
+    },
+    "TE-413": {
+      "category": "REFERENCE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": false,
+      "output_path": "",
+      "timestamp": "2026-02-22T13:26:36.814757"
+    },
+    "TE-229": {
+      "category": "UNIVERSAL_HUMAN",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-229.jpg",
+      "timestamp": "2026-02-22T13:26:55.246682"
+    },
+    "TE-512": {
+      "category": "VISUAL_SYMBOL_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-512.jpg",
+      "timestamp": "2026-02-22T13:27:15.884679"
+    },
+    "TE-177": {
+      "category": "BRAND_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-177.jpg",
+      "timestamp": "2026-02-22T13:27:36.273642"
+    },
+    "TE-470": {
+      "category": "CELEBRITY_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-470.jpg",
+      "timestamp": "2026-02-22T13:27:55.610037"
+    },
+    "TE-411": {
+      "category": "CULTURAL_REFERENCE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-411.jpg",
+      "timestamp": "2026-02-22T13:28:20.103961"
+    },
+    "TE-611": {
+      "category": "INTERNET_CULTURE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-611.jpg",
+      "timestamp": "2026-02-22T13:28:40.177935"
+    },
+    "TE-370": {
+      "category": "LANGUAGE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-370.jpg",
+      "timestamp": "2026-02-22T13:29:01.537061"
+    },
+    "TE-296": {
+      "category": "LIFESTYLE_CONTEXT_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-296.jpg",
+      "timestamp": "2026-02-22T13:29:21.678230"
+    },
+    "TE-47": {
+      "category": "MEDIA_CONTEXT_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-47.jpg",
+      "timestamp": "2026-02-22T13:30:02.010687"
+    },
+    "TE-196": {
+      "category": "MEME_FORMAT_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-196.jpg",
+      "timestamp": "2026-02-22T13:30:31.186238"
+    },
+    "TE-279": {
+      "category": "NICHE_SUBCULTURE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-279.jpg",
+      "timestamp": "2026-02-22T13:31:04.562344"
+    },
+    "TE-236": {
+      "category": "POP_CULTURE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-236.jpg",
+      "timestamp": "2026-02-22T13:31:21.915127"
+    },
+    "TE-602": {
+      "category": "REFERENCE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-602.jpg",
+      "timestamp": "2026-02-22T13:31:38.804581"
+    },
+    "TE-281": {
+      "category": "UNIVERSAL_HUMAN",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-281.jpg",
+      "timestamp": "2026-02-22T13:32:00.643103"
+    },
+    "TE-461": {
+      "category": "VISUAL_SYMBOL_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-461.jpg",
+      "timestamp": "2026-02-22T13:32:22.164405"
+    },
+    "TE-104": {
+      "category": "BRAND_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-104.jpg",
+      "timestamp": "2026-02-22T13:32:53.834895"
+    },
+    "TE-158": {
+      "category": "CELEBRITY_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-158.jpg",
+      "timestamp": "2026-02-22T13:33:15.632905"
+    },
+    "TE-309": {
+      "category": "CULTURAL_REFERENCE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-309.jpg",
+      "timestamp": "2026-02-22T13:33:44.922619"
+    },
+    "TE-90": {
+      "category": "INTERNET_CULTURE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-90.jpg",
+      "timestamp": "2026-02-22T13:34:06.219422"
+    },
+    "TE-471": {
+      "category": "LANGUAGE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-471.jpg",
+      "timestamp": "2026-02-22T13:34:26.063564"
+    },
+    "TE-201": {
+      "category": "LIFESTYLE_CONTEXT_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-201.jpg",
+      "timestamp": "2026-02-22T13:34:44.986588"
+    },
+    "TE-525": {
+      "category": "MEDIA_CONTEXT_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": false,
+      "output_path": "",
+      "timestamp": "2026-02-22T13:35:09.263344"
+    },
+    "TE-591": {
+      "category": "MEME_FORMAT_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-591.jpg",
+      "timestamp": "2026-02-22T13:35:31.640510"
+    },
+    "TE-37": {
+      "category": "NICHE_SUBCULTURE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-37.jpg",
+      "timestamp": "2026-02-22T13:35:50.167490"
+    },
+    "TE-174": {
+      "category": "POP_CULTURE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-174.jpg",
+      "timestamp": "2026-02-22T13:36:08.273128"
+    },
+    "TE-442": {
+      "category": "REFERENCE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-442.jpg",
+      "timestamp": "2026-02-22T13:36:25.665240"
+    },
+    "TE-29": {
+      "category": "UNIVERSAL_HUMAN",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-29.jpg",
+      "timestamp": "2026-02-22T13:36:45.326914"
+    },
+    "TE-87": {
+      "category": "VISUAL_SYMBOL_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": false,
+      "output_path": "",
+      "timestamp": "2026-02-22T13:37:07.616162"
+    },
+    "TE-285": {
+      "category": "BRAND_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-285.jpg",
+      "timestamp": "2026-02-22T13:37:30.682058"
+    },
+    "TE-373": {
+      "category": "CELEBRITY_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": false,
+      "output_path": "",
+      "timestamp": "2026-02-22T13:37:55.803282"
+    },
+    "TE-506": {
+      "category": "CULTURAL_REFERENCE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-506.jpg",
+      "timestamp": "2026-02-22T13:38:23.044374"
+    },
+    "TE-306": {
+      "category": "LANGUAGE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-306.jpg",
+      "timestamp": "2026-02-22T13:38:43.833510"
+    },
+    "TE-294": {
+      "category": "MEDIA_CONTEXT_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-294.jpg",
+      "timestamp": "2026-02-22T13:39:14.695171"
+    },
+    "TE-550": {
+      "category": "MEME_FORMAT_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-550.jpg",
+      "timestamp": "2026-02-22T13:39:32.966320"
+    },
+    "TE-249": {
+      "category": "NICHE_SUBCULTURE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-249.jpg",
+      "timestamp": "2026-02-22T13:39:50.832564"
+    },
+    "TE-213": {
+      "category": "POP_CULTURE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-213.jpg",
+      "timestamp": "2026-02-22T13:40:08.979660"
+    },
+    "TE-32": {
+      "category": "REFERENCE_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-32.jpg",
+      "timestamp": "2026-02-22T13:40:26.961664"
+    },
+    "TE-596": {
+      "category": "UNIVERSAL_HUMAN",
+      "translation": "",
+      "full_response": "",
+      "image_saved": false,
+      "output_path": "",
+      "timestamp": "2026-02-22T13:40:45.434233"
+    },
+    "TE-276": {
+      "category": "VISUAL_SYMBOL_DEPENDENT",
+      "translation": "",
+      "full_response": "",
+      "image_saved": true,
+      "output_path": "hinglish_memes/TE-276.jpg",
+      "timestamp": "2026-02-22T13:40:59.666497"
+    }
+  },
+  "failed": {},
+  "sample_ids": [
+    [
+      "TE-583",
+      "categorized_memes/BRAND_DEPENDENT/test/TE-583.jpg",
+      "BRAND_DEPENDENT"
+    ],
+    [
+      "TE-149",
+      "categorized_memes/CELEBRITY_DEPENDENT/test/TE-149.jpg",
+      "CELEBRITY_DEPENDENT"
+    ],
+    [
+      "TE-70",
+      "categorized_memes/CULTURAL_REFERENCE_DEPENDENT/test/TE-70.jpg",
+      "CULTURAL_REFERENCE_DEPENDENT"
+    ],
+    [
+      "TE-256",
+      "categorized_memes/INTERNET_CULTURE_DEPENDENT/test/TE-256.jpg",
+      "INTERNET_CULTURE_DEPENDENT"
+    ],
+    [
+      "TE-9",
+      "categorized_memes/LANGUAGE_DEPENDENT/test/TE-9.jpg",
+      "LANGUAGE_DEPENDENT"
+    ],
+    [
+      "TE-521",
+      "categorized_memes/LIFESTYLE_CONTEXT_DEPENDENT/test/TE-521.jpg",
+      "LIFESTYLE_CONTEXT_DEPENDENT"
+    ],
+    [
+      "TE-323",
+      "categorized_memes/MEDIA_CONTEXT_DEPENDENT/test/TE-323.jpg",
+      "MEDIA_CONTEXT_DEPENDENT"
+    ],
+    [
+      "TE-589",
+      "categorized_memes/MEME_FORMAT_DEPENDENT/test/TE-589.jpg",
+      "MEME_FORMAT_DEPENDENT"
+    ],
+    [
+      "TE-346",
+      "categorized_memes/NICHE_SUBCULTURE_DEPENDENT/test/TE-346.jpg",
+      "NICHE_SUBCULTURE_DEPENDENT"
+    ],
+    [
+      "TE-291",
+      "categorized_memes/POP_CULTURE_DEPENDENT/test/TE-291.jpg",
+      "POP_CULTURE_DEPENDENT"
+    ],
+    [
+      "TE-413",
+      "categorized_memes/REFERENCE_DEPENDENT/test/TE-413.jpg",
+      "REFERENCE_DEPENDENT"
+    ],
+    [
+      "TE-229",
+      "categorized_memes/UNIVERSAL_HUMAN/test/TE-229.jpg",
+      "UNIVERSAL_HUMAN"
+    ],
+    [
+      "TE-512",
+      "categorized_memes/VISUAL_SYMBOL_DEPENDENT/test/TE-512.jpg",
+      "VISUAL_SYMBOL_DEPENDENT"
+    ],
+    [
+      "TE-177",
+      "categorized_memes/BRAND_DEPENDENT/test/TE-177.jpg",
+      "BRAND_DEPENDENT"
+    ],
+    [
+      "TE-470",
+      "categorized_memes/CELEBRITY_DEPENDENT/test/TE-470.jpg",
+      "CELEBRITY_DEPENDENT"
+    ],
+    [
+      "TE-411",
+      "categorized_memes/CULTURAL_REFERENCE_DEPENDENT/test/TE-411.jpg",
+      "CULTURAL_REFERENCE_DEPENDENT"
+    ],
+    [
+      "TE-611",
+      "categorized_memes/INTERNET_CULTURE_DEPENDENT/test/TE-611.jpg",
+      "INTERNET_CULTURE_DEPENDENT"
+    ],
+    [
+      "TE-370",
+      "categorized_memes/LANGUAGE_DEPENDENT/test/TE-370.jpg",
+      "LANGUAGE_DEPENDENT"
+    ],
+    [
+      "TE-296",
+      "categorized_memes/LIFESTYLE_CONTEXT_DEPENDENT/test/TE-296.jpg",
+      "LIFESTYLE_CONTEXT_DEPENDENT"
+    ],
+    [
+      "TE-47",
+      "categorized_memes/MEDIA_CONTEXT_DEPENDENT/test/TE-47.jpg",
+      "MEDIA_CONTEXT_DEPENDENT"
+    ],
+    [
+      "TE-196",
+      "categorized_memes/MEME_FORMAT_DEPENDENT/test/TE-196.jpg",
+      "MEME_FORMAT_DEPENDENT"
+    ],
+    [
+      "TE-279",
+      "categorized_memes/NICHE_SUBCULTURE_DEPENDENT/test/TE-279.jpg",
+      "NICHE_SUBCULTURE_DEPENDENT"
+    ],
+    [
+      "TE-236",
+      "categorized_memes/POP_CULTURE_DEPENDENT/test/TE-236.jpg",
+      "POP_CULTURE_DEPENDENT"
+    ],
+    [
+      "TE-602",
+      "categorized_memes/REFERENCE_DEPENDENT/test/TE-602.jpg",
+      "REFERENCE_DEPENDENT"
+    ],
+    [
+      "TE-281",
+      "categorized_memes/UNIVERSAL_HUMAN/test/TE-281.jpg",
+      "UNIVERSAL_HUMAN"
+    ],
+    [
+      "TE-461",
+      "categorized_memes/VISUAL_SYMBOL_DEPENDENT/test/TE-461.jpg",
+      "VISUAL_SYMBOL_DEPENDENT"
+    ],
+    [
+      "TE-104",
+      "categorized_memes/BRAND_DEPENDENT/test/TE-104.jpg",
+      "BRAND_DEPENDENT"
+    ],
+    [
+      "TE-158",
+      "categorized_memes/CELEBRITY_DEPENDENT/test/TE-158.jpg",
+      "CELEBRITY_DEPENDENT"
+    ],
+    [
+      "TE-309",
+      "categorized_memes/CULTURAL_REFERENCE_DEPENDENT/test/TE-309.jpg",
+      "CULTURAL_REFERENCE_DEPENDENT"
+    ],
+    [
+      "TE-90",
+      "categorized_memes/INTERNET_CULTURE_DEPENDENT/test/TE-90.jpg",
+      "INTERNET_CULTURE_DEPENDENT"
+    ],
+    [
+      "TE-471",
+      "categorized_memes/LANGUAGE_DEPENDENT/test/TE-471.jpg",
+      "LANGUAGE_DEPENDENT"
+    ],
+    [
+      "TE-201",
+      "categorized_memes/LIFESTYLE_CONTEXT_DEPENDENT/test/TE-201.jpg",
+      "LIFESTYLE_CONTEXT_DEPENDENT"
+    ],
+    [
+      "TE-525",
+      "categorized_memes/MEDIA_CONTEXT_DEPENDENT/test/TE-525.jpg",
+      "MEDIA_CONTEXT_DEPENDENT"
+    ],
+    [
+      "TE-591",
+      "categorized_memes/MEME_FORMAT_DEPENDENT/test/TE-591.jpg",
+      "MEME_FORMAT_DEPENDENT"
+    ],
+    [
+      "TE-37",
+      "categorized_memes/NICHE_SUBCULTURE_DEPENDENT/test/TE-37.jpg",
+      "NICHE_SUBCULTURE_DEPENDENT"
+    ],
+    [
+      "TE-174",
+      "categorized_memes/POP_CULTURE_DEPENDENT/test/TE-174.jpg",
+      "POP_CULTURE_DEPENDENT"
+    ],
+    [
+      "TE-442",
+      "categorized_memes/REFERENCE_DEPENDENT/test/TE-442.jpg",
+      "REFERENCE_DEPENDENT"
+    ],
+    [
+      "TE-29",
+      "categorized_memes/UNIVERSAL_HUMAN/test/TE-29.jpg",
+      "UNIVERSAL_HUMAN"
+    ],
+    [
+      "TE-87",
+      "categorized_memes/VISUAL_SYMBOL_DEPENDENT/test/TE-87.jpg",
+      "VISUAL_SYMBOL_DEPENDENT"
+    ],
+    [
+      "TE-285",
+      "categorized_memes/BRAND_DEPENDENT/test/TE-285.jpg",
+      "BRAND_DEPENDENT"
+    ],
+    [
+      "TE-373",
+      "categorized_memes/CELEBRITY_DEPENDENT/test/TE-373.jpg",
+      "CELEBRITY_DEPENDENT"
+    ],
+    [
+      "TE-506",
+      "categorized_memes/CULTURAL_REFERENCE_DEPENDENT/test/TE-506.jpg",
+      "CULTURAL_REFERENCE_DEPENDENT"
+    ],
+    [
+      "TE-306",
+      "categorized_memes/LANGUAGE_DEPENDENT/test/TE-306.jpg",
+      "LANGUAGE_DEPENDENT"
+    ],
+    [
+      "TE-294",
+      "categorized_memes/MEDIA_CONTEXT_DEPENDENT/test/TE-294.jpg",
+      "MEDIA_CONTEXT_DEPENDENT"
+    ],
+    [
+      "TE-550",
+      "categorized_memes/MEME_FORMAT_DEPENDENT/test/TE-550.jpg",
+      "MEME_FORMAT_DEPENDENT"
+    ],
+    [
+      "TE-249",
+      "categorized_memes/NICHE_SUBCULTURE_DEPENDENT/test/TE-249.jpg",
+      "NICHE_SUBCULTURE_DEPENDENT"
+    ],
+    [
+      "TE-213",
+      "categorized_memes/POP_CULTURE_DEPENDENT/test/TE-213.jpg",
+      "POP_CULTURE_DEPENDENT"
+    ],
+    [
+      "TE-32",
+      "categorized_memes/REFERENCE_DEPENDENT/test/TE-32.jpg",
+      "REFERENCE_DEPENDENT"
+    ],
+    [
+      "TE-596",
+      "categorized_memes/UNIVERSAL_HUMAN/test/TE-596.jpg",
+      "UNIVERSAL_HUMAN"
+    ],
+    [
+      "TE-276",
+      "categorized_memes/VISUAL_SYMBOL_DEPENDENT/test/TE-276.jpg",
+      "VISUAL_SYMBOL_DEPENDENT"
+    ]
+  ],
+  "last_saved": "2026-02-22T13:41:02.674678"
+}

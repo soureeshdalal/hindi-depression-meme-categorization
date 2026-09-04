@@ -1,0 +1,484 @@
+=== GEMINI VISION MEME CATEGORIZATION DISCOVERY REPORT ===
+
+Sample Size: 1021 memes
+Processing Errors: 887
+Average Cultural Dependency Score: 20.2%
+
+=== DISCOVERED CATEGORIES ===
+UNIVERSAL_HUMAN: 811 (79.4%) ✅
+	UNIVERSAL_HUMAN_EXPERIENCE: 4 (0.4%)
+	UNIVERSAL_SITUATIONAL: 1 (0.1%)
+	UNIVERSAL_CONCEPT: 1 (0.1%)
+	UNIVERSAL_VISUAL_METAPHOR: 3 (0.3%)
+	UNIVERSAL_METAPHOR: 2 (0.2%)
+	UNIVERSAL_ACTION: 1 (0.1%)
+	UNIVERSAL_ABSTRACT: 1 (0.1%)
+	UNIVERSAL_VISUAL: 1 (0.1%)
+	CONCEPTUAL_DEPENDENT: 1 (0.1%)
+	CONCEPT_DEPENDENT: 1 (0.1%)
+	
+LANGUAGE_DEPENDENT: 37 (3.6%)✅
+	INTERNET_SLANG_DEPENDENT: 1 (0.1%)
+	SLANG_AND_CONCEPT_DEPENDENT: 1 (0.1%)
+	SLANG_AND_JARGON_DEPENDENT: 1 (0.1%)
+	IDIOM_OR_METAPHOR_DEPENDENT: 1 (0.1%)
+
+BRAND_DEPENDENT: 22 (2.2%)✅
+	BRAND_PRODUCT_DEPENDENT: 2 (0.2%)
+
+POP_CULTURE_DEPENDENT: 14 (1.4%)✅
+	POP_CULTURE_SPECIFIC: 6 (0.6%)✅
+	POP_CULTURE_REFERENCE: 5 (0.5%)✅
+	POP_CULTURE_CONTEXT: 3 (0.3%)
+	POPCULTURE_DEPENDENT: 2 (0.2%)
+	POP_CULTURE_ICON: 1 (0.1%)
+	
+CELEBRITY_DEPENDENT: 10 (1.0%)✅
+	CELEBRITY_CONTEXT_DEPENDENT: 1 (0.1%)
+
+CULTURAL_REFERENCE_DEPENDENT: 9 (0.9%)✅
+	CULTURAL_CONTEXT_DEPENDENT: 5 (0.5%)✅
+	SPECIFIC_CULTURAL_REFERENCE: 4 (0.4%)
+	CULTURAL_CONCEPT_DEPENDENT: 2 (0.2%)
+	CULTURAL_CONTEXT_SPECIFIC: 1 (0.1%)
+	SOCIO_CULTURAL_REFERENCE: 1 (0.1%)
+	CULTURAL_CONCEPT_SPECIFIC: 1 (0.1%)
+	WESTERN_EVENT_KNOWLEDGE: 1 (0.1%) 
+	INSTITUTIONAL_REFERENCE: 1 (0.1%)
+
+LIFESTYLE_CONTEXT_DEPENDENT: 6 (0.6%) ✅
+
+MEDIA_CONTEXT_DEPENDENT: 5 (0.5%)✅
+	MEDIA_KNOWLEDGE_DEPENDENT: 4 (0.4%)
+	MEDIA_REFERENCE_DEPENDENT: 2 (0.2%)
+	WESTERN_MEDIA_REFERENCE: 2 (0.2%)
+	WESTERN_MEDIA_CONTEXT: 1 (0.1%)
+	WESTERN_MEDIA_DEPENDENT: 1 (0.1%)
+	MEDIA_TEMPLATE_DEPENDENT: 1 (0.1%)
+	MEDIA_TROPE_DEPENDENT: 1 (0.1%)
+	GENRE_TROPE_DEPENDENT: 1 (0.1%)
+
+NICHE_SUBCULTURE_DEPENDENT: 4 (0.4%) ✅
+	SUBCULTURE_DEPENDENT: 4 (0.4%)
+	SUBCULTURE_SPECIFIC_KNOWLEDGE: 2 (0.2%)
+	SUBCULTURE_SPECIFIC: 1 (0.1%)
+	SUBCULTURE_SPECIFIC_CONTENT: 1 (0.1%)
+--
+
+
+MEME_FORMAT_DEPENDENT: 4 (0.4%)
+	FORMAT_DEPENDENT: 2 (0.2%)
+	FORMAT_KNOWLEDGE_DEPENDENT: 1 (0.1%)
+	MEME_LITERACY_DEPENDENT: 1 (0.1%)
+
+REFERENCE_DEPENDENT: 2 (0.2%)
+	CONTEXT_DEPENDENT: 3 (0.3%)
+	CONTEXT_HEAVY_REFERENCE: 1 (0.1%)
+	SPECIFIC_KNOWLEDGE_DEPENDENT: 1 (0.1%)
+	SYSTEM_SPECIFIC_KNOWLEDGE: 1 (0.1%)
+
+VISUAL_SYMBOL_DEPENDENT: 2 (0.2%)
+	SYMBOL_DEPENDENT: 1 (0.1%)
+	ICONOGRAPHY_DEPENDENT: 1 (0.1%)
+	VISUAL_REPRESENTATION_BARRIER: 1 (0.1%)
+	VISUAL_CONTEXT_MISMATCH: 1 (0.1%)
+	VISUAL_SYMBOLISM_DEPENDENT: 1 (0.1%)
+
+INTERNET_CULTURE_DEPENDENT: 2 (0.2%)
+	INTERNET_SUB_CULTURE: 1 (0.1%)
+
+______________________
+
+=== ADAPTATION DIFFICULTY DISTRIBUTION ===
+Easy: 846 (82.9%)
+Medium: 121 (11.9%)
+Hard: 54 (5.3%)
+
+=== CULTURAL DEPENDENCY ANALYSIS ===
+Low Dependency (0-30%): 839 (82.2%)
+Medium Dependency (30-70%): 87 (8.5%)
+High Dependency (70-100%): 95 (9.3%)
+
+=== SAMPLE CATEGORY EXAMPLES ===
+
+UNIVERSAL_HUMAN:
+  Example: TE-1
+  Text: I dont know how much more I can take...
+  Rationale: The meme relies entirely on a universal body language of distress (curling up in a corner, hiding the face) and a general statement of emotional exhau...
+
+BRAND_DEPENDENT:
+  Example: TE-104
+  Text: WHY WONT Animal Crossing New Horizons HEAL MY FEELINGS...
+  Rationale: The humor is contingent on recognizing 'Animal Crossing' specifically as a 'comfort game' used for relaxation. An audience unfamiliar with this specif...
+
+IDIOM_OR_METAPHOR_DEPENDENT:
+  Example: TE-107
+  Text: Panel 1: LIFE / TAKE THIS, SUCKER! 
+Panel 2: JOKES ON YOU, LIFE! I'M GONNA MAKE SOME LE... 
+Panel 3:...
+  Rationale: The narrative arc relies entirely on the audience knowing the specific English proverb 'When life gives you lemons, make lemonade.' Without this conte...
+
+NICHE_SUBCULTURE_DEPENDENT:
+  Example: TE-112
+  Text: Some weebs say that Rem is best isekai waifu. Some say that Megumin is best one. But deeply, we all ...
+  Rationale: The humor is entirely blocked without specific knowledge of anime subculture terminology ('weeb', 'waifu', 'isekai') and the specific plot device of t...
+
+UNIVERSAL_HUMAN_EXPERIENCE:
+  Example: TE-114
+  Text: My Comfort Zone
+Parents: Shoudn't you be going outside and make new Friends?
+NO....
+  Rationale: The tension between parents wanting children to be social and the child wanting to stay in their safe space is a universal family dynamic. The visual ...
+
+UNIVERSAL_VISUAL_METAPHOR:
+  Example: TE-118
+  Text: TOXIC PEOPLE
+ME TRYING TO KEEP THEM AWAY
+MY FRAGILE MENTAL HEALTH
+0330
+BPDMEMES22...
+  Rationale: The humor relies on the physical action (stopping a crash/protection) rather than the specific identity of the character. Even without knowing Spider-...
+
+UNIVERSAL_ACTION:
+  Example: TE-121
+  Text: ...
+  Rationale: The primary barrier is minimal because physical comedy (falling, tripping, slipping) is biologically universal. No cultural knowledge is required to u...
+
+LANGUAGE_DEPENDENT:
+  Example: TE-14
+  Text: I'M BROKEN (Visual styling highlights 'OK' within 'BROKEN')...
+  Rationale: The entire meaning of the meme relies on the specific English spelling of 'BROKEN' containing the letters 'OK'. A direct translation to Hindi (e.g., '...
+
+FORMAT_KNOWLEDGE_DEPENDENT:
+  Example: TE-140
+  Text: The important thing about boobs is not their size, it's the person they're attached to. Really? SPEE...
+  Rationale: While the dialogue about romance is universal, the punchline relies entirely on recognizing the 'Skyrim Skill Tree' meme format. An audience unfamilia...
+
+CULTURAL_REFERENCE_DEPENDENT:
+  Example: TE-141
+  Text: When someone asks me when was the last time I got a decent night's sleep... Picture it, Sicily, 1912...
+  Rationale: The meme relies heavily on a specific catchphrase ('Picture it, Sicily') and a specific character trope (the storytelling grandmother) from Western me...
+
+CELEBRITY_DEPENDENT:
+  Example: TE-149
+  Text: When you successfully stopped a binge streak but are now back to restricting and you still have an E...
+  Rationale: While the emotion of 'sadness' is universal, the specific meme format relies on the recognition of Will Smith's exaggerated expression. For an audienc...
+
+CELEBRITY_CONTEXT_DEPENDENT:
+  Example: TE-158
+  Text: Of all the things I've lost I miss my mind the most. — Ozzy Osbourne...
+  Rationale: The humor relies heavily on the audience knowing Ozzy Osbourne's specific reputation for drug abuse and erratic behavior. To an audience unaware of wh...
+
+CONCEPTUAL_DEPENDENT:
+  Example: TE-161
+  Text: Therapist: "You need to reconnect with your inner child." My inner child: end me....
+  Rationale: The visual is universally relatable (a tired elder), and the man's attire actually resembles rural Indian clothing. The only barrier is the specific W...
+
+POP_CULTURE_DEPENDENT:
+  Example: TE-166
+  Text: Fluctuating sense of self, Impulsivity, Suicidal Ideation, Severe mood swings, Umstable Relationship...
+  Rationale: The meme relies on recognizing the visual trope of 'Power Rangers' (cool/serious team) versus 'Teletubbies' (childish/silly) to understand the intende...
+
+POP_CULTURE_CONTEXT:
+  Example: TE-168
+  Text: LET'S PLAY A GAME. ONE OF THE DRINKS IS POISONED. WH..WHAT ARE YOU DOING ? LISTEN TO THE RULES FIRST...
+  Rationale: While the core joke (wanting to die vs. playing a game) is logically understandable, the humor relies heavily on recognizing the specific 'Saw' movie ...
+
+SUBCULTURE_SPECIFIC:
+  Example: TE-172
+  Text: Weebs
+I'll turn you all into antisocial losers with no hope of reproducing! Abra Kadabra!
+Weebs
+N-No...
+  Rationale: The meme relies entirely on understanding the slang term 'Weeb' and the specific negative stereotypes associated with that subculture (antisocial, ina...
+
+POP_CULTURE_REFERENCE:
+  Example: TE-174
+  Text: Anime is too over the top and not at all realistic
+Me:Oh really? Then explain this
+ALL THE GIRLS IN ...
+  Rationale: The setup relies on the specific reputation of 'Anime' as a genre known for being 'over the top.' An audience with zero global pop culture knowledge m...
+
+POPCULTURE_DEPENDENT:
+  Example: TE-188
+  Text: Me: "God I am so FAT"
+Any friend, loved one, casual acquaintance: "you're not fucking fat"
+Me:
+HORTO...
+  Rationale: The punchline is a direct wordplay parody of a specific Western book title. Without knowledge of the original title 'Horton Hears a Who', the text 'Ho...
+
+MEME_FORMAT_DEPENDENT:
+  Example: TE-196
+  Text: Wait you are Depressed? 
+Always have been 
+ME...
+  Rationale: The primary barrier is the meme template itself. Without knowledge of the 'Always has been' format, the image of one astronaut shooting another in spa...
+
+SPECIFIC_CULTURAL_REFERENCE:
+  Example: TE-197
+  Text: Dying in Minecraft 
+Dying in real life...
+  Rationale: The primary barrier is the specific reference to 'Minecraft'. While the emotions are universal, the joke's setup relies entirely on the audience under...
+
+POP_CULTURE_SPECIFIC:
+  Example: TE-200
+  Text: Give up on your dreams and die
+- Levi Ackerman
+made with mematic...
+  Rationale: The meme relies on the specific persona of the character (Levi) to validate the harshness of the quote. Without knowing the anime context or character...
+
+LIFESTYLE_CONTEXT_DEPENDENT:
+  Example: TE-201
+  Text: YOUR USUAL 3 AM , SIR
+whole ass salad bowl of bran cereal
+Spotify ed playlists...
+  Rationale: The humor relies entirely on specific Western lifestyle artifacts: 'bran cereal' as a depression meal and 'Spotify ED playlists' (referencing the spec...
+
+ICONOGRAPHY_DEPENDENT:
+  Example: TE-205
+  Text: “Just sleep for 10 more minutes, you won’t be late”...
+  Rationale: While the situation (oversleeping) is universal, the visual metaphor for 'temptation' relies on the Western Christian depiction of the Devil (red skin...
+
+WESTERN_MEDIA_REFERENCE:
+  Example: TE-226
+  Text: Discovering something that doesn't exist / Anxiety...
+  Rationale: The humor is heavily reliant on the viewer hearing the rhythm of the specific 'Phineas and Ferb' theme song in their head. While the visual logic (unv...
+
+SUBCULTURE_DEPENDENT:
+  Example: TE-249
+  Text: Born too late to explore the earth
+Born too early to explore space
+Born just in time to be a patheti...
+  Rationale: The punchline relies entirely on understanding the specific term 'weeb' and the associated anime subculture stereotypes. While the 'past/future/now' f...
+
+INTERNET_SUB_CULTURE:
+  Example: TE-256
+  Text: Men remember what you fight for
+DEUS VULT!...
+  Rationale: The humor is entirely dependent on knowing two distinct internet subcultures: historical 'Deus Vult' memes and 'Waifu' worship. Without this context, ...
+
+UNIVERSAL_METAPHOR:
+  Example: TE-261
+  Text: "How's everything?" Me: Alcohol, Memes, Pornhub, Debt, Anxiety, Regrets, Drugs, Stress...
+  Rationale: The primary barrier is low because the visual analogy (drowning in problems vs. weak protection) is universally understood across cultures. While spec...
+
+SYMBOL_DEPENDENT:
+  Example: TE-276
+  Text: ...
+  Rationale: The humor relies entirely on the viewer recognizing the black-robed figure as the specific personification of Death (The Grim Reaper). An Indian audie...
+
+MEDIA_CONTEXT_DEPENDENT:
+  Example: TE-294
+  Text: The Useless Elites | The Useless Goddess | The Useless Demon | The Useless Hero | The Useless Villai...
+  Rationale: The meme is unintelligible without specific knowledge of the plotlines and character arcs of eight different Japanese anime series. The visual element...
+
+WESTERN_EVENT_KNOWLEDGE:
+  Example: TE-299
+  Text: Treat me like a princess
+OK, I'll try...
+  Rationale: The punchline is unintelligible without specific knowledge of how Princess Diana died. An audience without Western cultural context sees only a random...
+
+SOCIO_CULTURAL_REFERENCE:
+  Example: TE-309
+  Text: Shop the More Nikocado store
+I IDENTIFY AS SKINNY.
+I Identify As Skinny Classic Hoodie Black / 4XL...
+  Rationale: While the irony of a large person claiming to be thin is universal, the specific phrasing 'I identify as...' is a parody of Western identity politics ...
+
+SPECIFIC_KNOWLEDGE_DEPENDENT:
+  Example: TE-32
+  Text: great depression, 1920, 2020, Sad boy year 😢🤘...
+  Rationale: The humor fails completely if the audience does not possess specific historical knowledge about the US economic 'Great Depression' of the early 20th c...
+
+MEDIA_REFERENCE_DEPENDENT:
+  Example: TE-323
+  Text: ALRIGHT CAMPERS TODAY'S CHALLENGE IS TO FIND A REASON TO KEEP GOING...
+  Rationale: The humor relies on recognizing the specific character's catchphrase style ('Alright campers') or the Western trope of a summer camp reality show host...
+
+CULTURAL_CONTEXT_DEPENDENT:
+  Example: TE-33
+  Text: GRANDPA WHAT DID YOU DO DURING THE GREAT CORONAVIRUS PANIC OF 2020? 
+WELL SON, I HAD A VERY DANGEROU...
+  Rationale: The primary barrier is the cultural behavior of hoarding toilet paper. In India, toilet paper is not a staple hygiene product (water is preferred), an...
+
+CULTURAL_CONTEXT_SPECIFIC:
+  Example: TE-333
+  Text: JOIN THE 3 DAY CHALLENGE! NO CRACK ON FEBRUARY 29, 30 AND 31!...
+  Rationale: While the Gregorian calendar logic is widely understood in India, the specific vice ('Crack') and its visual representation are heavily Western. 'Crac...
+
+MEDIA_KNOWLEDGE_DEPENDENT:
+  Example: TE-336
+  Text: Happy Sad Depressed Suicidal THE EMOJI MOVIE 13 Memes That Describe How People Feel About 'The Emoji...
+  Rationale: The humor is completely inaccessible without specific knowledge of the Western film 'The Emoji Movie' and its negative reputation. An audience unaware...
+
+INSTITUTIONAL_REFERENCE:
+  Example: TE-342
+  Text: MESSAGES now Dad Why is the FBI here? @memes_for_the_manic How to die without making mom sad ALL IMA...
+  Rationale: While the emotion is universal, the punchline relies on recognizing the 'FBI' specifically as an agency that conducts raids and surveillance. An audie...
+
+WESTERN_MEDIA_DEPENDENT:
+  Example: TE-354
+  Text: Me thinking why this is still in the meme factory...
+  Rationale: While the emotion (waiting/boredom) is universal, the visual vehicle is a specific Western TV character (Kermit) and the background includes the Statu...
+
+SUBCULTURE_SPECIFIC_KNOWLEDGE:
+  Example: TE-37
+  Text: Social Interaction
+Weebs
+This is Good
+Weebs
+Hentai
+But I like this better...
+  Rationale: The meme creates an immediate barrier because 'Weebs' and 'Hentai' are specific internet subculture terms. An Indian audience with zero Western/Intern...
+
+CONTEXT_DEPENDENT:
+  Example: TE-413
+  Text: how i pull up to my weigh-in at the ED treatment center after relapsing...
+  Rationale: The humor relies entirely on understanding a specific counter-intuitive scenario: wanting to weigh *more* rather than less. Without knowledge of Eatin...
+
+SLANG_AND_CONCEPT_DEPENDENT:
+  Example: TE-431
+  Text: Me, My sleep paralysis demon, Shit I fap to...
+  Rationale: The humor relies heavily on two specific barriers: the internet slang 'fap' which is unknown to non-English speakers, and the personification of 'slee...
+
+REFERENCE_DEPENDENT:
+  Example: TE-442
+  Text: bisexualgambit: Too depressed to be awake? Not depressed enough for a Depression Nap™? Welcome to Ex...
+  Rationale: While the feeling of depression is universal, the reaction text relies entirely on a specific quote from the Western movie 'Mean Girls'. A literal tra...
+
+INTERNET_SLANG_DEPENDENT:
+  Example: TE-446
+  Text: main acc vs spam acc, VERY OK, IM SAD...
+  Rationale: The core joke relies entirely on understanding specific social media terminology ('main acc' vs 'spam acc'). Without understanding this internet subcu...
+
+VISUAL_SYMBOL_DEPENDENT:
+  Example: TE-461
+  Text: When you just got jumped by anxiety, depression, + bills and somebody asks if you're okay...
+  Rationale: While the emotions of stress are universal, the humor relies entirely on the ironic contradiction provided by the specific 'rock on' hand gesture. An ...
+
+WESTERN_MEDIA_CONTEXT:
+  Example: TE-47
+  Text: Endgame Humanizes Thor as he went through trauma and depression. After all that he was still worthy ...
+  Rationale: The entire meaning of the text relies on knowing the specific plot of the movie 'Avengers: Endgame'—specifically that the overweight man is a god, and...
+
+FORMAT_DEPENDENT:
+  Example: TE-484
+  Text: You spent 525,500 minutes this year thinking about food. Get therapy....
+  Rationale: The humor is derived heavily from recognizing the 'Spotify Wrapped' visual template. Without knowledge of this specific Western pop-culture/tech ritua...
+
+SLANG_AND_JARGON_DEPENDENT:
+  Example: TE-492
+  Text: On Twitter
+Sees Ed meme
+It's from r/edanonymemes
+It's my meme...
+  Rationale: While the visual emotion is somewhat universal, the text relies entirely on niche internet slang ('Ed' for Eating Disorder) and platform-specific synt...
+
+MEDIA_TEMPLATE_DEPENDENT:
+  Example: TE-505
+  Text: MY SUDDEN VOCATION TO BE VEGETARIAN
+MY MOM
+MY RESTRICTIVE ED...
+  Rationale: The meme uses a specific scene from a Western cartoon (Scooby-Doo). While the physical action of unmasking is somewhat universal, the specific format ...
+
+VISUAL_REPRESENTATION_BARRIER:
+  Example: TE-512
+  Text: You, Novacy, Depression, Anxiety, Chronic pain, Insomnia...
+  Rationale: While the metaphor (extinguishing a fire) is universal, the primary barrier is the visual subject. An Indian audience with zero Western knowledge will...
+
+MEME_LITERACY_DEPENDENT:
+  Example: TE-589
+  Text: soup time...
+  Rationale: The humor is entirely derived from Western 'Gen Z' internet subculture (shitposting/deep-fried memes). Without knowledge of this specific chaotic aest...
+
+SYSTEM_SPECIFIC_KNOWLEDGE:
+  Example: TE-602
+  Text: 1040 (repeated on sheep), Annual sleep disorder for tax accountants....
+  Rationale: The joke relies entirely on the viewer recognizing '1040' as the specific US Individual Income Tax Return form. Without knowledge of the US bureaucrat...
+
+INTERNET_CULTURE_DEPENDENT:
+  Example: TE-611
+  Text: Panel 1: ~MY ANOREXIA STORY(W PICTURES)~, A PERFECT CHILDHOOD
+Panel 2: MINUTE 3, ~MY ANOREXIA STORY(...
+  Rationale: The meme relies entirely on familiarity with a specific sub-genre of Western/Internet video content ('My Anorexia Story'). While the visual metaphor o...
+
+CULTURAL_CONCEPT_DEPENDENT:
+  Example: TE-619
+  Text: me looking up the calories of the same food 7 times a day
+my fbi agent...
+  Rationale: While the emotion of the man is universal, the specific meme trope of 'My FBI Agent watching me' is a Western internet culture concept. An Indian audi...
+
+UNIVERSAL_ABSTRACT:
+  Example: TE-660
+  Text: LOSING MY MIND ALTERNATE PERCEPTIONS RB56...
+  Rationale: The imagery is an abstract biological metaphor (a brain on fire/in chaos) which transcends cultural boundaries. The concept of mental instability or '...
+
+VISUAL_CONTEXT_MISMATCH:
+  Example: TE-87
+  Text: When all of your suicidal memes were really cries for help but everyone just thought you were being ...
+  Rationale: While the concept of death and mourning is universal, the visual representation (black suits, casket, standing) is distinctly Western. A traditional I...
+
+GENRE_TROPE_DEPENDENT:
+  Example: VA-122
+  Text: Honey, I don't know how to say this. Our son was born with spikey pink hair. He...is a protagonist. ...
+  Rationale: The humor is entirely derived from knowledge of specific narrative conventions within a niche media genre (Anime). Without knowing these specific trop...
+
+CONCEPT_DEPENDENT:
+  Example: VA-165
+  Text: oaksparks: can necromancers heal d ... depression 
+pathfindernerds: 'I just feel so dead inside...' ...
+  Rationale: The humor pivots entirely on understanding the specific function of a 'Necromancer' (raising the dead). While 'magic' is universal, the specific arche...
+
+UNIVERSAL_SITUATIONAL:
+  Example: VA-173
+  Text: Costco manager was not too happy I bought their entire skinny pop collection 😂 Found 150 x Skinny Po...
+  Rationale: The primary barrier is minimal because the visual of overflowing shopping carts communicates the humor (excess/absurdity) universally. While 'Costco' ...
+
+UNIVERSAL_CONCEPT:
+  Example: VA-209
+  Text: Them: Life is full of endless possibilities
+My life:...
+  Rationale: The humor relies on the rules of Chess (specifically checkmate/being trapped). Chess (Shatranj) originated in India and is widely understood across In...
+
+CULTURAL_CONCEPT_SPECIFIC:
+  Example: VA-222
+  Text: Yes I have Narcolepsy. No I won't drop and sleep "right now"... No it's not like lactose intolerance...
+  Rationale: The visual is universal (woman looking stressed), but the text relies on a specific Western cultural behavior: the trend of self-diagnosing 'lactose i...
+
+UNIVERSAL_VISUAL:
+  Example: VA-228
+  Text: LOSING MY MIND
+NEW CITY...
+  Rationale: The primary element is an abstract optical illusion. Geometric patterns and the physiological reaction to them (dizziness/confusion) are biologically ...
+
+CONTEXT_HEAVY_REFERENCE:
+  Example: VA-244
+  Text: Porn hub...
+  Rationale: The humor fails entirely without knowledge of two specific Western cultural touchstones: the innocence of Nintendo's Animal Crossing and the specific ...
+
+BRAND_PRODUCT_DEPENDENT:
+  Example: VA-278
+  Text: BigKidProblems @BigKidProblems Allow me to introduce you to my therapist. [Image text: Pillsbury Cho...
+  Rationale: The humor relies entirely on recognizing the specific object (tube of cookie dough) as a delicious comfort food. This specific packaging format (dough...
+
+POP_CULTURE_ICON:
+  Example: VA-290
+  Text: I'M SOOO BORED
+I WISH WE WERE AT 03 SO I COULD ANNOY ONE OF YOU IN PERSON...
+  Rationale: While the emotion is universal, the visual vehicle is a specific Western cartoon character. An Indian audience with zero Western knowledge may find a ...
+
+VISUAL_SYMBOLISM_DEPENDENT:
+  Example: VA-305
+  Text: im leaving, FB/90sBabes1, IG/90sFashionofficial...
+  Rationale: While the text is universal, the humor relies on specific visual symbols (the specific bag brand and hoop earrings) to communicate a 'sassy/diva' atti...
+
+SUBCULTURE_SPECIFIC_CONTENT:
+  Example: VA-332
+  Text: *normal conversation* Them: "What are your hobbies?" Me: Anime Manga Memes Porn Anime porn Manga por...
+  Rationale: While the emotion of hiding embarrassing secrets is universal, the specific vocabulary ('Anime', 'Manga', 'Memes') belongs to a specific global intern...
+
+MEDIA_TROPE_DEPENDENT:
+  Example: VA-37
+  Text: When you visit Japan and nobody speaks with subtitles
+Not Like on TV...
+  Rationale: The humor is strictly derived from a specific media consumption habit (watching foreign content with subtitles). An Indian audience with zero Western ...

@@ -1,0 +1,1315 @@
+{
+  "stats": {
+    "eng": {
+      "explicit_loi": 60,
+      "substitutes_fd": 25,
+      "no_loi_signal": 11,
+      "missing": 1
+    },
+    "deva": {
+      "substitutes_fd": 34,
+      "no_loi_signal": 13,
+      "explicit_loi_label": 14,
+      "explicit_loi": 35,
+      "missing": 1
+    },
+    "both_miss": 21,
+    "explicit_either": 75
+  },
+  "examples": [
+    {
+      "tag": "pure_loi_miss",
+      "sample_id": "TE-66",
+      "gold_labels": [
+        "Lack of Interest"
+      ],
+      "ocr_text": "Let me get this straight, I spent my childhood building all these defenses and now I'm gonna spend my adulthood undoing this fuckery? ThinkingTooLoud.org Image: Pixabay/Tobikoz Words: Paraphrase from Reddit user. I won't post your id unless you want it posted. ",
+      "image_rel": "translated_categorized_memes/UNIVERSAL_HUMAN/test/TE-66.jpg",
+      "category": "UNIVERSAL_HUMAN",
+      "eng_explanation": "This meme features a close-up image of a cat peering skeptically through a narrow gap in what appears to be a wooden structure, its eye reflecting a tense, almost exasperated expression. The accompanying text, written in a conversational and frustrated tone, reads: *\"Let me get this straight, I spent my childhood building all these defenses and now I’m gonna spend my adulthood undoing this fuckery?\"*—a paraphrased sentiment originally shared by a Reddit user. Visually, the meme employs the \"distracted boyfriend\" or \"exasperated animal\" template, which is often used to convey irony, resignation, or dark humor about personal struggles. Emotionally, the meme captures a sense of weariness and disillusionment, reflecting the exhaustion of unlearning deeply ingrained coping mechanisms developed in response to past adversity. Clinically, the content aligns most closely with themes of *low self-esteem* and *feeling down*, as it expresses frustration and self-directed criticism about the perceived futility of emotional labor, though it does not explicitly evidence symptoms like self-harm, eating disorders, or concentration problems. The humor and relatability of the meme underscore a broader cultural acknowledgment of the challenges tied to emotional growth and mental health maintenance.",
+      "deva_explanation": "यह मेमे एक बिल्ली की आंखों की निकटवर्ती छवि दिखा रहा है, जिसमें गहरा भूरे रंग का फर और पीली आंखें हैं। इसमें लिखा है: \"मतलब, बचपन में खुद को बचाने के लिए जो आदतें बनाई, अब बड़े होकर उसी सियापे को ठीक करना पड़ेगा?\" यह वाक्य एक गहरे भावनात्मक संघर्ष को व्यक्त करता है, जिसमें बचपन की आदतों और उनके परिणामों के बीच टकराव दिखाया गया है। इस संदर्भ में, यह मेमे क्लिनिकल संदर्भ शब्दावली के अनुसार \"कम आत्म-आदर\" और \"एकाग्रता की समस्या\" जैसे लक्षणों को व्यक्त करता है, जहां व्यक्ति अपने बचपन की आदतों को ठीक करने की दबाव महसूस कर रहा है।",
+      "eng_class": "substitutes_fd",
+      "deva_class": "no_loi_signal",
+      "predictions": {
+        "llama4/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_image_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 1,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "gemini/deva_img_deva_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        }
+      },
+      "loi_predictions": {
+        "llama4/eng_img_eng_expl": 0,
+        "mistral_large3/deva_expl_only": 0,
+        "mistral_large3/deva_img_eng_expl": 0,
+        "mistral_large3/deva_image_only": 0,
+        "gemini/deva_img_deva_expl": 0,
+        "mistral_small_2503/deva_expl_only": 0,
+        "mistral_small_2503/eng_expl_only": 0,
+        "gpt4o_mini/eng_expl_only": 0,
+        "gpt4o_mini/eng_img_eng_expl": 0
+      }
+    },
+    {
+      "tag": "loi_fd_miss",
+      "sample_id": "TE-23",
+      "gold_labels": [
+        "Feeling Down",
+        "Lack of Interest"
+      ],
+      "ocr_text": "WANTSTO STAY QUIET, TO AVOID COMPLICATION \"UMFUM-EXCUSE ME.\" ITS OK CUTE SAD KITTY, YOU HAVE FREEDOM OF SPEECH ",
+      "image_rel": "translated_categorized_memes/UNIVERSAL_HUMAN/test/TE-23.jpg",
+      "category": "UNIVERSAL_HUMAN",
+      "eng_explanation": "This meme features a close-up image of a small, wide-eyed orange kitten standing next to a white door frame, its posture slightly hunched and expression appearing uncertain or hesitant. The overlaid text employs a common meme template in which the kitten is humorously anthropomorphized, with the top caption reading, *“Wants to stay quiet to avoid complication,”* followed by a stammered *“Um-um- excuse me,”* while the bottom text declares, *“It’s ok cute sad kitty, you have freedom of speech.”* Visually and linguistically, the meme blends cuteness with a sense of suppressed or awkward self-expression, framing the kitten’s hesitance as both endearing and mildly distressing. Clinically, the content aligns most closely with themes of *low self-esteem* and *feeling down*, as the humor hinges on the implication of self-doubt and emotional vulnerability, though it does so through a lighthearted, culturally coded lens rather than explicit symptom disclosure.",
+      "deva_explanation": "इस मेमे में एक प्यारा, नारंगी रंग का बिल्ली का बच्चा दिख रहा है, जो खड़ा होकर एक मासूमियत भरे तरीके से देख रहा है। मेमे के पाठ में लिखा है, \"*चुप रहना चाहता हूँ ताकि कोई लड़ाई न हो* 'वो... ज़रा...' और 'अरे कोई ना कैट्टी, तुम्हें बोलने का पूरा हक है।'\" यह पाठ संकेत करता है कि बिल्ली का बच्चा चुप रहने की इच्छा व्यक्त कर रहा है, जबकि उसे बोलने का अधिकार भी दिया जा रहा है। इस मेमे की भावनात्मक स्थिति में आत्मविश्वास की कमी और संवाद की इच्छाशक्ति का संकेत है, जो कि मानसिक दबाव को दर्शा सकता है। यह संकेत \"कम आत्म-सम्मान\" (Low Self-Esteem) और संभवतः \"भावनात्मक दर्द\" (Feeling Down) के लक्षणों को उजागर करता है, क्योंकि यह दिखाता है कि बिल्ली का बच्चा अपनी भावनाओं को व्यक्त करने में हिचकिचा रहा है।",
+      "eng_class": "substitutes_fd",
+      "deva_class": "substitutes_fd",
+      "predictions": {
+        "llama4/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_image_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gemini/deva_img_deva_expl": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        }
+      },
+      "loi_predictions": {
+        "llama4/eng_img_eng_expl": 0,
+        "mistral_large3/deva_expl_only": 1,
+        "mistral_large3/deva_img_eng_expl": 0,
+        "mistral_large3/deva_image_only": 0,
+        "gemini/deva_img_deva_expl": 0,
+        "mistral_small_2503/deva_expl_only": 0,
+        "mistral_small_2503/eng_expl_only": 0,
+        "gpt4o_mini/eng_expl_only": 0,
+        "gpt4o_mini/eng_img_eng_expl": 0
+      }
+    },
+    {
+      "tag": "loi_captured_eng",
+      "sample_id": "TE-15",
+      "gold_labels": [
+        "Lack of Energy",
+        "Feeling Down",
+        "Lack of Interest"
+      ],
+      "ocr_text": "The gly thing Icoufd stapdfto lightning. w a s ",
+      "image_rel": "translated_categorized_memes/UNIVERSAL_HUMAN/test/TE-15.jpg",
+      "category": "UNIVERSAL_HUMAN",
+      "eng_explanation": "This meme employs a three-panel format using medical imaging scans, specifically CT or MRI visuals of the human spine and torso, to humorously exaggerate a dramatic emotional narrative. The text, written in a casual, confessional tone, reads: \"The only thing I could stand to feel was lightning,\" overlaying images that appear to trace or highlight the spinal column and limbs, evoking a sensation of electric shock or sudden, intense stimulation. The underlying emotional state conveyed is one of profound numbness or emotional detachment, where only extreme, almost violent sensations—like \"lightning\"—can break through an otherwise overwhelming sense of disconnection or emptiness. Clinically, this aligns most closely with *Feeling Down* and *Lack of Interest*, as it reflects a diminished capacity to experience ordinary emotions or pleasure, suggesting a reliance on acute, jarring stimuli to feel anything at all, though it does not explicitly meet the threshold for other symptoms like *Self-Harm* or *Low Self-Esteem* without further context.",
+      "deva_explanation": "इस मेमे में गहरे नीले और हरे रंग की पृष्ठभूमि पर कुछ अव्यवस्थित रूप से चित्रित चित्र हैं, जिसमें एक आंख और एक ख़ुदाई लाइन जैसी आकृतियाँ हैं। मेमे में लिखा गया है, \"सिर्फ बिजली ही थी, जो मैं महसूस कर सकता था।\" और \"कर सकता था।\" यह संदेश गहरी भावनात्मक स्थिति को व्यक्त करता है, जो उदासी और एकाकीपन का संकेत देती है। क्लिनिकल संदर्भ गाइड के अनुसार, यह उथल-पुथल अनुभव और \"फीलिंग डाउन\" की स्थिति को दर्शाता है, साथ ही \"लेस ऑफ़ इंटरेस्ट\" का भी प्रतीक है, क्योंकि चित्रण इस विचार को प्रकट करता है कि व्यक्ति जीवन के प्रति निर्लिप्तता और हताशा महसूस कर रहा है।",
+      "eng_class": "explicit_loi",
+      "deva_class": "substitutes_fd",
+      "predictions": {
+        "llama4/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 1,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Energy",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Energy",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Energy",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_image_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 1,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Energy",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gemini/deva_img_deva_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Energy",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Energy",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Energy",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Energy",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Energy",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        }
+      },
+      "loi_predictions": {
+        "llama4/eng_img_eng_expl": 0,
+        "mistral_large3/deva_expl_only": 0,
+        "mistral_large3/deva_img_eng_expl": 1,
+        "mistral_large3/deva_image_only": 0,
+        "gemini/deva_img_deva_expl": 1,
+        "mistral_small_2503/deva_expl_only": 1,
+        "mistral_small_2503/eng_expl_only": 1,
+        "gpt4o_mini/eng_expl_only": 1,
+        "gpt4o_mini/eng_img_eng_expl": 1
+      }
+    },
+    {
+      "tag": "loi_captured_deva",
+      "sample_id": "TE-114",
+      "gold_labels": [
+        "Low Self-Esteem",
+        "Feeling Down",
+        "Lack of Interest"
+      ],
+      "ocr_text": "My Comfort Zone Parents: Shoudnt you be going outside and make new Friends? Aeppyplaceio NO. ",
+      "image_rel": "translated_categorized_memes/UNIVERSAL_HUMAN/test/TE-114.jpg",
+      "category": "UNIVERSAL_HUMAN",
+      "eng_explanation": "This meme employs a two-panel visual format commonly associated with humorous or relatable social observations, featuring stylized anime-inspired characters to depict a generational or interpersonal dynamic. The top panel shows a smaller character, labeled as being in their \"comfort zone,\" while an adult figure—presumably a parent—asks, \"Shouldn’t you be going outside and make new Friends?\" The bottom panel presents a close-up of the smaller character with a resolute, almost defiant expression, responding with a bold \"NO.\" Emotionally, the meme conveys a sense of resistance to social pressure, reflecting a preference for solitude or discomfort with external expectations, which may resonate with individuals who feel misunderstood or overwhelmed by demands to engage socially. Clinically, the imagery and text suggest themes aligned with *Lack of Interest* in social interaction, though it does not explicitly indicate distress or dysfunction beyond a preference for isolation, and there is no clear evidence of other symptoms from the Clinical Reference Glossary such as self-harm, low self-esteem, or disordered eating.",
+      "deva_explanation": "इस मीम में ऊपर एक सफेद क्लाउड जैसा जानवर और नीचे एक छोटी लड़की दिखाई दे रही है। शीर्ष पर लिखा है, \"मेरा सुकून\" और नीचे \"Mummy-Papa: तुम्हें बाहर जाकर नए दोस्त नहीं बनाने?\" के साथ एक प्रतिक्रिया है \"बिल्कुल नहीं!\" यह मीम उस भावना को व्यक्त करता है जहां बच्चे को सामाजिकता के दबाव का सामना करना पड़ रहा है, जिससे एक प्रकार की निराशा और बचाव की भावना प्रकट होती है। यह संकेत करता है कि बच्चे में \"लॉव सेल्फ-एस्टीम\" और \"लैक ऑफ इंटरेस्ट\" जैसे लक्षण हो सकते हैं, क्योंकि वह नए दोस्त बनाने से नकारते हुए अपने भीतर की सुरक्षा की तलाश कर रहा है।",
+      "eng_class": "explicit_loi",
+      "deva_class": "explicit_loi_label",
+      "predictions": {
+        "llama4/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Low Self-Esteem",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Low Self-Esteem",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Low Self-Esteem",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_image_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Low Self-Esteem",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gemini/deva_img_deva_expl": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Low Self-Esteem",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Low Self-Esteem",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Low Self-Esteem",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Low Self-Esteem",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Low Self-Esteem",
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        }
+      },
+      "loi_predictions": {
+        "llama4/eng_img_eng_expl": 1,
+        "mistral_large3/deva_expl_only": 1,
+        "mistral_large3/deva_img_eng_expl": 1,
+        "mistral_large3/deva_image_only": 1,
+        "gemini/deva_img_deva_expl": 0,
+        "mistral_small_2503/deva_expl_only": 1,
+        "mistral_small_2503/eng_expl_only": 1,
+        "gpt4o_mini/eng_expl_only": 1,
+        "gpt4o_mini/eng_img_eng_expl": 1
+      }
+    },
+    {
+      "tag": "miss_case",
+      "sample_id": "TE-423",
+      "gold_labels": [
+        "Lack of Interest"
+      ],
+      "ocr_text": "Me on zoom call after 2 minutes of waking up ",
+      "image_rel": "translated_categorized_memes/UNIVERSAL_HUMAN/test/TE-423.jpg",
+      "category": "UNIVERSAL_HUMAN",
+      "eng_explanation": "This meme depicts a close-up image of a woman with a disheveled appearance, characterized by messy hair, a tired expression, and slightly unkempt features, which aligns with a common visual trope in internet culture used to humorously exaggerate exhaustion or lack of preparation. The accompanying text, \"Me on zoom call after 2 minutes of waking up,\" leverages the relatable experience of appearing presentable for virtual interactions despite minimal effort or time to transition from sleep to engagement. Emotionally, the meme conveys a sense of weariness, mild self-deprecation, and the shared struggle of adapting to digital communication demands, particularly in contexts where personal and professional boundaries blur. Clinically, while the image and text do not explicitly evidence severe symptoms from the Clinical Reference Glossary, they may subtly reflect *Concentration Problems* (difficulty focusing immediately after waking) and *Sleeping Disorder* (implied disruption of rest or abrupt transition from sleep to activity), though these interpretations remain speculative and rooted in dark humor rather than direct distress.",
+      "deva_explanation": "इस मेमे में एक महिला का आधा चेहरा दिखाया गया है, जो बेजान और उदास लग रही है। शीर्षक में लिखा है \"सोकर उठने के 2 मिनट बाद Zoom call पर मैं,\" जो एक स्थिति का मजाक उड़ाता है जहां कोई व्यक्ति सोकर उठने के तुरंत बाद ऑनलाइन कॉल में शामिल होता है। यह चित्र और टेक्स्ट मिलकर एक ऐसी भावना को दर्शाते हैं जिसमें थकावट और अवसाद की भावना प्रदर्शित होती है। क्लिनिकल संदर्भ में, यह मेमे \"Feeling Down\" और \"Sleeping Disorder\" के लक्षणों को दर्शा सकता है, क्योंकि इसमें थकान, उदासी और जीवन की सामान्य गतिविधियों में भाग लेने की कठिनाई का संकेत मिलता है।",
+      "eng_class": "no_loi_signal",
+      "deva_class": "substitutes_fd",
+      "predictions": {
+        "llama4/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 1
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 1
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 1
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_image_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 1
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "gemini/deva_img_deva_expl": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 1
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 1
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 1
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        }
+      },
+      "loi_predictions": {
+        "llama4/eng_img_eng_expl": 0,
+        "mistral_large3/deva_expl_only": 1,
+        "mistral_large3/deva_img_eng_expl": 0,
+        "mistral_large3/deva_image_only": 0,
+        "gemini/deva_img_deva_expl": 0,
+        "mistral_small_2503/deva_expl_only": 0,
+        "mistral_small_2503/eng_expl_only": 0,
+        "gpt4o_mini/eng_expl_only": 0,
+        "gpt4o_mini/eng_img_eng_expl": 0
+      }
+    },
+    {
+      "tag": "miss_case",
+      "sample_id": "TE-516",
+      "gold_labels": [
+        "Lack of Interest"
+      ],
+      "ocr_text": "If Earth stops rotating suddenly then you would fly East at 465 meters per second and die instantly. Denise Alvarado If it continues to rotate most of us will die slowly, painfully and afraid. Hmm.. Gigge Space PLAPET ",
+      "image_rel": "translated_categorized_memes/UNIVERSAL_HUMAN/test/TE-516.jpg",
+      "category": "UNIVERSAL_HUMAN",
+      "eng_explanation": "This meme employs a simple, exaggerated cartoon illustration depicting several figures being violently propelled off a bench, visually reinforcing the humorous yet alarming scenario described in the text. The template, often used for absurdist or hyperbolic commentary, presents two contrasting outcomes: if the Earth were to stop rotating suddenly, individuals would be flung eastward at an extreme velocity and die instantly, while if it continues rotating, most people would instead face a prolonged, distressing demise marked by fear and suffering. The emotional tone blends dark humor with a sense of existential dread, using irony to underscore a bleak outlook on survival and inevitability. While the content does not explicitly evidence specific symptoms from the Clinical Reference Glossary, the underlying sentiment aligns with themes of hopelessness and fatalistic resignation, which may indirectly reflect feelings of emotional pain or despair in a culturally coded, comedic form.",
+      "deva_explanation": "इस मीम में एक रंगीन चित्र है जिसमें लोग एक बेंच पर बैठे हैं, कुछ लोग अचानक गिरते हुए दिखाई दे रहे हैं। शीर्ष पर लिखा है, \"अगर पृथ्वी अचानक घूमना बंद कर दे तो तुम 465 मीटर प्रति सेकंड की रफ्तार से पूर्व की ओर उड़ जाओगे और तुरंत मर जाओगे।\" नीचे एक टिप्पणी है, \"अगर यह घूमती रही तो हम में से ज्यादातर लोग धीरे-धीरे, दर्दनाक तरीके से और डरते हुए मरेंगे।\" इस मीम का भावनात्मक संदर्भ निराशा और डर को दर्शाता है, जहां लोग जीवन की अनिश्चितता और इसके खतरों के प्रति चिंतित हैं। चिकित्सीय संदर्भ के अनुसार, यह स्व-हानि के संकेतों को स्पष्ट रूप से प्रस्तुत करता है, खासकर टिप्पणी में व्यक्ति की मृत्यु की संकल्पना और डर को लेकर।",
+      "eng_class": "substitutes_fd",
+      "deva_class": "substitutes_fd",
+      "predictions": {
+        "llama4/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 1,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_image_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 1,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "gemini/deva_img_deva_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 1,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 1,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 1,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 1,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Lack of Interest"
+          ]
+        }
+      },
+      "loi_predictions": {
+        "llama4/eng_img_eng_expl": 0,
+        "mistral_large3/deva_expl_only": 0,
+        "mistral_large3/deva_img_eng_expl": 0,
+        "mistral_large3/deva_image_only": 0,
+        "gemini/deva_img_deva_expl": 0,
+        "mistral_small_2503/deva_expl_only": 0,
+        "mistral_small_2503/eng_expl_only": 0,
+        "gpt4o_mini/eng_expl_only": 0,
+        "gpt4o_mini/eng_img_eng_expl": 0
+      }
+    },
+    {
+      "tag": "miss_case",
+      "sample_id": "TE-93",
+      "gold_labels": [
+        "Feeling Down",
+        "Lack of Interest"
+      ],
+      "ocr_text": "hours of over analyzing situations I have no way of changing me ",
+      "image_rel": "translated_categorized_memes/UNIVERSAL_HUMAN/test/TE-93.jpg",
+      "category": "UNIVERSAL_HUMAN",
+      "eng_explanation": "This meme employs a widely recognized visual template featuring a character from the animated television series *The Simpsons*, specifically Lisa Simpson, who is depicted pouring coffee into a mug while looking visibly distressed. The accompanying text reads, \"hours of over analyzing situations I have no way of changing,\" which frames the character’s emotional state as one of rumination or mental paralysis over uncontrollable circumstances. Visually, the exaggerated expression of fatigue and frustration, combined with the mundane yet symbolically charged act of drinking coffee—often associated with stress or exhaustion—reinforces a sense of emotional overwhelm. Clinically, the meme aligns most closely with *Concentration Problem*, as it explicitly describes persistent, unproductive mental fixation on unresolved issues, though it may also subtly reflect underlying *Feeling Down* given the implied helplessness and emotional strain conveyed through both imagery and text.",
+      "deva_explanation": "यह मीम एक प्रसिद्ध एनीमेटेड कैरेक्टर, लिसा सिम्पसन की छवि का उपयोग करता है, जिसमें वह चाय या कॉफी को कप में डालते हुए दिखाई दे रही है। छवि के ऊपर हिंदी में लिखा है, \"घंटों उन चीज़ों पर overthink करना जो मेरे हाथ में नहीं हैं,\" साथ ही उसने \"मैं\" शब्द भी लिखा है। इस मीम में लिसा का भाव दर्शाता है कि वह अपनी चिंता को निहार रही है, जो एक प्रकार का मानसिक तनाव हो सकता है। यह तनाव \"कंसंट्रेशन प्रॉब्लम\" और \"फीलिंग डाउन\" के लक्षणों को दर्शाता है, क्योंकि व्यक्ति चिंता करते हुए उन बातों पर मनन कर रहा है जो उसके नियंत्रण में नहीं हैं।",
+      "eng_class": "substitutes_fd",
+      "deva_class": "no_loi_signal",
+      "predictions": {
+        "llama4/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_image_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gemini/deva_img_deva_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        }
+      },
+      "loi_predictions": {
+        "llama4/eng_img_eng_expl": 1,
+        "mistral_large3/deva_expl_only": 0,
+        "mistral_large3/deva_img_eng_expl": 0,
+        "mistral_large3/deva_image_only": 0,
+        "gemini/deva_img_deva_expl": 0,
+        "mistral_small_2503/deva_expl_only": 0,
+        "mistral_small_2503/eng_expl_only": 0,
+        "gpt4o_mini/eng_expl_only": 0,
+        "gpt4o_mini/eng_img_eng_expl": 0
+      }
+    },
+    {
+      "tag": "miss_case",
+      "sample_id": "TE-160",
+      "gold_labels": [
+        "Feeling Down",
+        "Lack of Interest"
+      ],
+      "ocr_text": "my horrible life choice not being able to find a job Me Me cute anime girls u/danksig ",
+      "image_rel": "translated_categorized_memes/CULTURAL_REFERENCE_DEPENDENT/test/TE-160.jpg",
+      "category": "CULTURAL_REFERENCE_DEPENDENT",
+      "eng_explanation": "This meme employs a widely recognized anime-style template featuring a central character surrounded by exaggerated, shadowy manifestations of negative thoughts or external pressures. The image depicts a young female protagonist labeled \"Me\" at the center, flanked by darker, distorted versions of herself and other figures, with text overlay reading \"my horrible life choice,\" \"cute anime girls,\" and \"not being able to find a job.\" Visually, the meme juxtaposes a lighthearted, nostalgic interest in anime with self-deprecating humor about perceived personal failures, creating a tension between escapism and real-world dissatisfaction. Emotionally, the meme conveys a sense of overwhelm, self-criticism, and frustration, reflecting underlying feelings of *low self-esteem* and *feeling down*, as the individual humorously yet poignantly frames their passion as a misguided life choice while grappling with unemployment—a stressor that may exacerbate feelings of inadequacy or hopelessness.",
+      "deva_explanation": "इस मीम में एक एनीमे दृश्य दिखाया गया है जिसमें एक पात्र ग्रेवस्टोन के पीछे से भाग रहा है, जबकि उसके चारों ओर अन्य पात्र मौजूद हैं जो उसे घेर रहे हैं। लेखन में \"मेरी Engineering degree,\" \"Instagram Reels,\" और \"रिश्तेदारों के ताने\" जैसे वाक्य हैं। ये दृश्य और टेक्स्ट व्यक्ति की शिक्षा, सामाजिक अपेक्षाएं और ऑनलाइन सामग्री के प्रति बढ़ती लत के बीच टकराव का प्रतीक हैं। भावनात्मक संदर्भ में, यह व्यक्ति की निराशा और आत्म-संदेह को दर्शाता है, जो 'Feeling Down' और 'Low Self-Esteem' के लक्षणों से संबंधित हो सकता है, जहाँ व्यक्ति अपने जीवन से संतुष्ट नहीं है और बाहरी दबावों के चलते खुद को अवमूल्यन से गुजरता हुआ महसूस कर रहा है।",
+      "eng_class": "substitutes_fd",
+      "deva_class": "substitutes_fd",
+      "predictions": {
+        "llama4/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_large3/deva_image_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gemini/deva_img_deva_expl": {
+          "pred": {
+            "Feeling Down": 0,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/deva_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 0,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "mistral_small_2503/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 0,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_expl_only": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 1,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        },
+        "gpt4o_mini/eng_img_eng_expl": {
+          "pred": {
+            "Feeling Down": 1,
+            "Lack of Interest": 1,
+            "Self-Harm": 0,
+            "Eating Disorder": 0,
+            "Low Self-Esteem": 1,
+            "Concentration Problem": 0,
+            "Sleeping Disorder": 0
+          },
+          "gt": [
+            "Feeling Down",
+            "Lack of Interest"
+          ]
+        }
+      },
+      "loi_predictions": {
+        "llama4/eng_img_eng_expl": 1,
+        "mistral_large3/deva_expl_only": 0,
+        "mistral_large3/deva_img_eng_expl": 0,
+        "mistral_large3/deva_image_only": 0,
+        "gemini/deva_img_deva_expl": 0,
+        "mistral_small_2503/deva_expl_only": 0,
+        "mistral_small_2503/eng_expl_only": 1,
+        "gpt4o_mini/eng_expl_only": 1,
+        "gpt4o_mini/eng_img_eng_expl": 1
+      }
+    }
+  ]
+}

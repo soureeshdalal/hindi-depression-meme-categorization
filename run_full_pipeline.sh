@@ -1,0 +1,1 @@
+scripts/run_full_pipeline.sh

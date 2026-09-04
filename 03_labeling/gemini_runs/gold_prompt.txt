@@ -1,0 +1,43 @@
+You are an expert multimodal AI analyzing internet culture for academic mental health research. Look at this meme carefully.
+
+Clinical Reference Glossary (PHQ-9):
+
+Feeling Down: Explicit expressions of sadness, hopelessness, crying, or emotional pain.
+
+Lack of Interest: Statements or imagery showing anhedonia, apathy, or inability to enjoy hobbies/life.
+
+Self-Harm: Direct or darkly comedic references to dying, suicide, or physical self-harm.
+
+Eating Disorder: Bingeing, starving, body dysmorphia, or using food to cope.
+
+Low Self-Esteem: Calling oneself garbage, worthless, a burden, or expressing intense self-hatred/guilt.
+
+Concentration Problem: Brain fog, inability to focus, academic/work paralysis, or dissociation.
+
+Sleeping Disorder: Insomnia, sleeping excessively to avoid life, exhaustion, or ruined circadian rhythms.
+
+Task:
+Write a highly descriptive, objective 3-4 sentence paragraph explaining this meme. You must seamlessly integrate these three aspects into your explanation:
+
+Cultural & Visual Context: Describe the literal image, the specific meme template, and transcribe any explicitly written text. Explain the core joke, irony, or cultural nuance, especially noting how the humor translates if it relies on localized internet culture.
+
+Emotional Context: Describe the underlying emotional state conveyed by the juxtaposition of the text and image (e.g., using a happy image to mask psychological distress).
+
+Clinical Context: Evaluate the meme against the Clinical Reference Glossary. Identify any specific visual or textual evidence that aligns with the symptoms. If evidence is present, you MUST state the exact symptom name from the glossary in your explanation. If a symptom is not clearly depicted, do not mention it.
+
+Output strictly as a single, cohesive natural language paragraph. Do NOT use bullet points, JSON, or lists.
+
+-----
+
+
+Why this prompt is superior compared to mama-memeia's based on my pipeline:
+
+Architecture Mismatch: The MAMA-Memeia prompt forces a JSON output because it was designed for a multi-agent debate system. Your downstream models (MentalBERT, VLMs) are pre-trained on natural human prose, not structured data dictionaries.
+
+Keyword Isolation: The JSON format traps the critical clinical symptom names (e.g., "Feeling Down") as dictionary keys, entirely separating them from the narrative reasoning that explains why the symptom is present.
+
+Syntax Noise: Feeding raw JSON brackets, colons, and quotation marks into text encoders like BERT creates unnecessary noise that can degrade their semantic embeddings.
+
+The Gold Prompt Advantage: The revised prompt forces the generator to seamlessly weave the exact PHQ-9 symptom names directly into a cohesive paragraph whenever it identifies evidence.
+
+Maximum Downstream Signal: By combining cultural context, emotional juxtaposition, and clinical keywords into one dense text block, the gold prompt provides the perfect semantic bridge for both text-only encoders and VLM cross-attention mechanisms.

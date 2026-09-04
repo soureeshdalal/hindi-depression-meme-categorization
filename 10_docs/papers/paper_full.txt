@@ -1,0 +1,817 @@
+
+--- PAGE 1 ---
+. 
+. 
+ Latest updates: hps://dl.acm.org/doi/10.1145/3717611
+. 
+. 
+ RESEARCH-ARTICLE
+Multimodal Detection of Oﬀensive Content in Hindi Memes
+KRITI DUBEY, Indira Gandhi Delhi Technical University for Women, New Delhi, India
+. 
+ VAISHNAVI SRIVASTAVA, Indira Gandhi Delhi Technical University for Women, New
+Delhi, India
+. 
+GARIMA SHARMA, Indira Gandhi Delhi Technical University for Women, New Delhi, India
+. 
+ NONITA SHARMA, Indira Gandhi Delhi Technical University for Women, New Delhi, India
+. 
+ DEEPAK SHARMA, Indira Gandhi Delhi Technical University for Women, New Delhi, India
+. 
+ UTTAM GHOSH, Meharry Medical College, Nashville, TN, United States
+. 
+ View all
+. 
+. 
+ Open Access Support provided by:
+. 
+ Indira Gandhi Delhi Technical University for Women
+. 
+ King Saud University
+. 
+ Meharry Medical College
+. 
+ PDF Download
+3717611.pdf
+03 March 2026
+Total Citations: 0
+Total Downloads: 424
+. 
+. 
+ Published: 17 February 2025
+Accepted: 29 January 2025
+Revised: 03 November 2024
+Received: 30 December 2022
+. 
+. 
+ Citation in BibTeX format
+. 
+. 
+ ACM Transactions on Asian and Low-Resource Language Information Processing
+hps://doi.org/10.1145/3717611
+EISSN: 2375-4702
+.
+
+--- PAGE 2 ---
+Multimodal Detection of Ofensive Content in Hindi Memes
+KRITI DUBEY,Indira Gandhi Delhi Technical University for Women, New Delhi, India
+VAISHNAVI SRIVASTAVA,Indira Gandhi Delhi Technical University for Women, New Delhi, India
+GARIMA SHARMA, Indira Gandhi Delhi Technical University for Women, New Delhi, India
+NONITA SHARMA, Indira Gandhi Delhi Technical University for Women, New Delhi, India
+DEEPAK SHARMA, Indira Gandhi Delhi Technical University for Women, New Delhi, India
+UTTAM GHOSH, Meharry Medical College, Nashville, United States
+OSAMA ALFARRAJ, King Saud University, Riyadh, Saudi Arabia
+AMR TOLBA, King Saud University, Riyadh, Saudi Arabia
+Activities like sharing of thoughts, advertising business, connecting with peers, and staying updated in this world are highly
+facilitated by social media platforms. In the unique form of media called memes, information is conveyed through the image-to-
+text or text-to-image dependency relationship. Popular memes are often driven by viewers rather than marketing or advertising
+techniques, which indicates the level of engagement of social media users with memes. Given the popularity of memes, a
+demand for a solution to identify and counteract hate-spreading memes on social media platforms is raised. In this study, a
+multimodal machine learning approach to detect ofensive memes is presented, where the text of memes are spelled in the
+Devanagari script of the Hindi language. A dataset of 9262 images has been created, and they have been labeled as ofensive or
+not ofensive. As the dataset is highly imbalanced, another dataset which has 3732 images is created by undersampling the total
+dataset and the models are trained for both the imbalanced dataset as well as the balanced dataset. Finally, the classiication
+problem is solved through a multimodal Logistic Regression classiier that utilizes concatenated feature representations of
+image and text. An accuracy of 0.81 is achieved by the model.
+Additional Key Words and Phrases: Multimodal, Hindi memes dataset, Ofensive memes, Classiication
+1 Introduction
+Memes are one of the popular forms of media that are widely shared on social media platforms like Instagram,
+Facebook, Twitter, etc., and are loved mostly by children and youth. They are unique in the sense that information
+through memes is conveyed via image-to-text or text-to-image dependency relationship. Memes can be in the form
+of images, GIFs, or videos. Meme content is majorly based on the day-to-day activities of people, daily political or
+socio-economic updates of any country or the world, etc. Memes generally contain humor or sarcasm, but in their
+own unique way, they may prove ofensive by targeting a speciic community or a person based on their religion,
+caste, or any other speciic features.
+1.1 Popularity and Impact of Memes
+According to an article by Gurus Coach, memes generate ten times more engagement than any other form of media,
+and also, 55% of 13-35-year-old social media users send memes every week. 73% of smartphone users share memes
+on social media platforms. The article also suggests that meme is the second most likely shared form of media on
+Authors’ Contact Information: Kriti Dubey, Indira Gandhi Delhi Technical University for Women, New Delhi, Delhi, India; e-mail: kritidubey17f@
+gmail.com; Vaishnavi Srivastava, Indira Gandhi Delhi Technical University for Women, New Delhi, Delhi, India; e-mail: vaishnavisrivastava2701@
+gmail.com; Garima Sharma, Indira Gandhi Delhi Technical University for Women, New Delhi, Delhi, India; e-mail: garimasharma140201@
+gmail.com; Nonita Sharma, Indira Gandhi Delhi Technical University for Women, New Delhi, Delhi, India; e-mail: nonitasharma@igdtuw.ac.in;
+Deepak Sharma, Indira Gandhi Delhi Technical University for Women, New Delhi, Delhi, India; e-mail: dk.sharma1982@yahoo.com; Uttam
+Ghosh, Meharry Medical College, Nashville, Tennessee, United States; e-mail: ghosh.uttam@ieee.org; Osama Alfarraj, King Saud University,
+Riyadh, Riyadh Province, Saudi Arabia; e-mail: oalfarraj@ksu.edu.sa; Amr Tolba, King Saud University, Riyadh, Riyadh Province, Saudi Arabia;
+e-mail: atolba@ksu.edu.sa.
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that
+copies are not made or distributed for proit or commercial advantage and that copies bear this notice and the full citation on the irst page.
+Copyrights for components of this work owned by others than the author(s) must be honored. Abstracting with credit is permitted. To copy
+otherwise, or republish, to post on servers or to redistribute to lists, requires prior speciic permission and/or a fee. Request permissions from
+permissions@acm.org.
+© 2025 Copyright held by the owner/author(s). Publication rights licensed to ACM.
+ACM 2375-4702/2025/2-ART
+https://doi.org/10.1145/3717611
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 3 ---
+2 • K. Dubey et al.
+these platforms [ 8]. The hate speech targeted towards a community can lead to online harassment and can be a
+major source of cyberbullying. In a survey by ADL, more than one-fourth of Americans have experienced severe
+online harassment [ 1] and about 44% have been a victim of cyberbullying. There are no existing government or
+internet laws to check upon hateful memes; however, some social media platforms like Facebook and Twitter have
+enforced rules regarding the conduct of hateful speech on these platforms in a generic approach to check ofensive
+posts and comments [ 26]. Figure 1 is a typical example of a Meme. The image of the meme shows a picture of a
+couple and the meme text spelled in the Hindi language translates nearly to "A grasshopper destroying the healthy
+crops", signifying the racist approach to the meme image.
+Classiication of a meme as ofensive or benign is a multimodal problem statement since the complete information
+of the meme is conveyed through both image and text. As in Figure 1, the information shared by text and image
+of the meme, when taken into consideration separately, may not be ofensive. However, when the information
+conveyed through both of them is analyzed along with the knowledge of racism, the information conveyed by the
+meme as a whole becomes clear.
+Fig. 1. A dataset sample
+1.2 Popularity and Impact of Hindi Memes in India
+Hindi is one of the oicial languages of India and there are around 400 million Hindi-speaking people in India
+which is 35% of the Indian population [ 40]. Social media users in India stood at 518 million in India in 2020 and
+are expected to rise to 1.5 billion by 2040 according to the statistics from Statista [ 34]. Memes, being a popular
+form of media on these platforms, a dire need arises to identify and counteract the ofensive memes so as to make
+social media platforms a healthier space for interaction. The popularity of memes in India has given rise to a whole
+new set of content and community which is now called "Meme Culture". This "Meme Culture" in India has given
+rise and popularity to an all new set of content creators, meme characters and also the development of various
+meme-creating apps that allows the creators to either create a meme from scratch or to add their idea to an existing
+meme template. Several studies and articles suggest that memes are so popular and powerful that they can create a
+great impact in the minds of viewers to the extent that they can be held accountable for change in the perception
+of people in regard to various social, political, and religious issues. The two popular sources of entertainment in
+India- Cricket and Bollywood also provide a good amount of subjects to meme creators. However, in recent times,
+it has also been noted that content creators tend to create content based on false news, unveriied data, and rumors
+in order to increase engagement on their page and gain more popularity [ 19]. The detrimental usage of memes on
+sensitive issues can cause havoc due to the massive popularity of this form of media.
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 4 ---
+Multimodal Detection of Ofensive Content in Hindi Memes • 3
+1.3 Research uestions
+The research work aims to enhance our understanding in the domain of multi modal classiication of memes,
+simultaneously taking into account the text of yet another low-resource but popular language, Hindi.
+RQ 1: Attribution of the nature of memes as multi-modal. The underlying message conveyed by memes can
+be understood as a concatenation of information conveyed by the image and the information conveyed by the text,
+at the same time holding a pre-requisite knowledge about the context of existing nature of society, politics and
+culture, etc. The text and image features may or may not contribute equally towards the inal information conveyed
+by a meme. Sundarajanet al. proposed Integrated Gradients method to score the contribution of independent input
+features on the inal predicted results [ 35]. A number of studies that are based on a similar problem statement take
+into account the visual and linguistic features of the meme and attempt to perform the classiication task [ 32][14].
+In this research work, we have applied both unimodal and multimodal approaches, only to arrive at the conclusion
+that the multimodal approach produce better results.
+RQ 2: Existence of slur language in text. To identify ofensive and hate-spreading text in the form of comments,
+post-captions or meme text on social media platforms is notoriously challenging due to the added slur language
+present in the text. Slur words can be regional as well. To identify the existence of derogatory or hateful slur words,
+a vast background knowledge is required. Existing studies based on identifying hateful Hindi text undertake it as
+an NLP task to classify given text as ofensive or benign. Velankar et al. achieve a signiicant accuracy in Hindi
+text classiication task by utilising models like indicBERT, LSTM among others [ 37]. We utilise models like LASER,
+LaBSE and multilingual BERT to classify text as ofensive or otherwise.
+1.4 Contributions
+The major contribution of this paper can be summarised as follows:
+1) Create a labeled dataset of popular memes where the text of the meme is spelled in Hindi from diferent social
+media platforms.
+2) Extract the text from the meme images and classify memes as ofensive or benign using a unimodal approach for
+text classiication.
+3) Classify the memes as ofensive or benign using a unimodal approach for image classiication.
+4) Use a multimodal approach to classify memes as ofensive or benign by using concatenated feature embeddings
+of images and text.
+Although there are a number of studies focusing on the fusion or concatenation of visual and lingual features,
+but the problem statement here not only requires the concatenation of the features of image and text but also
+signiicant reasoning to relate them. To discover the implicit relationship between the two is still a challenging
+task. To address and counteract this challenge, we have proposed the multimodal classiier that trains the model
+based on concatenated embeddings of image and textual features.
+1.5 Novelty
+The Novelty of this work is:
+1) There is no publically available labeled dataset based on this problem statement of detecting ofensive content in
+Hindi memes. A dataset of 9262 images is created and labeled based on ixed annotation criteria.
+2) Separate unimodal approaches on meme-text and meme-image are applied using pre-trained models to classify
+ofensive and benign memes.
+3) A multimodal classiier is trained based on visual and textual embeddings of the meme.
+1.6 Organization of Research Paper
+The organization of the research paper is as follows -
+•
+Related Work - This section contains the previous work on diferent datasets related to the detection of
+ofensive content in memes.
+• Dataset - The dataset section focuses on the collection, annotation, and pre-processing of data.
+• Methodology - The methodology section showcases various procedures followed to get the results. It involves
+the methods used for text extraction and discusses the models used in detail.
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 5 ---
+4 • K. Dubey et al.
+• Results and discussion - This section showcases the results and discusses the performance metrics used to
+evaluate the problem.
+• Conclusion and Future Work - The last section talks about the overall results obtained during the course of
+this study and future scope of the project.
+2 Related Work
+Detection and classiication of ofensive memes have gained signiicant attention pertaining to competitions like
+the Facebook Hateful Meme Classiication Challenge and Dravidian LangTech 2021. Table 1 provides a summary of
+literature review.
+2.1 Hateful Memes Classification for English Memes
+Sandulescu et al. ine-tuned the pre-trained VL-BERT, VLP and UNITER and dual stream models such as LXMERT
+to improve accuracy [ 29]. Shang et al. developed a knowledge-enriched graph neural network solution to efectively
+counter multimodal memes detection problem [ 31]. Giri et al. designed a deep learning-based NLP model to detect
+ofensive memes in three steps: extract text from the image, classify it as ofensive or not, if ofensive- inally label
+it as slightly, very or hateful ofensive [ 14]. Badour et al. approached the problem by converting both textual and
+visual channels to a combined vector representation and training them using the bi-directional LSTM model in
+the irst approach. In the second approach, both the vector representations were fed into SentenceBERT to get
+an embedding which was later classiied citebadour2021hateful. Deshpande et al. in their multimodal approach,
+focused on feature selection to build a gradient-boosted decision tree and an LSTM-based model [ 11]. Aggarwal et al.
+utilized VL-BERT to classify hateful memes [ 2] and Wanbo et al. used pre-trained VisualBERT and ViLBERT models
+and extended further to the usage of MSRD method to improve accuracy [ 39]. Chen et al. developed the OSCAR+RF
+model to conclude that Vision-Language PTMs with the addition of anchor points can improve the performance of
+deep learning-based detection [ 7]. Blaier et al. demonstrated a caption-enriched approach to improve the accuracy
+of pre-trained models. [ 6] Mathias et al. divided the task into two subtasks, namely identifying the protected
+category attacked by meme and identifying the attack type for ine-grained detection of the target [ 25]. Arya et al.
+utilised CLIP model to analyze the text and images, and to draw conclusion if combined expression qualiies as
+hateful [3].
+2.2 Hateful Memes Classification for non-English Memes
+A few substantial eforts to identify hateful content in memes in which meme text is not in English and/or
+meme language is not English have been done in recent times. Kumari et al. worked on ofensive hindi
+memes detection problem using MMCLIP model and achieved an accuracy of 83.71% [ 21]. Silva et al.
+developed an automated tool to detect hate content in images containing Sinhala (an oicial language of
+Sri Lanka) texts. The images were not necessarily memes [ 33]. Maity et al. created Hinglish (Hindi written
+in English) memes dataset and proposed two diferent multimodal frameworks: BERT+ResNET-Feedback
+and CLIP-CentralNet to detect hate speech leading to cyberbullying [ 24]. Hossain et al. employed weighted
+ensemble techniques to assign weights to the participating visual, textual, and multimodal models like
+VGG19, VGG16, multilingualBERT, etc. on multiOFF [ 36] and TamilMemes dataset [ 16]. Ghanghor et
+al. used customized versions of transformers-based pre-trained models on datasets containing Tamil,
+Malayalam, and Kannada memes [ 13]. Hossain et al. proposed multimodal deep neural network based
+model DORA (Dual cO-attention fRAmework), to extract signiicant modal features from Bengali memes
+and evaluate them [17].
+2.3 Research Gap
+To the best of our knowledge, there has been only a single published study that focused on the Hindi
+meme classiication problem. Till the date of submission of this paper, there is no publicly available dataset
+of Hindi memes. A labelled dataset was created for this research work. None of the studies reported the
+result of K-Fold Cross Validation using multimodal approach.
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 6 ---
+Multimodal Detection of Ofensive Content in Hindi Memes • 5
+Citation Major Approaches Dataset Best Result
+[21] MMEM+MFB and MMCLIP models 7416 Hindi memes Accuracy 0.83
+[31] Knowledge-enriched graph neural network Memes dataset from Reddit and Gab Accuracy 0.73
+[14] Deep learning based NLP model 6992 memes from diferent social
+media platforms
+Accuracy 0.80
+[18] FixEicientNet-L2 model 9540 memes from Facebook AI team Accuracy 0.63
+[41] Triplet-relation network to model relationship be-
+tween image and text
+Facebook Hateful Meme Dataset AUROC 0.78
+[4] Bi-directional LSTM model and SBERT Facebook Hateful Meme Dataset Accuracy 0.75
+[33] NLP-CNN 2000 data points using Facebook
+APIs
+Accuracy 0.72
+[10] Bi-directional LSTM and CNN Facebook Hateful Meme Dataset Macro F1
+0.249
+[32] Analogy-aware Ofensive Meme Detection
+(AOMD) framework
+Memes dataset from Reddit and Gab Accuracy 0.71
+[11] Gradient-boosted decision tree and LSTM-based
+model
+Facebook Hateful Meme Dataset Accuracy 0.71
+[24] Two diferent multimodals: BERT+ResNET-
+Feedback and CLIP-CentralNet
+25000 Hinglish memes from Face-
+book, Twitter, Reddit
+Accuracy 0.74
+[43] VL transformer architecture ensemble: VL-
+BERT,UNITER,VILLA and ERNIE-Vil
+Facebook Hateful Meme Dataset AUROC 0.77
+[27] Vilio: a visual-linguistic model Facebook Hateful Meme Dataset AUROC 0.82
+[38] VisualBERT with Ensemble Learning Facebook Hateful Meme Dataset AUROC 0.81
+[23] Three diferent models: LXMERT, UNITER and
+Oscar
+Facebook Hateful Meme Dataset AUROC 0.80
+[29] Three diferent models: Fine tuned VL-BERT, VLP,
+UNITER and LXMERT
+Facebook Hateful Meme Dataset AUROC 0.79
+[28] BERT with Multi-layer Perceptron 5020 English memes from Google
+images
+Accuracy 0.83
+[22] DisMultihate multimodal Facebook Hateful Meme Dataset
+and MultiOFF
+AUROC 0.82
+[5] VGG-16, Inception-V3, LSTM, BERT classiier
+based model
+6,992 and 1,878 memes train and test
+data
+F1 score 0.33
+[16] Weighted ensemble technique and fusion ap-
+proach to develop a multimodal model
+MultiOFF and TamilMemes F1 score 0.65
+[6] Caption-enriched approach to improve accuracy
+of BERT, ViLBERT, VisualBERT
+Facebook Hateful Meme Dataset AUROC 0.78
+[7] OSCAR+RF Facebook Hateful Meme Dataset AUROC 0.77
+[42] Transformer-based multimodal with data augmen-
+tation, ensemble learning
+Combination of memes based on
+COVID-19 and US Politics
+Macro F1 54.7
+[13] Customised transformers-based pre-trained mod-
+els
+2300 total memes of Tamil, Malay-
+alam and Kannada
+Weighted avg
+F1 0.55
+[3] Multimodal Hate Speech Detection in Memes Us-
+ing Contrastive Language-Image Pre-Training
+Facebook Hateful Meme Dataset AUROC 0.88
+[20] Hateful meme classiication of Indian political
+memes
+Bharatiya Political Memes Dataset Accuracy 0.71
+[17] Deciphering Hate: Identifying Hateful Memes and
+Their Targets
+Bengali Hateful Memes Dataset Weighted F1
+0.72
+Table 1. Related Work on Hateful Memes Identification
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 7 ---
+6 • K. Dubey et al.
+3 Dataset
+For this research, publicly available memes from various social media platforms were used and annotated.
+Various categories discussed in the coming section were deined and if the meme falls under any category,
+it was labeled as ofensive. Figure 2 shows a benign meme as neither the text nor the image is ofensive,
+whereas Figure 3 has ofensive text; hence, it is labeled as an ofensive meme. 1
+Fig. 2. Benign
+ Fig. 3. Ofensive
+3.1 Data collection
+9262 memes were collected from social media platforms Instagram, Facebook, and ShareChat. These
+social media platforms were selected on the basis of their popularity in India. Popular hashtags were used
+to ind relevant meme pages. For example - #hindimemes #hindijokes #nonveghindi #adulthindijokes
+#desijokes #desimemes #desitrolls, etc. Memes that had the majority of the text spelled in Hindi were
+selected while others were discarded.
+Fig. 4. Dataset distribution
+3.2 Data Pre-Processing
+After the collection of memes, the text dataset that was obtained from the memes was preprocessed. The
+dataset had many unwanted characters like @, hash symbol, new lines, punctuation marks, brackets,
+links, etc. that did not contribute to the results. They were removed before the annotation process.
+1Dataset
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 8 ---
+Multimodal Detection of Ofensive Content in Hindi Memes • 7
+3.3 Annotation
+After the pre-processing of the data, the dataset was annotated. Based on references [ 33] and [ 25] the
+criterion was made, falling under which a meme was labeled as "ofensive". Incitement of hatred or
+mockery primarily against a person or a group of people deined in terms of: race, ethnicity, gender, caste,
+speciic mental/health condition/disability, sexual orientation, religious belief, incitement of violence,
+descent, or speciic family background and spreading of vulgar/pornographic content are labelled as
+ofensive. Some memes which were not under any of the given categories but could ofend a group of
+people were removed; for example a political meme. A political meme can be supported by a group of
+people but can be ofensive to another group of people.
+3.3.1 Methodology of Annotation. For the purpose of annotation of meme images, we required annotators
+who understand Hindi to the extent of expertise or nativeness, and are also aware of political, social
+and cultural environment of India. Three authors of this research work have served as annotators for
+the dataset. All three annotators are citizens of India since birth and have native proiciency in Hindi
+language. Annotators have studied the domain of AI for two years and are also avid social-media users.
+Remaining authors of this research work ensured that there are no cultural, political, religious or gender
+biases in the labelling task done by the annotators.
+3.3.2 Inter-Annotator Agreement. To check the reliability of the work done by the three annotators, we
+measured the inter-rater agreement by utilising Krippendorf’s Alpha coeicient. This statistical metric
+is best suited for this nominal classiication scenario with more than two annotators. It is a general and
+robust method that indicates how well the measurements done by a given number of people agree to
+each other and provides the result value in between 0 and 1, 1 being ideally reliable. For the case of three
+annotators, the sample set should be between 30-60 labels done by each annotator [
+30]. We attain a score
+of 0.76 for a given set of 50 sample memes.
+3.4 Overview of Data
+The dataset used was imbalanced and consisted of 9262 annotated memes, with 7396 as benign(label-0)
+and 1866 as ofensive(label-1). Figure 4 shows the distribution of the total data into benign and ofensive
+memes. The dataset contains images in JPG format and text of all the memes in a CSV ile. The text was
+extracted from the images using Object Character Recognition.
+Due to the imbalanced nature of the dataset, it was undersampled, and the models used for imbalanced
+data were employed for the balanced data. The balanced dataset consisted of 3732 memes, comprising all
+the 1866 ofensive memes and 1866 randomly selected benign memes.
+The dataset was divided into train and test in a 3:1 ratio with reference to [ 33]. The ratio ensures an
+adequate amount of data for training as well as for testing.
+4 Methodology
+The methodology can be majorly divided into three parts - Text extraction, unimodals and multimodal.
+4.1 Text Extraction
+This research project works on the ofensive content in memes, and in memes, the text can be ofensive,
+the image can be ofensive, or in some cases, both might not be ofensive, but combined together, they
+can become ofensive. Hence, the image, as well as the text, plays an important role in determining
+whether the meme is ofensive or not. The dataset was a collection of images with textual data. As
+explained above, it was important to have text as well as the image to carry out the research work.
+Hence, text extraction from images and text dataset development was the irst step after the collection of
+memes. EasyOCR is a convolutional neural network(CNN) + bidirectional LSTM(BiLSTM) + Connectionist
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 9 ---
+8 • K. Dubey et al.
+Temporal Classiication loss(CTC) deep neural network that performs object character recognition (OCR)
+and is used for text extraction for the project. EasyOCR can work on multiple languages and works well
+with text on a noisy background. To increase the speed of the text extraction process, multiprocessing
+was used. Multiprocessing helps execute multiple input values in parallel by fully utilizing the multiple
+processors available in a machine.
+4.2 Unimodal
+As discussed, the dataset has two parts- images and text dataset. In this section, we have separately
+analyzed the unimodal performance of various text and images. These unimodal act as the base for our
+multimodal approach. Hence, two unimodal were made, one for images and one for text.
+4.2.1 Text Unimodal. For the text unimodal, the irst step was to create text embedding. Text embedding
+represents words in the form of real-valued vectors. It is used to ind the relation between words. For
+this research, highly pre-trained models and embedders like LASER and LaBSE [
+12] embeddings and
+multilingual BERT were used.
+• LASER- It stands for Language-Agnostic SEntence Representations. It was developed by Facebook
+AI research, and it uses a Bi-LSTM encoder based on an RNN architecture to generate high-quality
+representations of sentences in multiple languages, including the Hindi language.
+• LaBSE - It stands for Language-agnostic BERT Sentence Encoder. It is a model used for text
+embedding and is based on BERT architecture, a transformer-based neural network model trained
+on a large corpus of multilingual text. It extends the BERT model architecture and generates sentence
+embeddings, and like LASER, LaBSE is also used for generating multilingual sentence embeddings.
+• Multilingual BERT - It stands for Bidirectional Encoder Representations from Transformers. It
+is a BERT model which is trained on a large corpus of multilingual texts. By being trained on a
+diverse and large corpus of multilingual texts, It can encode language-agnostic representations. It
+can capture cross-lingual similarities and diferences during the training and give high-performance
+results. Figure 6 shows the lowchart of the multilingual BERT model training.
+The next stage was to train the model. Various classiication algorithms explained below were used to
+train and test data. For hyperparameter tuning, GridSearchcv was used.
+• SVM - Support vector machine is a classiication algorithm where dataset points belong to a
+predeined set of categories. The aim of the algorithm is to ind the hyperplane. The learned
+hyperplane is placed in such a manner that the diference between the two classes with respect to
+the hyperplane is maximum. The C value, i.e. the penalty parameter range, was set to [0.001, 0.01,
+0.1, 1, 10].
+•
+KNN - K nearest neighbor is an algorithm that can be used to make classiications. KNN algorithm
+classiies the data and categorizes the new data on the basis of the similarity the new data has with
+the given categories. The parameter n neighbors, i.e. the number of neighbors ranges, was set to
+[3,5,7,9].
+• Logistic Regression - LR uses the sigmoid function. It its an exponential curve to the data, which
+enhances the performance of the model.
+• Decision Tree Classiier - It is a supervised learning algorithm that can be utilized for multi-class
+classiication. DecisionTreeClassiier class was used for decision tree classiication. The maximum
+depth was set to 800, and the minimum sample split was set to 5.
+• Random Forest Classiier - This algorithm creates a set of decision trees from a randomly selected
+set of the training dataset. Like the decision tree classiier, the maximum depth was set to 800 and
+the minimum sample split was set to 5.
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 10 ---
+Multimodal Detection of Ofensive Content in Hindi Memes • 9
+Balanced Imbalanced
+Embedding Classiication model Accuracy F1-score Accuracy F1-score
+LASER
+SVM 0.65 0.65 0.81 0.73
+KNN 0.55 0.51 0.79 0.76
+Logistic Regression 0.66 0.65 0.81 0.76
+Decision Tree Classiier 0.58 0.58 0.70 0.70
+Random Forest Classiier 0.68 0.68 0.81 0.73
+LaBSE
+SVM 0.69 0.69 0.83 0.80
+KNN 0.65 0.65 0.81 0.78
+Logistic Regression 0.68 0.67 0.82 0.79
+Decision Tree Classiier 0.56 0.56 0.71 0.71
+Random Forest Classiier 0.68 0.68 0.81 0.73
+LaBSE+LASER Logistic Regression 0.68 0.66 0.82 0.77
+Multilingual BERT Multilingual BERT 0.71 0.71 0.83 0.82
+Table 2. Text Unimodal Results for balanced dataset
+Table 2 shows the performance of various models with LASER, LaBSE, and LASER+LaBSE embedding.
+Figure 5 shows the pipeline of text unimodal.
+Fig. 5. Unimodal Approach
+4.2.2 Image Unimodal. Deep learning neural network-based models, CNN, and VGG16 were used for the
+image unimodal. These are popularly used for image classiication, object detection, etc. Sequential Keras
+API was used for building CNN. Conv2D, MaxPooling2D, and Dense layers were added to the model, as
+shown in Figure 7. Here, Conv2D is the convolution layer. In the convolution layer, Relu was used as the
+activation function. MaxPooling was employed to create the pooling layers. Lastly, fully connected layers
+were created using the Dense function.
+VGG16 is a speciic CNN architecture consisting of 16 weighted layers, of which 13 are convolutional,
+and 3 are fully connected layers (Figure 8). VGG16 allows a deeper and more profound representation of
+features by using small 3x3 convolutional ilters throughout the network. Max pooling is used in VGG16,
+which downsamples the features maps. Because of its deep architecture and homogeneous structure,
+VGG16 makes it easy to train and ine-tune models for speciic tasks.
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 11 ---
+10 • K. Dubey et al.
+Fig. 6. Multilingual BERT Flowchart
+Images were resized and loaded in the array form, then given to our CNN model and VGG16 model as
+input. Ten epochs were used for training our model for the CNN model and ive epochs for the VGG16
+model. As a result, for total dataset an accuracy of 84.32% and f1-score of 46.95% with the CNN model
+and 82.12% accuracy, and 79.65% with the VGG16 model was obtained. For balanced dataset an accuracy
+of 64.4% and f1-score for 39.75% with the CNN model and 68.92% accuracy, and 68.77% with the VGG16
+model was obtained.
+Fig. 7. CNN pipeline for image classification
+Fig. 8. VGG16 pipeline for image classification
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 12 ---
+Multimodal Detection of Ofensive Content in Hindi Memes • 11
+4.3 Proposed work - Multimodal
+In the proposed multimodal approach, both images and text present in them were taken into consideration
+for developing the ofensive meme detection model. The text and image unimodal in section 4.2 were
+analyzed, compared, and used in the proposed multimodal approach by ensembling them. The proposed
+multimodal approach contains mainly four steps, i.e. text extraction from the image, text, and image
+embedding, concatenation of both embeddings and model training, as shown in Figure 9. Text extraction
+is explained in detail in section 4.1. Further steps are discussed in detail in the below subsections.
+For the inal proposed multimodal approach, i.e., BERT and VGG-16 ensemble model, k-fold validation
+was used, k being 3. The value of k was chosen based on the size of the dataset. Using 3 folds ensured no
+overlapping data and an adequate size of the test data. The k-fold cross-validation approach is shown in
+Figure 10.
+For k-fold, the dataset was irst divided into training and testing data in a 3:1 ratio such that the training
+set had 6946 memes and the testing set had 2316 memes. The training dataset was further divided into
+3-folds such that all the folds had approximately the same amount of data, and the model was evaluated
+for all the folds. Lastly, the model was evaluated for the testing data. All the results are tabulated in Table
+3.
+Fig. 9. Multimodal Flowchart
+4.3.1 Text and Image Embeddings.For the text embedding, LASER and LaBSE embedders and highly
+pre-trained transformer-based Multilingual BERT (explained in detail in section 4.2.1) were used [ 44].
+LaBSE(Language Agnostic BERT Sentence Embedding) [ 12] is a Transformer(BERT) based cross-lingual
+sentence embedding model which Google AI developed, whereas LASER(Language-Agnostic SEntence
+Representations) was developed by Facebook AI. LASER and LaBSE support 93 and 109 languages,
+respectively, including the Hindi language. The Multilingual BERT model is trained on a large corpus of
+multilingual texts. By being trained on a diverse and large corpus of multilingual texts, it can encode
+language-agnostic representations and give high-performance results. All three are good for our Hindi
+text dataset. For image embedding, ResNet-18 and VGG16 were used. ResNet-18 [ 15] is a type of artiicial
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 13 ---
+12 • K. Dubey et al.
+Fig. 10. K-fold cross-validation approach
+Model Embedding Precision Recall F1-Score Accuracy
+Multimodal
+VGG-16+BERT(Iteration-1) 0.83 0.82 0.82 0.82
+VGG-16+BERT(Iteration-2) 0.79 0.77 0.77 0.80
+VGG-16+BERT(Iteration-3) 0.80 0.84 0.81 0.80
+VGG-16+BERT(Testing Dataset) 0.79 0.81 0.79 0.81
+Table 3. K-Fold Model Performance Comparison of imbalanced dataset
+neural network that helps generate rich feature representations for a wide range of images. It contains 18
+layers, whereas VGG16 contains 16 layers. The pre-trained models were ine-tuned for extracting the
+features from the model, and images were re-sized to make them compatible with the model. After that,
+the models were trained, and the features of the trained models were extracted. Our proposed method
+used a pre-trained version of ResNet-18 and VGG16 using the PyTorch framework.
+4.3.2 Embedding Concatenation. After generating the embeddings or features for the text and image
+separately, these embeddings were concatenated in three diferent ways:
+• Image embedding generated using ResNet-18 is concatenated with the text embeddings generated
+by using LASER and LaBSE, respectively.
+• All three embeddings i.e. LASER, LaBSE, and ResNet-18, were concatenated.
+• Concatenated the Image embedding generated using VGG16 and text embedding generated by
+Multilingual BERT.
+4.3.3 Model Training. For training the model for detecting ofensive memes, diferent classiiers were
+used. The logistic regression(LR) classiier gave the best result among all the classiiers. So, Logistic Re-
+gression was used as our classiier for training and calculating the performance of the three concatenated
+embeddings. All three concatenated embeddings (as mentioned in section 4.3.2) were fed as input along
+with the labels to the classiier separately, and their performances were compared.
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 14 ---
+Multimodal Detection of Ofensive Content in Hindi Memes • 13
+Comparison T-Statistic P-Value 95% Conidence In-
+terval
+Degrees of
+Freedom
+F1-Scores (Ensemble vs Unimodal,
+Imbalanced Data)
+0.4288 0.6793 (-0.122, 0.195) 7
+F1-Scores (Ensemble vs Unimodal,
+Balanced Data)
+0.2729 0.7918 (-0.092, 0.125) 7
+Table 4. Two-sample t-test results comparing F1-scores of ensemble and unimodal models for imbalanced and balanced data
+5 Results and Discussion
+The problem is a classiication problem. Hence, the performance metrics of classiication models, i.e.,
+precision, recall, accuracy, and f1-score, are used to evaluate the models. A two-sample t-test was
+conducted to compare the performance between the ensemble models and other unimodal approaches.
+For the evaluation of all the models, 6946 memes were used for training, and 2316 memes were used for
+testing from the imbalanced dataset, whereas for the balanced dataset, 2799 memes were utilized for
+training, and 933 memes were allocated for testing. For k-fold, the training dataset was further divided
+into 3 parts and testing data was used for evaluating the inal model(VGG-16+BERT). Model performance
+comparison is given in Table 6 and Table 7 for imbalanced and balanced datasets, respectively. Figure 11
+and Figure 12 compare the text unimodal results for balanced and imbalanced datasets, respectively. Figure
+13 and Figure 14 compare the performance of multimodal for balanced and imbalanced, respectively.
+Figure 15 shows the performance of VGG-16+BERT performance for k-fold validation.
+5.1 Comparison
+This subsection works upon the comparison between the results obtained in this research work and
+other research works on hateful meme detection. Table 5 shows the comparison between the accuracy or
+f1-score obtained in various research papers on hateful meme detection that uses the relation between
+image and text. The best accuracy for [ 21] Accuracy 0.83, for [ 24] is 0.74, for [ 42] is 0.71, for [ 31] is
+0.73, for [ 4] is 0.75 and the best f1-score for [ 13] is 0.55 and [ 42] is 54.7 whereas the best accuracy and
+f1-score obtained in this research work is 0.83 and 0.82 which exceeds all the above-stated papers. We
+have presented inal results for both imbalanced dataset and balanced dataset. It is to be noted here that
+our inal dataset of 9262 meme images is imbalanced in nature. This imbalance towards ofensive data
+points can be attributed to the fact that most social media platforms report the statistics that presence of
+hateful content is lower than that of non-hateful content on these platforms. [9].
+5.2 Two-sample t-test
+The two-sample t-test is a statistical test that compares the means of two diferent independent groups
+and determines whether they difer signiicantly from each other or not. The two-sample t-test between
+f1-scores of the ensemble models and other unimodal were calculated. The t-statistic value between the
+two was 0.4288 and a p-value of 0.6793 for the imbalanced data and 0.2729 t-statistic value and 0.7918
+p-values for the balanced data. The positive value of the t-statistic suggests that the ensemble models
+perform better than the unimodal ones. Table 4 provides a comparison of these results, including the
+conidence intervals and degrees of freedom for a more comprehensive analysis.
+5.3 Precision
+Precision is deined as the accuracy of positive predictions. It checks the aptness of the classiication
+model. Precision can be calculated using Equation (1). For the imbalanced dataset, the best precision of
+0.82 was obtained from text unimodal(LASER+LaBSE and Multilingual BERT), whereas, for the balanced
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 15 ---
+14 • K. Dubey et al.
+Citation Dataset Best Result
+[21] 7416 Hindi memes Accuracy 0.83
+[17] 7418 Bengali memes Weighted F1 0.72
+[24] 25000 Hinglish memes from Facebook, Twitter, Reddit Accuracy 0.74
+[42] Combination of memes based on COVID-19 and US Politics Macro F1 54.7
+[13] 2300 total memes of Tamil, Malayalam and Kannada Weighted avg F1 0.55
+[31] Memes dataset from Reddit and Gab Accuracy 0.73
+[4] Facebook Hateful Meme Dataset Accuracy 0.75
+Table 5. Result Comparison
+dataset, Multilingual BERT gave the best precision of 0.71.
+????????? = ????????????
+???????????? + ????????????? (1)
+5.4 Recall
+Recall refers to the ability of a model to detect positive predictions. It is the ratio of true positive to the
+total positives, i.e. true positive + false negative (Equation (2)). The higher the value of recall, the more
+will be the number of correctly predicted positive values. For the imbalanced dataset, Multilingual BERT
+gave the best recall of 0.83, and for the balanced dataset, Multilingual BERT and VGG-16 + BERT gave
+the best recall of 0.71, which means they predicted the highest true positives.
+?????? = ????????????
+???????????? + ????????????? (2)
+5.5 F1-score
+F1-score is the harmonic mean of recall and precision. The data used for this project is imbalanced, and
+the F1-score is especially beneicial for imbalanced data. F1-score can be calculated using Equation (3).
+For the imbalanced dataset, Multilingual BERT gave the best f1-score of 0.82, and for the balanced dataset,
+Multilingual BERT and VGG-16 + BERT gave the best recall of 0.70
+?1 − ????? = 2 ∗ ????????? ∗ ??????
+????????? + ?????? (3)
+5.6 Accuracy
+For the imbalanced dataset, CNN gave the best accuracy of 0.84, and for the balanced dataset, LASER+LaBSE+ResNet-
+18 gave the best accuracy of 0.80
+???????? = ???????????? + ????????????
+???????????? + ????????????? + ???????????? + ????????????? (4)
+5.7 Error Analysis
+Despite attaining a signiicant accuracy, the obtained results are not perfect. This error can be attributed
+to the following factors:
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 16 ---
+Multimodal Detection of Ofensive Content in Hindi Memes • 15
+Model Embedding Precision Recall F1-Score Accuracy
+Text
+Unimodal
+LASER 0.78 0.81 0.76 0.81
+LaBSE 0.79 0.82 0.79 0.82
+LASER+LaBSE 0.82 0.82 0.77 0.82
+Multilingual BERT 0.82 0.83 0.82 0.83
+Image
+Unimodal
+CNN 0.59 0.39 0.47 0.84
+VGG-16 0.79 0.82 0.79 0.82
+Multimodal
+LASER+ResNet-18 0.72 0.73 0.72 0.77
+LaBSE+ResNet-18 0.79 0.73 0.75 0.79
+LASER+LaBSE+ResNet-18 0.79 0.80 0.79 0.80
+VGG-16+BERT(Testing Dataset) 0.79 0.81 0.79 0.81
+Table 6. Model Performance Comparison of imbalanced datase
+Model Embedding Precision Recall F1-Score Accuracy
+Text
+Unimodal
+LASER 0.65 0.66 0.65 0.66
+LaBSE 0.67 0.69 0.67 0.68
+LASER+LaBSE 0.65 0.69 0.66 0.68
+Multilingual BERT 0.71 0.71 0.71 0.71
+Image
+Unimodal
+CNN 0.46 0.39 0.47 0.64
+VGG-16 0.69 0.68 0.68 0.68
+Multimodal
+LASER+ResNet-18 0.67 0.64 0.65 0.77
+LaBSE+ResNet-18 0.69 0.63 0.64 0.79
+LASER+LaBSE+ResNet-18 0.61 0.65 0.62 0.80
+VGG-16+BERT 0.70 0.71 0.70 0.70
+Table 7. Model Performance Comparison of balanced dataset
+Fig. 11. Balanced Dataset- Unimodal performance
+w.r.t embedding
+Fig. 12. Imalanced Dataset- Unimodal perfor-
+mance w.r.t embedding
+• The memes are generally created based on the context of current events happening around the
+world. The models can’t generally learn about each and every incident to predict if a given meme
+propagates hatred based on a speciic one.
+• Although we have tried to remove all the outliers, but we cannot deny the existence of outliers in
+the database.
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 17 ---
+16 • K. Dubey et al.
+Fig. 13. Balanced Dataset- Multimodal Perfor-
+mance
+Fig. 14. Imbalanced Dataset- Multimodal perfor-
+mance
+Fig. 15. VGG16+BERT Performance in 3 Folds
+6 Conclusion and Future Scope
+This paper presented a new dataset of Hindi memes and various models to classify Hindi memes as
+ofensive and benign. Considering the f1 score of ofensive memes, multimodal gave the best results and
+the logistic regression algorithm for text unimodal gave the best accuracy.
+As discussed in the results section, this research work presents a multimodal approach for ofensive
+Hindi memes detection and this multimodal approach exceeds the accuracy and f1-score obtained from
+the papers in Table 5.
+In this paper, only two labels, benign and ofensive memes, were deined. This can be increased to the
+degree of ofensiveness. Not ofensive, slightly ofensive, medium ofensive, or highly ofensive can be an
+example of classiication through the degree of ofensiveness.
+The models can be improved by using highly pre-trained models like Visual BERT, ine-tuned VL-BERT,
+etc.
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 18 ---
+Multimodal Detection of Ofensive Content in Hindi Memes • 17
+Acknowledgement
+This work was funded by the Researchers Supporting Project number (RSP2025R102) King Saud University,
+Riyadh, Saudi Arabia.
+References
+[1]
+ADL. [n. d.]. More Than One-Quarter of Americans Experience Severe Online Harassment, ADL Survey Finds. ([n. d.]). https:
+//www.adl.org/news/press-releases/more-than-one-quarter-of-americans-experience-severe-online-harassment-adl
+[2] Piush Aggarwal, Michelle Espranita Liman, Darina Gold, and Torsten Zesch. 2021. VL-BERT+: Detecting Protected Groups in Hateful
+Multimodal Memes. In Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021) . 207ś214.
+[3] Greeshma Arya, Mohammad Kamrul Hasan, Ashish Bagwari, Nurhizam Saie, Shayla Islam, Fatima Rayan Awad Ahmed, Aaishani De,
+Muhammad Attique Khan, and Taher M Ghazal. 2024. Multimodal Hate Speech Detection in Memes Using Contrastive Language-Image
+Pre-Training. IEEE Access (2024).
+[4] Jafar Badour and Joseph Alexander Brown. 2021. Hateful Memes Classiication using Machine Learning. In 2021 IEEE Symposium Series on
+Computational Intelligence (SSCI) . IEEE, 1ś8.
+[5] Arup Baruah, Kaushik Das, Ferdous Barbhuiya, and Kuntal Dey. 2020. Iiitg-adbu at semeval-2020 task 8: A multimodal approach to detect
+ofensive, sarcastic and humorous memes. In Proceedings of the Fourteenth Workshop on Semantic Evaluation . 885ś890.
+[6] Efrat Blaier, Itzik Malkiel, and Lior Wolf. 2021. Caption enriched samples for improving hateful memes detection. arXiv preprint
+arXiv:2109.10649 (2021).
+[7] Yuyang Chen and Feng Pan. 2022. Multimodal Detection of Hateful Memes by Applying a Vision-Language Pre-Training Model. (2022).
+[8] Gurus Coach. [n. d.]. 9 Meme Marketing Statistics 2022(Plus Brand Examples). ([n. d.]). https://guruscoach.com/meme-marketing-
+statistics/#:~:text=Meme%20Popularity%20Statistics%202.%2055%25%20of%2013-35-year-olds%20send,memes%20you%20see%20online%
+20are%20shared%20by%2013-35-year-olds.
+[9] comparitech. [n. d.]. In Q2 2021, TikTok removed 1.78 million videos that violated its hate speech policy. ([n. d.]).
+https://www.comparitech.com/blog/information-security/online-hate-crimestatistics/#:~:text=Of%20this%20number%2C%201.78%
+20million,the%20time%20of%20their%20removal
+[10] Mihai Gabriel Constantin, Dan-Stefan Pârvu, Cristian Stanciu, Denisa Ionascu, and Bogdan Ionescu. 2021. Hateful meme detection with
+multimodal deep neural networks. In 2021 International Symposium on Signals, Circuits and Systems (ISSCS) . IEEE, 1ś4.
+[11] Tanvi Deshpande and Nitya Mani. 2021. An Interpretable Approach to Hateful Meme Detection. In Proceedings of the 2021 International
+Conference on Multimodal Interaction . 723ś727.
+[12] Fangxiaoyu Feng, Yinfei Yang, Daniel Cer, Naveen Arivazhagan, and Wei Wang. 2020. Language-agnostic bert sentence embedding. arXiv
+preprint arXiv:2007.01852 (2020).
+[13] Nikhil Ghanghor, Parameswari Krishnamurthy, Sajeetha Thavareesan, Ruba Priyadharshini, and Bharathi Raja Chakravarthi. 2021. IIITK@
+DravidianLangTech-EACL2021: Ofensive language identiication and meme classiication in Tamil, Malayalam and Kannada. InProceedings
+of the irst workshop on speech and language technologies for dravidian languages . 222ś229.
+[14] Roushan Kumar Giri, Subhash Chandra Gupta, and Umesh Kumar Gupta. 2021. An approach to detect ofence in memes using natural
+language processing (NLP) and deep learning. In 2021 International Conference on Computer Communication and Informatics (ICCCI) . IEEE,
+1ś5.
+[15] Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. 2015. Deep Residual Learning for Image Recognition. doi:10.48550/ARXIV.1512.
+03385
+[16] Eftekhar Hossain, Omar Sharif, Mohammed Moshiul Hoque, M Ali Akber Dewan, Nazmul Siddique, and Md Azad Hossain. 2022.
+Identiication of Multilingual Ofense and Troll from Social Media Memes Using Weighted Ensemble of Multimodal Features. Journal of
+King Saud University-Computer and Information Sciences (2022).
+[17] Eftekhar Hossain, Omar Sharif, Mohammed Moshiul Hoque, and Sarah M Preum. 2024. Deciphering Hate: Identifying Hateful Memes and
+Their Targets. arXiv preprint arXiv:2403.10829 (2024).
+[18] Monika Evelin Johan et al . 2021. Detecting Hate Speech on Memes using FixEicientNet-L2. In 2021 6th International Conference on New
+Media Studies (CONMEDIA) . IEEE, 17ś21.
+[19] Saumya Rastogiand Simran Kashyap. 2019. Political Memes and Perceptions: a Study of Memes As a Political Communication Tool in the
+Indian Context. In Proceedings of the 5th World Conference on Media and Mass Communication , Vol. 5. 35ś48.
+[20] Nandini Kumar, Diksha Bhardwaj, Mansi Singla, Vijay Kumar Yadav, et al . 2025. Hateful meme classiication of Indian political memes. In
+Computational Methods in Science and Technology . CRC Press, 549ś559.
+[21] Gitanjali Kumari, Dibyanayan Bandyopadhyay, and Asif Ekbal. 2023. EmofMeme: identifying ofensive memes by leveraging underlying
+emotions. Multimedia Tools and Applications (2023), 1ś36.
+[22] Roy Ka-Wei Lee, Rui Cao, Ziqing Fan, Jing Jiang, and Wen-Haw Chong. 2021. Disentangling hate in online memes. In Proceedings of the
+29th ACM International Conference on Multimedia . 5138ś5147.
+[23] Phillip Lippe, Nithin Holla, Shantanu Chandra, Santhosh Rajamanickam, Georgios Antoniou, Ekaterina Shutova, and Helen Yannakoudakis.
+2020. A multimodal framework for the detection of hateful memes. arXiv preprint arXiv:2012.12871 (2020).
+[24] Krishanu Maity, Prince Jha, Sriparna Saha, and Pushpak Bhattacharyya. 2022. A Multitask Framework for Sentiment, Emotion and Sarcasm
+aware Cyberbullying Detection from Multi-modal Code-Mixed Memes. (2022).
+[25] Lambert Mathias, Shaoliang Nie, Aida Mostafazadeh Davani, Douwe Kiela, Vinodkumar Prabhakaran, Bertie Vidgen, and Zeerak Waseem.
+2021. Findings of the WOAH 5 shared task on ine grained hateful memes detection. In Proceedings of the 5th Workshop on Online Abuse
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+
+--- PAGE 19 ---
+18 • K. Dubey et al.
+and Harms (WOAH 2021) . 201ś206.
+[26] Sandip Modha, Prasenjit Majumder, Thomas Mandl, and Chintak Mandalia. 2020. Detecting and visualizing hate speech in social media: A
+cyber watchdog for surveillance. Expert Systems with Applications 161 (2020), 113725.
+[27] Niklas Muennighof. 2020. Vilio: state-of-the-art Visio-Linguistic models applied to hateful memes. arXiv preprint arXiv:2012.07788 (2020).
+[28] Benet Oriol Sabat, Cristian Canton Ferrer, and Xavier Giro-i Nieto. 2019. Hate Speech in Pixels: Detection of Ofensive Memes towards
+Automatic Moderation. arXiv e-prints (2019), arXivś1910.
+[29] Vlad Sandulescu. 2020. Detecting hateful memes using a multimodal deep ensemble. arXiv preprint arXiv:2012.13235 (2020).
+[30] Bizhan Shabankhani, J Yazdani Charati, Keihan Shabankhani, and S Kaviani Cherati. 2020. Survey of agreement between raters for nominal
+data using krippendorf’s Alpha. Archives of Pharmacy Practice 10 (2020), 160ś164.
+[31] Lanyu Shang, Christina Youn, Yuheng Zha, Yang Zhang, and Dong Wang. 2021. KnowMeme: A Knowledge-enriched Graph Neural
+Network Solution to Ofensive Meme Detection. (2021), 186ś195.
+[32] Lanyu Shang, Yang Zhang, Yuheng Zha, Yingxi Chen, Christina Youn, and Dong Wang. 2021. Aomd: An analogy-aware approach to
+ofensive meme detection on social media. Information Processing & Management 58, 5 (2021), 102664.
+[33] Evangeli Silva, Maheshi Nandathilaka, Sandupa Dalugoda, Thanu Amarasinghe, Supunmali Ahangama, and G Thilini Weerasuriya. 2021.
+Machine Learning-Based Automated Tool to Detect Sinhala Hate Speech in Images. In 2021 6th International Conference on Information
+Technology Research (ICITR) . IEEE, 1ś7.
+[34] Statista. [n. d.]. Number of social network users in India from 2015 to 2020, with estimates until 2040. ([n. d.]).
+https://www.statista.com/statistics/278407/number-of-social-network-users-in-india/#:~:text=With%20the%20ease%20of%20internet%
+20access%2C%20the%20number,among%20the%20social%20media%20platforms%20as%20of%202020.
+[35] Mukund Sundararajan, Ankur Taly, and Qiqi Yan. 2017. Axiomatic attribution for deep networks. In International conference on machine
+learning. PMLR, 3319ś3328.
+[36] Shardul Suryawanshi, Bharathi Raja Chakravarthi, Mihael Arcan, and Paul Buitelaar. 2020. Multimodal Meme Dataset (MultiOFF) for
+Identifying Ofensive Content in Image and Text. In Proceedings of the Second Workshop on Trolling, Aggression and Cyberbullying . European
+Language Resources Association (ELRA), Marseille, France, 32ś41. https://aclanthology.org/2020.trac-1.6
+[37] Abhishek Velankar, Hrushikesh Patil, Amol Gore, Shubham Salunke, and Raviraj Joshi. 2021. Hate and ofensive speech detection in hindi
+and marathi. arXiv preprint arXiv:2110.12200 (2021).
+[38] Riza Velioglu and Jewgeni Rose. 2020. Detecting hate speech in memes using multimodal deep learning approaches: Prize-winning solution
+to hateful memes challenge. arXiv preprint arXiv:2012.12975 (2020).
+[39] Li Wanbo and Liu Suying. 2021. Research on multi-modal hateful meme detection. In 2021 2nd International Conference on Artiicial
+Intelligence and Information Systems . 1ś10.
+[40] WorldlistMania. [n. d.]. Hindi Language Spoken States in India. ([n. d.]). https://www.worldlistmania.com/hindi-speaking-states-in-india/
+[41] Yi Zhou, Zhenhao Chen, and Huiyuan Yang. 2021. Multimodal learning for hateful memes detection. In 2021 IEEE International Conference
+on Multimedia & Expo Workshops (ICMEW) . IEEE, 1ś6.
+[42] Ziming Zhou, Han Zhao, Jingjing Dong, Jun Gao, and Xiaolong Liu. 2022. DD-TIG at Constraint@ ACL2022: Multimodal understanding
+and reasoning for role labeling of entities in hateful memes. In Proceedings of the Workshop on Combating Online Hostile Posts in Regional
+Languages during Emergency Situations . 12ś18.
+[43] Ron Zhu. 2020. Enhance multimodal transformer with external label and in-domain pretrain: Hateful meme challenge winning solution.
+arXiv preprint arXiv:2012.08290 (2020).
+[44] Haris Bin Zia, Ignacio Castro, and Gareth Tyson. 2021. Racist or Sexist Meme? Classifying Memes beyond Hateful. In Proceedings of the 5th
+Workshop on Online Abuse and Harms (WOAH 2021) . Association for Computational Linguistics, Online, 215ś219. doi:10.18653/v1/2021.woah-
+1.23
+Received 30 December 2022; revised 3 November 2024; accepted 29 January 2025
+ACM Trans. Asian Low-Resour. Lang. Inf. Process.

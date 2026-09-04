@@ -1,0 +1,19 @@
+meme_id,original_text,original_celebrity,indian_celebrity,archetype,hindi_translation,rationale,status,error
+TE-149,When you successfully stopped a binge streak but are now back to restricting and you still have an ED.,,,,,,SUCCESS,
+TE-185,"me: *looks in mirror* my body dysmorphia: You're ugly, you're disgusting, I'm gonna kill you, give me $200",,,,,,SUCCESS,
+TE-21,WHEN DEATH KEEPS VISITING YOUR LIFE BUT SOMEHOW REMAIN HOPEFUL,,,,,,SUCCESS,
+TE-238,you've got fat,,,,,,SUCCESS,
+TE-26,"What people think depression looks like
+What it actually looks like",,,,,,SUCCESS,
+TE-40,I'M WIDE AWAKE,,,,,,SUCCESS,
+TE-470,Me casually rolling out of bed at 8:46pm after an accidental 6 hour depression nap,,,,,,SUCCESS,
+VA-203,don't hit me up. much to think about... 😔,,,,,,SUCCESS,
+TE-158,Of all the things I've lost I miss my mind the most. — Ozzy Osbourne,,,,,,SUCCESS,
+TE-287,"TO: _______
+FROM: _______
+Don't leave me hanging this Valentine's day",,,,,,ERROR,"Invalid operation: The `response.parts` quick accessor requires a single candidate, but but `response.candidates` is empty.
+This appears to be caused by a blocked prompt, see `response.prompt_feedback`: block_reason: OTHER
+"
+TE-373,BRUH IM BORED,,,,,,ERROR,"Invalid operation: The `response.parts` quick accessor requires a single candidate, but but `response.candidates` is empty.
+This appears to be caused by a blocked prompt, see `response.prompt_feedback`: block_reason: OTHER
+"
