@@ -18,13 +18,7 @@ cd "$REPO_ROOT"
 # ── Configure after uploading to Drive ─────────────────────────────────────
 # Folder URL example: https://drive.google.com/drive/folders/1ABC...xyz
 # Folder ID is the part after /folders/
-GDRIVE_FOLDER_ID="${GDRIVE_FOLDER_ID:-PASTE_YOUR_FOLDER_ID_HERE}"
-
-if [[ "$GDRIVE_FOLDER_ID" == "PASTE_YOUR_FOLDER_ID_HERE" ]]; then
-  echo "Error: Set GDRIVE_FOLDER_ID in this script or as an environment variable."
-  echo "See docs/DATA_ON_GDRIVE.md for upload instructions."
-  exit 1
-fi
+GDRIVE_FOLDER_ID="${GDRIVE_FOLDER_ID:-1XQgvJPdJCgnWx0Jt7F6IhAik_C5uorhb}"
 
 if ! command -v gdown >/dev/null 2>&1; then
   echo "Installing gdown..."

@@ -1,141 +1,157 @@
-# Dataset Images on Google Drive
+# Upload Images to Google Drive
 
-All **image files** live on Google Drive. GitHub holds code, labels (JSON/CSV), documentation, metrics, and analysis — everything except images and the local `archive/` folder.
+Simple step-by-step guide. Total upload: **~3 GB**, mostly one folder (`00_dataset`).
 
-After cloning the repo, download the images and place them in the paths below (or run `scripts/download_images.sh` once your Drive link is configured).
+---
+
+## What you are uploading
+
+| Folder on your Mac | What's inside | Size |
+|--------------------|---------------|------|
+| **`00_dataset/`** | All main images (required) | ~2.7 GB |
+| ↳ `raw/train/` | 8,814 English training images | 1.0 GB |
+| ↳ `raw/flat/test/` | 662 original test images | 65 MB |
+| ↳ `raw/flat/validation/` | 361 validation images | 33 MB |
+| ↳ `raw/val_images_flat/` | 353 flat validation images | 170 MB |
+| ↳ `translated/translated_train/` | 2,077 Hindi training images | 922 MB |
+| ↳ `translated/translated_categorized_memes/` | 650 Hindi test images (13 categories) | 490 MB |
+| ↳ `hinglish/images/` | 44 Hinglish test images | 23 MB |
+| **`06_explanations/.../test_images/`** | Colab copy of test images (optional) | 325 MB |
+| **`10_docs/meme_dataset_build/images/`** | Dataset doc pins (optional) | 13 MB |
+
+**Minimum upload:** just `00_dataset/` — that covers everything important.
+
+**Do NOT upload:** `archive/` (not backed up anywhere, delete later).
+
+---
+
+## Method A — Drag one folder (easiest)
+
+### Step 1 — Open Google Drive
+
+1. Go to [drive.google.com](https://drive.google.com)
+2. Click **+ New** → **Folder**
+3. Name it: **`categorization-images`**
+4. Open that folder (double-click it)
+
+### Step 2 — Open Finder
+
+1. Open Finder
+2. Go to: **`Desktop` → `categorization`**
+3. You should see the folder **`00_dataset`**
+
+### Step 3 — Upload
+
+1. **Drag the entire `00_dataset` folder** from Finder into the open Google Drive browser window
+2. Wait for the upload — **30–60 minutes** depending on your internet
+3. Do not close the browser tab until it says upload complete
+
+Your Drive should look like:
+
+```
+categorization-images/
+└── 00_dataset/
+    ├── raw/
+    ├── translated/
+    └── hinglish/
+```
+
+### Step 4 — (Optional) Upload two extra folders
+
+Only if you want the Colab duplicate and dataset doc pins:
+
+1. In Drive, inside `categorization-images`, create folders:
+   - `06_explanations/colab_experiments/data/`
+   - `10_docs/meme_dataset_build/`
+2. From Finder, drag:
+   - `categorization/06_explanations/colab_experiments/data/test_images` → into `06_explanations/colab_experiments/data/` on Drive
+   - `categorization/10_docs/meme_dataset_build/images` → into `10_docs/meme_dataset_build/` on Drive
+
+Skip this if you want to keep it simple — `00_dataset` alone is enough.
+
+### Step 5 — Share the folder
+
+1. In Google Drive, go back to **`categorization-images`** (the top folder)
+2. Right-click → **Share**
+3. Under **General access**, click **Restricted** → change to **Anyone with the link**
+4. Role: **Viewer**
+5. Click **Copy link**
+6. Save the link somewhere — you'll paste it into the GitHub README
+
+---
+
+## Method B — Prepare a copy on Desktop first
+
+Use this if drag-and-drop from the project folder feels messy.
+
+```bash
+cd /Users/soureeshdalal/Desktop/categorization
+bash scripts/prepare_drive_upload.sh
+```
+
+This creates **`Desktop/categorization-images-to-upload/`** with the correct folder structure.
+
+Then:
+1. Open [drive.google.com](https://drive.google.com)
+2. Create folder **`categorization-images`**
+3. Drag **everything inside** `categorization-images-to-upload/` into it
+4. Share → Anyone with the link → Viewer → Copy link
+
+Delete `categorization-images-to-upload/` from Desktop after upload finishes (saves ~3 GB).
+
+---
+
+## After upload — paste the link on GitHub
+
+Send me the Drive link, or update these two files yourself:
+
+1. **`README.md`** — replace the placeholder in the "Dataset images" table
+2. **`docs/DATA_ON_GDRIVE.md`** — replace the placeholder in the table below
+
+Then push:
+
+```bash
+cd /Users/soureeshdalal/Desktop/categorization
+git add README.md docs/DATA_ON_GDRIVE.md
+git commit -m "Add Google Drive link for dataset images"
+git push
+```
 
 ---
 
 ## Google Drive link
 
-> **Replace this after you upload:**
-
-| Dataset | Link | Size (approx.) |
-|---------|------|----------------|
-| **All project images** | _[Add your Google Drive folder link here]_ | ~2.9 GB |
-
-Upload the folder `categorization-images/` (see structure below) and set sharing to **Anyone with the link → Viewer** (required for `gdown`).
+| Dataset | Link |
+|---------|------|
+| **All project images** | [Google Drive](https://drive.google.com/drive/folders/1XQgvJPdJCgnWx0Jt7F6IhAik_C5uorhb?usp=sharing) (~2.7 GB) |
 
 ---
 
-## What to upload to Google Drive
+## Verify upload (optional)
 
-Mirror this structure inside a Drive folder named **`categorization-images`**:
-
-```
-categorization-images/
-├── 00_dataset/
-│   ├── raw/
-│   │   ├── train/                    # 8,814 English training images (TR-*.jpg)
-│   │   ├── flat/
-│   │   │   ├── test/                 # 662 original test images
-│   │   │   └── validation/           # 361 validation images
-│   │   └── val_images_flat/          # 353 flat validation images
-│   ├── translated/
-│   │   ├── translated_train/         # 2,077 Devanagari training images
-│   │   └── translated_categorized_memes/  # 650 test images, 13 category folders
-│   └── hinglish/
-│       └── images/                   # 44 Hinglish Roman-script variants
-├── 06_explanations/
-│   └── colab_experiments/
-│       └── data/
-│           └── test_images/          # 650 flat test images (Colab bundle)
-└── 10_docs/
-    └── meme_dataset_build/
-        └── images/                   # Pinterest pin images for dataset doc
-```
-
-### Upload from your Mac
-
-```bash
-# Option A — drag-and-drop in browser
-# 1. Create folder "categorization-images" on Google Drive
-# 2. Upload these local folders preserving the structure above:
-cd /Users/soureeshdalal/Desktop/categorization
-
-# Core dataset (required)
-#   00_dataset/raw/train
-#   00_dataset/raw/flat
-#   00_dataset/raw/val_images_flat
-#   00_dataset/translated/translated_train
-#   00_dataset/translated/translated_categorized_memes
-#   00_dataset/hinglish/images
-
-# Optional (duplicates or supplementary)
-#   06_explanations/colab_experiments/data/test_images
-#   10_docs/meme_dataset_build/images
-```
-
-```bash
-# Option B — zip and upload (faster for many small files)
-cd /Users/soureeshdalal/Desktop/categorization
-zip -r ~/Desktop/categorization-images.zip \
-  00_dataset/raw/train \
-  00_dataset/raw/flat \
-  00_dataset/raw/val_images_flat \
-  00_dataset/translated/translated_train \
-  00_dataset/translated/translated_categorized_memes \
-  00_dataset/hinglish/images \
-  06_explanations/colab_experiments/data/test_images \
-  10_docs/meme_dataset_build/images
-# Upload categorization-images.zip to Drive, then unzip in Drive or after download
-```
+Open the Drive link in an incognito window and spot-check:
+- [ ] `00_dataset/translated/translated_categorized_memes/UNIVERSAL_HUMAN/test/` has `.jpg` files
+- [ ] `00_dataset/translated/translated_train/` has files
+- [ ] `00_dataset/raw/train/` has files
 
 ---
 
-## After uploading — update the repo
+## Download later (on another machine)
 
-1. Copy the **shared folder link** from Google Drive.
-2. Paste it in:
-   - This file (`docs/DATA_ON_GDRIVE.md`) — table above
-   - Root `README.md` — **Dataset images** section
-   - `scripts/download_images.sh` — `GDRIVE_FOLDER_ID` or `GDRIVE_URL`
-
----
-
-## Download images after cloning GitHub
-
-### Manual
-
-1. Open the Google Drive link.
-2. Download the `categorization-images` folder (or zip).
-3. Merge into the repo root so paths match, e.g.:
-   - Drive: `categorization-images/00_dataset/raw/train/` → repo: `00_dataset/raw/train/`
-
-### Script (after link is set)
+After cloning from GitHub:
 
 ```bash
-pip install gdown
-bash scripts/download_images.sh
-```
+git clone https://github.com/soureeshdalal/hindi-depression-meme-categorization.git
+cd hindi-depression-meme-categorization
 
-See `scripts/download_images.sh` for details.
-
----
-
-## Verification
-
-```bash
+# Manual: download categorization-images from Drive, merge 00_dataset/ into repo root
 python3 scripts/verify_images.py
 ```
-
-Prints file counts per folder and flags missing directories.
 
 ---
 
 ## What stays on GitHub (no Drive needed)
 
-| Included on GitHub | Examples |
-|--------------------|----------|
-| Labels & metadata | `train.json`, `test.json`, `val.json`, all CSVs |
-| Code & scripts | All `.py`, `.sh`, notebooks |
-| Documentation | `10_docs/`, thesis PDF, timeline |
-| Metrics & predictions | `07_metrics/`, prediction CSVs |
-| Analysis (non-image) | HTML/JSON reports in `08_analysis/` |
-| Pipeline outputs | `09_runs/` (CSVs, logs) |
+Labels (`train.json`, `test.json`), all code, thesis, CSVs, metrics, docs — already pushed.
 
----
-
-## `archive/` — not backed up
-
-The `archive/` folder (~4.4 GB) is **not** on GitHub or Drive. Delete it locally after upload — see [`LOCAL_CLEANUP.md`](LOCAL_CLEANUP.md).
+See [`LOCAL_CLEANUP.md`](LOCAL_CLEANUP.md) for deleting local files after upload is verified.

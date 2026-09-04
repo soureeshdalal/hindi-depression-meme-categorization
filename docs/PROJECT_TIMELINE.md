@@ -210,7 +210,7 @@ See [`archive/README.md`](../archive/README.md) for the full list. Summary:
 ## Next steps (for repository maintainers)
 
 - [x] Add thesis PDF to `10_docs/thesis/`
-- [ ] Upload images to Google Drive — [`DATA_ON_GDRIVE.md`](DATA_ON_GDRIVE.md)
-- [ ] Paste Drive link in `README.md`
+- [x] Upload images to Google Drive — [link](https://drive.google.com/drive/folders/1XQgvJPdJCgnWx0Jt7F6IhAik_C5uorhb?usp=sharing)
+- [x] Paste Drive link in `README.md`
 - [ ] Push to private GitHub — [`GITHUB_SETUP.md`](GITHUB_SETUP.md)
 - [ ] Complete remaining train translation (2,077 / 8,814 done)

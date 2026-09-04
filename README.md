@@ -12,13 +12,13 @@ Image files are **not** in this GitHub repo (~2.9 GB). Download them from Google
 
 | Dataset | Link |
 |---------|------|
-| **All project images** | _[Add your Google Drive folder link here after upload]_ |
+| **All project images** | [Google Drive](https://drive.google.com/drive/folders/1XQgvJPdJCgnWx0Jt7F6IhAik_C5uorhb?usp=sharing) |
 
 See [`docs/DATA_ON_GDRIVE.md`](docs/DATA_ON_GDRIVE.md) for upload/download instructions and folder structure.
 
 ```bash
 pip install gdown
-export GDRIVE_FOLDER_ID=your_folder_id
+export GDRIVE_FOLDER_ID=1XQgvJPdJCgnWx0Jt7F6IhAik_C5uorhb
 bash scripts/download_images.sh
 python3 scripts/verify_images.py   # confirm folders are populated
 ```
