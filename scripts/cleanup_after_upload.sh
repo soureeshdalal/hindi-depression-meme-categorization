@@ -72,7 +72,6 @@ if $DELETE_IMAGES; then
     "$REPO_ROOT/10_docs/meme_dataset_build/images"
   do
     delete_path "$path"
-    # Restore .gitkeep placeholder if not dry-run
     if ! $DRY_RUN && [[ "$path" == *"/00_dataset/"* || "$path" == *"/06_explanations/"* || "$path" == *"/10_docs/"* ]]; then
       mkdir -p "$path" && touch "$path/.gitkeep"
     fi
